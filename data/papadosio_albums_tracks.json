@@ -1,5 +1,198 @@
 [
     {
+        "album_name": "Soundstage | Baltimore, Maryland | 2.17.24",
+        "album_link": "https://papadosio.bandcamp.com/album/soundstage-baltimore-maryland-21724",
+        "tracks": [
+            {
+                "title": "By The Light Of The Stars",
+                "duration": "11:43",
+                "url": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-91"
+            },
+            {
+                "title": "The World Is A Cube",
+                "duration": "04:33",
+                "url": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-24"
+            },
+            {
+                "title": "Fate",
+                "duration": "06:53",
+                "url": "https://papadosio.bandcamp.com/track/fate-12"
+            },
+            {
+                "title": "Garden",
+                "duration": "08:20",
+                "url": "https://papadosio.bandcamp.com/track/garden-129"
+            },
+            {
+                "title": "Pool Of Stars",
+                "duration": "10:53",
+                "url": "https://papadosio.bandcamp.com/track/pool-of-stars-30"
+            },
+            {
+                "title": "Each And Every Wave",
+                "duration": "05:39",
+                "url": "https://papadosio.bandcamp.com/track/each-and-every-wave-33"
+            },
+            {
+                "title": "Puddles For Oceans",
+                "duration": "09:51",
+                "url": "https://papadosio.bandcamp.com/track/puddles-for-oceans-89"
+            },
+            {
+                "title": "Skipswitch",
+                "duration": "14:59",
+                "url": "https://papadosio.bandcamp.com/track/skipswitch-75"
+            },
+            {
+                "title": "The End Of The World",
+                "duration": "05:09",
+                "url": "https://papadosio.bandcamp.com/track/the-end-of-the-world-12"
+            },
+            {
+                "title": "Not Just A Word",
+                "duration": "10:25",
+                "url": "https://papadosio.bandcamp.com/track/not-just-a-word-32"
+            },
+            {
+                "title": "Paradigm Shift",
+                "duration": "10:30",
+                "url": "https://papadosio.bandcamp.com/track/paradigm-shift-131"
+            },
+            {
+                "title": "Unparalyzer",
+                "duration": "12:12",
+                "url": "https://papadosio.bandcamp.com/track/unparalyzer-138"
+            },
+            {
+                "title": "The Eyes Have Eyes",
+                "duration": "08:35",
+                "url": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-102"
+            }
+        ]
+    },
+    {
+        "album_name": "XL Live | Harrisburg, PA | 2.16.24",
+        "album_link": "https://papadosio.bandcamp.com/album/xl-live-harrisburg-pa-21624",
+        "tracks": [
+            {
+                "title": "The Lack Of Everything",
+                "duration": "07:30",
+                "url": "https://papadosio.bandcamp.com/track/the-lack-of-everything-59"
+            },
+            {
+                "title": "Shiitake",
+                "duration": "07:11",
+                "url": "https://papadosio.bandcamp.com/track/shiitake-39"
+            },
+            {
+                "title": "Boss Battle",
+                "duration": "06:23",
+                "url": "https://papadosio.bandcamp.com/track/boss-battle-15"
+            },
+            {
+                "title": "Cue",
+                "duration": "09:32",
+                "url": "https://papadosio.bandcamp.com/track/cue-165"
+            },
+            {
+                "title": "Everyone Is Cool",
+                "duration": "10:57",
+                "url": "https://papadosio.bandcamp.com/track/everyone-is-cool-18"
+            },
+            {
+                "title": "Distress Signal",
+                "duration": "10:25",
+                "url": "https://papadosio.bandcamp.com/track/distress-signal-35"
+            },
+            {
+                "title": "Cordyceps",
+                "duration": "13:26",
+                "url": "https://papadosio.bandcamp.com/track/cordyceps-26"
+            },
+            {
+                "title": "Night Colors",
+                "duration": "21:38",
+                "url": "https://papadosio.bandcamp.com/track/night-colors-117"
+            },
+            {
+                "title": "Dare You",
+                "duration": "08:52",
+                "url": "https://papadosio.bandcamp.com/track/dare-you-27"
+            },
+            {
+                "title": "Hippie Babysitter",
+                "duration": "14:42",
+                "url": "https://papadosio.bandcamp.com/track/hippie-babysitter-90"
+            },
+            {
+                "title": "Lion's Mane",
+                "duration": "06:47",
+                "url": "https://papadosio.bandcamp.com/track/lions-mane-41"
+            }
+        ]
+    },
+    {
+        "album_name": "Town Ballroom | Buffalo, NY | 2.15.24",
+        "album_link": "https://papadosio.bandcamp.com/album/town-ballroom-buffalo-ny-21524",
+        "tracks": [
+            {
+                "title": "2am",
+                "duration": "06:28",
+                "url": "https://papadosio.bandcamp.com/track/2am-72"
+            },
+            {
+                "title": "Monochrome",
+                "duration": "11:41",
+                "url": "https://papadosio.bandcamp.com/track/monochrome-94"
+            },
+            {
+                "title": "Zoom Out",
+                "duration": "11:18",
+                "url": "https://papadosio.bandcamp.com/track/zoom-out-24"
+            },
+            {
+                "title": "Threes",
+                "duration": "10:56",
+                "url": "https://papadosio.bandcamp.com/track/threes-86"
+            },
+            {
+                "title": "Xanadu",
+                "duration": "06:00",
+                "url": "https://papadosio.bandcamp.com/track/xanadu-15"
+            },
+            {
+                "title": "Method Of Control",
+                "duration": "07:29",
+                "url": "https://papadosio.bandcamp.com/track/method-of-control-130"
+            },
+            {
+                "title": "Madre de Dios",
+                "duration": "04:40",
+                "url": "https://papadosio.bandcamp.com/track/madre-de-dios-48"
+            },
+            {
+                "title": "Improbability Blotter",
+                "duration": "11:58",
+                "url": "https://papadosio.bandcamp.com/track/improbability-blotter-124"
+            },
+            {
+                "title": "Write Sing Play Mix",
+                "duration": "10:30",
+                "url": "https://papadosio.bandcamp.com/track/write-sing-play-mix-53"
+            },
+            {
+                "title": "You're A Catman",
+                "duration": "11:39",
+                "url": "https://papadosio.bandcamp.com/track/youre-a-catman-27"
+            },
+            {
+                "title": "Find Your Cloud",
+                "duration": "09:35",
+                "url": "https://papadosio.bandcamp.com/track/find-your-cloud-191"
+            }
+        ]
+    },
+    {
         "album_name": "Winter Werkout | The Bluestone | Columbus, OH | 2.10.24",
         "album_link": "https://papadosio.bandcamp.com/album/winter-werkout-the-bluestone-columbus-oh-21024",
         "tracks": [
