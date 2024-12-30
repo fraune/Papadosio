@@ -29,12 +29,20 @@ pip freeze > requirements.txt
 
 Bandcamp is a little weird about reliably loading pages the same way every time. So follow these steps to update data:
 
-### Acquisition of album data
+### Prep working directory
 
-1. [Manual] Open Chrome and navigate to https://papadosio.bandcamp.com/music
-2. [Manual] Scroll to the bottom, ensuring all content is loaded on a single page
-3. [Manual] File -> Save Page As... -> Webpage, Complete
-    - Pick/create an empty temporary working directory to save the files in
+Reset the `raw/` directory in this local repository:
+
+```
+python app/raw_reset.py
+```
+
+### Acquisition of album data [Manual]
+
+1. Open Chrome and navigate to https://papadosio.bandcamp.com/music
+2. Scroll to the bottom, ensuring all content is loaded on a single page
+3. File -> Save Page As... -> Webpage, Single File
+    - Save the file to the `raw/` directory in this local repository
 
 ### Acqisition of song data
 
