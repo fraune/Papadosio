@@ -3,93 +3,90 @@
     "name": "Mad Tea Party Jam 2014",
     "dateModified": "24 Jun 2014 14:50:36 GMT",
     "numTracks": 10,
-    "track": {
-        "numberOfItems": 10,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "We Are Water",
-                    "duration": "P00H10M01S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-40"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Curve>",
-                    "duration": "P00H16M22S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-17"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Hippie Babysitter>",
-                    "duration": "P00H11M06S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-12"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Curve",
-                    "duration": "P00H03M58S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-19"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Taking Turns",
-                    "duration": "P00H09M29S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-24"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "If it Wasn't For You",
-                    "duration": "P00H08M38S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-23"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Improv",
-                    "duration": "P00H08M52S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improv-2"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "You and Yourself",
-                    "duration": "P00H09M48S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-11"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Night Colors",
-                    "duration": "P00H12M14S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-19"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Unparalyzer",
-                    "duration": "P00H14M42S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-32"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H10M01S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-40"
             }
-        ],
-        "duration": "P01H45M10S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Curve>",
+                "duration": "P00H16M22S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-17"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Hippie Babysitter>",
+                "duration": "P00H11M06S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-12"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Curve",
+                "duration": "P00H03M58S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-19"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Taking Turns",
+                "duration": "P00H09M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-24"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "If it Wasn't For You",
+                "duration": "P00H08M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-23"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Improv",
+                "duration": "P00H08M52S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improv-2"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "You and Yourself",
+                "duration": "P00H09M48S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-11"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Night Colors",
+                "duration": "P00H12M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-19"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Unparalyzer",
+                "duration": "P00H14M42S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-32"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a2633701019_10.jpg",
     "datePublished": "24 Jun 2014 14:50:36 GMT",
-    "description": "Live at the Mad Tea Party Jam\r\nHedgesville, WV - 6.20.14"
+    "description": "Live at the Mad Tea Party Jam\r\nHedgesville, WV - 6.20.14",
+    "duration": "P01H45M10S"
 }

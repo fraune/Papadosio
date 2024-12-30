@@ -3,85 +3,82 @@
     "name": "10.12.17 | The Music Box | San Diego, CA",
     "dateModified": "18 Oct 2017 22:59:48 GMT",
     "numTracks": 9,
-    "track": {
-        "numberOfItems": 9,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "We Are Water",
-                    "duration": "P00H15M01S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-104"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "The Sum",
-                    "duration": "P00H07M13S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-56"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "How Not To Float",
-                    "duration": "P00H13M45S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-38"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Each and Every Wave",
-                    "duration": "P00H06M55S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-27"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Geoglyph",
-                    "duration": "P00H09M26S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-49"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Drift",
-                    "duration": "P00H06M32S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-25"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Snorkle",
-                    "duration": "P00H18M35S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-96"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Drift",
-                    "duration": "P00H05M53S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-26"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Find Your Cloud",
-                    "duration": "P00H18M04S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-104"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H15M01S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-104"
             }
-        ],
-        "duration": "P01H41M24S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "The Sum",
+                "duration": "P00H07M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-56"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "How Not To Float",
+                "duration": "P00H13M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-38"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Each and Every Wave",
+                "duration": "P00H06M55S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-27"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Geoglyph",
+                "duration": "P00H09M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-49"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Drift",
+                "duration": "P00H06M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-25"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H18M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-96"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Drift",
+                "duration": "P00H05M53S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-26"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H18M04S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-104"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a2766843162_10.jpg",
     "datePublished": "18 Oct 2017 22:59:48 GMT",
-    "description": "Recorded on October 12th, 2017 at The Music Box in San Diego, CA during the Shapeshiftour 2017"
+    "description": "Recorded on October 12th, 2017 at The Music Box in San Diego, CA during the Shapeshiftour 2017",
+    "duration": "P01H41M24S"
 }

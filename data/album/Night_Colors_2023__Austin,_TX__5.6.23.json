@@ -3,125 +3,122 @@
     "name": "Night Colors 2023 | Austin, TX | 5.6.23",
     "dateModified": "01 Jun 2023 17:13:58 GMT",
     "numTracks": 14,
-    "track": {
-        "numberOfItems": 14,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "New Love",
-                    "duration": "P00H10M13S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-166"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Versicolor",
-                    "duration": "P00H07M43S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-35"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Zoom Out",
-                    "duration": "P00H10M42S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/zoom-out-14"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Lion's Mane",
-                    "duration": "P00H06M32S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-31"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Agarikon",
-                    "duration": "P00H07M50S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/agarikon-17"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "How Not To Float",
-                    "duration": "P00H11M27S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-68"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Cue",
-                    "duration": "P00H08M17S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-156"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "You're A Catman",
-                    "duration": "P00H10M25S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-14"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Cubensis",
-                    "duration": "P00H13M15S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-36"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Find Your Cloud",
-                    "duration": "P00H14M26S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-180"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "Cordyceps",
-                    "duration": "P00H12M02S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cordyceps-20"
-                }
-            },
-            {
-                "position": 12,
-                "item": {
-                    "name": "Improbability Blotter",
-                    "duration": "P00H08M45S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-117"
-                }
-            },
-            {
-                "position": 13,
-                "item": {
-                    "name": "Snorkle",
-                    "duration": "P00H12M30S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-160"
-                }
-            },
-            {
-                "position": 14,
-                "item": {
-                    "name": "Night Colors",
-                    "duration": "P00H10M25S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-104"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H10M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-166"
             }
-        ],
-        "duration": "P02H24M32S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Versicolor",
+                "duration": "P00H07M43S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-35"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Zoom Out",
+                "duration": "P00H10M42S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/zoom-out-14"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Lion's Mane",
+                "duration": "P00H06M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-31"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Agarikon",
+                "duration": "P00H07M50S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/agarikon-17"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "How Not To Float",
+                "duration": "P00H11M27S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-68"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H08M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-156"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "You're A Catman",
+                "duration": "P00H10M25S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-14"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Cubensis",
+                "duration": "P00H13M15S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-36"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H14M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-180"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Cordyceps",
+                "duration": "P00H12M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cordyceps-20"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Improbability Blotter",
+                "duration": "P00H08M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-117"
+            }
+        },
+        {
+            "position": 13,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H12M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-160"
+            }
+        },
+        {
+            "position": 14,
+            "item": {
+                "name": "Night Colors",
+                "duration": "P00H10M25S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-104"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1003569796_10.jpg",
     "datePublished": "01 Jun 2023 17:13:58 GMT",
-    "description": "Thanks everyone for coming to the first ever Night Colors event! Thanks to The Concourse project for having us!"
+    "description": "Thanks everyone for coming to the first ever Night Colors event! Thanks to The Concourse project for having us!",
+    "duration": "P02H24M32S"
 }

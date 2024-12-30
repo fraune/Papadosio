@@ -3,117 +3,114 @@
     "name": "9.20.19 | Resonance Music & Arts Festival | Slippery Rock, PA",
     "dateModified": "11 Oct 2019 19:36:01 GMT",
     "numTracks": 13,
-    "track": {
-        "numberOfItems": 13,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Last Living Souls",
-                    "duration": "P00H04M44S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/last-living-souls"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Feel Good Inc.",
-                    "duration": "P00H04M09S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/feel-good-inc"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Superfast Jellyfish",
-                    "duration": "P00H03M27S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/superfast-jellyfish"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "19-2000",
-                    "duration": "P00H03M19S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/19-2000"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Dirty Harry",
-                    "duration": "P00H04M52S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dirty-harry"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Kids With Guns",
-                    "duration": "P00H04M06S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/kids-with-guns"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Stylo",
-                    "duration": "P00H05M07S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stylo"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Empire Ants",
-                    "duration": "P00H06M44S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/empire-ants"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "O Green World",
-                    "duration": "P00H04M19S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/o-green-world"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "DARE",
-                    "duration": "P00H04M03S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "Every Planet We Reach is Dead",
-                    "duration": "P00H06M19S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/every-planet-we-reach-is-dead"
-                }
-            },
-            {
-                "position": 12,
-                "item": {
-                    "name": "Demon Days",
-                    "duration": "P00H04M01S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/demon-days"
-                }
-            },
-            {
-                "position": 13,
-                "item": {
-                    "name": "Clint Eastwood",
-                    "duration": "P00H04M45S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/clint-eastwood"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Last Living Souls",
+                "duration": "P00H04M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/last-living-souls"
             }
-        ],
-        "duration": "P00H59M55S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Feel Good Inc.",
+                "duration": "P00H04M09S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/feel-good-inc"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Superfast Jellyfish",
+                "duration": "P00H03M27S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/superfast-jellyfish"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "19-2000",
+                "duration": "P00H03M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/19-2000"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Dirty Harry",
+                "duration": "P00H04M52S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dirty-harry"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Kids With Guns",
+                "duration": "P00H04M06S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/kids-with-guns"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Stylo",
+                "duration": "P00H05M07S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stylo"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Empire Ants",
+                "duration": "P00H06M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/empire-ants"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "O Green World",
+                "duration": "P00H04M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/o-green-world"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "DARE",
+                "duration": "P00H04M03S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Every Planet We Reach is Dead",
+                "duration": "P00H06M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/every-planet-we-reach-is-dead"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Demon Days",
+                "duration": "P00H04M01S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/demon-days"
+            }
+        },
+        {
+            "position": 13,
+            "item": {
+                "name": "Clint Eastwood",
+                "duration": "P00H04M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/clint-eastwood"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1189566945_10.jpg",
     "datePublished": "11 Oct 2019 19:36:01 GMT",
-    "description": "This album was recorded on September 20th, 2019 at Resonance Music & Arts Festival 2019. This whole album is a tribute to the one and only Gorillaz performed by Papadosio with Members of Natural Born Leaders & Third Nature."
+    "description": "This album was recorded on September 20th, 2019 at Resonance Music & Arts Festival 2019. This whole album is a tribute to the one and only Gorillaz performed by Papadosio with Members of Natural Born Leaders & Third Nature.",
+    "duration": "P00H59M55S"
 }

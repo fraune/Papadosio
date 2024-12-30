@@ -3,61 +3,58 @@
     "name": "6.15.17 | The Mad Tea Party Jam | Artemas, PA",
     "dateModified": "04 Jul 2017 13:13:16 GMT",
     "numTracks": 6,
-    "track": {
-        "numberOfItems": 6,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Intro",
-                    "duration": "P00H02M22S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-40"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Ritual",
-                    "duration": "P00H17M03S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-33"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Stick Figure",
-                    "duration": "P00H08M37S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-39"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "All I Knew",
-                    "duration": "P00H10M03S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-77"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Therian",
-                    "duration": "P00H08M28S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-25"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Euclidean Lights",
-                    "duration": "P00H10M04S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-26"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H02M22S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-40"
             }
-        ],
-        "duration": "P00H56M37S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Ritual",
+                "duration": "P00H17M03S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-33"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Stick Figure",
+                "duration": "P00H08M37S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-39"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "All I Knew",
+                "duration": "P00H10M03S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-77"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Therian",
+                "duration": "P00H08M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-25"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Euclidean Lights",
+                "duration": "P00H10M04S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-26"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a0786280727_10.jpg",
     "datePublished": "04 Jul 2017 00:00:00 GMT",
-    "description": "All material was written and recorded by Papadosio at the Mad Tea Party Jam 6, on June 15th 2017 in Artemas, PA"
+    "description": "All material was written and recorded by Papadosio at the Mad Tea Party Jam 6, on June 15th 2017 in Artemas, PA",
+    "duration": "P00H56M37S"
 }

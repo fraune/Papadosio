@@ -3,77 +3,74 @@
     "name": "9.16.21 | Resonance Festival | Masontown, WV",
     "dateModified": "23 Sep 2021 16:46:29 GMT",
     "numTracks": 8,
-    "track": {
-        "numberOfItems": 8,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Intro",
-                    "duration": "P00H05M08S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-91"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Hippie Babysitter",
-                    "duration": "P00H20M02S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-74"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Advocate of Change",
-                    "duration": "P00H16M25S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-97"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Lion's Mane",
-                    "duration": "P00H07M23S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-10"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Catalyst",
-                    "duration": "P00H10M00S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-22"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "New Love",
-                    "duration": "P00H10M25S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-149"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Cloud Found",
-                    "duration": "P00H08M54S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-107"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Snorkle",
-                    "duration": "P00H09M28S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-144"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H05M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-91"
             }
-        ],
-        "duration": "P01H27M45S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Hippie Babysitter",
+                "duration": "P00H20M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-74"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Advocate of Change",
+                "duration": "P00H16M25S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-97"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Lion's Mane",
+                "duration": "P00H07M23S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-10"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Catalyst",
+                "duration": "P00H10M00S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-22"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H10M25S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-149"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Cloud Found",
+                "duration": "P00H08M54S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-107"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H09M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-144"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a2839348319_10.jpg",
     "datePublished": "23 Sep 2021 16:46:30 GMT",
-    "description": "This album was recorded on September 16th, 2021 on the first day of Resonance Festival 2021 in Masontown, WV. Thanks to everybody who came out to celebrate with us. Shout out to Essential Productions for throwing this amazing event. See you next year!"
+    "description": "This album was recorded on September 16th, 2021 on the first day of Resonance Festival 2021 in Masontown, WV. Thanks to everybody who came out to celebrate with us. Shout out to Essential Productions for throwing this amazing event. See you next year!",
+    "duration": "P01H27M45S"
 }

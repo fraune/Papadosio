@@ -3,117 +3,114 @@
     "name": "11.9.18 | The Underground | Charlotte, NC",
     "dateModified": "04 Dec 2018 00:41:48 GMT",
     "numTracks": 13,
-    "track": {
-        "numberOfItems": 13,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "By The Light of The Stars",
-                    "duration": "P00H13M35S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-60"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Ear to Ear",
-                    "duration": "P00H08M19S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-33"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Obove",
-                    "duration": "P00H03M18S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-19"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "The Plug",
-                    "duration": "P00H19M32S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-52"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Distress Signal",
-                    "duration": "P00H08M54S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-15"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Just Like The Days",
-                    "duration": "P00H05M19S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/just-like-the-days-6"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Puddles for Oceans",
-                    "duration": "P00H08M32S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-57"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Snorkle",
-                    "duration": "P00H13M44S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-117"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Puddles For Oceans",
-                    "duration": "P00H04M08S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-56"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Skipswitch",
-                    "duration": "P00H05M57S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-13"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "Snorkle",
-                    "duration": "P00H01M41S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-116"
-                }
-            },
-            {
-                "position": 12,
-                "item": {
-                    "name": "Liminal Daybreak",
-                    "duration": "P00H05M21S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/liminal-daybreak-11"
-                }
-            },
-            {
-                "position": 13,
-                "item": {
-                    "name": "Night Colors",
-                    "duration": "P00H11M48S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-73"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "By The Light of The Stars",
+                "duration": "P00H13M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-60"
             }
-        ],
-        "duration": "P01H50M08S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Ear to Ear",
+                "duration": "P00H08M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-33"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Obove",
+                "duration": "P00H03M18S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-19"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "The Plug",
+                "duration": "P00H19M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-52"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Distress Signal",
+                "duration": "P00H08M54S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-15"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Just Like The Days",
+                "duration": "P00H05M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/just-like-the-days-6"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Puddles for Oceans",
+                "duration": "P00H08M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-57"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H13M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-117"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Puddles For Oceans",
+                "duration": "P00H04M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-56"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Skipswitch",
+                "duration": "P00H05M57S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-13"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H01M41S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-116"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Liminal Daybreak",
+                "duration": "P00H05M21S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/liminal-daybreak-11"
+            }
+        },
+        {
+            "position": 13,
+            "item": {
+                "name": "Night Colors",
+                "duration": "P00H11M48S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-73"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a3017139173_10.jpg",
     "datePublished": "04 Dec 2018 00:41:48 GMT",
-    "description": "This album was recorded at the Underground at the Fillmore in Charlotte, NC on November 9th, 2018 thanks to LITZ for coming out strong with the funk and getting the night started."
+    "description": "This album was recorded at the Underground at the Fillmore in Charlotte, NC on November 9th, 2018 thanks to LITZ for coming out strong with the funk and getting the night started.",
+    "duration": "P01H50M08S"
 }

@@ -3,101 +3,98 @@
     "name": "1.25.19 | Old Town Pub | Steamboat, CO",
     "dateModified": "13 Feb 2019 17:52:01 GMT",
     "numTracks": 11,
-    "track": {
-        "numberOfItems": 11,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "You and Yourself",
-                    "duration": "P00H18M59S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-57"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Distress Signal",
-                    "duration": "P00H08M35S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-19"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "All I Knew",
-                    "duration": "P00H06M59S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-93"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Content Coma",
-                    "duration": "P00H09M18S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/content-coma-15"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Fire Rite",
-                    "duration": "P00H06M16S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-18"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Euclidean Lights",
-                    "duration": "P00H12M41S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-46"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "New Love",
-                    "duration": "P00H10M16S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-133"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "The World is a Cube",
-                    "duration": "P00H04M11S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-13"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Paradigm Shift",
-                    "duration": "P00H13M42S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-86"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Mr. Turtles Cloud Kingdom",
-                    "duration": "P00H05M25S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-46"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "Vactrollio",
-                    "duration": "P00H08M35S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-57"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "You and Yourself",
+                "duration": "P00H18M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-57"
             }
-        ],
-        "duration": "P01H44M57S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Distress Signal",
+                "duration": "P00H08M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-19"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "All I Knew",
+                "duration": "P00H06M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-93"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Content Coma",
+                "duration": "P00H09M18S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/content-coma-15"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Fire Rite",
+                "duration": "P00H06M16S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-18"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Euclidean Lights",
+                "duration": "P00H12M41S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-46"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H10M16S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-133"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "The World is a Cube",
+                "duration": "P00H04M11S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-13"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Paradigm Shift",
+                "duration": "P00H13M42S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-86"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Mr. Turtles Cloud Kingdom",
+                "duration": "P00H05M25S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-46"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Vactrollio",
+                "duration": "P00H08M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-57"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1270247785_10.jpg",
     "datePublished": "13 Feb 2019 17:52:01 GMT",
-    "description": "This album was recorded on January 25th, 2019 at the Old Town Pub in Steamboat CO, on the first night of a two-night run! Thanks to everybody who came out to show support at the Old Town Pub! Colorado tour was a blast!"
+    "description": "This album was recorded on January 25th, 2019 at the Old Town Pub in Steamboat CO, on the first night of a two-night run! Thanks to everybody who came out to show support at the Old Town Pub! Colorado tour was a blast!",
+    "duration": "P01H44M57S"
 }

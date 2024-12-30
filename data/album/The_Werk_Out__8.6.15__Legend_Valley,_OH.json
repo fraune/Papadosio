@@ -3,69 +3,66 @@
     "name": "The Werk Out | 8.6.15 | Legend Valley, OH",
     "dateModified": "02 Aug 2018 22:14:46 GMT",
     "numTracks": 7,
-    "track": {
-        "numberOfItems": 7,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "The Plug",
-                    "duration": "P00H20M39S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-26"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Now That You Know",
-                    "duration": "P00H08M34S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-20"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Geoglyph",
-                    "duration": "P00H10M18S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-25"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Puddles for Oceans",
-                    "duration": "P00H17M11S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-31"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "The Sum",
-                    "duration": "P00H07M46S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-35"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Hippie Babysitter",
-                    "duration": "P00H15M57S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-23"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Mgrny",
-                    "duration": "P00H09M48S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mgrny"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "The Plug",
+                "duration": "P00H20M39S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-26"
             }
-        ],
-        "duration": "P01H30M13S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Now That You Know",
+                "duration": "P00H08M34S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-20"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Geoglyph",
+                "duration": "P00H10M18S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-25"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Puddles for Oceans",
+                "duration": "P00H17M11S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-31"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "The Sum",
+                "duration": "P00H07M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-35"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Hippie Babysitter",
+                "duration": "P00H15M57S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-23"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Mgrny",
+                "duration": "P00H09M48S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mgrny"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1483461078_10.jpg",
     "datePublished": "21 Aug 2015 00:00:00 GMT",
-    "description": "Live from The Werk Out Music & Arts Festival - August 6th, 2015 All music written, performed & recorded by Papadosio. © all rights reserved 2015."
+    "description": "Live from The Werk Out Music & Arts Festival - August 6th, 2015 All music written, performed & recorded by Papadosio. © all rights reserved 2015.",
+    "duration": "P01H30M13S"
 }

@@ -3,77 +3,74 @@
     "name": "Winter Werkout | The Bluestone | Columbus, OH | 2.9.24",
     "dateModified": "14 Feb 2024 15:28:51 GMT",
     "numTracks": 8,
-    "track": {
-        "numberOfItems": 8,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Intro",
-                    "duration": "P00H03M28S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-112"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Versicolor",
-                    "duration": "P00H07M01S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-46"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Curve",
-                    "duration": "P00H14M33S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-86"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Fly Agaric",
-                    "duration": "P00H13M32S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agaric-41"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Magreenery",
-                    "duration": "P00H16M38S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-89"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Cloud Found",
-                    "duration": "P00H08M55S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-122"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "You're A Catman",
-                    "duration": "P00H11M43S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-26"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Polygons",
-                    "duration": "P00H13M40S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-75"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H03M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-112"
             }
-        ],
-        "duration": "P01H29M30S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Versicolor",
+                "duration": "P00H07M01S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-46"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Curve",
+                "duration": "P00H14M33S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-86"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Fly Agaric",
+                "duration": "P00H13M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agaric-41"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Magreenery",
+                "duration": "P00H16M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-89"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Cloud Found",
+                "duration": "P00H08M55S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-122"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "You're A Catman",
+                "duration": "P00H11M43S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-26"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Polygons",
+                "duration": "P00H13M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-75"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a0403808367_10.jpg",
     "datePublished": "14 Feb 2024 15:28:51 GMT",
-    "description": "Thanks so much to The Werks for having us for Winter Werkout this year! Thanks to everyone who came out and help to make it such a bop. Night 1"
+    "description": "Thanks so much to The Werks for having us for Winter Werkout this year! Thanks to everyone who came out and help to make it such a bop. Night 1",
+    "duration": "P01H29M30S"
 }

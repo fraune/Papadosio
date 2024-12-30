@@ -3,93 +3,90 @@
     "name": "Pattern Integrities Tour - Vol. 4 - Burlington, VT",
     "dateModified": "12 Oct 2016 20:37:54 GMT",
     "numTracks": 10,
-    "track": {
-        "numberOfItems": 10,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Vactrollio",
-                    "duration": "P00H10M27S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-4"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Therian",
-                    "duration": "P00H08M07S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-20"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Improbability Blotter",
-                    "duration": "P00H18M09S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-54"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Omnifreeze",
-                    "duration": "P00H10M21S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-3"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "The Sum",
-                    "duration": "P00H07M53S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-48"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Frequence",
-                    "duration": "P00H21M19S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-25"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Each and Every Wave",
-                    "duration": "P00H07M40S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-3"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Fuller On Jam",
-                    "duration": "P00H07M01S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuller-on-jam"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Method of Control",
-                    "duration": "P00H08M00S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-61"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Night Colors",
-                    "duration": "P00H12M05S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-52"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Vactrollio",
+                "duration": "P00H10M27S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-4"
             }
-        ],
-        "duration": "P01H51M02S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Therian",
+                "duration": "P00H08M07S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-20"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Improbability Blotter",
+                "duration": "P00H18M09S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-54"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Omnifreeze",
+                "duration": "P00H10M21S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-3"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "The Sum",
+                "duration": "P00H07M53S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-48"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Frequence",
+                "duration": "P00H21M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-25"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Each and Every Wave",
+                "duration": "P00H07M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-3"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Fuller On Jam",
+                "duration": "P00H07M01S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuller-on-jam"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Method of Control",
+                "duration": "P00H08M00S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-61"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Night Colors",
+                "duration": "P00H12M05S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-52"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1066854500_10.jpg",
     "datePublished": "12 Oct 2016 20:37:54 GMT",
-    "description": null
+    "description": null,
+    "duration": "P01H51M02S"
 }

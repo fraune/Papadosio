@@ -3,117 +3,114 @@
     "name": "Georgia Theatre | 10.22.15 | Athens, GA",
     "dateModified": "11 Nov 2015 00:51:21 GMT",
     "numTracks": 13,
-    "track": {
-        "numberOfItems": 13,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Intro",
-                    "duration": "P00H00M27S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-14"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "2AM",
-                    "duration": "P00H06M40S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-11"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Ritual",
-                    "duration": "P00H10M59S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-7"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Fuse",
-                    "duration": "P00H08M46S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-39"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Direction Song",
-                    "duration": "P00H15M44S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-35"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Out of Hiding",
-                    "duration": "P00H11M29S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-8"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Improbability Blotter",
-                    "duration": "P00H13M18S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-41"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Cloud Found",
-                    "duration": "P00H09M21S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-57"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Curve Jam",
-                    "duration": "P00H13M35S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-jam"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Paradigm Shift",
-                    "duration": "P00H20M51S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-42"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "Psipoly",
-                    "duration": "P00H05M29S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/psipoly"
-                }
-            },
-            {
-                "position": 12,
-                "item": {
-                    "name": "Epiphany",
-                    "duration": "P00H08M30S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-14"
-                }
-            },
-            {
-                "position": 13,
-                "item": {
-                    "name": "Polygons",
-                    "duration": "P00H19M51S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-35"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H00M27S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-14"
             }
-        ],
-        "duration": "P02H25M00S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "2AM",
+                "duration": "P00H06M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-11"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Ritual",
+                "duration": "P00H10M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-7"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Fuse",
+                "duration": "P00H08M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-39"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Direction Song",
+                "duration": "P00H15M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-35"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Out of Hiding",
+                "duration": "P00H11M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-8"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Improbability Blotter",
+                "duration": "P00H13M18S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-41"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Cloud Found",
+                "duration": "P00H09M21S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-57"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Curve Jam",
+                "duration": "P00H13M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-jam"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Paradigm Shift",
+                "duration": "P00H20M51S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-42"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Psipoly",
+                "duration": "P00H05M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/psipoly"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Epiphany",
+                "duration": "P00H08M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-14"
+            }
+        },
+        {
+            "position": 13,
+            "item": {
+                "name": "Polygons",
+                "duration": "P00H19M51S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-35"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a2888930029_10.jpg",
     "datePublished": "11 Nov 2015 00:51:21 GMT",
-    "description": "Georgia Theatre | 10.22.15 | Athens, GA\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015."
+    "description": "Georgia Theatre | 10.22.15 | Athens, GA\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015.",
+    "duration": "P02H25M00S"
 }

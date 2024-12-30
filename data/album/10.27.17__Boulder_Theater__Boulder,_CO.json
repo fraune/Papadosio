@@ -3,117 +3,114 @@
     "name": "10.27.17 | Boulder Theater | Boulder, CO",
     "dateModified": "22 Oct 2018 17:23:21 GMT",
     "numTracks": 13,
-    "track": {
-        "numberOfItems": 13,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Da Funk - (Daft Punk)",
-                    "duration": "P00H07M22S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/da-funk-daft-punk"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Geoglyph",
-                    "duration": "P00H09M23S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-51"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Zombie Dnb",
-                    "duration": "P00H09M44S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/zombie-dnb"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Omnifreeze",
-                    "duration": "P00H12M35S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-27"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Advocate of Change",
-                    "duration": "P00H07M12S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-65"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Into the Void - (Nine Inch Nails)",
-                    "duration": "P00H08M11S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/into-the-void-nine-inch-nails"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Therian",
-                    "duration": "P00H08M16S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-30"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Euclidean Lights",
-                    "duration": "P00H08M17S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-29"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Eye - (Smashing Pumpkins)",
-                    "duration": "P00H04M45S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/eye-smashing-pumpkins"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Enigma Improv",
-                    "duration": "P00H08M19S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/enigma-improv"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "Closer - (Nine Inch Nails)",
-                    "duration": "P00H06M38S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/closer-nine-inch-nails"
-                }
-            },
-            {
-                "position": 12,
-                "item": {
-                    "name": "How Not to Float",
-                    "duration": "P00H16M04S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-39"
-                }
-            },
-            {
-                "position": 13,
-                "item": {
-                    "name": "Vactrollio",
-                    "duration": "P00H09M02S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-37"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Da Funk - (Daft Punk)",
+                "duration": "P00H07M22S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/da-funk-daft-punk"
             }
-        ],
-        "duration": "P01H55M48S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Geoglyph",
+                "duration": "P00H09M23S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-51"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Zombie Dnb",
+                "duration": "P00H09M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/zombie-dnb"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Omnifreeze",
+                "duration": "P00H12M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-27"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Advocate of Change",
+                "duration": "P00H07M12S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-65"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Into the Void - (Nine Inch Nails)",
+                "duration": "P00H08M11S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/into-the-void-nine-inch-nails"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Therian",
+                "duration": "P00H08M16S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-30"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Euclidean Lights",
+                "duration": "P00H08M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-29"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Eye - (Smashing Pumpkins)",
+                "duration": "P00H04M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/eye-smashing-pumpkins"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Enigma Improv",
+                "duration": "P00H08M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/enigma-improv"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Closer - (Nine Inch Nails)",
+                "duration": "P00H06M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/closer-nine-inch-nails"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "How Not to Float",
+                "duration": "P00H16M04S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-39"
+            }
+        },
+        {
+            "position": 13,
+            "item": {
+                "name": "Vactrollio",
+                "duration": "P00H09M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-37"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a3118782678_10.jpg",
     "datePublished": "06 Nov 2017 00:00:00 GMT",
-    "description": "Recorded on October 27th, 2017 at The Boulder Theater in Boulder, CO during the RAVE FROM THE GRAVE 2017."
+    "description": "Recorded on October 27th, 2017 at The Boulder Theater in Boulder, CO during the RAVE FROM THE GRAVE 2017.",
+    "duration": "P01H55M48S"
 }

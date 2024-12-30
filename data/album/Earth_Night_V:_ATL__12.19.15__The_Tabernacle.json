@@ -3,101 +3,98 @@
     "name": "Earth Night V: ATL | 12.19.15 | The Tabernacle",
     "dateModified": "27 Dec 2015 20:07:53 GMT",
     "numTracks": 11,
-    "track": {
-        "numberOfItems": 11,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Glimpse of Light*",
-                    "duration": "P00H07M30S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-20"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "We Can Always Come Back>",
-                    "duration": "P00H14M09S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-11"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Monochrome",
-                    "duration": "P00H08M53S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-35"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Advocate of Change",
-                    "duration": "P00H11M20S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-45"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Cue>",
-                    "duration": "P00H16M14S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-69"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Out of Hiding",
-                    "duration": "P00H06M35S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-13"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Planting the Seeds of Life",
-                    "duration": "P00H07M08S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/planting-the-seeds-of-life-14"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "2AM",
-                    "duration": "P00H06M02S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-19"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Therian>",
-                    "duration": "P00H08M09S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-12"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Snorkle (w/ Dan Cox)",
-                    "duration": "P00H17M35S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-w-dan-cox"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "Gazing the Great Oscillator",
-                    "duration": "P00H11M39S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/gazing-the-great-oscillator-9"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Glimpse of Light*",
+                "duration": "P00H07M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-20"
             }
-        ],
-        "duration": "P01H55M14S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "We Can Always Come Back>",
+                "duration": "P00H14M09S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-11"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Monochrome",
+                "duration": "P00H08M53S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-35"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Advocate of Change",
+                "duration": "P00H11M20S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-45"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Cue>",
+                "duration": "P00H16M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-69"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Out of Hiding",
+                "duration": "P00H06M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-13"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Planting the Seeds of Life",
+                "duration": "P00H07M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/planting-the-seeds-of-life-14"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "2AM",
+                "duration": "P00H06M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-19"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Therian>",
+                "duration": "P00H08M09S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-12"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Snorkle (w/ Dan Cox)",
+                "duration": "P00H17M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-w-dan-cox"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Gazing the Great Oscillator",
+                "duration": "P00H11M39S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/gazing-the-great-oscillator-9"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a3403116855_10.jpg",
     "datePublished": "26 Dec 2015 00:00:00 GMT",
-    "description": "Earth Night V: ATL | 12.19.15 | The Tabernacle\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015.\r\n\r\nPapadosio and Earth Night made their Atlanta debut at the legendary Tabernacle with special guests Thundercat and Tauk.\r\nArtwork by Jason Takahashi and Sarah Tracy.\r\n*Poem by John Trudell - Activist, Poet, Musician (February 15, 1946 – December 8, 2015)\r\nLearn more at Earth-Night.com"
+    "description": "Earth Night V: ATL | 12.19.15 | The Tabernacle\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015.\r\n\r\nPapadosio and Earth Night made their Atlanta debut at the legendary Tabernacle with special guests Thundercat and Tauk.\r\nArtwork by Jason Takahashi and Sarah Tracy.\r\n*Poem by John Trudell - Activist, Poet, Musician (February 15, 1946 – December 8, 2015)\r\nLearn more at Earth-Night.com",
+    "duration": "P01H55M14S"
 }

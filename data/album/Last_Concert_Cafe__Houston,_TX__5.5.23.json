@@ -3,109 +3,106 @@
     "name": "Last Concert Cafe | Houston, TX | 5.5.23",
     "dateModified": "24 May 2023 04:16:40 GMT",
     "numTracks": 12,
-    "track": {
-        "numberOfItems": 12,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Shiitake",
-                    "duration": "P00H09M09S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-31"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Threes",
-                    "duration": "P00H12M18S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-79"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Fly Agaric",
-                    "duration": "P00H12M12S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agaric-31"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Puddles For Oceans",
-                    "duration": "P00H11M02S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-83"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Not Just A Word",
-                    "duration": "P00H06M24S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-17"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Spinning",
-                    "duration": "P00H03M58S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/spinning-4"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Dare You",
-                    "duration": "P00H07M06S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-11"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Mr. Turtle's Cloud Kingdom",
-                    "duration": "P00H05M24S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-70"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Epiphany",
-                    "duration": "P00H08M45S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-61"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Unparalyzer",
-                    "duration": "P00H13M48S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-126"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "The Eyes Have Eyes",
-                    "duration": "P00H12M47S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-95"
-                }
-            },
-            {
-                "position": 12,
-                "item": {
-                    "name": "Advocate Of Change",
-                    "duration": "P00H08M02S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-111"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Shiitake",
+                "duration": "P00H09M09S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-31"
             }
-        ],
-        "duration": "P01H50M55S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Threes",
+                "duration": "P00H12M18S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-79"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Fly Agaric",
+                "duration": "P00H12M12S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agaric-31"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Puddles For Oceans",
+                "duration": "P00H11M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-83"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Not Just A Word",
+                "duration": "P00H06M24S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-17"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Spinning",
+                "duration": "P00H03M58S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/spinning-4"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Dare You",
+                "duration": "P00H07M06S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-11"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Mr. Turtle's Cloud Kingdom",
+                "duration": "P00H05M24S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-70"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Epiphany",
+                "duration": "P00H08M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-61"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Unparalyzer",
+                "duration": "P00H13M48S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-126"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "The Eyes Have Eyes",
+                "duration": "P00H12M47S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-95"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Advocate Of Change",
+                "duration": "P00H08M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-111"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1789400626_10.jpg",
     "datePublished": "20 May 2023 00:00:00 GMT",
-    "description": null
+    "description": null,
+    "duration": "P01H50M55S"
 }

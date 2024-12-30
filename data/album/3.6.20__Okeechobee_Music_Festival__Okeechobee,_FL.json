@@ -3,85 +3,82 @@
     "name": "3.6.20 | Okeechobee Music Festival | Okeechobee, FL",
     "dateModified": "10 Mar 2020 23:19:06 GMT",
     "numTracks": 9,
-    "track": {
-        "numberOfItems": 9,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Skipswitch",
-                    "duration": "P00H08M37S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-44"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Write Sing Play Mix",
-                    "duration": "P00H09M42S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-35"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Skipswitch",
-                    "duration": "P00H02M24S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-45"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Monochrome",
-                    "duration": "P00H11M43S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-76"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Find Your Cloud",
-                    "duration": "P00H17M05S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-149"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "The Eyes Have Eyes",
-                    "duration": "P00H08M35S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-78"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Vactrollio",
-                    "duration": "P00H11M04S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-72"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Microswung",
-                    "duration": "P00H07M21S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/microswung"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Catalyst",
-                    "duration": "P00H09M36S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-18"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Skipswitch",
+                "duration": "P00H08M37S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-44"
             }
-        ],
-        "duration": "P01H26M07S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Write Sing Play Mix",
+                "duration": "P00H09M42S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-35"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Skipswitch",
+                "duration": "P00H02M24S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-45"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Monochrome",
+                "duration": "P00H11M43S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-76"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H17M05S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-149"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "The Eyes Have Eyes",
+                "duration": "P00H08M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-78"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Vactrollio",
+                "duration": "P00H11M04S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-72"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Microswung",
+                "duration": "P00H07M21S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/microswung"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Catalyst",
+                "duration": "P00H09M36S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-18"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a0151432022_10.jpg",
     "datePublished": "10 Mar 2020 23:19:06 GMT",
-    "description": "This set was recorded on March 6th, 2020 at Okeechobee Music & Arts Festival in Okeechobee, FL! thanks to all of the fans that came out."
+    "description": "This set was recorded on March 6th, 2020 at Okeechobee Music & Arts Festival in Okeechobee, FL! thanks to all of the fans that came out.",
+    "duration": "P01H26M07S"
 }

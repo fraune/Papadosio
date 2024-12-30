@@ -3,93 +3,90 @@
     "name": "10.26.17 | The Belly Up | Aspen, CO",
     "dateModified": "03 Nov 2017 19:40:37 GMT",
     "numTracks": 10,
-    "track": {
-        "numberOfItems": 10,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "We Can Always Come Back",
-                    "duration": "P00H12M19S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-27"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Garden",
-                    "duration": "P00H08M35S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-81"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Cue",
-                    "duration": "P00H11M45S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-100"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Fuse",
-                    "duration": "P00H08M33S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-50"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "You and Yourself",
-                    "duration": "P00H16M22S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-48"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Bypass Default",
-                    "duration": "P00H07M46S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-31"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Anima Mundi",
-                    "duration": "P00H09M16S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-36"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Snorkle",
-                    "duration": "P00H19M13S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-97"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Hippie Babysitter",
-                    "duration": "P00H14M15S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-52"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Holy Heck",
-                    "duration": "P00H09M32S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-37"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "We Can Always Come Back",
+                "duration": "P00H12M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-27"
             }
-        ],
-        "duration": "P01H57M36S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Garden",
+                "duration": "P00H08M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-81"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H11M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-100"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Fuse",
+                "duration": "P00H08M33S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-50"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "You and Yourself",
+                "duration": "P00H16M22S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-48"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Bypass Default",
+                "duration": "P00H07M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-31"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Anima Mundi",
+                "duration": "P00H09M16S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-36"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H19M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-97"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Hippie Babysitter",
+                "duration": "P00H14M15S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-52"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Holy Heck",
+                "duration": "P00H09M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-37"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1974945693_10.jpg",
     "datePublished": "03 Nov 2017 19:40:37 GMT",
-    "description": "Recorded on October 26th, 2017 at The Belly Up, in Aspen, CO during the Rocky Mountain Run 2017"
+    "description": "Recorded on October 26th, 2017 at The Belly Up, in Aspen, CO during the Rocky Mountain Run 2017",
+    "duration": "P01H57M36S"
 }

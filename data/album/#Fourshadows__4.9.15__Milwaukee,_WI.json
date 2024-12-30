@@ -3,93 +3,90 @@
     "name": "#Fourshadows | 4.9.15 | Milwaukee, WI",
     "dateModified": "30 Apr 2015 18:35:09 GMT",
     "numTracks": 10,
-    "track": {
-        "numberOfItems": 10,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Cushion",
-                    "duration": "P00H07M42S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-35"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Garden",
-                    "duration": "P00H09M25S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-42"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Taking Turns",
-                    "duration": "P00H08M58S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-39"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "The Plug",
-                    "duration": "P00H19M35S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-23"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Snorkle",
-                    "duration": "P00H18M46S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-45"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "We Choose",
-                    "duration": "P00H06M34S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-25"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "The Sum",
-                    "duration": "P00H07M17S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-31"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Frequence",
-                    "duration": "P00H15M46S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-14"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Holy Heck",
-                    "duration": "P00H10M23S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-20"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Improbability Blotter",
-                    "duration": "P00H08M54S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-34"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Cushion",
+                "duration": "P00H07M42S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-35"
             }
-        ],
-        "duration": "P01H53M20S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Garden",
+                "duration": "P00H09M25S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-42"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Taking Turns",
+                "duration": "P00H08M58S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-39"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "The Plug",
+                "duration": "P00H19M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-23"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H18M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-45"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "We Choose",
+                "duration": "P00H06M34S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-25"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "The Sum",
+                "duration": "P00H07M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-31"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Frequence",
+                "duration": "P00H15M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-14"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Holy Heck",
+                "duration": "P00H10M23S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-20"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Improbability Blotter",
+                "duration": "P00H08M54S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-34"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1004790564_10.jpg",
     "datePublished": "22 Apr 2015 00:00:00 GMT",
-    "description": "Live From the Turner Ballroom on the #Fourshadows Tour on April 9th 2015."
+    "description": "Live From the Turner Ballroom on the #Fourshadows Tour on April 9th 2015.",
+    "duration": "P01H53M20S"
 }

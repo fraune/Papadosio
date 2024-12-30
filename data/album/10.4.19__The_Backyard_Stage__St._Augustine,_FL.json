@@ -3,93 +3,90 @@
     "name": "10.4.19 | The Backyard Stage | St. Augustine, FL",
     "dateModified": "21 Oct 2019 19:26:52 GMT",
     "numTracks": 10,
-    "track": {
-        "numberOfItems": 10,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Write Sing Play Mix",
-                    "duration": "P00H10M13S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-29"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Catalyst",
-                    "duration": "P00H10M00S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-5"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "The Sum",
-                    "duration": "P00H07M08S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-70"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Mr. Turtles Cloud Kingdom",
-                    "duration": "P00H05M16S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-52"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Stick Figure",
-                    "duration": "P00H08M34S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-54"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Fuse",
-                    "duration": "P00H12M23S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-61"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Madre de Dios",
-                    "duration": "P00H09M22S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-38"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Improbability Blotter",
-                    "duration": "P00H13M29S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-86"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Fire Rite",
-                    "duration": "P00H07M47S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-31"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Unparalyzer",
-                    "duration": "P00H24M15S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-97"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Write Sing Play Mix",
+                "duration": "P00H10M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-29"
             }
-        ],
-        "duration": "P01H48M27S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Catalyst",
+                "duration": "P00H10M00S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-5"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "The Sum",
+                "duration": "P00H07M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-70"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Mr. Turtles Cloud Kingdom",
+                "duration": "P00H05M16S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-52"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Stick Figure",
+                "duration": "P00H08M34S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-54"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Fuse",
+                "duration": "P00H12M23S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-61"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Madre de Dios",
+                "duration": "P00H09M22S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-38"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Improbability Blotter",
+                "duration": "P00H13M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-86"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Fire Rite",
+                "duration": "P00H07M47S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-31"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Unparalyzer",
+                "duration": "P00H24M15S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-97"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a3603804914_10.jpg",
     "datePublished": "21 Oct 2019 19:26:52 GMT",
-    "description": "This album was recorded on October 4th, 2019 in St Augustine, FL at the Backyard Amphitheater stage. Thanks to everybody who came out and thank you to Spore and Guavatron for getting the night started for us."
+    "description": "This album was recorded on October 4th, 2019 in St Augustine, FL at the Backyard Amphitheater stage. Thanks to everybody who came out and thank you to Spore and Guavatron for getting the night started for us.",
+    "duration": "P01H48M27S"
 }

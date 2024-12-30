@@ -3,173 +3,170 @@
     "name": "T.E.T.I.O.S. Live | Cleveland, OH | 11.25.22 - 11.26.22",
     "dateModified": "14 Dec 2022 18:50:05 GMT",
     "numTracks": 20,
-    "track": {
-        "numberOfItems": 20,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Direction Song",
-                    "duration": "P00H21M21S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-69"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "We Are Water",
-                    "duration": "P00H20M08S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-159"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "The Sum",
-                    "duration": "P00H07M06S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-82"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Ear To Ear",
-                    "duration": "P00H11M03S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-48"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "The Bionic Man Meets His Past",
-                    "duration": "P00H19M14S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-145"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Method Of Control",
-                    "duration": "P00H26M12S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-119"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Madre de Dios",
-                    "duration": "P00H15M42S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-43"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Puddles For Oceans",
-                    "duration": "P00H10M57S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-78"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Monochrome",
-                    "duration": "P00H21M57S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-86"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "And This Is What He Thought...",
-                    "duration": "P00H05M07S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-39"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "Cue",
-                    "duration": "P00H13M08S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-149"
-                }
-            },
-            {
-                "position": 12,
-                "item": {
-                    "name": "Now That You Know",
-                    "duration": "P00H18M02S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-47"
-                }
-            },
-            {
-                "position": 13,
-                "item": {
-                    "name": "Right Now",
-                    "duration": "P00H08M10S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-38"
-                }
-            },
-            {
-                "position": 14,
-                "item": {
-                    "name": "Stick Figure",
-                    "duration": "P00H24M20S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-63"
-                }
-            },
-            {
-                "position": 15,
-                "item": {
-                    "name": "Oracle Theme",
-                    "duration": "P00H18M57S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-44"
-                }
-            },
-            {
-                "position": 16,
-                "item": {
-                    "name": "Find Your Cloud",
-                    "duration": "P00H20M25S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-174"
-                }
-            },
-            {
-                "position": 17,
-                "item": {
-                    "name": "T.V. Song",
-                    "duration": "P00H04M54S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/t-v-song"
-                }
-            },
-            {
-                "position": 18,
-                "item": {
-                    "name": "Garden",
-                    "duration": "P00H17M02S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-119"
-                }
-            },
-            {
-                "position": 19,
-                "item": {
-                    "name": "Planting The Seeds Of Life",
-                    "duration": "P00H12M05S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/planting-the-seeds-of-life-18"
-                }
-            },
-            {
-                "position": 20,
-                "item": {
-                    "name": "The Domes",
-                    "duration": "P00H09M47S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-domes"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Direction Song",
+                "duration": "P00H21M21S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-69"
             }
-        ],
-        "duration": "P05H05M37S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H20M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-159"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "The Sum",
+                "duration": "P00H07M06S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-82"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Ear To Ear",
+                "duration": "P00H11M03S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-48"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H19M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-145"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Method Of Control",
+                "duration": "P00H26M12S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-119"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Madre de Dios",
+                "duration": "P00H15M42S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-43"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Puddles For Oceans",
+                "duration": "P00H10M57S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-78"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Monochrome",
+                "duration": "P00H21M57S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-86"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "And This Is What He Thought...",
+                "duration": "P00H05M07S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-39"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H13M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-149"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Now That You Know",
+                "duration": "P00H18M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-47"
+            }
+        },
+        {
+            "position": 13,
+            "item": {
+                "name": "Right Now",
+                "duration": "P00H08M10S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-38"
+            }
+        },
+        {
+            "position": 14,
+            "item": {
+                "name": "Stick Figure",
+                "duration": "P00H24M20S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-63"
+            }
+        },
+        {
+            "position": 15,
+            "item": {
+                "name": "Oracle Theme",
+                "duration": "P00H18M57S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-44"
+            }
+        },
+        {
+            "position": 16,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H20M25S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-174"
+            }
+        },
+        {
+            "position": 17,
+            "item": {
+                "name": "T.V. Song",
+                "duration": "P00H04M54S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/t-v-song"
+            }
+        },
+        {
+            "position": 18,
+            "item": {
+                "name": "Garden",
+                "duration": "P00H17M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-119"
+            }
+        },
+        {
+            "position": 19,
+            "item": {
+                "name": "Planting The Seeds Of Life",
+                "duration": "P00H12M05S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/planting-the-seeds-of-life-18"
+            }
+        },
+        {
+            "position": 20,
+            "item": {
+                "name": "The Domes",
+                "duration": "P00H09M47S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-domes"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a4228257696_10.jpg",
     "datePublished": "14 Dec 2022 18:50:05 GMT",
-    "description": "Beyond grateful to have been able to perform this album in it's entirety for the very first time in Cleveland to celebrate it's 10th year! Thank you to everyone who came to the shows and also to all of the fans, friends, and family who have believed in and supported us for all these years.\r\n This recording includes the first ever performance of \"The Domes\", a song which was recorded and set to go on the original release of TETIOS, but did not make the cut. It was, however, included on the vinyl release in 2022."
+    "description": "Beyond grateful to have been able to perform this album in it's entirety for the very first time in Cleveland to celebrate it's 10th year! Thank you to everyone who came to the shows and also to all of the fans, friends, and family who have believed in and supported us for all these years.\r\n This recording includes the first ever performance of \"The Domes\", a song which was recorded and set to go on the original release of TETIOS, but did not make the cut. It was, however, included on the vinyl release in 2022.",
+    "duration": "P05H05M37S"
 }

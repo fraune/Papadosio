@@ -3,77 +3,74 @@
     "name": "4.21.17 | Wanee Festival | Live Oak, FL",
     "dateModified": "10 May 2017 15:57:40 GMT",
     "numTracks": 8,
-    "track": {
-        "numberOfItems": 8,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "...And This is What he Thought",
-                    "duration": "P00H02M04S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-28"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Cue",
-                    "duration": "P00H10M43S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-92"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "The Plug",
-                    "duration": "P00H15M51S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-37"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Drift",
-                    "duration": "P00H06M19S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-20"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Vactrollio",
-                    "duration": "P00H08M20S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-26"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Find Your Cloud",
-                    "duration": "P00H15M13S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-99"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Advocate of Change",
-                    "duration": "P00H07M56S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-60"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Threes",
-                    "duration": "P00H11M15S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-26"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "...And This is What he Thought",
+                "duration": "P00H02M04S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-28"
             }
-        ],
-        "duration": "P01H17M41S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H10M43S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-92"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "The Plug",
+                "duration": "P00H15M51S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-37"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Drift",
+                "duration": "P00H06M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-20"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Vactrollio",
+                "duration": "P00H08M20S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-26"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H15M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-99"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Advocate of Change",
+                "duration": "P00H07M56S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-60"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Threes",
+                "duration": "P00H11M15S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-26"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1602732513_10.jpg",
     "datePublished": "10 May 2017 15:57:40 GMT",
-    "description": null
+    "description": null,
+    "duration": "P01H17M41S"
 }

@@ -3,117 +3,114 @@
     "name": "8.23.19 | Jannus Live | St. Petersburg, FL",
     "dateModified": "04 Sep 2019 22:00:11 GMT",
     "numTracks": 13,
-    "track": {
-        "numberOfItems": 13,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Intro",
-                    "duration": "P00H02M43S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-69"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "The Bionic Man Meets His Past",
-                    "duration": "P00H10M13S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-119"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "The Lack of Everything",
-                    "duration": "P00H04M32S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-41"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "The Bionic Man Meets His Past",
-                    "duration": "P00H03M09S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-118"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Monochrome",
-                    "duration": "P00H15M38S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-72"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Garden",
-                    "duration": "P00H08M50S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-102"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Pool of Stars",
-                    "duration": "P00H08M30S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-23"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "How Not to Float",
-                    "duration": "P00H12M47S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-54"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Cue",
-                    "duration": "P00H08M29S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-125"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Polygons",
-                    "duration": "P00H07M49S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-56"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "Distress Signal",
-                    "duration": "P00H08M01S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-27"
-                }
-            },
-            {
-                "position": 12,
-                "item": {
-                    "name": "Polygons",
-                    "duration": "P00H12M55S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-55"
-                }
-            },
-            {
-                "position": 13,
-                "item": {
-                    "name": "The Eyes Have Eyes",
-                    "duration": "P00H08M29S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-73"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H02M43S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-69"
             }
-        ],
-        "duration": "P01H52M05S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H10M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-119"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "The Lack of Everything",
+                "duration": "P00H04M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-41"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H03M09S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-118"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Monochrome",
+                "duration": "P00H15M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-72"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Garden",
+                "duration": "P00H08M50S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-102"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Pool of Stars",
+                "duration": "P00H08M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-23"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "How Not to Float",
+                "duration": "P00H12M47S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-54"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H08M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-125"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Polygons",
+                "duration": "P00H07M49S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-56"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Distress Signal",
+                "duration": "P00H08M01S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-27"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Polygons",
+                "duration": "P00H12M55S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-55"
+            }
+        },
+        {
+            "position": 13,
+            "item": {
+                "name": "The Eyes Have Eyes",
+                "duration": "P00H08M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-73"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1064675449_10.jpg",
     "datePublished": "04 Sep 2019 22:00:11 GMT",
-    "description": "This album was recorded at on August 23rd at Jannus Live in St Petersburg, FL! Thanks to everybody who came to pack the place out and thanks to Mystic Grizzly for opening the night up. See you all again soon!!"
+    "description": "This album was recorded at on August 23rd at Jannus Live in St Petersburg, FL! Thanks to everybody who came to pack the place out and thanks to Mystic Grizzly for opening the night up. See you all again soon!!",
+    "duration": "P01H52M05S"
 }

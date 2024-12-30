@@ -3,77 +3,74 @@
     "name": "BLACKSTOCK 2014",
     "dateModified": "08 Jul 2014 05:00:31 GMT",
     "numTracks": 8,
-    "track": {
-        "numberOfItems": 8,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Frequence",
-                    "duration": "P00H19M11S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-5"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Garden",
-                    "duration": "P00H09M45S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-27"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "How Not to Float",
-                    "duration": "P00H16M45S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-16"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Dream Estate",
-                    "duration": "P00H07M16S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-29"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Smile and Nod",
-                    "duration": "P00H10M48S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-22"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "We Are Water",
-                    "duration": "P00H07M12S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-38"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "New Love",
-                    "duration": "P00H10M57S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-35"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Improbability Blotter",
-                    "duration": "P00H10M17S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-21"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Frequence",
+                "duration": "P00H19M11S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-5"
             }
-        ],
-        "duration": "P01H32M11S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Garden",
+                "duration": "P00H09M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-27"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "How Not to Float",
+                "duration": "P00H16M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-16"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Dream Estate",
+                "duration": "P00H07M16S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-29"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Smile and Nod",
+                "duration": "P00H10M48S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-22"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H07M12S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-38"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H10M57S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-35"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Improbability Blotter",
+                "duration": "P00H10M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-21"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1048985505_10.jpg",
     "datePublished": "07 Jun 2014 00:00:00 GMT",
-    "description": "Live at the 1st Annual Blackstock\r\n2014-05-30 - Blackstock, SC"
+    "description": "Live at the 1st Annual Blackstock\r\n2014-05-30 - Blackstock, SC",
+    "duration": "P01H32M11S"
 }

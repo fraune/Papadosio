@@ -3,101 +3,98 @@
     "name": "Live at the Westcott Theater - Imaginal Cells Tour",
     "dateModified": "25 Oct 2014 21:22:26 GMT",
     "numTracks": 11,
-    "track": {
-        "numberOfItems": 11,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Puddles for Oceans",
-                    "duration": "P00H10M28S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-23"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Cloud Found",
-                    "duration": "P00H10M41S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-37"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "The Elephant I Presume",
-                    "duration": "P00H08M28S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-8"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Curve",
-                    "duration": "P00H16M21S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-22"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Hippie Babysitter",
-                    "duration": "P00H14M42S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-16"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Fahrenheit Fair Enough*",
-                    "duration": "P00H07M41S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fahrenheit-fair-enough"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "The Sum",
-                    "duration": "P00H06M44S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-26"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Cue",
-                    "duration": "P00H08M27S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-34"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "All I Knew",
-                    "duration": "P00H09M32S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-39"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "We Are Water",
-                    "duration": "P00H06M22S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-46"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "Improbability Blotter",
-                    "duration": "P00H07M48S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-28"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Puddles for Oceans",
+                "duration": "P00H10M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-23"
             }
-        ],
-        "duration": "P01H47M14S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Cloud Found",
+                "duration": "P00H10M41S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-37"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "The Elephant I Presume",
+                "duration": "P00H08M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-8"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Curve",
+                "duration": "P00H16M21S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-22"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Hippie Babysitter",
+                "duration": "P00H14M42S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-16"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Fahrenheit Fair Enough*",
+                "duration": "P00H07M41S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fahrenheit-fair-enough"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "The Sum",
+                "duration": "P00H06M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-26"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H08M27S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-34"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "All I Knew",
+                "duration": "P00H09M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-39"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H06M22S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-46"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Improbability Blotter",
+                "duration": "P00H07M48S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-28"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a3745536544_10.jpg",
     "datePublished": "24 Oct 2014 00:00:00 GMT",
-    "description": "Live at The Westcott - Imaginal Cells Tour\r\n10.15.14 - Syracuse, NY\r\n*first time played 'Fahrenheit Fair Enough' by Telefon Tel Aviv"
+    "description": "Live at The Westcott - Imaginal Cells Tour\r\n10.15.14 - Syracuse, NY\r\n*first time played 'Fahrenheit Fair Enough' by Telefon Tel Aviv",
+    "duration": "P01H47M14S"
 }

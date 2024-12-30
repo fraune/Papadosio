@@ -3,93 +3,90 @@
     "name": "Live at the House of Blues Chicago - Imaginal Cells Tour",
     "dateModified": "01 Nov 2014 19:27:14 GMT",
     "numTracks": 10,
-    "track": {
-        "numberOfItems": 10,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Cushion",
-                    "duration": "P00H06M58S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-29"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "How Not to Float",
-                    "duration": "P00H10M59S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-21"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Direction",
-                    "duration": "P00H08M28S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-14"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Taking Turns",
-                    "duration": "P00H09M31S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-32"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "You and Yourself",
-                    "duration": "P00H09M30S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-19"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "All I Knew",
-                    "duration": "P00H09M38S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-41"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "We Are Water",
-                    "duration": "P00H06M34S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-49"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Curve",
-                    "duration": "P00H13M28S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-24"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Night Colors",
-                    "duration": "P00H19M00S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-26"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Snorkle",
-                    "duration": "P00H16M29S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-33"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Cushion",
+                "duration": "P00H06M58S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-29"
             }
-        ],
-        "duration": "P01H50M35S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "How Not to Float",
+                "duration": "P00H10M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-21"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Direction",
+                "duration": "P00H08M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-14"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Taking Turns",
+                "duration": "P00H09M31S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-32"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "You and Yourself",
+                "duration": "P00H09M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-19"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "All I Knew",
+                "duration": "P00H09M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-41"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H06M34S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-49"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Curve",
+                "duration": "P00H13M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-24"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Night Colors",
+                "duration": "P00H19M00S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-26"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H16M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-33"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a4139151940_10.jpg",
     "datePublished": "31 Oct 2014 00:00:00 GMT",
-    "description": null
+    "description": null,
+    "duration": "P01H50M35S"
 }

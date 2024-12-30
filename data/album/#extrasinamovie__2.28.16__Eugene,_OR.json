@@ -3,109 +3,106 @@
     "name": "#extrasinamovie | 2.28.16 | Eugene, OR",
     "dateModified": "28 Mar 2016 07:17:38 GMT",
     "numTracks": 12,
-    "track": {
-        "numberOfItems": 12,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Lack of Everything",
-                    "duration": "P00H07M56S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lack-of-everything-5"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Epiphany",
-                    "duration": "P00H08M02S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-29"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "How Not to Float",
-                    "duration": "P00H13M00S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-29"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Direction Song",
-                    "duration": "P00H07M08S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-40"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Geoglyph",
-                    "duration": "P00H09M20S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-34"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Therian",
-                    "duration": "P00H08M28S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-16"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "We Are Water",
-                    "duration": "P00H06M48S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-81"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Obove",
-                    "duration": "P00H04M32S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-2"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Curve",
-                    "duration": "P00H25M26S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-39"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Utopiate",
-                    "duration": "P00H14M11S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-47"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "Crowd Banter",
-                    "duration": "P00H02M46S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/crowd-banter-12"
-                }
-            },
-            {
-                "position": 12,
-                "item": {
-                    "name": "Paradigm Shift",
-                    "duration": "P00H16M23S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-51"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Lack of Everything",
+                "duration": "P00H07M56S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lack-of-everything-5"
             }
-        ],
-        "duration": "P02H04M00S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Epiphany",
+                "duration": "P00H08M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-29"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "How Not to Float",
+                "duration": "P00H13M00S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-29"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Direction Song",
+                "duration": "P00H07M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-40"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Geoglyph",
+                "duration": "P00H09M20S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-34"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Therian",
+                "duration": "P00H08M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-16"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H06M48S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-81"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Obove",
+                "duration": "P00H04M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-2"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Curve",
+                "duration": "P00H25M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-39"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Utopiate",
+                "duration": "P00H14M11S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-47"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Crowd Banter",
+                "duration": "P00H02M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/crowd-banter-12"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Paradigm Shift",
+                "duration": "P00H16M23S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-51"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1708152751_10.jpg",
     "datePublished": "28 Mar 2016 07:17:38 GMT",
-    "description": null
+    "description": null,
+    "duration": "P02H04M00S"
 }

@@ -3,85 +3,82 @@
     "name": "10.11.17 | The Marquee | Tempe, AZ",
     "dateModified": "13 Oct 2017 00:29:01 GMT",
     "numTracks": 9,
-    "track": {
-        "numberOfItems": 9,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "By The Light Of The Stars",
-                    "duration": "P00H17M00S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-49"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Hippie Babysitter",
-                    "duration": "P00H19M11S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-51"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Out Of Hiding",
-                    "duration": "P00H07M38S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-29"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Vactrollio",
-                    "duration": "P00H09M02S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-34"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "The Bionic Man Meets His Past",
-                    "duration": "P00H15M01S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-89"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Obove",
-                    "duration": "P00H03M38S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-13"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Mr. Turtles Cloud Kingdom",
-                    "duration": "P00H05M43S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-31"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Threes",
-                    "duration": "P00H12M32S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-33"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Method of Control",
-                    "duration": "P00H08M04S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-75"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "By The Light Of The Stars",
+                "duration": "P00H17M00S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-49"
             }
-        ],
-        "duration": "P01H37M49S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Hippie Babysitter",
+                "duration": "P00H19M11S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-51"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Out Of Hiding",
+                "duration": "P00H07M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-29"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Vactrollio",
+                "duration": "P00H09M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-34"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H15M01S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-89"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Obove",
+                "duration": "P00H03M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-13"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Mr. Turtles Cloud Kingdom",
+                "duration": "P00H05M43S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-31"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Threes",
+                "duration": "P00H12M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-33"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Method of Control",
+                "duration": "P00H08M04S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-75"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a2487674913_10.jpg",
     "datePublished": "13 Oct 2017 00:29:01 GMT",
-    "description": "Recorded on October 11th, 2017 at The Marquee Theatre in Tempe, AZ during the Shapeshiftour 2017"
+    "description": "Recorded on October 11th, 2017 at The Marquee Theatre in Tempe, AZ during the Shapeshiftour 2017",
+    "duration": "P01H37M49S"
 }

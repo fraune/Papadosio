@@ -3,117 +3,114 @@
     "name": "12.30.19 | Bluestone Night 1 | Columbus, OH",
     "dateModified": "06 Jan 2020 18:15:15 GMT",
     "numTracks": 13,
-    "track": {
-        "numberOfItems": 13,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Intro",
-                    "duration": "P00H01M52S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-78"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "New Love",
-                    "duration": "P00H09M39S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-143"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Fanfare For The Rain People",
-                    "duration": "P00H11M40S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-27"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Find Your Cloud",
-                    "duration": "P00H09M49S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-147"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Threes",
-                    "duration": "P00H11M18S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-64"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Pool Of Stars",
-                    "duration": "P00H06M43S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-24"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Magreenery",
-                    "duration": "P00H15M49S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-67"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "The Wrong Nostalgia",
-                    "duration": "P00H04M37S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-48"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Puddles For Oceans",
-                    "duration": "P00H13M51S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-65"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Euclidean Lights",
-                    "duration": "P00H11M09S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-52"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "Puddles For Oceans",
-                    "duration": "P00H03M14S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-66"
-                }
-            },
-            {
-                "position": 12,
-                "item": {
-                    "name": "Improv",
-                    "duration": "P00H12M20S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improv-15"
-                }
-            },
-            {
-                "position": 13,
-                "item": {
-                    "name": "Magreenery",
-                    "duration": "P00H01M47S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-68"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H01M52S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-78"
             }
-        ],
-        "duration": "P01H53M48S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H09M39S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-143"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Fanfare For The Rain People",
+                "duration": "P00H11M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-27"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H09M49S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-147"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Threes",
+                "duration": "P00H11M18S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-64"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Pool Of Stars",
+                "duration": "P00H06M43S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-24"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Magreenery",
+                "duration": "P00H15M49S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-67"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "The Wrong Nostalgia",
+                "duration": "P00H04M37S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-48"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Puddles For Oceans",
+                "duration": "P00H13M51S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-65"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Euclidean Lights",
+                "duration": "P00H11M09S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-52"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Puddles For Oceans",
+                "duration": "P00H03M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-66"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Improv",
+                "duration": "P00H12M20S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improv-15"
+            }
+        },
+        {
+            "position": 13,
+            "item": {
+                "name": "Magreenery",
+                "duration": "P00H01M47S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-68"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a0178334817_10.jpg",
     "datePublished": "06 Jan 2020 18:14:57 GMT",
-    "description": "This album was recorded on December 30th, 2019. Thanks for everyone who came out to celebrate the new year with us!"
+    "description": "This album was recorded on December 30th, 2019. Thanks for everyone who came out to celebrate the new year with us!",
+    "duration": "P01H53M48S"
 }

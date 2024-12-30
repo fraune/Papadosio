@@ -3,109 +3,106 @@
     "name": "Cone Denim Entertainment Center | 11​.​4​.​15 | Greensboro, NC",
     "dateModified": "17 Nov 2015 17:33:48 GMT",
     "numTracks": 12,
-    "track": {
-        "numberOfItems": 12,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Intro",
-                    "duration": "P00H00M40S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-17"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Method of Control",
-                    "duration": "P00H14M00S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-44"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Out of Hiding",
-                    "duration": "P00H11M29S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-9"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "All I Knew",
-                    "duration": "P00H14M58S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-57"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Bypass Default",
-                    "duration": "P00H07M44S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-11"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "The Bionic Man Meets His Past",
-                    "duration": "P00H13M50S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-52"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "We Are Water",
-                    "duration": "P00H07M30S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-70"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Ritual",
-                    "duration": "P00H09M13S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-9"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Now That You Know",
-                    "duration": "P00H08M52S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-22"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Glimpse of Light",
-                    "duration": "P00H08M00S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-15"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "Find Your Cloud",
-                    "duration": "P00H15M35S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-67"
-                }
-            },
-            {
-                "position": 12,
-                "item": {
-                    "name": "Holy Heck",
-                    "duration": "P00H09M06S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-25"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H00M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-17"
             }
-        ],
-        "duration": "P02H00M57S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Method of Control",
+                "duration": "P00H14M00S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-44"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Out of Hiding",
+                "duration": "P00H11M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-9"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "All I Knew",
+                "duration": "P00H14M58S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-57"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Bypass Default",
+                "duration": "P00H07M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-11"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H13M50S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-52"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H07M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-70"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Ritual",
+                "duration": "P00H09M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-9"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Now That You Know",
+                "duration": "P00H08M52S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-22"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Glimpse of Light",
+                "duration": "P00H08M00S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-15"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H15M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-67"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Holy Heck",
+                "duration": "P00H09M06S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-25"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a3273930283_10.jpg",
     "datePublished": "15 Nov 2015 00:00:00 GMT",
-    "description": "Core Denim Entertainment Center | 11​.​4​.​15 | Greensboro, NC\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015."
+    "description": "Core Denim Entertainment Center | 11​.​4​.​15 | Greensboro, NC\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015.",
+    "duration": "P02H00M57S"
 }

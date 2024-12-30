@@ -3,77 +3,74 @@
     "name": "Live at Camp Bisco 2016",
     "dateModified": "19 Jul 2018 18:08:03 GMT",
     "numTracks": 8,
-    "track": {
-        "numberOfItems": 8,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "New Love >",
-                    "duration": "P00H08M58S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-99"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Curve(ature)",
-                    "duration": "P00H12M02S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-ature-10"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Cue",
-                    "duration": "P00H11M09S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-81"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "If It Wasn't For You",
-                    "duration": "P00H08M55S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-41"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Improbability Blotter",
-                    "duration": "P00H10M59S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-52"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "The Wrong Nostalgia",
-                    "duration": "P00H05M15S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-27"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Snorkle",
-                    "duration": "P00H12M11S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-80"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "New Love",
-                    "duration": "P00H06M57S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-100"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "New Love >",
+                "duration": "P00H08M58S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-99"
             }
-        ],
-        "duration": "P01H16M26S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Curve(ature)",
+                "duration": "P00H12M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-ature-10"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H11M09S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-81"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "If It Wasn't For You",
+                "duration": "P00H08M55S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-41"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Improbability Blotter",
+                "duration": "P00H10M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-52"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "The Wrong Nostalgia",
+                "duration": "P00H05M15S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-27"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H12M11S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-80"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H06M57S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-100"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a3485059657_10.jpg",
     "datePublished": "30 Jul 2016 00:00:00 GMT",
-    "description": null
+    "description": null,
+    "duration": "P01H16M26S"
 }

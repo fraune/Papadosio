@@ -3,109 +3,106 @@
     "name": "Thunderbird Café & Music Hall | Pittsburgh, PA | 3.9.24",
     "dateModified": "12 Mar 2024 20:44:34 GMT",
     "numTracks": 12,
-    "track": {
-        "numberOfItems": 12,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Mr. Turtle's Cloud Kingdom",
-                    "duration": "P00H05M32S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-75"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Cue",
-                    "duration": "P00H23M11S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-167"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "You And Yourself",
-                    "duration": "P00H14M26S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-79"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Around The World",
-                    "duration": "P00H07M44S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/around-the-world-2"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Anima Mundi",
-                    "duration": "P00H09M02S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-53"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Skipswitch",
-                    "duration": "P00H10M46S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-76"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Fossilize",
-                    "duration": "P00H09M53S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fossilize-11"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Versicolor",
-                    "duration": "P00H07M30S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-48"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Omnifreeze",
-                    "duration": "P00H03M42S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-47"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "The State Of Things",
-                    "duration": "P00H05M24S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-state-of-things-12"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "T.V. Song",
-                    "duration": "P00H04M14S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/t-v-song-2"
-                }
-            },
-            {
-                "position": 12,
-                "item": {
-                    "name": "Unparalyzer",
-                    "duration": "P00H13M06S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-139"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Mr. Turtle's Cloud Kingdom",
+                "duration": "P00H05M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-75"
             }
-        ],
-        "duration": "P01H54M30S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H23M11S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-167"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "You And Yourself",
+                "duration": "P00H14M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-79"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Around The World",
+                "duration": "P00H07M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/around-the-world-2"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Anima Mundi",
+                "duration": "P00H09M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-53"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Skipswitch",
+                "duration": "P00H10M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-76"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Fossilize",
+                "duration": "P00H09M53S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fossilize-11"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Versicolor",
+                "duration": "P00H07M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-48"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Omnifreeze",
+                "duration": "P00H03M42S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-47"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "The State Of Things",
+                "duration": "P00H05M24S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-state-of-things-12"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "T.V. Song",
+                "duration": "P00H04M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/t-v-song-2"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Unparalyzer",
+                "duration": "P00H13M06S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-139"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1637272249_10.jpg",
     "datePublished": "12 Mar 2024 20:44:34 GMT",
-    "description": "Night 2! Thanks again, Pittsburgh, we love you!"
+    "description": "Night 2! Thanks again, Pittsburgh, we love you!",
+    "duration": "P01H54M30S"
 }

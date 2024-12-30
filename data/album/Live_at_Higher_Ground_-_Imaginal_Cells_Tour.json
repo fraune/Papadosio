@@ -3,109 +3,106 @@
     "name": "Live at Higher Ground - Imaginal Cells Tour",
     "dateModified": "28 Oct 2014 00:01:58 GMT",
     "numTracks": 12,
-    "track": {
-        "numberOfItems": 12,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "The Lack of Everything",
-                    "duration": "P00H07M29S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-6"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Find Your Cloud",
-                    "duration": "P00H18M20S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-43"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Hippie Babysitter",
-                    "duration": "P00H13M42S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-17"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Cue",
-                    "duration": "P00H11M48S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-35"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "If It Wasn't For you",
-                    "duration": "P00H07M45S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-29"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "We Choose",
-                    "duration": "P00H06M36S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-17"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Oracle Theme",
-                    "duration": "P00H09M34S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-16"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Utopiate",
-                    "duration": "P00H12M20S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-25"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "In the Meantime*",
-                    "duration": "P00H04M38S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/in-the-meantime"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "You and Yourself",
-                    "duration": "P00H13M28S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-17"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "We Are Water>",
-                    "duration": "P00H07M28S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-47"
-                }
-            },
-            {
-                "position": 12,
-                "item": {
-                    "name": "The Plug",
-                    "duration": "P00H14M52S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-20"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "The Lack of Everything",
+                "duration": "P00H07M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-6"
             }
-        ],
-        "duration": "P02H08M00S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H18M20S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-43"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Hippie Babysitter",
+                "duration": "P00H13M42S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-17"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H11M48S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-35"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "If It Wasn't For you",
+                "duration": "P00H07M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-29"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "We Choose",
+                "duration": "P00H06M36S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-17"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Oracle Theme",
+                "duration": "P00H09M34S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-16"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Utopiate",
+                "duration": "P00H12M20S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-25"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "In the Meantime*",
+                "duration": "P00H04M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/in-the-meantime"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "You and Yourself",
+                "duration": "P00H13M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-17"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "We Are Water>",
+                "duration": "P00H07M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-47"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "The Plug",
+                "duration": "P00H14M52S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-20"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1163136993_10.jpg",
     "datePublished": "26 Oct 2014 00:00:00 GMT",
-    "description": "Live at Higher Ground - Imaginal Cells Tour\r\n10.17.14 - Burlington, VT\r\n\r\n*first time played 'In The Meantime' by Spacehog"
+    "description": "Live at Higher Ground - Imaginal Cells Tour\r\n10.17.14 - Burlington, VT\r\n\r\n*first time played 'In The Meantime' by Spacehog",
+    "duration": "P02H08M00S"
 }

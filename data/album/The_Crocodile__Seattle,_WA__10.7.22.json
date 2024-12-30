@@ -3,85 +3,82 @@
     "name": "The Crocodile | Seattle, WA | 10.7.22",
     "dateModified": "12 Oct 2022 22:04:23 GMT",
     "numTracks": 9,
-    "track": {
-        "numberOfItems": 9,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Shiitake",
-                    "duration": "P00H13M26S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-21"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Garden",
-                    "duration": "P00H09M06S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-118"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Night Colors",
-                    "duration": "P00H10M35S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-96"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Cubensis",
-                    "duration": "P00H13M29S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-23"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Find Your Cloud",
-                    "duration": "P00H17M43S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-170"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Mr. Turtle's Cloud Kingdom",
-                    "duration": "P00H08M04S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-66"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Find Your Cloud",
-                    "duration": "P00H03M02S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-171"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Advocate Of Change",
-                    "duration": "P00H07M26S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-106"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "We Are Water",
-                    "duration": "P00H06M03S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-156"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Shiitake",
+                "duration": "P00H13M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-21"
             }
-        ],
-        "duration": "P01H28M54S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Garden",
+                "duration": "P00H09M06S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-118"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Night Colors",
+                "duration": "P00H10M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-96"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Cubensis",
+                "duration": "P00H13M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-23"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H17M43S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-170"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Mr. Turtle's Cloud Kingdom",
+                "duration": "P00H08M04S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-66"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H03M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-171"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Advocate Of Change",
+                "duration": "P00H07M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-106"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H06M03S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-156"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a3877034433_10.jpg",
     "datePublished": "12 Oct 2022 22:04:23 GMT",
-    "description": "It was such a pleasure being back in Seattle! Such a beautiful city and such a great crowd. We really felt the love and thank you so much for coming out to the early show! Hope to see you again soon Seattle!!"
+    "description": "It was such a pleasure being back in Seattle! Such a beautiful city and such a great crowd. We really felt the love and thank you so much for coming out to the early show! Hope to see you again soon Seattle!!",
+    "duration": "P01H28M54S"
 }

@@ -3,77 +3,74 @@
     "name": "10.3.17 | The Varsity Theatre | Baton Rouge, LA",
     "dateModified": "05 Oct 2017 20:32:15 GMT",
     "numTracks": 8,
-    "track": {
-        "numberOfItems": 8,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "By The Light of The Stars",
-                    "duration": "P00H12M14S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-48"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Cue",
-                    "duration": "P00H10M06S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-96"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Fuse",
-                    "duration": "P00H08M19S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-49"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Bypass Default",
-                    "duration": "P00H07M19S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-29"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "The Wrong Nostalgia",
-                    "duration": "P00H11M40S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-35"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Snorkle",
-                    "duration": "P00H15M42S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-95"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "2AM",
-                    "duration": "P00H06M36S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-51"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Unparalyzer",
-                    "duration": "P00H17M10S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-78"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "By The Light of The Stars",
+                "duration": "P00H12M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-48"
             }
-        ],
-        "duration": "P01H29M06S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H10M06S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-96"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Fuse",
+                "duration": "P00H08M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-49"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Bypass Default",
+                "duration": "P00H07M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-29"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "The Wrong Nostalgia",
+                "duration": "P00H11M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-35"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H15M42S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-95"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "2AM",
+                "duration": "P00H06M36S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-51"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Unparalyzer",
+                "duration": "P00H17M10S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-78"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1054916130_10.jpg",
     "datePublished": "04 Oct 2017 00:00:00 GMT",
-    "description": "Recorded on October 3rd, 2017 at The Varsity Theatre in Baton Rouge, LA during the Shapeshiftour 2017"
+    "description": "Recorded on October 3rd, 2017 at The Varsity Theatre in Baton Rouge, LA during the Shapeshiftour 2017",
+    "duration": "P01H29M06S"
 }

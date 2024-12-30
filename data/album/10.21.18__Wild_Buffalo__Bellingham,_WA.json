@@ -3,101 +3,98 @@
     "name": "10.21.18 | Wild Buffalo | Bellingham, WA",
     "dateModified": "02 Nov 2018 21:26:23 GMT",
     "numTracks": 11,
-    "track": {
-        "numberOfItems": 11,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Vactrollio",
-                    "duration": "P00H09M08S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-51"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Fire Rite",
-                    "duration": "P00H06M19S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-8"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Anima Mundi",
-                    "duration": "P00H09M47S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-43"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "The Sum",
-                    "duration": "P00H06M38S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-67"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Fanfare For the Rain People",
-                    "duration": "P00H08M38S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-9"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Oblivion",
-                    "duration": "P00H06M12S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-36"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Garden",
-                    "duration": "P00H11M33S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-92"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Cue",
-                    "duration": "P00H08M15S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-115"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "No End",
-                    "duration": "P00H05M25S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/no-end-6"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Skipswitch",
-                    "duration": "P00H15M07S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-9"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "Night Colors",
-                    "duration": "P00H11M26S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-71"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Vactrollio",
+                "duration": "P00H09M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-51"
             }
-        ],
-        "duration": "P01H38M28S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Fire Rite",
+                "duration": "P00H06M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-8"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Anima Mundi",
+                "duration": "P00H09M47S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-43"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "The Sum",
+                "duration": "P00H06M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-67"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Fanfare For the Rain People",
+                "duration": "P00H08M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-9"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Oblivion",
+                "duration": "P00H06M12S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-36"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Garden",
+                "duration": "P00H11M33S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-92"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H08M15S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-115"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "No End",
+                "duration": "P00H05M25S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/no-end-6"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Skipswitch",
+                "duration": "P00H15M07S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-9"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Night Colors",
+                "duration": "P00H11M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-71"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1902001077_10.jpg",
     "datePublished": "02 Nov 2018 21:26:23 GMT",
-    "description": "This album was recorded in Bellingham, WA at the Wild Buffalo on Sunday, October 21st! Never miss a Sunday show. This one was one for the books. Thanks to everybody who came out for our PNW run! We will be back soon!"
+    "description": "This album was recorded in Bellingham, WA at the Wild Buffalo on Sunday, October 21st! Never miss a Sunday show. This one was one for the books. Thanks to everybody who came out for our PNW run! We will be back soon!",
+    "duration": "P01H38M28S"
 }

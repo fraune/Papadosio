@@ -3,85 +3,82 @@
     "name": "Live at Jungle Jam |3.20.15| Jaco, CR",
     "dateModified": "19 Mar 2020 21:28:37 GMT",
     "numTracks": 9,
-    "track": {
-        "numberOfItems": 9,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "We Are Water",
-                    "duration": "P00H06M37S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-56"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Find Your Cloud",
-                    "duration": "P00H10M20S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-55"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Garden",
-                    "duration": "P00H08M29S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-40"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "The Bionic Man Meets his Past",
-                    "duration": "P00H06M22S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-39"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Advocate of Change",
-                    "duration": "P00H07M55S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-32"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Unparalyzer",
-                    "duration": "P00H12M36S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-45"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Madre De Dios",
-                    "duration": "P00H06M14S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-20"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Snorkle",
-                    "duration": "P00H16M00S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-43"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "New Love",
-                    "duration": "P00H10M43S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-62"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H06M37S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-56"
             }
-        ],
-        "duration": "P01H25M16S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H10M20S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-55"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Garden",
+                "duration": "P00H08M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-40"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "The Bionic Man Meets his Past",
+                "duration": "P00H06M22S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-39"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Advocate of Change",
+                "duration": "P00H07M55S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-32"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Unparalyzer",
+                "duration": "P00H12M36S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-45"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Madre De Dios",
+                "duration": "P00H06M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-20"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H16M00S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-43"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H10M43S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-62"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a3101690529_10.jpg",
     "datePublished": "30 Mar 2015 00:00:00 GMT",
-    "description": "Recorded during the spring Equinox in beautiful Jaco, Costa Rica at Jungle Jam Festival 2015"
+    "description": "Recorded during the spring Equinox in beautiful Jaco, Costa Rica at Jungle Jam Festival 2015",
+    "duration": "P01H25M16S"
 }

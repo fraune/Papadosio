@@ -3,85 +3,82 @@
     "name": "Santa Fe Brewing Company | Santa Fe, NM | 6.17.23",
     "dateModified": "05 Jul 2023 15:55:18 GMT",
     "numTracks": 9,
-    "track": {
-        "numberOfItems": 9,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "...And This Is What He Thought",
-                    "duration": "P00H03M26S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-41"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "The Bionic Man Meets His Past...",
-                    "duration": "P00H16M17S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-153"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Not Just A Word",
-                    "duration": "P00H06M29S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-20"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Cubensis",
-                    "duration": "P00H10M37S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-39"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "New Love",
-                    "duration": "P00H10M09S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-167"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Fossilize",
-                    "duration": "P00H07M48S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fossilize-2"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Threes",
-                    "duration": "P00H13M29S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-81"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Garden",
-                    "duration": "P00H08M24S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-124"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "We Are Water",
-                    "duration": "P00H11M33S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-167"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "...And This Is What He Thought",
+                "duration": "P00H03M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-41"
             }
-        ],
-        "duration": "P01H28M12S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "The Bionic Man Meets His Past...",
+                "duration": "P00H16M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-153"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Not Just A Word",
+                "duration": "P00H06M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-20"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Cubensis",
+                "duration": "P00H10M37S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-39"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H10M09S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-167"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Fossilize",
+                "duration": "P00H07M48S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fossilize-2"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Threes",
+                "duration": "P00H13M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-81"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Garden",
+                "duration": "P00H08M24S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-124"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H11M33S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-167"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1793829657_10.jpg",
     "datePublished": "05 Jul 2023 15:55:18 GMT",
-    "description": "We had an amazing time in Santa Fe! Thanks so much for inviting us out and showing us a great time in your beautiful desert. Will be sure to remember my stillsuit next time! Please continually give it up for Merrick Noyes, who filled in for Billy on this run!!!!! He's an absolute gangster and deserves your attention even now (the future I'm sure)..."
+    "description": "We had an amazing time in Santa Fe! Thanks so much for inviting us out and showing us a great time in your beautiful desert. Will be sure to remember my stillsuit next time! Please continually give it up for Merrick Noyes, who filled in for Billy on this run!!!!! He's an absolute gangster and deserves your attention even now (the future I'm sure)...",
+    "duration": "P01H28M12S"
 }

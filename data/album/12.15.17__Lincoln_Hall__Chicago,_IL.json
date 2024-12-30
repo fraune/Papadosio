@@ -3,93 +3,90 @@
     "name": "12.15.17 | Lincoln Hall | Chicago, IL",
     "dateModified": "22 Dec 2017 17:15:43 GMT",
     "numTracks": 10,
-    "track": {
-        "numberOfItems": 10,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Platypus Milk",
-                    "duration": "P00H12M22S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/platypus-milk"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "A Chickens Fingers",
-                    "duration": "P00H11M15S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/a-chickens-fingers"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Bobtomatrist",
-                    "duration": "P00H16M55S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bobtomatrist"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Panda Orgy",
-                    "duration": "P00H07M19S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/panda-orgy"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Slumberjack",
-                    "duration": "P00H22M27S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/slumberjack"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Rokos Basilisk",
-                    "duration": "P00H11M59S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/rokos-basilisk"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Babykid",
-                    "duration": "P00H14M36S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/babykid"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "The Warlocks Fitbit",
-                    "duration": "P00H10M26S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-warlocks-fitbit"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Thick Mouse",
-                    "duration": "P00H12M03S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/thick-mouse"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Poor Melania",
-                    "duration": "P00H09M25S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/poor-melania"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Platypus Milk",
+                "duration": "P00H12M22S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/platypus-milk"
             }
-        ],
-        "duration": "P02H08M47S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "A Chickens Fingers",
+                "duration": "P00H11M15S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/a-chickens-fingers"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Bobtomatrist",
+                "duration": "P00H16M55S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bobtomatrist"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Panda Orgy",
+                "duration": "P00H07M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/panda-orgy"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Slumberjack",
+                "duration": "P00H22M27S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/slumberjack"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Rokos Basilisk",
+                "duration": "P00H11M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/rokos-basilisk"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Babykid",
+                "duration": "P00H14M36S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/babykid"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "The Warlocks Fitbit",
+                "duration": "P00H10M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-warlocks-fitbit"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Thick Mouse",
+                "duration": "P00H12M03S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/thick-mouse"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Poor Melania",
+                "duration": "P00H09M25S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/poor-melania"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a2939142599_10.jpg",
     "datePublished": "22 Dec 2017 17:15:43 GMT",
-    "description": "This is an ALL IMPROV SET Recorded on December 15th, 2017 at The Lincoln Hall, in Chicago, IL during Earth night 2017!\r\n\r\nThanks to everybody that came out!"
+    "description": "This is an ALL IMPROV SET Recorded on December 15th, 2017 at The Lincoln Hall, in Chicago, IL during Earth night 2017!\r\n\r\nThanks to everybody that came out!",
+    "duration": "P02H08M47S"
 }

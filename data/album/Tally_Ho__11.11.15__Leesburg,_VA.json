@@ -3,109 +3,106 @@
     "name": "Tally Ho | 11.11.15 | Leesburg, VA",
     "dateModified": "26 Dec 2015 21:58:55 GMT",
     "numTracks": 12,
-    "track": {
-        "numberOfItems": 12,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Intro",
-                    "duration": "P00H01M04S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-30"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "2AM",
-                    "duration": "P00H05M51S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-22"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Unparalyzer",
-                    "duration": "P00H18M00S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-61"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Ritual",
-                    "duration": "P00H13M00S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-13"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Fuse",
-                    "duration": "P00H09M37S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-40"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Out of Hiding",
-                    "duration": "P00H11M46S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-15"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Improbability Blotter",
-                    "duration": "P00H15M10S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-43"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "We Can Always Come Back...",
-                    "duration": "P00H13M36S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-13"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Garden",
-                    "duration": "P00H09M21S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-58"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Taking Turns",
-                    "duration": "P00H09M14S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-43"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "Method",
-                    "duration": "P00H10M14S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-2"
-                }
-            },
-            {
-                "position": 12,
-                "item": {
-                    "name": "Epiphany",
-                    "duration": "P00H08M23S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-21"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H01M04S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-30"
             }
-        ],
-        "duration": "P02H05M16S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "2AM",
+                "duration": "P00H05M51S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-22"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Unparalyzer",
+                "duration": "P00H18M00S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-61"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Ritual",
+                "duration": "P00H13M00S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-13"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Fuse",
+                "duration": "P00H09M37S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-40"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Out of Hiding",
+                "duration": "P00H11M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-15"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Improbability Blotter",
+                "duration": "P00H15M10S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-43"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "We Can Always Come Back...",
+                "duration": "P00H13M36S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-13"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Garden",
+                "duration": "P00H09M21S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-58"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Taking Turns",
+                "duration": "P00H09M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-43"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Method",
+                "duration": "P00H10M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-2"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Epiphany",
+                "duration": "P00H08M23S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-21"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a0728294459_10.jpg",
     "datePublished": "22 Dec 2015 00:00:00 GMT",
-    "description": "Tally Ho | 11.11.15 | Leesburg, VA\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015."
+    "description": "Tally Ho | 11.11.15 | Leesburg, VA\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015.",
+    "duration": "P02H05M16S"
 }

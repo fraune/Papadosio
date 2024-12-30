@@ -3,101 +3,98 @@
     "name": "The Crocodile | Seattle, WA | 1.19.24",
     "dateModified": "07 Feb 2024 19:28:51 GMT",
     "numTracks": 11,
-    "track": {
-        "numberOfItems": 11,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Utopiate",
-                    "duration": "P00H20M19S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-102"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Lion's Mane",
-                    "duration": "P00H06M44S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-40"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Xanadu",
-                    "duration": "P00H07M44S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/xanadu-12"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Smile And Nod",
-                    "duration": "P00H09M20S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-107"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "The Bionic Man Meets His Past",
-                    "duration": "P00H20M02S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-160"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "By The Light Of The Stars",
-                    "duration": "P00H11M35S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-90"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Not Just A Word",
-                    "duration": "P00H10M29S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-30"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Versicolor",
-                    "duration": "P00H07M17S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-44"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Omnifreeze",
-                    "duration": "P00H07M19S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-46"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Threes",
-                    "duration": "P00H09M21S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-84"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "The Eyes Have Eyes",
-                    "duration": "P00H09M02S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-99"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Utopiate",
+                "duration": "P00H20M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-102"
             }
-        ],
-        "duration": "P01H59M12S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Lion's Mane",
+                "duration": "P00H06M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-40"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Xanadu",
+                "duration": "P00H07M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/xanadu-12"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Smile And Nod",
+                "duration": "P00H09M20S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-107"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H20M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-160"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "By The Light Of The Stars",
+                "duration": "P00H11M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-90"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Not Just A Word",
+                "duration": "P00H10M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-30"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Versicolor",
+                "duration": "P00H07M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-44"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Omnifreeze",
+                "duration": "P00H07M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-46"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Threes",
+                "duration": "P00H09M21S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-84"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "The Eyes Have Eyes",
+                "duration": "P00H09M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-99"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1072484031_10.jpg",
     "datePublished": "07 Feb 2024 19:28:52 GMT",
-    "description": "Thank you Seattle for making us feel so welcome after our journey west! This was a special show....alot of chances were taken to get there and alot of chances were taken while we were playing....really fun stuff to listen back to. Seattle came out in droves and we can't wait to see you again. I wanted to include this little tidbit from the bandwagon trip out there. I wrote this when we were having to postpone Portland and try to make it to Seattle in time!\r\n\r\n\r\nShip Log: Sol 4\r\n After 35 hours of drive time, we had to anchor in Boise. We had learned a few hours earlier that I-84 westbound had been closed due to a snow storm, but we were planning on getting to The Dalles, OR in hopes that the road would open at in time for us to get to Seattle without heading back east first. \r\n Alas, zemblanity reigned! The road was black with ice and after narrowly avoiding a collision, we decided that “be safe” is more than just something that people say to you over and over while you are driving into a blizzard. \r\n That being said, we are doing something equally crazy and adding another 22.5 hours of driving to try and make it to Seattle in time for our show on Friday…..Back east, then south, then west around Sacramento and finally all the way up i5 to Seattle. Rock and Roll."
+    "description": "Thank you Seattle for making us feel so welcome after our journey west! This was a special show....alot of chances were taken to get there and alot of chances were taken while we were playing....really fun stuff to listen back to. Seattle came out in droves and we can't wait to see you again. I wanted to include this little tidbit from the bandwagon trip out there. I wrote this when we were having to postpone Portland and try to make it to Seattle in time!\r\n\r\n\r\nShip Log: Sol 4\r\n After 35 hours of drive time, we had to anchor in Boise. We had learned a few hours earlier that I-84 westbound had been closed due to a snow storm, but we were planning on getting to The Dalles, OR in hopes that the road would open at in time for us to get to Seattle without heading back east first. \r\n Alas, zemblanity reigned! The road was black with ice and after narrowly avoiding a collision, we decided that “be safe” is more than just something that people say to you over and over while you are driving into a blizzard. \r\n That being said, we are doing something equally crazy and adding another 22.5 hours of driving to try and make it to Seattle in time for our show on Friday…..Back east, then south, then west around Sacramento and finally all the way up i5 to Seattle. Rock and Roll.",
+    "duration": "P01H59M12S"
 }

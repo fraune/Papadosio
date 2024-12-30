@@ -3,69 +3,66 @@
     "name": "10.18.17 | The Domino Room | Bend, OR",
     "dateModified": "21 Oct 2017 22:28:48 GMT",
     "numTracks": 7,
-    "track": {
-        "numberOfItems": 7,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Now That You Know",
-                    "duration": "P00H11M19S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-31"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Anima Mundi",
-                    "duration": "P00H08M46S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-37"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Euclidean Lights",
-                    "duration": "P00H11M10S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-30"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Omnifreeze",
-                    "duration": "P00H11M34S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-28"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Hippie Babysitter",
-                    "duration": "P00H15M52S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-53"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Snorkle",
-                    "duration": "P00H21M05S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-98"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Method of Control",
-                    "duration": "P00H07M39S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-77"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Now That You Know",
+                "duration": "P00H11M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-31"
             }
-        ],
-        "duration": "P01H27M25S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Anima Mundi",
+                "duration": "P00H08M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-37"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Euclidean Lights",
+                "duration": "P00H11M10S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-30"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Omnifreeze",
+                "duration": "P00H11M34S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-28"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Hippie Babysitter",
+                "duration": "P00H15M52S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-53"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H21M05S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-98"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Method of Control",
+                "duration": "P00H07M39S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-77"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a2348012151_10.jpg",
     "datePublished": "21 Oct 2017 22:28:48 GMT",
-    "description": "Recorded on October 18th, 2017 at The Domino Room, in Bend, OR during the Shapeshiftour 2017"
+    "description": "Recorded on October 18th, 2017 at The Domino Room, in Bend, OR during the Shapeshiftour 2017",
+    "duration": "P01H27M25S"
 }

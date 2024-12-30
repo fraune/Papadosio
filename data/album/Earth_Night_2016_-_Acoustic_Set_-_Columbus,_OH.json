@@ -3,69 +3,66 @@
     "name": "Earth Night 2016 - Acoustic Set - Columbus, OH",
     "dateModified": "10 Jan 2017 22:56:34 GMT",
     "numTracks": 7,
-    "track": {
-        "numberOfItems": 7,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Oracle Theme",
-                    "duration": "P00H09M48S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-25"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Madre de Dios",
-                    "duration": "P00H06M13S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-27"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "The Elephant I Presume",
-                    "duration": "P00H09M19S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-22"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "We Can Always Come Back",
-                    "duration": "P00H10M06S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-21"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Anima Mundi",
-                    "duration": "P00H06M31S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-31"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "War on War",
-                    "duration": "P00H04M01S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/war-on-war"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Moon Entendré",
-                    "duration": "P00H09M04S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/moon-entendr-6"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Oracle Theme",
+                "duration": "P00H09M48S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-25"
             }
-        ],
-        "duration": "P00H55M02S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Madre de Dios",
+                "duration": "P00H06M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-27"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "The Elephant I Presume",
+                "duration": "P00H09M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-22"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "We Can Always Come Back",
+                "duration": "P00H10M06S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-21"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Anima Mundi",
+                "duration": "P00H06M31S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-31"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "War on War",
+                "duration": "P00H04M01S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/war-on-war"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Moon Entendré",
+                "duration": "P00H09M04S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/moon-entendr-6"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1841188388_10.jpg",
     "datePublished": "10 Jan 2017 00:00:00 GMT",
-    "description": "This is a recording from our Earth Night 2016 acoustic performance at the Express Live on December 17th 2016 in Columbus, OH. \r\n\r\nAll Right Reserved by Papadosio Music LLC"
+    "description": "This is a recording from our Earth Night 2016 acoustic performance at the Express Live on December 17th 2016 in Columbus, OH. \r\n\r\nAll Right Reserved by Papadosio Music LLC",
+    "duration": "P00H55M02S"
 }

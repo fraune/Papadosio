@@ -3,69 +3,66 @@
     "name": "4.20.18 | Backwoods Festival | Ozark, AR",
     "dateModified": "26 Apr 2018 16:09:41 GMT",
     "numTracks": 7,
-    "track": {
-        "numberOfItems": 7,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Intro",
-                    "duration": "P00H02M34S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-52"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "We are Water",
-                    "duration": "P00H06M44S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-113"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Frequence",
-                    "duration": "P00H13M44S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-37"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Out of Hiding",
-                    "duration": "P00H07M34S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-34"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Bypass Default",
-                    "duration": "P00H07M43S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-35"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Vactrollio",
-                    "duration": "P00H09M14S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-46"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Magreenery",
-                    "duration": "P00H13M03S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-49"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H02M34S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-52"
             }
-        ],
-        "duration": "P01H00M36S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "We are Water",
+                "duration": "P00H06M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-113"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Frequence",
+                "duration": "P00H13M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-37"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Out of Hiding",
+                "duration": "P00H07M34S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-34"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Bypass Default",
+                "duration": "P00H07M43S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-35"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Vactrollio",
+                "duration": "P00H09M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-46"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Magreenery",
+                "duration": "P00H13M03S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-49"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a3993515964_10.jpg",
     "datePublished": "26 Apr 2018 16:09:41 GMT",
-    "description": "This album was recorded on April 20th, 2018 at Backwoods Music Festival in Ozark, AR at the Legendary Mulberry MountainThanks to everybody who came out."
+    "description": "This album was recorded on April 20th, 2018 at Backwoods Music Festival in Ozark, AR at the Legendary Mulberry MountainThanks to everybody who came out.",
+    "duration": "P01H00M36S"
 }

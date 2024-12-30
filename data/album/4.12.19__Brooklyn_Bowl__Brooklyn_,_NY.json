@@ -3,109 +3,106 @@
     "name": "4.12.19 | Brooklyn Bowl | Brooklyn , NY",
     "dateModified": "15 Apr 2019 20:29:03 GMT",
     "numTracks": 12,
-    "track": {
-        "numberOfItems": 12,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Intro",
-                    "duration": "P00H03M13S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-63"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "The Lack of Everything",
-                    "duration": "P00H06M32S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-37"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Threes",
-                    "duration": "P00H13M13S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-59"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Dream Estate",
-                    "duration": "P00H14M14S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-78"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Geoglyph",
-                    "duration": "P00H08M11S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-70"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "You & yourself",
-                    "duration": "P00H14M45S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-yourself-3"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Ear to Ear v2",
-                    "duration": "P00H15M32S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-v2"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Monochrome",
-                    "duration": "P00H15M25S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-70"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Advocate of Change",
-                    "duration": "P00H07M31S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-83"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Cushion",
-                    "duration": "P00H06M54S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-62"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "Magreenery",
-                    "duration": "P00H22M40S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-59"
-                }
-            },
-            {
-                "position": 12,
-                "item": {
-                    "name": "Write Sing Play mix",
-                    "duration": "P00H08M17S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-22"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H03M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-63"
             }
-        ],
-        "duration": "P02H16M27S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "The Lack of Everything",
+                "duration": "P00H06M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-37"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Threes",
+                "duration": "P00H13M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-59"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Dream Estate",
+                "duration": "P00H14M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-78"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Geoglyph",
+                "duration": "P00H08M11S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-70"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "You & yourself",
+                "duration": "P00H14M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-yourself-3"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Ear to Ear v2",
+                "duration": "P00H15M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-v2"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Monochrome",
+                "duration": "P00H15M25S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-70"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Advocate of Change",
+                "duration": "P00H07M31S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-83"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Cushion",
+                "duration": "P00H06M54S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-62"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Magreenery",
+                "duration": "P00H22M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-59"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Write Sing Play mix",
+                "duration": "P00H08M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-22"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a2340502751_10.jpg",
     "datePublished": "15 Apr 2019 20:29:03 GMT",
-    "description": "This album was recorded on April 12th, 2019 on night 1 of our Brooklyn Bown run! Thanks for Space Bacon for opening up the night & thanks to everybody who came out! We will be back with some BIG NY plans soon!"
+    "description": "This album was recorded on April 12th, 2019 on night 1 of our Brooklyn Bown run! Thanks for Space Bacon for opening up the night & thanks to everybody who came out! We will be back with some BIG NY plans soon!",
+    "duration": "P02H16M27S"
 }

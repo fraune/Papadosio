@@ -3,109 +3,106 @@
     "name": "2013-04-27 - The Parish - Austin, TX",
     "dateModified": "03 Mar 2014 10:43:49 GMT",
     "numTracks": 12,
-    "track": {
-        "numberOfItems": 12,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Cue",
-                    "duration": "P00H08M38S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-2"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Ear to Ear",
-                    "duration": "P00H05M30S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-2"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Right Now",
-                    "duration": "P00H08M02S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-2"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Snorkle",
-                    "duration": "P00H15M58S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-2"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Find Your Cloud",
-                    "duration": "P00H12M42S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-3"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Advocate of Change",
-                    "duration": "P00H07M38S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-2"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Unparalyzer",
-                    "duration": "P00H15M50S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-3"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "TV Song",
-                    "duration": "P00H04M14S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/tv-song-3"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Geoglyph",
-                    "duration": "P00H10M40S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "If It Wasn't For You",
-                    "duration": "P00H07M32S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-2"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "All I Knew",
-                    "duration": "P00H09M24S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-3"
-                }
-            },
-            {
-                "position": 12,
-                "item": {
-                    "name": "Paradigm Shift",
-                    "duration": "P00H11M36S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H08M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-2"
             }
-        ],
-        "duration": "P01H57M44S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Ear to Ear",
+                "duration": "P00H05M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-2"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Right Now",
+                "duration": "P00H08M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-2"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H15M58S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-2"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H12M42S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-3"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Advocate of Change",
+                "duration": "P00H07M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-2"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Unparalyzer",
+                "duration": "P00H15M50S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-3"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "TV Song",
+                "duration": "P00H04M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/tv-song-3"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Geoglyph",
+                "duration": "P00H10M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "If It Wasn't For You",
+                "duration": "P00H07M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-2"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "All I Knew",
+                "duration": "P00H09M24S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-3"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Paradigm Shift",
+                "duration": "P00H11M36S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a3737092404_10.jpg",
     "datePublished": "22 May 2013 00:00:00 GMT",
-    "description": null
+    "description": null,
+    "duration": "P01H57M44S"
 }

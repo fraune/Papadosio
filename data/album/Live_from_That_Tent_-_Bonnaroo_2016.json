@@ -3,61 +3,58 @@
     "name": "Live from That Tent - Bonnaroo 2016",
     "dateModified": "16 Jun 2016 23:45:42 GMT",
     "numTracks": 6,
-    "track": {
-        "numberOfItems": 6,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Direction Song",
-                    "duration": "P00H16M27S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-43"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Cue",
-                    "duration": "P00H09M41S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-80"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "The Wrong Nostalgia",
-                    "duration": "P00H04M59S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-25"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "The Bionic Man Meets His Past",
-                    "duration": "P00H12M30S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-68"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Cloud Found",
-                    "duration": "P00H09M40S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-66"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "New Love",
-                    "duration": "P00H08M45S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-98"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Direction Song",
+                "duration": "P00H16M27S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-43"
             }
-        ],
-        "duration": "P01H02M02S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H09M41S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-80"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "The Wrong Nostalgia",
+                "duration": "P00H04M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-25"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H12M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-68"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Cloud Found",
+                "duration": "P00H09M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-66"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H08M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-98"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1188038150_10.jpg",
     "datePublished": "16 Jun 2016 23:45:42 GMT",
-    "description": null
+    "description": null,
+    "duration": "P01H02M02S"
 }

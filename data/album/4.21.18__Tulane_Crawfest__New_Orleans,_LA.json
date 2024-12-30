@@ -3,85 +3,82 @@
     "name": "4.21.18 | Tulane Crawfest | New Orleans, LA",
     "dateModified": "26 Apr 2018 17:23:49 GMT",
     "numTracks": 9,
-    "track": {
-        "numberOfItems": 9,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Unparalyzer",
-                    "duration": "P00H11M41S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-84"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "Threes",
-                    "duration": "P00H11M38S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-46"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Geoglyph",
-                    "duration": "P00H07M27S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-58"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Puddles for Oceans",
-                    "duration": "P00H06M57S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-51"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Euclidean Lights",
-                    "duration": "P00H08M38S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-38"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "Puddles for Oceans Reprise",
-                    "duration": "P00H05M16S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-reprise"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Utopiate",
-                    "duration": "P00H13M54S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-65"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "Find Your Cloud",
-                    "duration": "P00H10M41S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-116"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "Advocate of Change",
-                    "duration": "P00H11M39S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-70"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Unparalyzer",
+                "duration": "P00H11M41S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-84"
             }
-        ],
-        "duration": "P01H27M51S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Threes",
+                "duration": "P00H11M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-46"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Geoglyph",
+                "duration": "P00H07M27S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-58"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Puddles for Oceans",
+                "duration": "P00H06M57S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-51"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Euclidean Lights",
+                "duration": "P00H08M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-38"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Puddles for Oceans Reprise",
+                "duration": "P00H05M16S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-reprise"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Utopiate",
+                "duration": "P00H13M54S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-65"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H10M41S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-116"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Advocate of Change",
+                "duration": "P00H11M39S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-70"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a3366419102_10.jpg",
     "datePublished": "26 Apr 2018 17:23:49 GMT",
-    "description": "This album was recorded on April 21st, 2018 at Tulane Crawfest in New Orleans, LA. Thanks to everybody who came out! \r\n\r\nMany crawfish lost their lives in the making of this set."
+    "description": "This album was recorded on April 21st, 2018 at Tulane Crawfest in New Orleans, LA. Thanks to everybody who came out! \r\n\r\nMany crawfish lost their lives in the making of this set.",
+    "duration": "P01H27M51S"
 }

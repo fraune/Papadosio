@@ -3,157 +3,154 @@
     "name": "Live at Aura 2013 - Spirit of Suwannee- Live Oak, FL",
     "dateModified": "03 Mar 2014 10:42:41 GMT",
     "numTracks": 18,
-    "track": {
-        "numberOfItems": 18,
-        "itemListElement": [
-            {
-                "position": 1,
-                "item": {
-                    "name": "Find Your Cloud (2.16.13)",
-                    "duration": "P00H11M08S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-21613"
-                }
-            },
-            {
-                "position": 2,
-                "item": {
-                    "name": "How Not To Float (2.16.13)",
-                    "duration": "P00H09M46S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-21613"
-                }
-            },
-            {
-                "position": 3,
-                "item": {
-                    "name": "Magreenery (2.16.13)",
-                    "duration": "P00H20M53S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-21613"
-                }
-            },
-            {
-                "position": 4,
-                "item": {
-                    "name": "Night Colors (2.16.13)",
-                    "duration": "P00H12M20S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-21613"
-                }
-            },
-            {
-                "position": 5,
-                "item": {
-                    "name": "Unparalyzer (2.16.13)",
-                    "duration": "P00H15M08S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-21613"
-                }
-            },
-            {
-                "position": 6,
-                "item": {
-                    "name": "If It Wasn't For You (2.16.13)",
-                    "duration": "P00H09M13S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-21613"
-                }
-            },
-            {
-                "position": 7,
-                "item": {
-                    "name": "Polygons (2.16.13)",
-                    "duration": "P00H15M23S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-21613"
-                }
-            },
-            {
-                "position": 8,
-                "item": {
-                    "name": "The Eyes Have Eyes (2.16.13)",
-                    "duration": "P00H08M08S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-21613"
-                }
-            },
-            {
-                "position": 9,
-                "item": {
-                    "name": "The Plug (2.17.13)",
-                    "duration": "P00H15M45S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-21713"
-                }
-            },
-            {
-                "position": 10,
-                "item": {
-                    "name": "Ear to Ear (2.17.13)",
-                    "duration": "P00H07M11S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-21713"
-                }
-            },
-            {
-                "position": 11,
-                "item": {
-                    "name": "Madre de Dios (2.17.13)",
-                    "duration": "P00H05M58S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-21713"
-                }
-            },
-            {
-                "position": 12,
-                "item": {
-                    "name": "Planting the Seeds of Life (2.17.13)",
-                    "duration": "P00H05M54S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/planting-the-seeds-of-life-21713"
-                }
-            },
-            {
-                "position": 13,
-                "item": {
-                    "name": "Utopiate (2.17.13)",
-                    "duration": "P00H13M03S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-21713"
-                }
-            },
-            {
-                "position": 14,
-                "item": {
-                    "name": "TV Song (2.17.13)",
-                    "duration": "P00H04M26S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/tv-song-21713"
-                }
-            },
-            {
-                "position": 15,
-                "item": {
-                    "name": "Fuse (2.17.13)",
-                    "duration": "P00H11M42S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-21713"
-                }
-            },
-            {
-                "position": 16,
-                "item": {
-                    "name": "Direction",
-                    "duration": "P00H10M28S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-5"
-                }
-            },
-            {
-                "position": 17,
-                "item": {
-                    "name": "Cue (2.17.13)",
-                    "duration": "P00H11M33S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-21713"
-                }
-            },
-            {
-                "position": 18,
-                "item": {
-                    "name": "Stick Figure (2.17.13)",
-                    "duration": "P00H08M24S",
-                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-21713"
-                }
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Find Your Cloud (2.16.13)",
+                "duration": "P00H11M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-21613"
             }
-        ],
-        "duration": "P03H16M23S"
-    },
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "How Not To Float (2.16.13)",
+                "duration": "P00H09M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-21613"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Magreenery (2.16.13)",
+                "duration": "P00H20M53S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-21613"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Night Colors (2.16.13)",
+                "duration": "P00H12M20S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-21613"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Unparalyzer (2.16.13)",
+                "duration": "P00H15M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-21613"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "If It Wasn't For You (2.16.13)",
+                "duration": "P00H09M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-21613"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Polygons (2.16.13)",
+                "duration": "P00H15M23S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-21613"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "The Eyes Have Eyes (2.16.13)",
+                "duration": "P00H08M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-21613"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "The Plug (2.17.13)",
+                "duration": "P00H15M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-21713"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Ear to Ear (2.17.13)",
+                "duration": "P00H07M11S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-21713"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Madre de Dios (2.17.13)",
+                "duration": "P00H05M58S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-21713"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Planting the Seeds of Life (2.17.13)",
+                "duration": "P00H05M54S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/planting-the-seeds-of-life-21713"
+            }
+        },
+        {
+            "position": 13,
+            "item": {
+                "name": "Utopiate (2.17.13)",
+                "duration": "P00H13M03S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-21713"
+            }
+        },
+        {
+            "position": 14,
+            "item": {
+                "name": "TV Song (2.17.13)",
+                "duration": "P00H04M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/tv-song-21713"
+            }
+        },
+        {
+            "position": 15,
+            "item": {
+                "name": "Fuse (2.17.13)",
+                "duration": "P00H11M42S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-21713"
+            }
+        },
+        {
+            "position": 16,
+            "item": {
+                "name": "Direction",
+                "duration": "P00H10M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-5"
+            }
+        },
+        {
+            "position": 17,
+            "item": {
+                "name": "Cue (2.17.13)",
+                "duration": "P00H11M33S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-21713"
+            }
+        },
+        {
+            "position": 18,
+            "item": {
+                "name": "Stick Figure (2.17.13)",
+                "duration": "P00H08M24S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-21713"
+            }
+        }
+    ],
     "image": "https://f4.bcbits.com/img/a1549245047_10.jpg",
     "datePublished": "13 Jun 2013 00:00:00 GMT",
-    "description": "Papadosio returned to Aura for the 4th year running to headline the legendary Spirit of Suwanee Music Park for two nights."
+    "description": "Papadosio returned to Aura for the 4th year running to headline the legendary Spirit of Suwanee Music Park for two nights.",
+    "duration": "P03H16M23S"
 }
