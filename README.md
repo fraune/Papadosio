@@ -41,8 +41,9 @@ python app/raw_reset.py
 
 1. Open Chrome and navigate to https://papadosio.bandcamp.com/music
 2. Scroll to the bottom, ensuring all content is loaded on a single page
-3. File -> Save Page As... -> Webpage, Single File
+3. File -> Save Page As... -> Webpage, HTML Only
     - Save the file to the `raw/` directory in this local repository
+    - Use default naming, `Music _ Papadosio.html`
 
 ### Acqisition of song data
 
