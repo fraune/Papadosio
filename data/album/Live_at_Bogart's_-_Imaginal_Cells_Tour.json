@@ -4,7 +4,6 @@
     "dateModified": "09 Dec 2014 18:50:59 GMT",
     "numTracks": 10,
     "track": {
-        "@type": "ItemList",
         "numberOfItems": 10,
         "itemListElement": [
             {

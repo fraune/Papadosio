@@ -82,6 +82,10 @@ def process_track_data(track_data):
     if not track_data or "itemListElement" not in track_data:
         return None
 
+    # Ensure '@type' is removed from the top-level track data (not from 'item')
+    if "@type" in track_data:
+        del track_data["@type"]
+
     item_list = track_data["itemListElement"]
     total_seconds = 0
 
