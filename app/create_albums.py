@@ -2,6 +2,7 @@ import os
 import json
 
 def create_albums_json(directory, output_file):
+    """Create a combined albums JSON from individual album JSON files."""
     # List to hold all the albums' data
     albums_data = []
 
@@ -21,13 +22,14 @@ def create_albums_json(directory, output_file):
     # Write the combined data to albums.json
     with open(output_file, 'w') as outfile:
         json.dump(albums_data, outfile, indent=4)
+    
     print(f"Successfully created {output_file} with {len(albums_data)} albums.")
 
-# Specify the directory containing the album JSON files
-album_directory = "data/album"
+def main():
+    """Main function to create the combined albums JSON."""
+    album_directory = "data/album"
+    output_json = "data/albums.json"
+    create_albums_json(album_directory, output_json)
 
-# Specify the output file
-output_json = "data/albums.json"
-
-# Call the function to create the combined albums JSON
-create_albums_json(album_directory, output_json)
+if __name__ == "__main__":
+    main()
