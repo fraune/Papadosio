@@ -1,0 +1,80 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/121720-holidosio-original-set-asheville-nc",
+    "name": "12.17.20 | Holidosio Original Set | Asheville, NC",
+    "dateModified": "08 Jan 2021 16:26:38 GMT",
+    "numTracks": 8,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 8,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Paradigm Shift",
+                    "duration": "P00H17M54S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-100"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Mr. Turtles Cloud Kingdom",
+                    "duration": "P00H05M19S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-57"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Cushion",
+                    "duration": "P00H06M44S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-69"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Smile and Nod",
+                    "duration": "P00H12M53S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-86"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "If It Wasn't For You",
+                    "duration": "P00H07M50S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-57"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Night Colors",
+                    "duration": "P00H14M34S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-85"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Puddles For Oceans",
+                    "duration": "P00H08M51S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-69"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H09M37S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-153"
+                }
+            }
+        ],
+        "duration": "P01H23M42S"
+    },
+    "image": "https://f4.bcbits.com/img/a3929500470_10.jpg",
+    "datePublished": "20 Dec 2020 00:00:00 GMT",
+    "description": "This set was recorded on December 17th, 2020 at in Asheville, NC for our annual hometown Holidosio celebration. This year was a weird one, to say the least. We are thankful to be able to play music for such an amazing fanbase, even if it is streamed over the internet. We are looking forward to gathering and celebrating together again soon. Fingers crossed for 2021. Happy Holidosio to all! \r\n\r\nArt: Nathanial Deas"
+}

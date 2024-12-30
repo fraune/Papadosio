@@ -1,0 +1,104 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/11919-animas-city-theatre-durango-co",
+    "name": "1.19.19 | Animas City Theatre | Durango, CO",
+    "dateModified": "30 Jan 2019 20:02:12 GMT",
+    "numTracks": 11,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 11,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "2AM",
+                    "duration": "P00H05M33S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-62"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Curve",
+                    "duration": "P00H19M34S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-65"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Method of Control",
+                    "duration": "P00H07M46S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-96"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Glimpse of Light",
+                    "duration": "P00H06M19S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-50"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Distress Signal",
+                    "duration": "P00H08M36S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-18"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "No End",
+                    "duration": "P00H06M06S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/no-end-9"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Anima Mundi",
+                    "duration": "P00H09M14S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-45"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Fire Rite",
+                    "duration": "P00H06M06S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-17"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Bass Interlude",
+                    "duration": "P00H02M45S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bass-interlude"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "The World Is a Cube",
+                    "duration": "P00H19M01S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-12"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H15M01S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-118"
+                }
+            }
+        ],
+        "duration": "P01H46M01S"
+    },
+    "image": "https://f4.bcbits.com/img/a3771467960_10.jpg",
+    "datePublished": "30 Jan 2019 20:02:12 GMT",
+    "description": "This album was recorded on January 19th, 2019 in Durango, CO on Night two of our doubleheader at the Animas City Theatre. Thanks to everybody who came out to get down with us & thanks to our boys Cycles for getting the night started."
+}

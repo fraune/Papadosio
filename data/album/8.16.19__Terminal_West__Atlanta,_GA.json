@@ -1,0 +1,120 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/81619-terminal-west-atlanta-ga",
+    "name": "8.16.19 | Terminal West | Atlanta, GA",
+    "dateModified": "21 Aug 2019 21:38:24 GMT",
+    "numTracks": 13,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 13,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Intro",
+                    "duration": "P00H03M48S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-66"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Method of Control",
+                    "duration": "P00H12M12S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-99"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Glimpse of Light",
+                    "duration": "P00H05M59S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-51"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "The Plug",
+                    "duration": "P00H13M48S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-58"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Bypass Default",
+                    "duration": "P00H08M07S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-41"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Catalyst",
+                    "duration": "P00H09M33S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H13M45S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-141"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "2am",
+                    "duration": "P00H08M56S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-64"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H04M24S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-140"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Now That You Know",
+                    "duration": "P00H07M33S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-41"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Smile and nod",
+                    "duration": "P00H15M01S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-79"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "The Plug",
+                    "duration": "P00H04M06S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-57"
+                }
+            },
+            {
+                "position": 13,
+                "item": {
+                    "name": "Vactrollio",
+                    "duration": "P00H08M57S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-65"
+                }
+            }
+        ],
+        "duration": "P01H56M09S"
+    },
+    "image": "https://f4.bcbits.com/img/a1781019401_10.jpg",
+    "datePublished": "21 Aug 2019 21:38:24 GMT",
+    "description": "This album was recorded on August 16th, 2019 at Terminal West in Atlanta, GA. Thanks to everybody who came out to show their love and support and thanks to Hive Mind for opening the night up!"
+}

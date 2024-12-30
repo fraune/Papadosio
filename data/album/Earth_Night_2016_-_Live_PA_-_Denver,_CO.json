@@ -1,0 +1,72 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/earth-night-2016-live-pa-denver-co",
+    "name": "Earth Night 2016 - Live PA - Denver, CO",
+    "dateModified": "16 Dec 2016 03:55:04 GMT",
+    "numTracks": 7,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 7,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Little Whiskers",
+                    "duration": "P00H43M59S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/little-whiskers"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Grand Crayonyon",
+                    "duration": "P00H13M20S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/grand-crayonyon"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Take Up Thy Cape and Vanish",
+                    "duration": "P00H17M55S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/take-up-thy-cape-and-vanish"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Super High Five",
+                    "duration": "P00H22M00S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/super-high-five"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "A Verbs",
+                    "duration": "P00H15M00S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/a-verbs"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Phos for Us",
+                    "duration": "P00H15M56S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/phos-for-us"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Gary Indiana",
+                    "duration": "P00H06M03S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/gary-indiana"
+                }
+            }
+        ],
+        "duration": "P02H14M13S"
+    },
+    "image": "https://f4.bcbits.com/img/a2048843527_10.jpg",
+    "datePublished": "16 Dec 2016 00:00:00 GMT",
+    "description": null
+}

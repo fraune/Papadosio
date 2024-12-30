@@ -1,0 +1,72 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/72321-the-werk-out-legend-valley-oh-set-1",
+    "name": "7.23.21 | The Werk Out | Legend Valley, OH - Set 1",
+    "dateModified": "04 Aug 2021 19:33:36 GMT",
+    "numTracks": 7,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 7,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Intro",
+                    "duration": "P00H02M15S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-89"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Catalyst",
+                    "duration": "P00H09M42S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-21"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Cubensis",
+                    "duration": "P00H13M26S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-9"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Epiphany",
+                    "duration": "P00H15M03S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-53"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Night Colors",
+                    "duration": "P00H19M46S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-87"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "We Can Always Come Back",
+                    "duration": "P00H12M09S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-36"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Fly Agairc",
+                    "duration": "P00H13M30S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agairc"
+                }
+            }
+        ],
+        "duration": "P01H25M51S"
+    },
+    "image": "https://f4.bcbits.com/img/a3053809853_10.jpg",
+    "datePublished": "04 Aug 2021 19:33:36 GMT",
+    "description": "This album was recorded on July 23rd, 2021 at Legend Valley in Thornville, OH. Thanks to our friends The Werks for having us out for this epic comeback party! See you on New Year in Columbus!"
+}

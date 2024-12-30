@@ -1,0 +1,104 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/baltimore-soundstage-1216-baltimore-md",
+    "name": "Baltimore Soundstage | 1.2.16 | Baltimore, MD",
+    "dateModified": "19 Jan 2016 00:55:00 GMT",
+    "numTracks": 11,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 11,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "...And This is What He Thought",
+                    "duration": "P00H04M09S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-16"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "By The Light of the Stars",
+                    "duration": "P00H16M09S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-36"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "2am",
+                    "duration": "P00H06M30S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-23"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Bypass Default",
+                    "duration": "P00H10M11S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-14"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "The Wrong Nostalgia",
+                    "duration": "P00H05M19S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-12"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "We Are Water",
+                    "duration": "P00H06M28S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-72"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Lack of Everything",
+                    "duration": "P00H07M52S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lack-of-everything-4"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "The Big Smile",
+                    "duration": "P00H21M55S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-big-smile-10"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Glimpse of Light",
+                    "duration": "P00H08M50S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-21"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Cloud Found",
+                    "duration": "P00H10M21S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-58"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Curve Jam",
+                    "duration": "P00H17M31S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-jam-3"
+                }
+            }
+        ],
+        "duration": "P01H55M15S"
+    },
+    "image": "https://f4.bcbits.com/img/a3847227310_10.jpg",
+    "datePublished": "19 Jan 2016 00:55:00 GMT",
+    "description": "Baltimore Soundstage | 1.2.16 | Baltimore, MD\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2016.\r\n\r\nArtwork: Goatfaced | Thomas Forrest"
+}

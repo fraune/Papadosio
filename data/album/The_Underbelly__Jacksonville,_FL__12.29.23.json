@@ -1,0 +1,96 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/the-underbelly-jacksonville-fl-122923",
+    "name": "The Underbelly | Jacksonville, FL | 12.29.23",
+    "dateModified": "05 Jan 2024 20:26:41 GMT",
+    "numTracks": 10,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 10,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Puddles For Oceans",
+                    "duration": "P00H14M00S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-87"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "(Curtain's Cleft) Your'e A Catman",
+                    "duration": "P00H10M29S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curtains-cleft-youre-a-catman-2"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "New Love",
+                    "duration": "P00H10M01S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-173"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Versicolor",
+                    "duration": "P00H11M37S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-43"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Fossilize",
+                    "duration": "P00H10M20S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fossilize-8"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Geoglyph",
+                    "duration": "P00H09M09S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-102"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Cordyceps",
+                    "duration": "P00H10M48S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cordyceps-24"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H13M21S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-169"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Not Just A Word",
+                    "duration": "P00H11M18S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-29"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Curve",
+                    "duration": "P00H12M42S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-85"
+                }
+            }
+        ],
+        "duration": "P01H53M45S"
+    },
+    "image": "https://f4.bcbits.com/img/a2120168583_10.jpg",
+    "datePublished": "05 Jan 2024 20:26:41 GMT",
+    "description": "Thanks for coming and hanging with us again Jacksonville! We had a great night, see you again soon FL!"
+}

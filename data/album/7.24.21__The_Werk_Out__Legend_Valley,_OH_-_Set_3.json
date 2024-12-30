@@ -1,0 +1,96 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/72421-the-werk-out-legend-valley-oh-set-3",
+    "name": "7.24.21 | The Werk Out | Legend Valley, OH - Set 3",
+    "dateModified": "04 Aug 2021 19:36:16 GMT",
+    "numTracks": 10,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 10,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Intro",
+                    "duration": "P00H02M43S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-90"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Versicolor",
+                    "duration": "P00H05M28S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-9"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "All I Knew",
+                    "duration": "P00H07M03S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-107"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Versicolor",
+                    "duration": "P00H02M08S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-10"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Garden",
+                    "duration": "P00H08M24S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-111"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Lions Mane",
+                    "duration": "P00H06M55S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-9"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Now That You Know",
+                    "duration": "P00H15M29S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-46"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Method Of Control",
+                    "duration": "P00H08M03S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-111"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Vactrolio",
+                    "duration": "P00H15M27S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrolio"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "The Bionic Man Meets His Past",
+                    "duration": "P00H11M43S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-132"
+                }
+            }
+        ],
+        "duration": "P01H23M23S"
+    },
+    "image": "https://f4.bcbits.com/img/a2487012341_10.jpg",
+    "datePublished": "04 Aug 2021 19:36:16 GMT",
+    "description": "This album was recorded on July 24th, 2021 at Legend Valley in Thornville, OH. Thanks to our friends The Werks for having us out for this epic comeback party! See you on New Year in Columbus!"
+}

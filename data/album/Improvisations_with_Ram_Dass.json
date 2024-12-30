@@ -1,0 +1,56 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/improvisations-with-ram-dass",
+    "name": "Improvisations with Ram Dass",
+    "dateModified": "17 May 2024 12:57:24 GMT",
+    "numTracks": 5,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 5,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "The Antidote For Fear",
+                    "duration": "P00H14M22S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-antidote-for-fear-3"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Cutting Through the Drama",
+                    "duration": "P00H07M17S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cutting-through-the-drama"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Who You Are",
+                    "duration": "P00H09M55S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/who-you-are-5"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Knowledge or Wisdom",
+                    "duration": "P00H06M56S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/knowledge-or-wisdom"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "People as Trees",
+                    "duration": "P00H07M09S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/people-as-trees"
+                }
+            }
+        ],
+        "duration": "P00H45M39S"
+    },
+    "image": "https://f4.bcbits.com/img/a0676369594_10.jpg",
+    "datePublished": "15 May 2024 00:00:00 GMT",
+    "description": "Here is a collection of 5 experimental recordings wherein the band improvised music together while listening to various recordings of Ram Dass. Each tune was recorded on the spot with no prior rehearsal with the goal of remaining in the moment which is a central theme the teachings. The musical result is \"Improvisations with Ram Dass\" 5 distinct sonic journeys for your heart and ears."
+}

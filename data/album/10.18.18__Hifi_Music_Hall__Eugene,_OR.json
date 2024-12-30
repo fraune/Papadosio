@@ -1,0 +1,104 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/101818-hifi-music-hall-eugene-or",
+    "name": "10.18.18 | Hifi Music Hall | Eugene, OR",
+    "dateModified": "27 Oct 2018 19:23:09 GMT",
+    "numTracks": 11,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 11,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "You and Yourself",
+                    "duration": "P00H19M29S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-56"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "All I Knew",
+                    "duration": "P00H09M03S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-91"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "No End",
+                    "duration": "P00H05M17S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/no-end-5"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Fire Rite",
+                    "duration": "P00H06M18S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-6"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Write Sing Play Mix",
+                    "duration": "P00H07M56S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-7"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Ritual",
+                    "duration": "P00H10M28S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-38"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Liminal Daybreak",
+                    "duration": "P00H05M21S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/liminal-daybreak-7"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "We are Water",
+                    "duration": "P00H14M45S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-118"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "2AM",
+                    "duration": "P00H05M31S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-61"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Drift",
+                    "duration": "P00H05M56S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-37"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H15M38S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-114"
+                }
+            }
+        ],
+        "duration": "P01H45M42S"
+    },
+    "image": "https://f4.bcbits.com/img/a2310118700_10.jpg",
+    "datePublished": "27 Oct 2018 19:23:09 GMT",
+    "description": "This album was recorded on October 18th, 2018 in Eugene, OR at the Hifi Music Hall! thanks to everybody who came out to rage with us! We are gonna be back very soon!"
+}

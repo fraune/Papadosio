@@ -1,0 +1,96 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/live-at-town-ballroom-imaginal-cells-tour",
+    "name": "Live at Town Ballroom - Imaginal Cells Tour",
+    "dateModified": "03 Nov 2014 14:11:35 GMT",
+    "numTracks": 10,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 10,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "You and Yourself",
+                    "duration": "P00H10M00S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-20"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "What's At Stake",
+                    "duration": "P00H06M14S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/whats-at-stake-18"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H15M58S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-34"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Method of Control",
+                    "duration": "P00H12M45S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-29"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Smile and Nod",
+                    "duration": "P00H11M01S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-26"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "By the Light of the Stars>",
+                    "duration": "P00H12M25S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-20"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Monochrome",
+                    "duration": "P00H09M05S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-17"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Magreenery",
+                    "duration": "P00H18M12S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-20"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Night Colors",
+                    "duration": "P00H14M04S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-27"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "New Love",
+                    "duration": "P00H10M48S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-52"
+                }
+            }
+        ],
+        "duration": "P02H00M32S"
+    },
+    "image": "https://f4.bcbits.com/img/a3144188124_10.jpg",
+    "datePublished": "03 Nov 2014 14:11:35 GMT",
+    "description": "Live at Town Ballroom - Imaginal Cells Tour\r\n10.22.14 - Buffalo, NY"
+}

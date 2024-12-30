@@ -1,0 +1,120 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/the-miramar-theatre-milwaukee-wi-3124",
+    "name": "The Miramar Theatre | Milwaukee, WI | 3.1.24",
+    "dateModified": "06 Mar 2024 14:51:32 GMT",
+    "numTracks": 13,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 13,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "The Bionic Man Meets His Past",
+                    "duration": "P00H13M22S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-161"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Cubensis",
+                    "duration": "P00H10M36S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-48"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Oracle Theme",
+                    "duration": "P00H12M01S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-49"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Spinning",
+                    "duration": "P00H03M49S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/spinning-9"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Utopiate",
+                    "duration": "P00H14M12S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-103"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Boss Battle",
+                    "duration": "P00H03M28S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/boss-battle-16"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Xanadu",
+                    "duration": "P00H12M12S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/xanadu-16"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Geoglyph",
+                    "duration": "P00H07M58S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-104"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "All I Knew",
+                    "duration": "P00H07M22S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-126"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Not Just A Word",
+                    "duration": "P00H13M13S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-33"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "New Love",
+                    "duration": "P00H09M50S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-176"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "Hippie Babysitter",
+                    "duration": "P00H14M08S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-90"
+                }
+            },
+            {
+                "position": 13,
+                "item": {
+                    "name": "Milwaukee: Two Nights",
+                    "duration": "P00H00M24S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/milwaukee-two-nights"
+                }
+            }
+        ],
+        "duration": "P02H02M35S"
+    },
+    "image": "https://f4.bcbits.com/img/a0155198218_10.jpg",
+    "datePublished": "06 Mar 2024 14:51:32 GMT",
+    "description": "Night one of a two night send, thanks for hangin Milwaukee!"
+}

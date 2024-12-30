@@ -1,0 +1,112 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/extrasinamovie-3916-tulsa-ok",
+    "name": "#extrasinamovie | 3.9.16 | Tulsa, OK",
+    "dateModified": "05 Apr 2016 20:14:43 GMT",
+    "numTracks": 12,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 12,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Direction Song",
+                    "duration": "P00H16M24S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-41"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Utopiate",
+                    "duration": "P00H16M01S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-48"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Epiphany",
+                    "duration": "P00H08M49S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-31"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Out of Hiding",
+                    "duration": "P00H12M07S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-22"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Improbability Blotter",
+                    "duration": "P00H14M53S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-48"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "The Wrong Nostalgia",
+                    "duration": "P00H04M49S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-20"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "New Love",
+                    "duration": "P00H10M49S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-96"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "2AM",
+                    "duration": "P00H06M15S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-33"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Obove",
+                    "duration": "P00H03M39S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-4"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H10M23S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-82"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Crowd Banter",
+                    "duration": "P00H02M39S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/crowd-banter-18"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "The Eyes Have Eyes",
+                    "duration": "P00H10M57S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-39"
+                }
+            }
+        ],
+        "duration": "P01H57M45S"
+    },
+    "image": "https://f4.bcbits.com/img/a1270700132_10.jpg",
+    "datePublished": "05 Apr 2016 20:14:43 GMT",
+    "description": null
+}

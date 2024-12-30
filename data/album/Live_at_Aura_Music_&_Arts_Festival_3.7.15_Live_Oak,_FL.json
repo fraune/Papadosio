@@ -1,0 +1,88 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/live-at-aura-music-arts-festival-3715-live-oak-fl-2",
+    "name": "Live at Aura Music & Arts Festival |3.7.15| Live Oak, FL",
+    "dateModified": "16 Mar 2015 15:39:51 GMT",
+    "numTracks": 9,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 9,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "The lack Of everything",
+                    "duration": "P00H06M36S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-8"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Cue",
+                    "duration": "P00H08M58S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-49"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Ear to Ear",
+                    "duration": "P00H09M19S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-10"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Right Now",
+                    "duration": "P00H07M55S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-19"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "The Elephant I presume",
+                    "duration": "P00H08M51S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-16"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Smile and Nod",
+                    "duration": "P00H14M43S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-31"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Paradigm Shift 2/2",
+                    "duration": "P00H11M29S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-2-2"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Night Colors",
+                    "duration": "P00H12M14S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-32"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Improbablilty Blotter",
+                    "duration": "P00H08M23S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbablilty-blotter"
+                }
+            }
+        ],
+        "duration": "P01H28M28S"
+    },
+    "image": "https://f4.bcbits.com/img/a1516339846_10.jpg",
+    "datePublished": "16 Mar 2015 00:00:00 GMT",
+    "description": "Live at Aura Music & Arts Festival |3.7.15| Live Oak, FL"
+}

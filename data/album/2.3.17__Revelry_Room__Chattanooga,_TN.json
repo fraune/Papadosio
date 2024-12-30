@@ -1,0 +1,96 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/2317-revelry-room-chattanooga-tn",
+    "name": "2.3.17 | Revelry Room | Chattanooga, TN",
+    "dateModified": "05 Feb 2017 22:14:40 GMT",
+    "numTracks": 10,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 10,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "By the Light of the Stars",
+                    "duration": "P00H17M35S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-45"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Omnifreeze",
+                    "duration": "P00H10M14S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-14"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H17M48S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-92"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Mr. Turtles Cloud Kingdom",
+                    "duration": "P00H05M45S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-13"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Each and Every Wave",
+                    "duration": "P00H07M35S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-14"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Geoglyph",
+                    "duration": "P00H09M54S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-41"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "If it Wasnt for You",
+                    "duration": "P00H15M36S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-43"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Vactrollio",
+                    "duration": "P00H08M52S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-14"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H19M42S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-87"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Paradigm Shift",
+                    "duration": "P00H15M33S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-60"
+                }
+            }
+        ],
+        "duration": "P02H08M34S"
+    },
+    "image": "https://f4.bcbits.com/img/a1083096782_10.jpg",
+    "datePublished": "05 Feb 2017 00:00:00 GMT",
+    "description": "Recorded on February 3rd 2017 at The Revelry Room in Chattanooga, TN. \r\n\r\nPattern Integrities Spring Tour 2017 \r\n\r\nAll material was written and recorded by Papadosio."
+}

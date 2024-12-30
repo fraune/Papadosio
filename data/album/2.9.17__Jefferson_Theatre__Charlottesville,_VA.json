@@ -1,0 +1,96 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/2917-jefferson-theatre-charlottesville-va",
+    "name": "2.9.17 | Jefferson Theatre | Charlottesville, VA",
+    "dateModified": "10 Feb 2017 22:27:09 GMT",
+    "numTracks": 10,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 10,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Utopiate",
+                    "duration": "P00H17M34S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-55"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Each and Every Wave",
+                    "duration": "P00H06M27S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-15"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Method of Control",
+                    "duration": "P00H18M58S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-65"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Fuse",
+                    "duration": "P00H09M40S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-46"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "The Plug 1/2",
+                    "duration": "P00H11M35S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-1-2"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Vactrollio",
+                    "duration": "P00H08M58S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-15"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "The Plug 2/2",
+                    "duration": "P00H04M22S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-2-2"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "We Are Water",
+                    "duration": "P00H14M20S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-96"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Curve",
+                    "duration": "P00H19M19S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-45"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Giving You Up",
+                    "duration": "P00H16M02S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/giving-you-up-19"
+                }
+            }
+        ],
+        "duration": "P02H07M15S"
+    },
+    "image": "https://f4.bcbits.com/img/a0644772633_10.jpg",
+    "datePublished": "10 Feb 2017 00:00:00 GMT",
+    "description": "Recorded on February 9th 2017 at The Jefferson Theatre, Charlottesville, VA. \r\n\r\nPattern Integrities Spring Tour 2017 \r\n\r\nAll material was written and recorded by Papadosio.\r\ncredits"
+}

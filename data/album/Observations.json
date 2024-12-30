@@ -1,0 +1,104 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/observations",
+    "name": "Observations",
+    "dateModified": "24 Oct 2013 02:49:16 GMT",
+    "numTracks": 11,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 11,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "The Lack of Everything",
+                    "duration": "P00H05M39S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H07M48S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "You and Yourself",
+                    "duration": "P00H06M23S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "All I Knew",
+                    "duration": "P00H05M48S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Improbability Blotter",
+                    "duration": "P00H05M26S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Hippie Babysitter",
+                    "duration": "P00H03M36S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Giving You Up",
+                    "duration": "P00H04M30S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/giving-you-up"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Smile and Nod",
+                    "duration": "P00H06M14S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Night Colors",
+                    "duration": "P00H05M24S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "How Not to Float",
+                    "duration": "P00H05M05S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "The Eyes Have Eyes",
+                    "duration": "P00H07M21S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes"
+                }
+            }
+        ],
+        "duration": "P01H03M14S"
+    },
+    "image": "https://f4.bcbits.com/img/a3473303821_10.jpg",
+    "datePublished": "23 Oct 2009 00:00:00 GMT",
+    "description": "You are, the sum of your experiences up until this moment. Your art, your style, your opinions, are all contrived from what you have observed. With this knowledge realize, that no matter how insignificant you think your actions are, you are influencing everyone around you. Herein lies your power to change the world, because the world is always watching."
+}

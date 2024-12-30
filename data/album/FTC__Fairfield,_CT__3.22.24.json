@@ -1,0 +1,104 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/ftc-fairfield-ct-32224",
+    "name": "FTC | Fairfield, CT | 3.22.24",
+    "dateModified": "27 Mar 2024 14:58:59 GMT",
+    "numTracks": 11,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 11,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Not Just A Word",
+                    "duration": "P00H14M38S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-35"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Paradigm Shift",
+                    "duration": "P00H12M43S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-132"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "How Not To Float",
+                    "duration": "P00H09M48S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-72"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Distress Signal",
+                    "duration": "P00H10M39S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-36"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "We Can Always Come Back",
+                    "duration": "P00H06M13S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-48"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "You're A Catman",
+                    "duration": "P00H10M09S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-28"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H16M19S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-193"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Fate",
+                    "duration": "P00H09M55S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fate-14"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Cushion",
+                    "duration": "P00H06M27S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-77"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Lion's Mane",
+                    "duration": "P00H06M15S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-45"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "The Bionic Man Meets His Past",
+                    "duration": "P00H14M48S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-162"
+                }
+            }
+        ],
+        "duration": "P01H57M54S"
+    },
+    "image": "https://f4.bcbits.com/img/a0527461131_10.jpg",
+    "datePublished": "27 Mar 2024 14:58:59 GMT",
+    "description": "Ooooooh and Fairfield......what a great venue and vibes thanks yall!"
+}

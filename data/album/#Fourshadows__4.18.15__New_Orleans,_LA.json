@@ -1,0 +1,112 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/fourshadows-41815-new-orleans-la",
+    "name": "#Fourshadows | 4.18.15 | New Orleans, LA",
+    "dateModified": "18 Apr 2019 17:43:59 GMT",
+    "numTracks": 12,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 12,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Garden",
+                    "duration": "P00H09M39S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-45"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Magreenery",
+                    "duration": "P00H24M14S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-25"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "We Are Water",
+                    "duration": "P00H06M34S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-59"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Cloud Found",
+                    "duration": "P00H09M14S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-47"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "2+2=5* (Radiohead)",
+                    "duration": "P00H03M44S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2-2-5-radiohead"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Myxomatosis* (Radiohead)",
+                    "duration": "P00H03M49S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/myxomatosis-radiohead"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Method of Control",
+                    "duration": "P00H11M02S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-41"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Cue",
+                    "duration": "P00H08M07S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-55"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "The Sum",
+                    "duration": "P00H07M21S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-33"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H20M10S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-59"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Unparalyzer",
+                    "duration": "P00H18M03S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-49"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "Paradigm Shift",
+                    "duration": "P00H22M09S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-36"
+                }
+            }
+        ],
+        "duration": "P02H24M06S"
+    },
+    "image": "https://f4.bcbits.com/img/a2720983127_10.jpg",
+    "datePublished": "07 May 2015 00:00:00 GMT",
+    "description": "Live from Tipitinas - April 18th, 2015 - Fourshadows Tour"
+}

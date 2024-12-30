@@ -1,0 +1,80 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/92318-resonance-music-festival-thornville-oh-2",
+    "name": "9.23.18 | Resonance Music Festival | Thornville, OH",
+    "dateModified": "18 Oct 2018 18:06:14 GMT",
+    "numTracks": 8,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 8,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Direction Song",
+                    "duration": "P00H12M50S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-60"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Threes",
+                    "duration": "P00H15M40S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-52"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Just Like The Days",
+                    "duration": "P00H06M10S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/just-like-the-days-3"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Madre de Dios",
+                    "duration": "P00H07M35S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-34"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H16M01S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-112"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "The Sum",
+                    "duration": "P00H07M07S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-66"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Passage",
+                    "duration": "P00H06M09S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/passage-3"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Hippie Babysitter",
+                    "duration": "P00H15M27S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-60"
+                }
+            }
+        ],
+        "duration": "P01H26M59S"
+    },
+    "image": "https://f4.bcbits.com/img/a0256943329_10.jpg",
+    "datePublished": "18 Oct 2018 18:06:14 GMT",
+    "description": "This album was recorded on September 23rd, 2018 at Legend Valley, OH. This is an acoustic set to close out the weekend at Resonance Music and Arts Festival. Thanks so much to everybody who came out to show their support. It was such an amazing weekend."
+}

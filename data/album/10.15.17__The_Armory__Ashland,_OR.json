@@ -1,0 +1,88 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/101517-the-armory-ashland-or",
+    "name": "10.15.17 | The Armory | Ashland, OR",
+    "dateModified": "19 Oct 2017 00:45:19 GMT",
+    "numTracks": 9,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 9,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Vactrollio",
+                    "duration": "P00H09M28S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-35"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Cloud Found",
+                    "duration": "P00H09M18S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-80"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Curve",
+                    "duration": "P00H18M47S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-51"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Cushion",
+                    "duration": "P00H06M48S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-53"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Threes",
+                    "duration": "P00H11M37S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-34"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Out of Hiding",
+                    "duration": "P00H07M46S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-30"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Bypass Default",
+                    "duration": "P00H06M57S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-30"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "The Wrong Nostalgia",
+                    "duration": "P00H05M06S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-36"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "2AM",
+                    "duration": "P00H10M09S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-53"
+                }
+            }
+        ],
+        "duration": "P01H25M56S"
+    },
+    "image": "https://f4.bcbits.com/img/a3456589571_10.jpg",
+    "datePublished": "19 Oct 2017 00:45:19 GMT",
+    "description": "Recorded on October 15th, 2017 at The Armory in Ashland, OR during the Shapeshiftour 2017"
+}

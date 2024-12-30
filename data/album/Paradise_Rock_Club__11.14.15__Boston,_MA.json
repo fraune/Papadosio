@@ -1,0 +1,112 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/paradise-rock-club-111415-boston-ma",
+    "name": "Paradise Rock Club | 11.14.15 | Boston, MA",
+    "dateModified": "14 Nov 2019 21:23:51 GMT",
+    "numTracks": 12,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 12,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Intro",
+                    "duration": "P00H00M59S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-24"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Magreenery",
+                    "duration": "P00H19M08S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-27"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "We Can Always Come Back",
+                    "duration": "P00H11M17S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-10"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Epiphany",
+                    "duration": "P00H08M27S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-18"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Direction Song",
+                    "duration": "P00H09M12S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-36"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Out of Hiding",
+                    "duration": "P00H11M51S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-11"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Bypass Default",
+                    "duration": "P00H07M18S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-16"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "I Had The Same Dream",
+                    "duration": "P00H05M05S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/i-had-the-same-dream-5"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Utopiate",
+                    "duration": "P00H14M00S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-39"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Gazing The Great Oscillator",
+                    "duration": "P00H01M49S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/gazing-the-great-oscillator-6"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Moon Entendre",
+                    "duration": "P00H09M35S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/moon-entendre-4"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "The Bionic Man Meets His Past",
+                    "duration": "P00H13M34S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-55"
+                }
+            }
+        ],
+        "duration": "P01H52M15S"
+    },
+    "image": "https://f4.bcbits.com/img/a2572784188_10.jpg",
+    "datePublished": "22 Dec 2015 00:00:00 GMT",
+    "description": "Paradise Rock Club | 11.14.15 | Boston, MA\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015."
+}

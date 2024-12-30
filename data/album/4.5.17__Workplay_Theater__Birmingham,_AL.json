@@ -1,0 +1,96 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/4517-workplay-theater-birmingham-al",
+    "name": "4.5.17 | Workplay Theater | Birmingham, AL",
+    "dateModified": "06 Apr 2017 23:27:52 GMT",
+    "numTracks": 10,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 10,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Psipolygons",
+                    "duration": "P00H05M09S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/psipolygons"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Cue",
+                    "duration": "P00H09M22S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-90"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "It It Wasn't For You",
+                    "duration": "P00H09M05S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/it-it-wasnt-for-you"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Drift",
+                    "duration": "P00H07M03S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-19"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "The Bionic Man Meets His Past",
+                    "duration": "P00H16M56S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-81"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Omnifreeze",
+                    "duration": "P00H08M32S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-22"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Mr. Turtles Cloud Kingdom",
+                    "duration": "P00H05M35S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-23"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "The Eyes Have Eyes",
+                    "duration": "P00H11M18S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-46"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Dream Estate",
+                    "duration": "P00H13M19S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-68"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Giving You Up",
+                    "duration": "P00H12M36S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/giving-you-up-20"
+                }
+            }
+        ],
+        "duration": "P01H38M55S"
+    },
+    "image": "https://f4.bcbits.com/img/a3631964109_10.jpg",
+    "datePublished": "06 Apr 2017 23:26:36 GMT",
+    "description": "Recorded on April 5th, 2017 at The Workplay Theater in Birmingham, AL. \r\n\r\nPattern Integrities Spring Tour 2017 \r\n\r\nAll material was written and recorded by Papadosio"
+}

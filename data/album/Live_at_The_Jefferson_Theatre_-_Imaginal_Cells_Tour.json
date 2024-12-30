@@ -1,0 +1,112 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/live-at-the-jefferson-theatre-imaginal-cells-tour",
+    "name": "Live at The Jefferson Theatre - Imaginal Cells Tour",
+    "dateModified": "13 Oct 2014 18:03:44 GMT",
+    "numTracks": 12,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 12,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "The Plug",
+                    "duration": "P00H19M30S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-19"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "We Choose",
+                    "duration": "P00H06M33S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-15"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "New Love",
+                    "duration": "P00H12M08S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-47"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Oracle Theme",
+                    "duration": "P00H11M23S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-14"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Holy Heck",
+                    "duration": "P00H08M36S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-15"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Frequence",
+                    "duration": "P00H11M03S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-8"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Fuse",
+                    "duration": "P00H11M05S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-23"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Dream Estate",
+                    "duration": "P00H07M38S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-35"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "If It Wasn't For You",
+                    "duration": "P00H12M30S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-27"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "All I Knew",
+                    "duration": "P00H07M59S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-37"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "We Are Water",
+                    "duration": "P00H07M49S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-44"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "Advocate of Change",
+                    "duration": "P00H07M59S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-26"
+                }
+            }
+        ],
+        "duration": "P02H04M13S"
+    },
+    "image": "https://f4.bcbits.com/img/a0227696671_10.jpg",
+    "datePublished": "13 Oct 2014 00:00:00 GMT",
+    "description": "Live at The Jefferson Theatre - Imaginal Cells Tour\r\n10.9.14 - Richmond, VA"
+}

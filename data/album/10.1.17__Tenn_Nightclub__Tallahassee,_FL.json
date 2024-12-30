@@ -1,0 +1,80 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/10117-tenn-nightclub-tallahassee-fl",
+    "name": "10.1.17 | Tenn Nightclub | Tallahassee, FL",
+    "dateModified": "04 Oct 2017 22:05:16 GMT",
+    "numTracks": 8,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 8,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "The Lack of Everything",
+                    "duration": "P00H07M25S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-23"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Mr. Turtles Cloud Kingdom",
+                    "duration": "P00H06M32S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-29"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Magreenery",
+                    "duration": "P00H22M02S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-42"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "New Love",
+                    "duration": "P00H15M54S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-112"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Oracle Theme",
+                    "duration": "P00H10M01S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-29"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Utopiate",
+                    "duration": "P00H15M33S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-60"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "How Not to Float",
+                    "duration": "P00H18M45S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-37"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Method of Control",
+                    "duration": "P00H07M57S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-74"
+                }
+            }
+        ],
+        "duration": "P01H44M09S"
+    },
+    "image": "https://f4.bcbits.com/img/a1376738182_10.jpg",
+    "datePublished": "04 Oct 2017 00:00:00 GMT",
+    "description": "Recorded on October 1st, 2017 at The Tenn Night Club during the Shapeshiftour 2017"
+}

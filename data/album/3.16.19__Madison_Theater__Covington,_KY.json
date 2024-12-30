@@ -1,0 +1,96 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/31619-madison-theater-covington-ky",
+    "name": "3.16.19 | Madison Theater | Covington, KY",
+    "dateModified": "26 Mar 2019 18:40:18 GMT",
+    "numTracks": 10,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 10,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Ear to Ear",
+                    "duration": "P00H05M39S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-37"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "PHdeez",
+                    "duration": "P00H06M10S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/phdeez-10"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Fanfare for the Rain People",
+                    "duration": "P00H08M36S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-17"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Puddles for Oceans",
+                    "duration": "P00H20M09S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-59"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Skipswitch",
+                    "duration": "P00H05M55S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-21"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H20M21S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-119"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "We are Water",
+                    "duration": "P00H06M15S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-128"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Write Sing Play Mix",
+                    "duration": "P00H12M09S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-20"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H14M28S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-135"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Drift > Improbability Blotter",
+                    "duration": "P00H09M23S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-improbability-blotter"
+                }
+            }
+        ],
+        "duration": "P01H49M05S"
+    },
+    "image": "https://f4.bcbits.com/img/a3733783710_10.jpg",
+    "datePublished": "26 Mar 2019 18:40:18 GMT",
+    "description": "This album was recorded on March 16th on Night 2 of our two night run at the Madison Theater. thanks to everybody who came out and thanks to Near Earth Objects + Afterfunk for getting the night started!"
+}

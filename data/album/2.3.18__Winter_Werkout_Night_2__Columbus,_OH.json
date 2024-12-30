@@ -1,0 +1,88 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/2318-winter-werkout-night-2-columbus-oh",
+    "name": "2.3.18 | Winter Werkout Night 2 | Columbus, OH",
+    "dateModified": "07 Feb 2018 22:10:06 GMT",
+    "numTracks": 9,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 9,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "New Love 1/2",
+                    "duration": "P00H13M13S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-1-2-5"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Ritual",
+                    "duration": "P00H09M42S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-35"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Fuse",
+                    "duration": "P00H09M02S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-51"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Stick Figure",
+                    "duration": "P00H07M49S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-44"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Cue",
+                    "duration": "P00H09M28S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-102"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Euclidean Lights",
+                    "duration": "P00H10M58S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-33"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Right Now",
+                    "duration": "P00H07M58S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-26"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Drift",
+                    "duration": "P00H05M40S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-30"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "New Love 2/2",
+                    "duration": "P00H04M33S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-2-2-7"
+                }
+            }
+        ],
+        "duration": "P01H18M23S"
+    },
+    "image": "https://f4.bcbits.com/img/a4012984042_10.jpg",
+    "datePublished": "07 Feb 2018 00:00:00 GMT",
+    "description": "This set was recorded on February 3rd, 2018, at The Bluestone in Columbus, OH. This show on Night 2 of Winter Werkout. Thanks to everybody who came out."
+}

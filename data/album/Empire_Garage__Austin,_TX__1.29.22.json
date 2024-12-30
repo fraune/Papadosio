@@ -1,0 +1,80 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/empire-garage-austin-tx-12922",
+    "name": "Empire Garage | Austin, TX | 1.29.22",
+    "dateModified": "01 Feb 2022 19:55:07 GMT",
+    "numTracks": 8,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 8,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Intro",
+                    "duration": "P00H03M33S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-96"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Write Sing Play Mix",
+                    "duration": "P00H10M18S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-39"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Paradigm Shift",
+                    "duration": "P00H14M25S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-105"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Agarikon",
+                    "duration": "P00H04M50S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/agarikon-7"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Improbability Blotter",
+                    "duration": "P00H18M48S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-100"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Right Now",
+                    "duration": "P00H07M35S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-36"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H14M41S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-146"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "We Are Water",
+                    "duration": "P00H11M54S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-148"
+                }
+            }
+        ],
+        "duration": "P01H26M04S"
+    },
+    "image": "https://f4.bcbits.com/img/a2342799482_10.jpg",
+    "datePublished": "01 Feb 2022 00:00:00 GMT",
+    "description": "This album was recorded at the Empire Garage in Austin, Texas on 1.29.22. Thanks to everyone who came out to the second night of two in Austin. Thanks Texas, we love you!"
+}

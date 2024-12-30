@@ -1,0 +1,48 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/by-the-light-of-the-stars-ep-2",
+    "name": "By the Light of the Stars EP",
+    "dateModified": "02 May 2023 17:08:06 GMT",
+    "numTracks": 4,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 4,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "By the Light of the Stars",
+                    "duration": "P00H08M12S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Unparalyzer",
+                    "duration": "P00H06M08S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Holy Heck",
+                    "duration": "P00H03M30S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Advocate of Change",
+                    "duration": "P00H06M21S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change"
+                }
+            }
+        ],
+        "duration": "P00H24M11S"
+    },
+    "image": "https://f4.bcbits.com/img/a0116200741_10.jpg",
+    "datePublished": "30 Jul 2008 00:00:00 GMT",
+    "description": "Your eyes\r\nYour hands\r\nYour heart\r\nYour head\r\nIts ours\r\nThe world\r\nTo do with\r\nWhat we will\r\nRealize\r\nYour Part\r\nYour Part is\r\nTo love it\r\nYou are\r\nThe light of\r\nThe light of the Stars."
+}

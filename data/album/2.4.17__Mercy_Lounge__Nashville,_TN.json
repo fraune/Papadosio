@@ -1,0 +1,96 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/2417-mercy-lounge-nashville-tn",
+    "name": "2.4.17 | Mercy Lounge | Nashville, TN",
+    "dateModified": "07 Feb 2017 00:32:52 GMT",
+    "numTracks": 10,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 10,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Stick Figure",
+                    "duration": "P00H08M50S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-35"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Smile N Nod",
+                    "duration": "P00H24M34S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-n-nod-10"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Monochrome",
+                    "duration": "P00H09M19S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-44"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Frequence",
+                    "duration": "P00H11M12S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-28"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Holy Heck",
+                    "duration": "P00H08M58S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-32"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Oblivion",
+                    "duration": "P00H06M35S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-14"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "The Wrong Nostaliga",
+                    "duration": "P00H04M20S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostaliga"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Euclidean Lights",
+                    "duration": "P00H08M21S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-14"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "The Bionic Man Meets His Past",
+                    "duration": "P00H17M12S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-77"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Threes",
+                    "duration": "P00H13M32S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-17"
+                }
+            }
+        ],
+        "duration": "P01H52M53S"
+    },
+    "image": "https://f4.bcbits.com/img/a2788596179_10.jpg",
+    "datePublished": "07 Feb 2017 00:32:52 GMT",
+    "description": "Recorded on February 4th 2017 at The Mercy Lounge in Nashville, TN. \r\n\r\nPattern Integrities Spring Tour 2017 \r\n\r\nAll material was written and recorded by Papadosio."
+}

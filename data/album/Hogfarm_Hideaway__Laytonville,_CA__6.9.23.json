@@ -1,0 +1,96 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/hogfarm-hideaway-laytonville-ca-6923",
+    "name": "Hogfarm Hideaway | Laytonville, CA | 6.9.23",
+    "dateModified": "05 Jul 2023 16:04:17 GMT",
+    "numTracks": 10,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 10,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Intro",
+                    "duration": "P00H03M30S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-106"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Not Just A Word",
+                    "duration": "P00H12M46S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-21"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Dare You",
+                    "duration": "P00H06M57S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-15"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Lion's Mane",
+                    "duration": "P00H08M53S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-33"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Garden",
+                    "duration": "P00H17M29S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-125"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Fossilize3",
+                    "duration": "P00H07M29S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fossilize3"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "The Bionic Man Meets His Past And This Is What He Thought",
+                    "duration": "P00H08M32S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-and-this-is-what-he-thought"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "You're A Catman",
+                    "duration": "P00H07M35S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-18"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "New Love",
+                    "duration": "P00H07M49S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-168"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H08M36S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-182"
+                }
+            }
+        ],
+        "duration": "P01H29M36S"
+    },
+    "image": "https://f4.bcbits.com/img/a0714729352_10.jpg",
+    "datePublished": "05 Jul 2023 16:04:18 GMT",
+    "description": "Wow, its always such a trip heading into northern California and we are so grateful that our friends in STI and the beautiful people at Hogfarm invited us to be a part of this year's celebration. Inspiring stuff! Loved seeing all the smiling families and peace, its refreshing! \r\n Endless thanks to Merrick Noyes for taking such care with our music, learning these songs, and taking these trips with us both musically and in Time and SPACE wooo!"
+}

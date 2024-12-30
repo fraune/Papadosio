@@ -1,0 +1,88 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/live-at-aura-music-arts-festival-3615-live-oak-fl",
+    "name": "Live at Aura Music & Arts Festival |3.6.15| Live Oak, FL",
+    "dateModified": "16 Mar 2015 15:41:09 GMT",
+    "numTracks": 9,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 9,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Paradigm Shift 1/2",
+                    "duration": "P00H11M59S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-1-2"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H20M46S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-54"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Magreenery",
+                    "duration": "P00H20M37S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-23"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "How Not To Float",
+                    "duration": "P00H14M13S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-23"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Taking Turns",
+                    "duration": "P00H09M16S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-38"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Direction Song",
+                    "duration": "P00H13M13S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-24"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Now That You Know",
+                    "duration": "P00H10M18S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-13"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Method of Control",
+                    "duration": "P00H09M55S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-38"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "TV song",
+                    "duration": "P00H04M28S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/tv-song-19"
+                }
+            }
+        ],
+        "duration": "P01H54M45S"
+    },
+    "image": "https://f4.bcbits.com/img/a1645081368_10.jpg",
+    "datePublished": "16 Mar 2015 00:00:00 GMT",
+    "description": null
+}

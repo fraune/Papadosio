@@ -1,0 +1,96 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/21118-toads-place-new-haven-ct",
+    "name": "2.11.18 | Toad's Place | New Haven, CT",
+    "dateModified": "19 Feb 2018 15:34:27 GMT",
+    "numTracks": 10,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 10,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Paradigm Shift",
+                    "duration": "P00H10M54S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-72"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Mr. Turtles Cloud Kingdom",
+                    "duration": "P00H05M32S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-35"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Oblivion",
+                    "duration": "P00H06M30S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-27"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Vactrollio",
+                    "duration": "P00H08M47S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-41"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "The Plug",
+                    "duration": "P00H17M20S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-44"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Cloud Found",
+                    "duration": "P00H09M31S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-83"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Oblivion",
+                    "duration": "P00H09M04S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-28"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Monochrome",
+                    "duration": "P00H11M29S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-57"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Paradigm Shift",
+                    "duration": "P00H06M29S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-73"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Method of Control",
+                    "duration": "P00H15M11S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-82"
+                }
+            }
+        ],
+        "duration": "P01H40M47S"
+    },
+    "image": "https://f4.bcbits.com/img/a2131158739_10.jpg",
+    "datePublished": "19 Feb 2018 15:34:27 GMT",
+    "description": "This set was recorded on February 11th, 2018 at Toads Place in New Haven, CT. Thanks to everybody who came out! See you next time!"
+}

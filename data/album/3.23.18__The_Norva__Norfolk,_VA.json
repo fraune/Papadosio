@@ -1,0 +1,112 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/32318-the-norva-norfolk-va",
+    "name": "3.23.18 | The Norva | Norfolk, VA",
+    "dateModified": "27 Mar 2018 23:47:00 GMT",
+    "numTracks": 12,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 12,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Intro",
+                    "duration": "P00H03M07S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-45"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "2AM",
+                    "duration": "P00H05M28S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-57"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H13M47S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-111"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Mr Turtles Cloud Kingdom",
+                    "duration": "P00H05M46S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-37"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Direction Song",
+                    "duration": "P00H13M47S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-56"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Stick Figure",
+                    "duration": "P00H08M13S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-46"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Night Colors",
+                    "duration": "P00H12M08S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-65"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "We Can Always Come Back",
+                    "duration": "P00H12M06S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-30"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Threes",
+                    "duration": "P00H08M30S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-42"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "TV Song",
+                    "duration": "P00H04M24S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/tv-song-24"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Threes",
+                    "duration": "P00H04M58S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-43"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "The Bionic Man Meets His Past",
+                    "duration": "P00H17M22S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-95"
+                }
+            }
+        ],
+        "duration": "P01H49M36S"
+    },
+    "image": "https://f4.bcbits.com/img/a2977425769_10.jpg",
+    "datePublished": "27 Mar 2018 23:47:00 GMT",
+    "description": "This set was recorded on March 23rd, 2018 in Norfolk, VA at The Norva. Thanks to everybody who came out to the show!"
+}

@@ -1,0 +1,88 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/pattern-integrities-tour-vol-3-cambridge-ma",
+    "name": "Pattern Integrities Tour - Vol. 3 - Cambridge, MA",
+    "dateModified": "10 Oct 2016 11:32:34 GMT",
+    "numTracks": 9,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 9,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Euclidean Lights",
+                    "duration": "P00H09M20S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-3"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Puddles for Oceans",
+                    "duration": "P00H17M27S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-42"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Obove",
+                    "duration": "P00H11M25S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-7"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Unparalyzer",
+                    "duration": "P00H16M49S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-69"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Oblivion",
+                    "duration": "P00H07M27S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-3"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "132 Jam",
+                    "duration": "P00H11M38S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/132-jam"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Drift",
+                    "duration": "P00H06M24S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-3"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "We Are Water",
+                    "duration": "P00H15M14S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-93"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "2AM",
+                    "duration": "P00H06M32S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-38"
+                }
+            }
+        ],
+        "duration": "P01H42M16S"
+    },
+    "image": "https://f4.bcbits.com/img/a2056984319_10.jpg",
+    "datePublished": "10 Oct 2016 11:32:34 GMT",
+    "description": null
+}

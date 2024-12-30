@@ -1,0 +1,72 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/great-north-9415-norridgewock-me-2",
+    "name": "Great North | 9.4.15 | Norridgewock, ME",
+    "dateModified": "20 Oct 2015 01:26:40 GMT",
+    "numTracks": 7,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 7,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Smile and Nod",
+                    "duration": "P00H18M29S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-42"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "...And This Is What He Thought",
+                    "duration": "P00H04M02S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-13"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Cloud Found",
+                    "duration": "P00H09M17S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-54"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H17M54S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-59"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Hippie Babysitter",
+                    "duration": "P00H15M34S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-26"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Cue",
+                    "duration": "P00H11M59S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-63"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Glimpse of Light",
+                    "duration": "P00H06M38S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-7"
+                }
+            }
+        ],
+        "duration": "P01H23M53S"
+    },
+    "image": "https://f4.bcbits.com/img/a0000112434_10.jpg",
+    "datePublished": "20 Oct 2015 00:00:00 GMT",
+    "description": "Great North | 9.4.15 | Norridgewock, ME\r\n\r\nAll music written, recorded and performed by Papadosio. \r\n© All Rights Reserved 2015."
+}

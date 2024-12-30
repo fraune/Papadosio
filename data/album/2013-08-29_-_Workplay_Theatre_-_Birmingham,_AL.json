@@ -1,0 +1,88 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/2013-08-29-workplay-theatre-birmingham-al",
+    "name": "2013-08-29 - Workplay Theatre - Birmingham, AL",
+    "dateModified": "23 Oct 2013 23:59:07 GMT",
+    "numTracks": 9,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 9,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Method of Control",
+                    "duration": "P00H11M57S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-13"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Smile and Nod",
+                    "duration": "P00H11M45S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-10"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "By the Light of the Stars",
+                    "duration": "P00H11M00S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-6"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "The Sum",
+                    "duration": "P00H07M34S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-6"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Magreenery",
+                    "duration": "P00H26M01S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-9"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Cloud Found",
+                    "duration": "P00H16M54S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-9"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "We Choose",
+                    "duration": "P00H06M55S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-3"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "New Love",
+                    "duration": "P00H12M02S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-13"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Paradigm Shift",
+                    "duration": "P00H13M33S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-13"
+                }
+            }
+        ],
+        "duration": "P01H57M41S"
+    },
+    "image": "https://f4.bcbits.com/img/a3612077202_10.jpg",
+    "datePublished": "21 Oct 2013 00:00:00 GMT",
+    "description": null
+}

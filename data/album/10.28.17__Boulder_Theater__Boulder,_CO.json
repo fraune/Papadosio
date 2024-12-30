@@ -1,0 +1,112 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/102817-boulder-theater-boulder-co",
+    "name": "10.28.17 | Boulder Theater | Boulder, CO",
+    "dateModified": "22 Oct 2018 17:23:58 GMT",
+    "numTracks": 12,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 12,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Trip Like I do - (Crystal Method)",
+                    "duration": "P00H07M14S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/trip-like-i-do-crystal-method"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Threes",
+                    "duration": "P00H13M21S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-36"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Skeletonnes Improv",
+                    "duration": "P00H08M08S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skeletonnes-improv"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Polygons 1/2",
+                    "duration": "P00H10M57S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-1-2-3"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "The Perfect Drug - (Nine Inch Nails)",
+                    "duration": "P00H05M49S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-perfect-drug-nine-inch-nails"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "The Eyes Have Eyes",
+                    "duration": "P00H12M06S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-52"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Giving You Up",
+                    "duration": "P00H13M59S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/giving-you-up-21"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "4 - (Aphex Twin)",
+                    "duration": "P00H08M43S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/4-aphex-twin"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Monochrome",
+                    "duration": "P00H08M44S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-54"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Method of Control",
+                    "duration": "P00H13M51S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-76"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Head Like a Hole - (Nine Inch Nails)",
+                    "duration": "P00H05M41S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/head-like-a-hole-nine-inch-nails"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "Polygons 2/2",
+                    "duration": "P00H06M44S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-2-2-3"
+                }
+            }
+        ],
+        "duration": "P01H55M17S"
+    },
+    "image": "https://f4.bcbits.com/img/a0771169519_10.jpg",
+    "datePublished": "06 Nov 2017 00:00:00 GMT",
+    "description": "Recorded on October 28th, 2017 at The Boulder Theater in Boulder, CO during the RAVE FROM THE GRAVE 2017."
+}

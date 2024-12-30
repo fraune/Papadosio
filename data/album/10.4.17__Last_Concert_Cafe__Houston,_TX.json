@@ -1,0 +1,80 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/10417-last-concert-cafe-houston-tx",
+    "name": "10.4.17 | Last Concert Cafe | Houston, TX",
+    "dateModified": "05 Oct 2017 21:05:03 GMT",
+    "numTracks": 8,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 8,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Find your Cloud",
+                    "duration": "P00H21M28S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-103"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Ritual",
+                    "duration": "P00H10M32S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-34"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Geoglyph",
+                    "duration": "P00H08M44S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-48"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Drift",
+                    "duration": "P00H06M24S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-24"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Vactrollio",
+                    "duration": "P00H08M33S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-33"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Monochrome",
+                    "duration": "P00H09M20S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-53"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Polygons",
+                    "duration": "P00H19M36S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-43"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Holy Heck",
+                    "duration": "P00H11M05S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-36"
+                }
+            }
+        ],
+        "duration": "P01H35M42S"
+    },
+    "image": "https://f4.bcbits.com/img/a3055019322_10.jpg",
+    "datePublished": "05 Oct 2017 00:00:00 GMT",
+    "description": "Recorded on October 4th, 2017 at The Last Concert Cafe in Houston Texas during the Shapeshiftour 2017"
+}

@@ -1,0 +1,120 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/higher-ground-111515-burlington-vt",
+    "name": "Higher Ground | 11.15.15 | Burlington, VT",
+    "dateModified": "22 Dec 2015 23:48:58 GMT",
+    "numTracks": 13,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 13,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Intro",
+                    "duration": "P00H01M00S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-25"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "New Love",
+                    "duration": "P00H14M04S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-85"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "By The Light of The Stars",
+                    "duration": "P00H09M52S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-35"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "2am",
+                    "duration": "P00H05M55S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-17"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Cushion",
+                    "duration": "P00H06M36S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-44"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Garden",
+                    "duration": "P00H08M54S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-56"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Ear to Ear",
+                    "duration": "P00H12M47S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-15"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "The Wrong Nostalgia",
+                    "duration": "P00H04M15S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-10"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Anima Mundi",
+                    "duration": "P00H07M15S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-11"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Puddles for Oceans",
+                    "duration": "P00H16M18S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-35"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Geoglyph",
+                    "duration": "P00H11M42S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-30"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "Glimpse of Light",
+                    "duration": "P00H05M51S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-17"
+                }
+            },
+            {
+                "position": 13,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H12M32S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-65"
+                }
+            }
+        ],
+        "duration": "P01H57M01S"
+    },
+    "image": "https://f4.bcbits.com/img/a3991715438_10.jpg",
+    "datePublished": "22 Dec 2015 23:48:58 GMT",
+    "description": "Higher Ground | 11.15.15 | Burlington, VT\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015."
+}

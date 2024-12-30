@@ -1,0 +1,104 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/52321-resonate-festival-suwannee-fl",
+    "name": "5.23.21 | Resonate Festival | Suwannee, FL",
+    "dateModified": "30 May 2021 21:55:59 GMT",
+    "numTracks": 11,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 11,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "EarthCry Transition",
+                    "duration": "P00H05M39S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/earthcry-transition"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "New Love",
+                    "duration": "P00H16M26S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-145"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "The Sum",
+                    "duration": "P00H07M38S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-75"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Agarikon",
+                    "duration": "P00H08M59S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/agarikon-4"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Lion's Mane",
+                    "duration": "P00H06M12S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-8"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Method of Control",
+                    "duration": "P00H14M24S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-110"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "You And Yourself",
+                    "duration": "P00H14M58S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-67"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Ear to Ear",
+                    "duration": "P00H09M24S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-45"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Vactrollio",
+                    "duration": "P00H15M37S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-76"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Cloud Found",
+                    "duration": "P00H09M07S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-105"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Skipswitch",
+                    "duration": "P00H06M51S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-48"
+                }
+            }
+        ],
+        "duration": "P01H55M15S"
+    },
+    "image": "https://f4.bcbits.com/img/a0789214975_10.jpg",
+    "datePublished": "30 May 2021 21:55:59 GMT",
+    "description": "This album was recorded on May 23rd at the Spirit of Suwannee Music Park in Live Oak, FL! This was our 2nd set of the weekend! Thanks to the Essential Productions crew for having us out for this first-year event! \r\n\r\nArt: Kevin Harris"
+}

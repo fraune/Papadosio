@@ -1,0 +1,96 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/earth-night-2016-live-pa-set-columbus-oh",
+    "name": "Earth Night 2016 - Live PA Set - Columbus, OH",
+    "dateModified": "10 Jul 2023 17:51:43 GMT",
+    "numTracks": 10,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 10,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "How's My Zenglish",
+                    "duration": "P00H12M34S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hows-my-zenglish"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "You're Gonna Need a Bigger Goat",
+                    "duration": "P00H05M48S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-gonna-need-a-bigger-goat"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Guy of the Tiger",
+                    "duration": "P00H09M06S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/guy-of-the-tiger"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Fibberty Gilbert",
+                    "duration": "P00H20M03S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fibberty-gilbert"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "A Great Man Once Said...",
+                    "duration": "P00H13M05S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/a-great-man-once-said"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Nevermind",
+                    "duration": "P00H10M51S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/nevermind"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Weekend at Bernie Sanders",
+                    "duration": "P00H11M02S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/weekend-at-bernie-sanders"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Candy Cain & Abel",
+                    "duration": "P00H09M34S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/candy-cain-abel"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Bonus Level (Is that Beau!?)",
+                    "duration": "P00H13M57S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bonus-level-is-that-beau"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "There's a Snake in my Bootsy Collins",
+                    "duration": "P00H18M40S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/theres-a-snake-in-my-bootsy-collins"
+                }
+            }
+        ],
+        "duration": "P02H04M40S"
+    },
+    "image": "https://f4.bcbits.com/img/a1844287445_10.jpg",
+    "datePublished": "30 Dec 2016 00:00:00 GMT",
+    "description": null
+}

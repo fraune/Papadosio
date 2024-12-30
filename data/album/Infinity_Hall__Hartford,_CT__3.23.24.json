@@ -1,0 +1,128 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/infinity-hall-hartford-ct-32324",
+    "name": "Infinity Hall | Hartford, CT | 3.23.24",
+    "dateModified": "27 Mar 2024 14:59:08 GMT",
+    "numTracks": 14,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 14,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Write Sing Play Mix",
+                    "duration": "P00H13M18S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-54"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Shiitake",
+                    "duration": "P00H06M20S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-41"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Boss Battle",
+                    "duration": "P00H03M40S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/boss-battle-18"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Dream Estate",
+                    "duration": "P00H10M29S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-98"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Everyone Is Cool",
+                    "duration": "P00H10M47S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/everyone-is-cool-20"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "All I Knew",
+                    "duration": "P00H07M20S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-127"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Who You Are*",
+                    "duration": "P00H09M04S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/who-you-are-2"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "The Sum",
+                    "duration": "P00H06M04S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-86"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H14M55S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-173"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "The End Of The World",
+                    "duration": "P00H05M02S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-end-of-the-world-14"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Dare You",
+                    "duration": "P00H07M06S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-30"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "Mr. Turtle's Cloud Kingdom",
+                    "duration": "P00H05M07S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-76"
+                }
+            },
+            {
+                "position": 13,
+                "item": {
+                    "name": "Shiitake",
+                    "duration": "P00H05M22S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-42"
+                }
+            },
+            {
+                "position": 14,
+                "item": {
+                    "name": "Cue",
+                    "duration": "P00H10M28S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-168"
+                }
+            }
+        ],
+        "duration": "P01H55M02S"
+    },
+    "image": "https://f4.bcbits.com/img/a1104145088_10.jpg",
+    "datePublished": "27 Mar 2024 14:59:08 GMT",
+    "description": "...and Hartford Connecticut ToooooOOOO!!!!! Thanks so much for hosting us at your beautiful venue and for coming out to get spacey with us!"
+}

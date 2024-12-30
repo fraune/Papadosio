@@ -1,0 +1,72 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/41917-bicycle-day-san-francisco-ca",
+    "name": "4.19.17 | Bicycle Day | San Francisco, CA",
+    "dateModified": "19 Apr 2018 15:28:25 GMT",
+    "numTracks": 7,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 7,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "And This is What he Thought",
+                    "duration": "P00H02M04S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-27"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "The Bionic Man Meets His Past",
+                    "duration": "P00H06M27S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-83"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Threes",
+                    "duration": "P00H11M40S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-25"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Vactrollio",
+                    "duration": "P00H08M58S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-25"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Improbability Blotter",
+                    "duration": "P00H08M29S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-58"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Mr Turtles Cloud Kingdom",
+                    "duration": "P00H06M13S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-25"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H19M26S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-90"
+                }
+            }
+        ],
+        "duration": "P01H03M17S"
+    },
+    "image": "https://f4.bcbits.com/img/a3186048913_10.jpg",
+    "datePublished": "02 May 2017 00:00:00 GMT",
+    "description": "Recorded on April 19th, 2017 at The Midway in San Francisco, CA. \r\n\r\nPattern Integrities Spring Tour 2017 \r\n\r\nAll material was written and recorded by Papadosio\r\n\r\n\"Photo Courtesy of Guy Shechter of Lostinsound.org.\"."
+}

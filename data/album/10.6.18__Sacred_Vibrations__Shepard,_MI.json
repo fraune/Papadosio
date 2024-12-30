@@ -1,0 +1,72 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/10618-sacred-vibrations-shepard-mi",
+    "name": "10.6.18 | Sacred Vibrations | Shepard, MI",
+    "dateModified": "17 Oct 2018 19:44:54 GMT",
+    "numTracks": 7,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 7,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Frequence",
+                    "duration": "P00H20M32S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-40"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Pool of Stars",
+                    "duration": "P00H05M56S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-8"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Magreenery",
+                    "duration": "P00H21M10S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-52"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Skipswitch",
+                    "duration": "P00H09M20S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-4"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "By The Light of the Stars",
+                    "duration": "P00H09M15S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-58"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Fanfare for the Rain People",
+                    "duration": "P00H08M48S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-4"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Unparalyzer",
+                    "duration": "P00H15M18S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-89"
+                }
+            }
+        ],
+        "duration": "P01H30M19S"
+    },
+    "image": "https://f4.bcbits.com/img/a1933628228_10.jpg",
+    "datePublished": "17 Oct 2018 19:44:54 GMT",
+    "description": "This album was recorded in Shepard, MI at Sacred Vibrations Music Festival. Thanks to all of the Michigan family that came out!! Hope to see you all again very soon!"
+}

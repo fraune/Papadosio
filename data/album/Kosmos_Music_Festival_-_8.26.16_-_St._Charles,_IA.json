@@ -1,0 +1,88 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/kosmos-music-festival-82616-st-charles-ia",
+    "name": "Kosmos Music Festival - 8.26.16 - St. Charles, IA",
+    "dateModified": "06 Sep 2016 03:33:11 GMT",
+    "numTracks": 9,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 9,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "The Bionic Man Meets His Past",
+                    "duration": "P00H16M04S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-71"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "By the Light of the Stars",
+                    "duration": "P00H10M09S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-41"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Bill Murray Meets His Past",
+                    "duration": "P00H07M09S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bill-murray-meets-his-past"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Hippie Babysitter",
+                    "duration": "P00H05M01S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-39"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Nix Stevie (Improv)",
+                    "duration": "P00H05M53S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/nix-stevie-improv"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Hippie Babysitter",
+                    "duration": "P00H06M30S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-40"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Geoglyph",
+                    "duration": "P00H09M28S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-38"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "All I Knew",
+                    "duration": "P00H07M54S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-69"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Improbability Blotter",
+                    "duration": "P00H06M41S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-53"
+                }
+            }
+        ],
+        "duration": "P01H14M49S"
+    },
+    "image": "https://f4.bcbits.com/img/a0350587230_10.jpg",
+    "datePublished": "06 Sep 2016 03:33:11 GMT",
+    "description": null
+}

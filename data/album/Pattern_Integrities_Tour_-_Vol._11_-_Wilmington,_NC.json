@@ -1,0 +1,120 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/pattern-integrities-tour-vol-11-wilmington-nc",
+    "name": "Pattern Integrities Tour - Vol. 11 - Wilmington, NC",
+    "dateModified": "20 Nov 2016 02:50:39 GMT",
+    "numTracks": 13,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 13,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H16M36S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-90"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Threes",
+                    "duration": "P00H17M28S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-11"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Direction Song",
+                    "duration": "P00H05M47S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-45"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Message Bot",
+                    "duration": "P00H00M21S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/message-bot"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Direction Song",
+                    "duration": "P00H01M58S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-46"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Each and Every Wave",
+                    "duration": "P00H06M43S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-7"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Method of Control",
+                    "duration": "P00H10M11S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-62"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Smile and Nod",
+                    "duration": "P00H09M32S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-54"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Euclidean Lights",
+                    "duration": "P00H08M03S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-7"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Omnifreeze",
+                    "duration": "P00H11M21S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-7"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H03M01S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-91"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "Mr. Turtles Cloud Kingdom",
+                    "duration": "P00H06M18S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-6"
+                }
+            },
+            {
+                "position": 13,
+                "item": {
+                    "name": "Utopiate",
+                    "duration": "P00H15M41S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-53"
+                }
+            }
+        ],
+        "duration": "P01H53M00S"
+    },
+    "image": "https://f4.bcbits.com/img/a0390183848_10.jpg",
+    "datePublished": "18 Nov 2016 00:00:00 GMT",
+    "description": null
+}

@@ -1,0 +1,72 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/81217-peach-music-festival-scranton-pa",
+    "name": "8.12.17 | Peach Music Festival | Scranton, PA",
+    "dateModified": "18 Aug 2017 16:27:31 GMT",
+    "numTracks": 7,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 7,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Curve",
+                    "duration": "P00H19M13S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-49"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Mr Turtles Cloud Kingdom",
+                    "duration": "P00H05M35S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-28"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Therian",
+                    "duration": "P00H08M11S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-27"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Vactrollio",
+                    "duration": "P00H09M07S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-30"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "The Sum",
+                    "duration": "P00H14M12S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-55"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "FYC",
+                    "duration": "P00H19M15S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fyc-3"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "The Eyes Have Eyes",
+                    "duration": "P00H12M17S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-48"
+                }
+            }
+        ],
+        "duration": "P01H27M50S"
+    },
+    "image": "https://f4.bcbits.com/img/a0291231719_10.jpg",
+    "datePublished": "18 Aug 2017 16:27:31 GMT",
+    "description": "All material was written and recorded by Papadosio at Peach Music Festival at Montage Mountain in Scranton, PA."
+}

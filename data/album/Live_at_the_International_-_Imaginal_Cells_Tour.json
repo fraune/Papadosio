@@ -1,0 +1,104 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/live-at-the-international-imaginal-cells-tour",
+    "name": "Live at the International - Imaginal Cells Tour",
+    "dateModified": "17 Nov 2014 15:51:03 GMT",
+    "numTracks": 11,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 11,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Garden",
+                    "duration": "P00H09M25S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-36"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Magreenery>",
+                    "duration": "P00H19M05S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-21"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Right Now",
+                    "duration": "P00H07M48S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-17"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "The Elephant I Presume",
+                    "duration": "P00H08M29S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-12"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "The Bionic Man Meets His Past",
+                    "duration": "P00H13M20S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-35"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Monochrome>",
+                    "duration": "P00H17M38S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-18"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Hippie Babsitter",
+                    "duration": "P00H15M44S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babsitter"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Taking Turns",
+                    "duration": "P00H08M55S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-34"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Direction Song",
+                    "duration": "P00H08M26S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-22"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Method of Control>",
+                    "duration": "P00H11M13S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-31"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Improbability Blotter",
+                    "duration": "P00H08M11S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-29"
+                }
+            }
+        ],
+        "duration": "P02H08M14S"
+    },
+    "image": "https://f4.bcbits.com/img/a0718057296_10.jpg",
+    "datePublished": "17 Nov 2014 15:41:53 GMT",
+    "description": null
+}

@@ -1,0 +1,120 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/41919-town-ballroom-buffalo-ny",
+    "name": "4.19.19 | Town Ballroom | Buffalo, NY",
+    "dateModified": "23 Apr 2019 23:38:50 GMT",
+    "numTracks": 13,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 13,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Smile and Nod",
+                    "duration": "P00H12M38S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-77"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "By the Light of the Stars",
+                    "duration": "P00H12M41S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-63"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Fanfare for the Rain People",
+                    "duration": "P00H08M39S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-20"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Now That You Know",
+                    "duration": "P00H07M21S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-39"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Fuse",
+                    "duration": "P00H08M00S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-58"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Just Like the Days",
+                    "duration": "P00H07M16S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/just-like-the-days-9"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Fire Rite",
+                    "duration": "P00H06M23S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-23"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Puddles for Oceans",
+                    "duration": "P00H11M21S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-60"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H12M39S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-121"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Puddles for Oceans",
+                    "duration": "P00H03M25S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-61"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Advocate of Change",
+                    "duration": "P00H07M33S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-84"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "All I Knew",
+                    "duration": "P00H07M10S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-96"
+                }
+            },
+            {
+                "position": 13,
+                "item": {
+                    "name": "We Are Water",
+                    "duration": "P00H07M07S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-130"
+                }
+            }
+        ],
+        "duration": "P01H52M13S"
+    },
+    "image": "https://f4.bcbits.com/img/a0261144932_10.jpg",
+    "datePublished": "23 Apr 2019 00:00:00 GMT",
+    "description": "This album was recorded on April 19th in Buffalo New York at the Westcott Theater! Thanks to everybody who came out and thanks so much to Cycles for opening the night up for us!"
+}

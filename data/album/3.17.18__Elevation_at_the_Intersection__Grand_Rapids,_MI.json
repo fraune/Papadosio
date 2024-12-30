@@ -1,0 +1,104 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/31718-elevation-at-the-intersection-grand-rapids-mi",
+    "name": "3.17.18 | Elevation at the Intersection | Grand Rapids, MI",
+    "dateModified": "24 Mar 2018 16:27:16 GMT",
+    "numTracks": 11,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 11,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Intro",
+                    "duration": "P00H03M29S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-44"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "The Eyes Have Eyes",
+                    "duration": "P00H10M31S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-56"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Threes",
+                    "duration": "P00H12M03S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-41"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Oblivion",
+                    "duration": "P00H11M53S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-30"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Method of Control",
+                    "duration": "P00H08M06S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-83"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Anima Mundi",
+                    "duration": "P00H08M14S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-40"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Euclidean Lights",
+                    "duration": "P00H10M39S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-35"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "By the Light of the Stars",
+                    "duration": "P00H10M44S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-53"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Omnifreeze",
+                    "duration": "P00H06M40S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-32"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Paradigm Shift",
+                    "duration": "P00H20M40S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-75"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Geoglyph",
+                    "duration": "P00H09M00S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-55"
+                }
+            }
+        ],
+        "duration": "P01H51M59S"
+    },
+    "image": "https://f4.bcbits.com/img/a3028768188_10.jpg",
+    "datePublished": "23 Mar 2018 00:00:00 GMT",
+    "description": "This set was recorded on March 17th, 2018 at The SOLD OUT Elevation Room in Grand Rapids, MI! Michigan Always treats us well We will definitely be back! Thank you to everybody who came out!"
+}

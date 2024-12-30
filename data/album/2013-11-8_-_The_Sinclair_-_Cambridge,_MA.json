@@ -1,0 +1,88 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/2013-11-8-the-sinclair-cambridge-ma",
+    "name": "2013-11-8 - The Sinclair - Cambridge, MA",
+    "dateModified": "17 Nov 2013 20:14:50 GMT",
+    "numTracks": 9,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 9,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "The Plug",
+                    "duration": "P00H15M44S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-9"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Cloud Found",
+                    "duration": "P00H10M44S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-13"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H15M16S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-13"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "The Sum",
+                    "duration": "P00H11M44S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-7"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H13M16S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-19"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Paradigm Shift",
+                    "duration": "P00H14M28S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-16"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Cushion",
+                    "duration": "P00H07M40S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-4"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Dream Estate",
+                    "duration": "P00H10M52S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-9"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "New Love",
+                    "duration": "P00H11M08S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-15"
+                }
+            }
+        ],
+        "duration": "P01H50M52S"
+    },
+    "image": "https://f4.bcbits.com/img/a1210563154_10.jpg",
+    "datePublished": "17 Nov 2013 00:00:00 GMT",
+    "description": null
+}

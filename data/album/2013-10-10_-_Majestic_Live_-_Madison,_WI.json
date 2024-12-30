@@ -1,0 +1,96 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/2013-10-10-majestic-live-madison-wi",
+    "name": "2013-10-10 - Majestic Live - Madison, WI",
+    "dateModified": "17 Nov 2013 19:46:41 GMT",
+    "numTracks": 10,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 10,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "The Plug",
+                    "duration": "P00H17M27S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-7"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Madre de Dios",
+                    "duration": "P00H05M20S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-6"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H16M35S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-11"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "We Are Water",
+                    "duration": "P00H06M43S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-16"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Oracle Theme",
+                    "duration": "P00H10M05S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-6"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H09M51S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-16"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Magreenery",
+                    "duration": "P00H24M27S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-10"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Cloud Found",
+                    "duration": "P00H09M19S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-10"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Puddles for Oceans",
+                    "duration": "P00H10M31S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-10"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Paradigm Shift",
+                    "duration": "P00H14M46S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-14"
+                }
+            }
+        ],
+        "duration": "P02H05M04S"
+    },
+    "image": "https://f4.bcbits.com/img/a0536310550_10.jpg",
+    "datePublished": "17 Nov 2013 19:46:41 GMT",
+    "description": null
+}

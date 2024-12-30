@@ -1,0 +1,104 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/2013-11-1-toads-place-new-haven-ct",
+    "name": "2013-11-1 - Toad's Place - New Haven, CT",
+    "dateModified": "17 Nov 2013 19:51:03 GMT",
+    "numTracks": 11,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 11,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "By The Light of the Stars",
+                    "duration": "P00H10M29S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-7"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "The Bionic Man Meets His Past",
+                    "duration": "P00H06M53S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-11"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "We Choose",
+                    "duration": "P00H07M01S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-4"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H15M14S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-18"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Utopiate",
+                    "duration": "P00H11M26S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-10"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Taking Turns",
+                    "duration": "P00H09M18S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-14"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Direction Song",
+                    "duration": "P00H10M45S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-7"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Stick Figure",
+                    "duration": "P00H08M01S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-4"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Now That You Know",
+                    "duration": "P00H13M39S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-3"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Geoglyph",
+                    "duration": "P00H12M02S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-8"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "New Love",
+                    "duration": "P00H10M11S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-14"
+                }
+            }
+        ],
+        "duration": "P01H54M59S"
+    },
+    "image": "https://f4.bcbits.com/img/a0450364457_10.jpg",
+    "datePublished": "17 Nov 2013 19:51:03 GMT",
+    "description": null
+}

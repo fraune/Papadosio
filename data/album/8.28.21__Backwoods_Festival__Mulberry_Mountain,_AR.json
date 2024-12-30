@@ -1,0 +1,80 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/82821-backwoods-festival-mulberry-mountain-ar",
+    "name": "8.28.21 | Backwoods Festival | Mulberry Mountain, AR",
+    "dateModified": "07 Sep 2021 22:21:10 GMT",
+    "numTracks": 8,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 8,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "The Bionic Man Meets His Past",
+                    "duration": "P00H14M14S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-133"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Skipswitch",
+                    "duration": "P00H11M20S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-49"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "The Bionic Man Meets His Past",
+                    "duration": "P00H03M28S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-134"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Versicolor",
+                    "duration": "P00H08M02S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-11"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Cubensis",
+                    "duration": "P00H14M10S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-10"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Unparalyzer",
+                    "duration": "P00H17M20S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-106"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "The Eyes Have Eyes",
+                    "duration": "P00H08M27S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-83"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Improbability Blotter",
+                    "duration": "P00H10M33S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-97"
+                }
+            }
+        ],
+        "duration": "P01H27M34S"
+    },
+    "image": "https://f4.bcbits.com/img/a3013659705_10.jpg",
+    "datePublished": "07 Sep 2021 22:21:10 GMT",
+    "description": "This album was recorded on August 28th, 2021 at Mulberry Mountain in Arkansas, Thanks for all your support. <3"
+}

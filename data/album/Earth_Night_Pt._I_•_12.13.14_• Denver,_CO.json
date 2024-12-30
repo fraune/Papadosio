@@ -1,0 +1,128 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/earth-night-pt-i-121314-denver-co",
+    "name": "Earth Night Pt. I • 12.13.14 • Denver, CO",
+    "dateModified": "07 Dec 2016 03:27:31 GMT",
+    "numTracks": 14,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 14,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Polygons>",
+                    "duration": "P00H14M30S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-24"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "You and Yourself",
+                    "duration": "P00H10M09S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-23"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Planting the Seeds of Life",
+                    "duration": "P00H06M27S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/planting-the-seeds-of-life-12"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H17M40S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-40"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Dayvan Cowboy* (Boards of Canada)",
+                    "duration": "P00H04M49S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dayvan-cowboy-boards-of-canada"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "The Sum>",
+                    "duration": "P00H09M48S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-28"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Art that Feeds (Improv) >",
+                    "duration": "P00H05M11S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/art-that-feeds-improv"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Advocate of Change",
+                    "duration": "P00H07M29S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-31"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Method of Control>",
+                    "duration": "P00H07M00S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-36"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Cue>",
+                    "duration": "P00H07M53S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-43"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Method of Control",
+                    "duration": "P00H02M57S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-37"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "We Are Water",
+                    "duration": "P00H11M04S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-55"
+                }
+            },
+            {
+                "position": 13,
+                "item": {
+                    "name": "All I Knew",
+                    "duration": "P00H07M03S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-45"
+                }
+            },
+            {
+                "position": 14,
+                "item": {
+                    "name": "Night Colors",
+                    "duration": "P00H12M19S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-31"
+                }
+            }
+        ],
+        "duration": "P02H04M19S"
+    },
+    "image": "https://f4.bcbits.com/img/a1869041366_10.jpg",
+    "datePublished": "16 Dec 2014 00:00:00 GMT",
+    "description": "Papadosio and Conscious Alliance present\r\nEarth Night 2014 - Part I - Live at the Fillmore Auditorium - Denver, CO featuring Rising Appalachia, Eskmo, David Hale, Amanda Sage, Winona LaDuke, Walt Pourier, Benito Concha, Lani Gordon and Joe Ramas."
+}

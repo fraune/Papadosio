@@ -1,0 +1,128 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/live-at-irving-plaza-imaginal-cells-tour",
+    "name": "Live at Irving Plaza - Imaginal Cells Tour",
+    "dateModified": "19 Oct 2014 19:45:54 GMT",
+    "numTracks": 14,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 14,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "We Are Water",
+                    "duration": "P00H07M08S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-45"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Monochrome>",
+                    "duration": "P00H11M46S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-16"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Paradigm Shift",
+                    "duration": "P00H15M14S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-28"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "All I Knew",
+                    "duration": "P00H07M38S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-38"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Right Now",
+                    "duration": "P00H07M49S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-16"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Elephant I Presume",
+                    "duration": "P00H09M07S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/elephant-i-presume"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Giving You Up >",
+                    "duration": "P00H06M25S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/giving-you-up-9"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "New Love >",
+                    "duration": "P00H10M00S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-48"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Sub Fire 37 (Improv) >",
+                    "duration": "P00H03M00S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/sub-fire-37-improv"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Giving You Up",
+                    "duration": "P00H02M04S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/giving-you-up-11"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "TV Song",
+                    "duration": "P00H04M18S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/tv-song-17"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "Taking Turns",
+                    "duration": "P00H10M55S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-28"
+                }
+            },
+            {
+                "position": 13,
+                "item": {
+                    "name": "If It Wasn't For You >",
+                    "duration": "P00H09M10S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-28"
+                }
+            },
+            {
+                "position": 14,
+                "item": {
+                    "name": "Polygons",
+                    "duration": "P00H16M45S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-19"
+                }
+            }
+        ],
+        "duration": "P02H01M19S"
+    },
+    "image": "https://f4.bcbits.com/img/a2135453682_10.jpg",
+    "datePublished": "17 Oct 2014 00:00:00 GMT",
+    "description": "Live at Irving Plaza - Imaginal Cells Tour\r\nOctober 11th, 2014 - New York, NY"
+}

@@ -1,0 +1,128 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/house-of-blues-112515-cleveland-oh",
+    "name": "House of Blues | 11.25.15 | Cleveland, OH",
+    "dateModified": "26 Dec 2015 20:45:59 GMT",
+    "numTracks": 14,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 14,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Intro",
+                    "duration": "P00H01M03S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-28"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Anima Mundi",
+                    "duration": "P00H07M25S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-13"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "The Bionic Man Meets His Past",
+                    "duration": "P00H13M14S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-57"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Ritual",
+                    "duration": "P00H08M58S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-12"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Glimpse of Light",
+                    "duration": "P00H06M03S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-19"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "All I Knew",
+                    "duration": "P00H17M54S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-59"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "The Wrong Nostalgia",
+                    "duration": "P00H04M40S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-11"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "We Are Water",
+                    "duration": "P00H06M37S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-74"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Psipoly",
+                    "duration": "P00H05M38S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/psipoly-2"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Anima Mundi",
+                    "duration": "P00H05M24S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-14"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Gazing The Great Oscillator",
+                    "duration": "P00H02M43S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/gazing-the-great-oscillator-8"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "Moon Entendre",
+                    "duration": "P00H10M57S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/moon-entendre-6"
+                }
+            },
+            {
+                "position": 13,
+                "item": {
+                    "name": "Utopiate",
+                    "duration": "P00H12M16S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-41"
+                }
+            },
+            {
+                "position": 14,
+                "item": {
+                    "name": "The Eyes Have Eyes",
+                    "duration": "P00H09M34S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-33"
+                }
+            }
+        ],
+        "duration": "P01H52M26S"
+    },
+    "image": "https://f4.bcbits.com/img/a4090323136_10.jpg",
+    "datePublished": "26 Dec 2015 20:45:59 GMT",
+    "description": "House of Blues | 11.25.15 | Cleveland, OH\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015."
+}

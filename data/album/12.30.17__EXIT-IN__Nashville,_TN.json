@@ -1,0 +1,96 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/123017-exit-in-nashville-tn",
+    "name": "12.30.17 | EXIT/IN | Nashville, TN",
+    "dateModified": "03 Jan 2018 20:41:52 GMT",
+    "numTracks": 10,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 10,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Monochrome",
+                    "duration": "P00H11M24S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-55"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Taking Turns",
+                    "duration": "P00H09M46S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-51"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Direction Song",
+                    "duration": "P00H12M23S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-54"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Stick Figure",
+                    "duration": "P00H08M05S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-43"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "You and Yourself",
+                    "duration": "P00H16M32S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-49"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "The Wrong Nostalgia",
+                    "duration": "P00H04M33S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-38"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Cloud Found",
+                    "duration": "P00H09M49S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-81"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Oblivion",
+                    "duration": "P00H10M31S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-26"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "The Plug",
+                    "duration": "P00H19M26S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-43"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Vactrollio",
+                    "duration": "P00H09M27S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-38"
+                }
+            }
+        ],
+        "duration": "P01H51M56S"
+    },
+    "image": "https://f4.bcbits.com/img/a2108826906_10.jpg",
+    "datePublished": "03 Jan 2018 00:00:00 GMT",
+    "description": "This set was recorded on December 30th, 2017 at The EXIT/IN, in Nashville, TN, This was a SOLD OUT show on the first night of our NYE 2017 run! Thanks to everybody who came out!"
+}

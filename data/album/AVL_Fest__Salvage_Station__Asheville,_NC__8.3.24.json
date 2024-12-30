@@ -1,0 +1,88 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/avl-fest-salvage-station-asheville-nc-8324",
+    "name": "AVL Fest | Salvage Station | Asheville, NC | 8.3.24",
+    "dateModified": "07 Aug 2024 14:23:39 GMT",
+    "numTracks": 9,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 9,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Shiitake",
+                    "duration": "P00H11M37S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-48"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Pool Of Stars",
+                    "duration": "P00H06M52S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-33"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Garden",
+                    "duration": "P00H07M56S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-132"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Cue",
+                    "duration": "P00H14M34S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-172"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Everybody Wants To Rule The World*",
+                    "duration": "P00H06M16S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/everybody-wants-to-rule-the-world-2"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "You And Yourself",
+                    "duration": "P00H13M04S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-80"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Who You Are ft. Stephanie Morgan",
+                    "duration": "P00H08M07S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/who-you-are-ft-stephanie-morgan"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Versicolor",
+                    "duration": "P00H11M01S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-53"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H10M16S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-199"
+                }
+            }
+        ],
+        "duration": "P01H29M43S"
+    },
+    "image": "https://f4.bcbits.com/img/a3451864016_10.jpg",
+    "datePublished": "07 Aug 2024 14:23:40 GMT",
+    "description": "Such an unforgettable weekend in Asheville! Thank you to everyone who came out and supported all of the musicians in town, it was special to be a part of something so unique to where we live. Thank you AVL Fest and we will see you all soon!"
+}

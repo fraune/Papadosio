@@ -1,0 +1,112 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/georges-majestic-fayetteville-ar-102823",
+    "name": "George's Majestic | Fayetteville, AR | 10.28.23",
+    "dateModified": "07 Nov 2023 18:00:39 GMT",
+    "numTracks": 12,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 12,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Cue",
+                    "duration": "P00H15M29S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-162"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Therian",
+                    "duration": "P00H11M28S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-40"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Night Colors",
+                    "duration": "P00H09M50S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-110"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Anima Mundi",
+                    "duration": "P00H08M58S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-51"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Optimistic*",
+                    "duration": "P00H05M49S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/optimistic-2"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "You're A Catman",
+                    "duration": "P00H09M07S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-22"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Cubensis",
+                    "duration": "P00H10M08S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-42"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Fate",
+                    "duration": "P00H06M35S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fate-7"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Dare You",
+                    "duration": "P00H07M17S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-21"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Paradigm Shift",
+                    "duration": "P00H16M10S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-126"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "We Are Water",
+                    "duration": "P00H12M00S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-173"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "New Love",
+                    "duration": "P00H09M30S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-172"
+                }
+            }
+        ],
+        "duration": "P02H02M21S"
+    },
+    "image": "https://f4.bcbits.com/img/a0476628229_10.jpg",
+    "datePublished": "07 Nov 2023 18:00:39 GMT",
+    "description": "This one rips...great game y'all, great game! Thank you Fayetteville!!!"
+}

@@ -1,0 +1,88 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/live-from-the-hills-32815-pataskala-oh",
+    "name": "Live From The Hills |3.28.15| Pataskala, OH",
+    "dateModified": "13 Apr 2015 19:55:54 GMT",
+    "numTracks": 9,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 9,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Curve",
+                    "duration": "P00H27M36S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-29"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Fuse",
+                    "duration": "P00H13M46S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-30"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Direction Song",
+                    "duration": "P00H06M23S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-25"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Now That You Know",
+                    "duration": "P00H09M20S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-14"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "The Elephant I Presume",
+                    "duration": "P00H08M20S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-18"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "The Sum",
+                    "duration": "P00H07M30S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-29"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Hippie Babysitter Ft. Chris Houser (The Werks)",
+                    "duration": "P00H19M22S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-ft-chris-houser-the-werks"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "If It Wasnt For You",
+                    "duration": "P00H08M19S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-34"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Polygons 2/2",
+                    "duration": "P00H16M56S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-2-2"
+                }
+            }
+        ],
+        "duration": "P01H57M32S"
+    },
+    "image": "https://f4.bcbits.com/img/a0052868320_10.jpg",
+    "datePublished": "13 Apr 2015 19:55:54 GMT",
+    "description": "Live from the Hills of Pataskala, OH on March 28th 2015"
+}

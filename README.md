@@ -31,11 +31,7 @@ Bandcamp is a little weird about reliably loading pages the same way every time.
 
 ### Prep working directory
 
-Reset the `raw/` directory in this local repository:
-
-```
-python app/raw_reset.py
-```
+Delete the raw and data folders to start from scratch
 
 ### Acquisition of album data [Manual]
 
@@ -45,5 +41,15 @@ python app/raw_reset.py
     - Save the file to the `raw/` directory in this local repository
     - Use default naming, `Music _ Papadosio.html`
 
-### Acqisition of song data
+### Parse the music HTML file to pull out the album HTML
 
+```
+python app/parse_music.py
+python app/download_albums.py
+```
+
+### Parse Album JSON
+
+```
+python app/process_albums.py
+```

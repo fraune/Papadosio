@@ -1,0 +1,56 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/live-at-summer-camp-music-festival-52215-chillicothe-il",
+    "name": "Live at Summer Camp Music Festival |5.22.15| Chillicothe, IL",
+    "dateModified": "21 May 2018 16:58:42 GMT",
+    "numTracks": 5,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 5,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Direction Song",
+                    "duration": "P00H15M28S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-28"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "You and Yourself",
+                    "duration": "P00H10M42S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-28"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Improbability Blotter",
+                    "duration": "P00H08M28S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-35"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Curve",
+                    "duration": "P00H15M15S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-32"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Advocate of Change",
+                    "duration": "P00H10M41S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-38"
+                }
+            }
+        ],
+        "duration": "P01H00M34S"
+    },
+    "image": "https://f4.bcbits.com/img/a3355134516_10.jpg",
+    "datePublished": "08 Jun 2015 00:00:00 GMT",
+    "description": "Live from The Summer Camp Music Festival May 22nd, 2015 All music, written, performed & recorded by Papadosio. © all rights reserved 2015."
+}

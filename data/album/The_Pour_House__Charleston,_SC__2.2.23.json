@@ -1,0 +1,104 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/the-pour-house-charleston-sc-2223",
+    "name": "The Pour House | Charleston, SC | 2.2.23",
+    "dateModified": "13 Feb 2023 16:48:28 GMT",
+    "numTracks": 11,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 11,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Versicolor",
+                    "duration": "P00H08M10S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-30"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Monochrome",
+                    "duration": "P00H12M33S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-87"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Threes",
+                    "duration": "P00H08M47S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-76"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Garden",
+                    "duration": "P00H08M32S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-120"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Method Of Control",
+                    "duration": "P00H08M16S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-121"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Smile And Nod",
+                    "duration": "P00H17M15S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-99"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Skipswitch",
+                    "duration": "P00H13M41S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-64"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "You're A Catman",
+                    "duration": "P00H12M13S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-4"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Not Just A Word",
+                    "duration": "P00H06M16S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-9"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Advocate Of Change",
+                    "duration": "P00H07M54S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-110"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Unparalyzer",
+                    "duration": "P00H13M20S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-123"
+                }
+            }
+        ],
+        "duration": "P01H56M57S"
+    },
+    "image": "https://f4.bcbits.com/img/a3877856355_10.jpg",
+    "datePublished": "13 Feb 2023 16:48:28 GMT",
+    "description": "Thanks to everyone who came out to the Pour House this weekend, we had a wonderful time as always!"
+}

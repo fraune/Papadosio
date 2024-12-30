@@ -1,0 +1,96 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/resonance-2014-ii-10414",
+    "name": "Resonance 2014 II - 10.4.14",
+    "dateModified": "08 Oct 2014 16:19:58 GMT",
+    "numTracks": 10,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 10,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Geoglyph",
+                    "duration": "P00H08M59S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-15"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Cloud Found",
+                    "duration": "P00H09M34S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-35"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H21M36S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-30"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "The Sum",
+                    "duration": "P00H10M50S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-24"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Utopiate w/ Chris Houser*",
+                    "duration": "P00H13M08S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-w-chris-houser"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Garden",
+                    "duration": "P00H09M54S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-31"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Direction Song",
+                    "duration": "P00H09M44S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-20"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Method of Control w/ Dino Dimitrouleas*",
+                    "duration": "P00H12M07S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-w-dino-dimitrouleas"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Dream Estate",
+                    "duration": "P00H12M15S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-34"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Improbability Blotter",
+                    "duration": "P00H08M34S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-25"
+                }
+            }
+        ],
+        "duration": "P01H56M41S"
+    },
+    "image": "https://f4.bcbits.com/img/a3056189490_10.jpg",
+    "datePublished": "08 Oct 2014 00:00:00 GMT",
+    "description": "* from The Werks"
+}

@@ -1,0 +1,152 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/earth-night-v-121815-terminal-west",
+    "name": "Earth Night V | 12.18.15 | Terminal West",
+    "dateModified": "12 Dec 2019 01:14:36 GMT",
+    "numTracks": 17,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 17,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Old Robot",
+                    "duration": "P00H09M26S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/old-robot"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Compensation For The First",
+                    "duration": "P00H08M32S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/compensation-for-the-first"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Hold The Meetings",
+                    "duration": "P00H03M22S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hold-the-meetings"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Cold Weather",
+                    "duration": "P00H07M58S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cold-weather"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "If Your Aunt Had Balls She'd Be Your Uncle",
+                    "duration": "P00H04M01S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-your-aunt-had-balls-shed-be-your-uncle"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Strafe the Tiger",
+                    "duration": "P00H09M09S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/strafe-the-tiger"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Monk Radar",
+                    "duration": "P00H16M02S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monk-radar"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Calm the Sweater",
+                    "duration": "P00H02M11S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/calm-the-sweater"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Sleep Tomorrow When We Leave",
+                    "duration": "P00H05M55S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/sleep-tomorrow-when-we-leave"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Court Jesterday",
+                    "duration": "P00H08M27S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/court-jesterday"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Cameron's Snacks",
+                    "duration": "P00H04M46S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/camerons-snacks"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "Jake's H3tty Shirt",
+                    "duration": "P00H12M56S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/jakes-h3tty-shirt"
+                }
+            },
+            {
+                "position": 13,
+                "item": {
+                    "name": "Beau's Fresh Batch",
+                    "duration": "P00H09M10S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/beaus-fresh-batch"
+                }
+            },
+            {
+                "position": 14,
+                "item": {
+                    "name": "Emberlem",
+                    "duration": "P00H04M19S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/emberlem"
+                }
+            },
+            {
+                "position": 15,
+                "item": {
+                    "name": "Tallbridge Over Water Towards the General Direction",
+                    "duration": "P00H06M36S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/tallbridge-over-water-towards-the-general-direction"
+                }
+            },
+            {
+                "position": 16,
+                "item": {
+                    "name": "Mozzarella Stick Bandit: Book 1",
+                    "duration": "P00H08M00S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mozzarella-stick-bandit-book-1"
+                }
+            },
+            {
+                "position": 17,
+                "item": {
+                    "name": "Zippin On Some Lizzurp",
+                    "duration": "P00H11M48S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/zippin-on-some-lizzurp"
+                }
+            }
+        ],
+        "duration": "P02H12M38S"
+    },
+    "image": "https://f4.bcbits.com/img/a1857369095_10.jpg",
+    "datePublished": "14 Jan 2016 00:00:00 GMT",
+    "description": "Earth Night V | 12.18.15 | Terminal West\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015."
+}

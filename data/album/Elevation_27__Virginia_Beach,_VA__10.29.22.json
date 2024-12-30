@@ -1,0 +1,112 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/elevation-27-virginia-beach-va-102922",
+    "name": "Elevation 27 | Virginia Beach, VA | 10.29.22",
+    "dateModified": "14 Nov 2022 19:51:39 GMT",
+    "numTracks": 12,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 12,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Vactrollio",
+                    "duration": "P00H08M17S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-85"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Euclidean Lights",
+                    "duration": "P00H10M39S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-59"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Cubensis",
+                    "duration": "P00H09M51S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-25"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Curvature",
+                    "duration": "P00H12M48S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curvature"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Cubensis",
+                    "duration": "P00H02M40S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-26"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Advocate Of Change",
+                    "duration": "P00H19M14S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-108"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Zoom Out",
+                    "duration": "P00H09M31S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/zoom-out-2"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Threes",
+                    "duration": "P00H10M43S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-73"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Out Of Hiding",
+                    "duration": "P00H07M26S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-53"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Write Sing Play Mix",
+                    "duration": "P00H09M32S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-44"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "The Eyes Have Eyes",
+                    "duration": "P00H09M27S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-90"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "Holy Heck",
+                    "duration": "P00H09M51S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-55"
+                }
+            }
+        ],
+        "duration": "P01H59M59S"
+    },
+    "image": "https://f4.bcbits.com/img/a2098300579_10.jpg",
+    "datePublished": "14 Nov 2022 19:51:39 GMT",
+    "description": null
+}

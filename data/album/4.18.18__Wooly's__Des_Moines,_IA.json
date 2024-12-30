@@ -1,0 +1,96 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/41818-woolys-des-moines-ia",
+    "name": "4.18.18 | Wooly's | Des Moines, IA",
+    "dateModified": "25 Apr 2018 22:14:27 GMT",
+    "numTracks": 10,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 10,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Advocate of change",
+                    "duration": "P00H02M34S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-69"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Oblivion",
+                    "duration": "P00H08M54S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-33"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Direction Song",
+                    "duration": "P00H11M24S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-58"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Fuse",
+                    "duration": "P00H05M08S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-54"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Geoglyph",
+                    "duration": "P00H08M20S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-57"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "All I Knew",
+                    "duration": "P00H07M40S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-86"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Madre de Dios",
+                    "duration": "P00H04M34S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-32"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Improbability Blotter",
+                    "duration": "P00H13M21S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-68"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "New Love",
+                    "duration": "P00H11M03S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-120"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H09M22S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-115"
+                }
+            }
+        ],
+        "duration": "P01H22M20S"
+    },
+    "image": "https://f4.bcbits.com/img/a2161390522_10.jpg",
+    "datePublished": "25 Apr 2018 22:14:27 GMT",
+    "description": "This album was recorded on April 18th, 2018 at Wooly's in Des Moines, IA. Thanks to everybody who came out! & Thanks to Bluetech for getting the show started!"
+}

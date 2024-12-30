@@ -1,0 +1,104 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/baltimore-soundstage-baltimore-md-21723",
+    "name": "Baltimore Soundstage | Baltimore, MD | 2.17.23",
+    "dateModified": "02 Mar 2023 19:20:24 GMT",
+    "numTracks": 11,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 11,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Intro",
+                    "duration": "P00H03M17S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-104"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Puddles For Oceans",
+                    "duration": "P00H12M10S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-80"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Your'e A Catman",
+                    "duration": "P00H12M39S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-6"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Fanfare For The Rain People",
+                    "duration": "P00H14M11S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-33"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Zoom Out",
+                    "duration": "P00H09M54S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/zoom-out-8"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Shiitake",
+                    "duration": "P00H06M46S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-26"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Out Of Hiding",
+                    "duration": "P00H07M22S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-57"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "The Plug",
+                    "duration": "P00H16M26S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-75"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Improbability Blotter",
+                    "duration": "P00H13M13S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-114"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "We Are Water",
+                    "duration": "P00H10M19S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-161"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Versicolor",
+                    "duration": "P00H07M50S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-31"
+                }
+            }
+        ],
+        "duration": "P01H54M07S"
+    },
+    "image": "https://f4.bcbits.com/img/a2089479461_10.jpg",
+    "datePublished": "02 Mar 2023 19:20:25 GMT",
+    "description": "Thanks for coming out Baltimore! See you again soon!"
+}

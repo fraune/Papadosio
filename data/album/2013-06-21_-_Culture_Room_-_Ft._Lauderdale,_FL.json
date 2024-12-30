@@ -1,0 +1,112 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/2013-06-21-culture-room-ft-lauderdale-fl",
+    "name": "2013-06-21 - Culture Room - Ft. Lauderdale, FL",
+    "dateModified": "04 Feb 2014 06:44:32 GMT",
+    "numTracks": 12,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 12,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "The Bionic Man Meets His Past",
+                    "duration": "P00H07M18S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-5"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H10M06S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-4"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Smile and Nod",
+                    "duration": "P00H10M36S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-2"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "By the Light of the Stars",
+                    "duration": "P00H12M00S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-4"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Monochrome",
+                    "duration": "P00H12M06S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-3"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Utopiate",
+                    "duration": "P00H11M17S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-3"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Unparalyzer",
+                    "duration": "P00H16M49S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-6"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Dream Estate",
+                    "duration": "P00H07M48S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-3"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Method of Control",
+                    "duration": "P00H08M12S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-3"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Polygons",
+                    "duration": "P00H14M36S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-6"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "New Love",
+                    "duration": "P00H13M24S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-3"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "The Plug",
+                    "duration": "P00H13M04S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-5"
+                }
+            }
+        ],
+        "duration": "P02H17M16S"
+    },
+    "image": "https://f4.bcbits.com/img/a3097928421_10.jpg",
+    "datePublished": "25 Jun 2013 00:00:00 GMT",
+    "description": "Live at the Culture Room\r\nFt. Lauderdale, FL - 6.21.13"
+}

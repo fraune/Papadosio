@@ -1,0 +1,88 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/live-at-the-haunt-imaginal-cells-tour",
+    "name": "Live at The Haunt - Imaginal Cells Tour",
+    "dateModified": "24 Oct 2014 23:33:19 GMT",
+    "numTracks": 9,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 9,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "The Bionic Man Meets His Past",
+                    "duration": "P00H06M43S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-30"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "By the Light of the Stars",
+                    "duration": "P00H09M10S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-18"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H18M17S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-45"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Fuse",
+                    "duration": "P00H08M16S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-25"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Now That You Know",
+                    "duration": "P00H09M50S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-11"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Geoglyph",
+                    "duration": "P00H15M29S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-18"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "You and Yourself",
+                    "duration": "P00H10M16S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-18"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H22M18S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-32"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Stick Figure",
+                    "duration": "P00H07M56S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-14"
+                }
+            }
+        ],
+        "duration": "P01H48M15S"
+    },
+    "image": "https://f4.bcbits.com/img/a3194138262_10.jpg",
+    "datePublished": "24 Oct 2014 00:00:00 GMT",
+    "description": "Live at The Haunt - Imaginal Cells Tour\r\n10.14.14 - Ithaca, NY"
+}

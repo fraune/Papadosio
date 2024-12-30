@@ -1,0 +1,120 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/earth-night-live-pa-set-121914-columbus-oh",
+    "name": "Earth Night Live PA Set | 12.19.14 | Columbus, OH",
+    "dateModified": "10 Sep 2015 08:50:00 GMT",
+    "numTracks": 13,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 13,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Part 1",
+                    "duration": "P00H17M56S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/part-1"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Part 2",
+                    "duration": "P00H07M01S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/part-2"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Part 3",
+                    "duration": "P00H04M56S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/part-3"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Part 4",
+                    "duration": "P00H17M33S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/part-4"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Part 5",
+                    "duration": "P00H13M27S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/part-5"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Part 6",
+                    "duration": "P00H07M45S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/part-6"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Part 7",
+                    "duration": "P00H05M25S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/part-7"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Part 8",
+                    "duration": "P00H05M32S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/part-8"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Part 9",
+                    "duration": "P00H01M36S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/part-9"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Part 10",
+                    "duration": "P00H10M31S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/part-10"
+                }
+            },
+            {
+                "position": 11,
+                "item": {
+                    "name": "Part 11",
+                    "duration": "P00H10M15S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/part-11"
+                }
+            },
+            {
+                "position": 12,
+                "item": {
+                    "name": "Part 12",
+                    "duration": "P00H03M18S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/part-12"
+                }
+            },
+            {
+                "position": 13,
+                "item": {
+                    "name": "Part 13",
+                    "duration": "P00H08M26S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/part-13"
+                }
+            }
+        ],
+        "duration": "P01H53M41S"
+    },
+    "image": "https://f4.bcbits.com/img/a0638410693_10.jpg",
+    "datePublished": "10 Sep 2015 08:49:56 GMT",
+    "description": "Straight instrumentation in celebration of our annual Earth Night adventure. Live from Park Street Saloon in the the heart of Columbus, Ohio, the highly acclaimed, two-hour long improvisational performance\r\n\r\nAll music performed and recorded by Papadosio © all rights reserved 2015."
+}

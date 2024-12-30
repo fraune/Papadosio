@@ -1,0 +1,96 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/102718-fall-freaquence-denver-co",
+    "name": "10.27.18 | Fall Freaquence | Denver, CO",
+    "dateModified": "09 Nov 2018 21:33:58 GMT",
+    "numTracks": 10,
+    "track": {
+        "@type": "ItemList",
+        "numberOfItems": 10,
+        "itemListElement": [
+            {
+                "position": 1,
+                "item": {
+                    "name": "Improbability Blotter",
+                    "duration": "P00H10M33S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-77"
+                }
+            },
+            {
+                "position": 2,
+                "item": {
+                    "name": "Fire Rite",
+                    "duration": "P00H06M11S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-9"
+                }
+            },
+            {
+                "position": 3,
+                "item": {
+                    "name": "Skipswitch",
+                    "duration": "P00H11M14S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-10"
+                }
+            },
+            {
+                "position": 4,
+                "item": {
+                    "name": "Fanfare for the Rain People",
+                    "duration": "P00H09M17S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-10"
+                }
+            },
+            {
+                "position": 5,
+                "item": {
+                    "name": "Snorkle",
+                    "duration": "P00H13M44S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-115"
+                }
+            },
+            {
+                "position": 6,
+                "item": {
+                    "name": "Find Your Cloud",
+                    "duration": "P00H17M04S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-127"
+                }
+            },
+            {
+                "position": 7,
+                "item": {
+                    "name": "Epiphany",
+                    "duration": "P00H07M52S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-46"
+                }
+            },
+            {
+                "position": 8,
+                "item": {
+                    "name": "Cue",
+                    "duration": "P00H08M07S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-116"
+                }
+            },
+            {
+                "position": 9,
+                "item": {
+                    "name": "Write Sing Play Mix",
+                    "duration": "P00H07M34S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-9"
+                }
+            },
+            {
+                "position": 10,
+                "item": {
+                    "name": "Paradigm Shift",
+                    "duration": "P00H08M31S",
+                    "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-83"
+                }
+            }
+        ],
+        "duration": "P01H40M07S"
+    },
+    "image": "https://f4.bcbits.com/img/a1015457225_10.jpg",
+    "datePublished": "09 Nov 2018 21:33:59 GMT",
+    "description": "This album was recorded on October 27th at the Fillmore in Denver, CO during our Fall Freaquence event! Thanks to everybody who came out to the show & thanks to Russ Liquid Test, Evanoff, Jaw Gems & Funkstatik for keeping things flowing all night!"
+}
