@@ -18,6 +18,9 @@ def ensure_output_dir():
 
 async def fetch_album_page(session: ClientSession, page_url: str, album_title: str, delay: int):
     """Fetch the album page and save it as an HTML file, with a delay before starting."""
+    if "/track/" in page_url:
+        return False
+    
     await asyncio.sleep(delay)  # Staggered start
     absolute_url = f"{BASE_URL}{page_url}"
     file_name = f"{album_title.replace(' ', '_').replace('|', '').replace('/', '-')}.html"
