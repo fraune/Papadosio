@@ -578,16 +578,19 @@
         "count": 38,
         "alternatives": []
     },
+    "therian": {
+        "count": 38,
+        "alternatives": [
+            "therian*",
+            "therian>"
+        ]
+    },
     "right now": {
         "count": 37,
         "alternatives": [
             "right now (5.4.13)",
             "right now (acoustic)"
         ]
-    },
-    "therian": {
-        "count": 36,
-        "alternatives": []
     },
     "drift": {
         "count": 36,
@@ -1050,10 +1053,6 @@
         "alternatives": []
     },
     "distant days*": {
-        "count": 1,
-        "alternatives": []
-    },
-    "therian*": {
         "count": 1,
         "alternatives": []
     },
@@ -2134,10 +2133,6 @@
         "alternatives": []
     },
     "loin's mane": {
-        "count": 1,
-        "alternatives": []
-    },
-    "therian>": {
         "count": 1,
         "alternatives": []
     },
