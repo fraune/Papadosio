@@ -338,6 +338,17 @@
             "the plug 2/2"
         ]
     },
+    "you and yourself": {
+        "count": 75,
+        "alternatives": [
+            "cue > you & yourself",
+            "you and yourself (5.4.13)",
+            "you and yourself -> cordyceps",
+            "you and your self",
+            "you & yourself",
+            "you & yourself (acoustic)"
+        ]
+    },
     "the sum": {
         "count": 73,
         "alternatives": [
@@ -352,13 +363,6 @@
             "mr. turtle's cloud kingdom",
             "mr. turtles cloud kingdom - (aligning minds remix)",
             "mr. turtle's cloud kingdom (acoustic)"
-        ]
-    },
-    "you and yourself": {
-        "count": 71,
-        "alternatives": [
-            "you and yourself (5.4.13)",
-            "you and yourself -> cordyceps"
         ]
     },
     "skipswitch": {
@@ -948,6 +952,12 @@
             "the national anthem*"
         ]
     },
+    "left on the light": {
+        "count": 3,
+        "alternatives": [
+            "left on the light (acoustic)"
+        ]
+    },
     "paradigm": {
         "count": 2,
         "alternatives": []
@@ -965,10 +975,6 @@
         "alternatives": []
     },
     "loud pipes (ratatat)": {
-        "count": 2,
-        "alternatives": []
-    },
-    "left on the light": {
         "count": 2,
         "alternatives": []
     },
@@ -1000,10 +1006,6 @@
         "count": 2,
         "alternatives": []
     },
-    "you & yourself": {
-        "count": 2,
-        "alternatives": []
-    },
     "porcelain": {
         "count": 2,
         "alternatives": []
@@ -1015,6 +1017,12 @@
     "fahrenheit fair enough*": {
         "count": 2,
         "alternatives": []
+    },
+    "everybody wants to rule the world": {
+        "count": 2,
+        "alternatives": [
+            "everybody wants to rule the world*"
+        ]
     },
     "bass interlude": {
         "count": 1,
@@ -1061,14 +1069,6 @@
         "alternatives": []
     },
     "in the meantime (spacehog)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "you & yourself (acoustic)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "left on the light (acoustic)": {
         "count": 1,
         "alternatives": []
     },
@@ -1152,15 +1152,7 @@
         "count": 1,
         "alternatives": []
     },
-    "everybody wants to rule the world": {
-        "count": 1,
-        "alternatives": []
-    },
     "sub fire 37 (improv) >": {
-        "count": 1,
-        "alternatives": []
-    },
-    "you and your self": {
         "count": 1,
         "alternatives": []
     },
@@ -1889,10 +1881,6 @@
         "alternatives": []
     },
     "mancoluto": {
-        "count": 1,
-        "alternatives": []
-    },
-    "everybody wants to rule the world*": {
         "count": 1,
         "alternatives": []
     },
