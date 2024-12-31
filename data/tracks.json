@@ -791,11 +791,13 @@
             "fossilize3"
         ]
     },
-    "just like the days": {
-        "count": 14,
-        "alternatives": []
-    },
     "fate": {
+        "count": 15,
+        "alternatives": [
+            "fate*"
+        ]
+    },
+    "just like the days": {
         "count": 14,
         "alternatives": []
     },
@@ -1570,10 +1572,6 @@
         "alternatives": []
     },
     "spinning ft. eli winderman": {
-        "count": 1,
-        "alternatives": []
-    },
-    "fate*": {
         "count": 1,
         "alternatives": []
     },
