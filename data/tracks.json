@@ -804,6 +804,13 @@
             "fate*"
         ]
     },
+    "the big smile": {
+        "count": 15,
+        "alternatives": [
+            "the big smile*",
+            "the big smile (acoustic)"
+        ]
+    },
     "just like the days": {
         "count": 14,
         "alternatives": []
@@ -813,10 +820,6 @@
         "alternatives": []
     },
     "agarikon": {
-        "count": 13,
-        "alternatives": []
-    },
-    "the big smile": {
         "count": 13,
         "alternatives": []
     },
@@ -1126,10 +1129,6 @@
         "count": 1,
         "alternatives": []
     },
-    "the big smile*": {
-        "count": 1,
-        "alternatives": []
-    },
     "i had the same dream (_)": {
         "count": 1,
         "alternatives": []
@@ -1399,10 +1398,6 @@
         "alternatives": []
     },
     "distant days (acoustic)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "the big smile (acoustic)": {
         "count": 1,
         "alternatives": []
     },
