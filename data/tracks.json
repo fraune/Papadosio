@@ -183,6 +183,16 @@
             "cloud found >"
         ]
     },
+    "smile and nod": {
+        "count": 102,
+        "alternatives": [
+            "smile and nod>",
+            "smile n' nod",
+            "smile n nod",
+            "smile & nod",
+            "smile n' nod (night 1)"
+        ]
+    },
     "intro": {
         "count": 99,
         "alternatives": []
@@ -209,10 +219,6 @@
             "geoglyph> if it wasn't for you",
             "geoglyph>"
         ]
-    },
-    "smile and nod": {
-        "count": 92,
-        "alternatives": []
     },
     "vactrollio": {
         "count": 89,
@@ -737,10 +743,6 @@
         "count": 5,
         "alternatives": []
     },
-    "smile n nod": {
-        "count": 5,
-        "alternatives": []
-    },
     "in the meantime*": {
         "count": 4,
         "alternatives": []
@@ -896,10 +898,6 @@
         "alternatives": []
     },
     "paradigm reprise": {
-        "count": 2,
-        "alternatives": []
-    },
-    "smile & nod": {
         "count": 2,
         "alternatives": []
     },
@@ -1599,10 +1597,6 @@
         "count": 1,
         "alternatives": []
     },
-    "smile n' nod (night 1)": {
-        "count": 1,
-        "alternatives": []
-    },
     "anima mundi (night 1)": {
         "count": 1,
         "alternatives": []
@@ -1908,10 +1902,6 @@
         "alternatives": []
     },
     "thank you": {
-        "count": 1,
-        "alternatives": []
-    },
-    "smile and nod>": {
         "count": 1,
         "alternatives": []
     },
@@ -2328,10 +2318,6 @@
         "alternatives": []
     },
     "earthcry transition": {
-        "count": 1,
-        "alternatives": []
-    },
-    "smile n' nod": {
         "count": 1,
         "alternatives": []
     },
