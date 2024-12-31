@@ -422,6 +422,13 @@
             "fuse >"
         ]
     },
+    "the wrong nostalgia": {
+        "count": 57,
+        "alternatives": [
+            "wrong nostalgia",
+            "the wrong nostaliga"
+        ]
+    },
     "holy heck": {
         "count": 56,
         "alternatives": [
@@ -449,10 +456,6 @@
     },
     "bypass default": {
         "count": 52,
-        "alternatives": []
-    },
-    "the wrong nostalgia": {
-        "count": 51,
         "alternatives": []
     },
     "if it wasn't for you": {
@@ -800,10 +803,6 @@
         "alternatives": []
     },
     "people as trees": {
-        "count": 5,
-        "alternatives": []
-    },
-    "wrong nostalgia": {
         "count": 5,
         "alternatives": []
     },
@@ -1638,10 +1637,6 @@
         "alternatives": []
     },
     "the end of the world*": {
-        "count": 1,
-        "alternatives": []
-    },
-    "the wrong nostaliga": {
         "count": 1,
         "alternatives": []
     },
