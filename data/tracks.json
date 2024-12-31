@@ -16,6 +16,17 @@
             "find your cloud (ft. esb horns)"
         ]
     },
+    "we are water": {
+        "count": 162,
+        "alternatives": [
+            "we are water (5.3.13)",
+            "we are water>",
+            "we are water ft. moonkat",
+            "cubensis -- we are water (end)",
+            "papadosio - we are water - 10.11.14 - irving plaza, ny",
+            "we are water (night 2)"
+        ]
+    },
     "cue": {
         "count": 156,
         "alternatives": [
@@ -38,10 +49,6 @@
             "snorkle (reprise)",
             "snorkle (night 2)"
         ]
-    },
-    "we are water": {
-        "count": 154,
-        "alternatives": []
     },
     "new love": {
         "count": 145,
@@ -339,7 +346,9 @@
     },
     "cubensis": {
         "count": 45,
-        "alternatives": []
+        "alternatives": [
+            "cubensis -- we are water (end)"
+        ]
     },
     "mr. turtles cloud kingdom": {
         "count": 45,
@@ -706,10 +715,6 @@
         "alternatives": []
     },
     "ph deez": {
-        "count": 3,
-        "alternatives": []
-    },
-    "we are water>": {
         "count": 3,
         "alternatives": []
     },
@@ -1113,10 +1118,6 @@
         "count": 1,
         "alternatives": []
     },
-    "we are water ft. moonkat": {
-        "count": 1,
-        "alternatives": []
-    },
     "2+2=5* (radiohead)": {
         "count": 1,
         "alternatives": []
@@ -1381,10 +1382,6 @@
         "count": 1,
         "alternatives": []
     },
-    "cubensis -- we are water (end)": {
-        "count": 1,
-        "alternatives": []
-    },
     "dream estate >": {
         "count": 1,
         "alternatives": []
@@ -1474,10 +1471,6 @@
         "alternatives": []
     },
     "praise you*": {
-        "count": 1,
-        "alternatives": []
-    },
-    "papadosio - we are water - 10.11.14 - irving plaza, ny": {
         "count": 1,
         "alternatives": []
     },
@@ -1650,10 +1643,6 @@
         "alternatives": []
     },
     "improbability blotter (night 2)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "we are water (night 2)": {
         "count": 1,
         "alternatives": []
     },
@@ -2706,10 +2695,6 @@
         "alternatives": []
     },
     "stick fgure": {
-        "count": 1,
-        "alternatives": []
-    },
-    "we are water (5.3.13)": {
         "count": 1,
         "alternatives": []
     }
