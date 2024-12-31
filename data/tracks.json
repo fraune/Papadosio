@@ -1,7 +1,9 @@
 {
     "find your cloud": {
-        "count": 159,
-        "alternatives": []
+        "count": 160,
+        "alternatives": [
+            "2am > paradigm shift > find your cloud"
+        ]
     },
     "cue": {
         "count": 156,
@@ -54,6 +56,19 @@
             "unparalyzer (5.4.13)"
         ]
     },
+    "paradigm shift": {
+        "count": 120,
+        "alternatives": [
+            "paradigm shift (5.3.13)",
+            "paradigm shift 1/2",
+            "paradigm shift 2/2",
+            "paradigm shift (acoustic)",
+            "paradigm shift (night 2)",
+            "paradigm shift>",
+            "paradigm shift > 2am > paradigm shift",
+            "2am > paradigm shift > find your cloud"
+        ]
+    },
     "garden": {
         "count": 115,
         "alternatives": []
@@ -64,10 +79,6 @@
     },
     "advocate of change": {
         "count": 108,
-        "alternatives": []
-    },
-    "paradigm shift": {
-        "count": 107,
         "alternatives": []
     },
     "all i knew": {
@@ -162,16 +173,16 @@
         "count": 73,
         "alternatives": []
     },
-    "polygons": {
-        "count": 70,
-        "alternatives": []
-    },
     "you and yourself": {
-        "count": 70,
+        "count": 71,
         "alternatives": [
             "you and yourself (5.4.13)",
             "you and yourself -> cordyceps"
         ]
+    },
+    "polygons": {
+        "count": 70,
+        "alternatives": []
     },
     "the sum": {
         "count": 69,
@@ -187,7 +198,10 @@
     },
     "2am": {
         "count": 66,
-        "alternatives": []
+        "alternatives": [
+            "paradigm shift > 2am > paradigm shift",
+            "2am > paradigm shift > find your cloud"
+        ]
     },
     "how not to float": {
         "count": 66,
@@ -382,12 +396,6 @@
         "count": 26,
         "alternatives": []
     },
-    "cordyceps": {
-        "count": 25,
-        "alternatives": [
-            "you and yourself -> cordyceps"
-        ]
-    },
     "the world is a cube": {
         "count": 25,
         "alternatives": []
@@ -395,6 +403,12 @@
     "liminal daybreak": {
         "count": 25,
         "alternatives": []
+    },
+    "cordyceps": {
+        "count": 24,
+        "alternatives": [
+            "you and yourself -> cordyceps"
+        ]
     },
     "obove": {
         "count": 24,
@@ -630,14 +644,6 @@
         "alternatives": []
     },
     "lack of everything": {
-        "count": 4,
-        "alternatives": []
-    },
-    "paradigm shift 1/2": {
-        "count": 4,
-        "alternatives": []
-    },
-    "paradigm shift 2/2": {
         "count": 4,
         "alternatives": []
     },
@@ -930,10 +936,6 @@
         "alternatives": []
     },
     "content coma (acoustic)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "paradigm shift (acoustic)": {
         "count": 1,
         "alternatives": []
     },
@@ -1717,10 +1719,6 @@
         "count": 1,
         "alternatives": []
     },
-    "paradigm shift (night 2)": {
-        "count": 1,
-        "alternatives": []
-    },
     "new 1/2": {
         "count": 1,
         "alternatives": []
@@ -2041,19 +2039,11 @@
         "count": 1,
         "alternatives": []
     },
-    "paradigm shift > 2am > paradigm shift": {
-        "count": 1,
-        "alternatives": []
-    },
     "pinyano": {
         "count": 1,
         "alternatives": []
     },
     "thank you": {
-        "count": 1,
-        "alternatives": []
-    },
-    "paradigm shift>": {
         "count": 1,
         "alternatives": []
     },
@@ -2465,10 +2455,6 @@
         "count": 1,
         "alternatives": []
     },
-    "2am > paradigm shift > find your cloud": {
-        "count": 1,
-        "alternatives": []
-    },
     "eventually*": {
         "count": 1,
         "alternatives": []
@@ -2866,10 +2852,6 @@
         "alternatives": []
     },
     "if it wasn't for you (5.3.13)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "paradigm shift (5.3.13)": {
         "count": 1,
         "alternatives": []
     }
