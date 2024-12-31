@@ -161,16 +161,21 @@
             "the direction song"
         ]
     },
+    "monochrome": {
+        "count": 81,
+        "alternatives": [
+            "monochrome (5.3.13)",
+            "monochrome>",
+            "monochrome >",
+            "monochrome (acoustic)"
+        ]
+    },
     "threes": {
         "count": 80,
         "alternatives": []
     },
     "by the light of the stars": {
         "count": 79,
-        "alternatives": []
-    },
-    "monochrome": {
-        "count": 76,
         "alternatives": []
     },
     "curve": {
@@ -738,10 +743,6 @@
         "alternatives": []
     },
     "t.v. song": {
-        "count": 2,
-        "alternatives": []
-    },
-    "monochrome>": {
         "count": 2,
         "alternatives": []
     },
@@ -1381,10 +1382,6 @@
         "count": 1,
         "alternatives": []
     },
-    "monochrome >": {
-        "count": 1,
-        "alternatives": []
-    },
     "dream estate >": {
         "count": 1,
         "alternatives": []
@@ -1458,10 +1455,6 @@
         "alternatives": []
     },
     "rainbow connection*": {
-        "count": 1,
-        "alternatives": []
-    },
-    "monochrome (acoustic)": {
         "count": 1,
         "alternatives": []
     },
@@ -2782,10 +2775,6 @@
         "alternatives": []
     },
     "find your cloud (5.3.13)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "monochrome (5.3.13)": {
         "count": 1,
         "alternatives": []
     }
