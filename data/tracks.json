@@ -297,6 +297,15 @@
             "dream estate*"
         ]
     },
+    "magreenery": {
+        "count": 78,
+        "alternatives": [
+            "magreenery>",
+            "magreenery (2.16.13)",
+            "magreenery ft. cloudchord",
+            "magreenery ft. chris houser (the werks)"
+        ]
+    },
     "curve": {
         "count": 76,
         "alternatives": [
@@ -318,10 +327,6 @@
             "the plug 1/2",
             "the plug 2/2"
         ]
-    },
-    "magreenery": {
-        "count": 73,
-        "alternatives": []
     },
     "you and yourself": {
         "count": 71,
@@ -893,10 +898,6 @@
         "alternatives": []
     },
     "song on the spot ep1": {
-        "count": 2,
-        "alternatives": []
-    },
-    "magreenery>": {
         "count": 2,
         "alternatives": []
     },
@@ -1536,10 +1537,6 @@
         "count": 1,
         "alternatives": []
     },
-    "magreenery (2.16.13)": {
-        "count": 1,
-        "alternatives": []
-    },
     "polygons (2.16.13)": {
         "count": 1,
         "alternatives": []
@@ -1756,10 +1753,6 @@
         "count": 1,
         "alternatives": []
     },
-    "magreenery ft. cloudchord": {
-        "count": 1,
-        "alternatives": []
-    },
     "family orchestra": {
         "count": 1,
         "alternatives": []
@@ -1805,10 +1798,6 @@
         "alternatives": []
     },
     "now that you know>": {
-        "count": 1,
-        "alternatives": []
-    },
-    "magreenery ft. chris houser (the werks)": {
         "count": 1,
         "alternatives": []
     },
