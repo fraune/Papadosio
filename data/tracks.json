@@ -353,8 +353,10 @@
         ]
     },
     "skipswitch": {
-        "count": 69,
-        "alternatives": []
+        "count": 70,
+        "alternatives": [
+            "skipswitch (acoustic)"
+        ]
     },
     "2am": {
         "count": 66,
@@ -983,10 +985,6 @@
         "alternatives": []
     },
     "the lack of everything (acoustic)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "skipswitch (acoustic)": {
         "count": 1,
         "alternatives": []
     },
