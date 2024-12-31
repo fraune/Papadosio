@@ -762,6 +762,12 @@
         "count": 3,
         "alternatives": []
     },
+    "closer": {
+        "count": 3,
+        "alternatives": [
+            "closer - (nine inch nails)"
+        ]
+    },
     "utopiate*": {
         "count": 2,
         "alternatives": []
@@ -835,10 +841,6 @@
         "alternatives": []
     },
     "150 intro": {
-        "count": 2,
-        "alternatives": []
-    },
-    "closer": {
         "count": 2,
         "alternatives": []
     },
@@ -2627,10 +2629,6 @@
         "alternatives": []
     },
     "enigma improv": {
-        "count": 1,
-        "alternatives": []
-    },
-    "closer - (nine inch nails)": {
         "count": 1,
         "alternatives": []
     },
