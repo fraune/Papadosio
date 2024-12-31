@@ -231,8 +231,15 @@
         ]
     },
     "utopiate": {
-        "count": 86,
-        "alternatives": []
+        "count": 93,
+        "alternatives": [
+            "utopiate*",
+            "utopiate ft. mike gantzer (aqueous)",
+            "utopiate w/ chris houser*",
+            "utopiate (2.17.13)",
+            "utopiate w/ max newman*",
+            "utoptiate"
+        ]
     },
     "direction song": {
         "count": 81,
@@ -815,10 +822,6 @@
             "closer - (nine inch nails)"
         ]
     },
-    "utopiate*": {
-        "count": 2,
-        "alternatives": []
-    },
     "and this is what he thought...": {
         "count": 2,
         "alternatives": []
@@ -928,10 +931,6 @@
         "alternatives": []
     },
     "bass interlude": {
-        "count": 1,
-        "alternatives": []
-    },
-    "utopiate ft. mike gantzer (aqueous)": {
         "count": 1,
         "alternatives": []
     },
@@ -1411,10 +1410,6 @@
         "count": 1,
         "alternatives": []
     },
-    "utopiate w/ chris houser*": {
-        "count": 1,
-        "alternatives": []
-    },
     "bill murray meets his past": {
         "count": 1,
         "alternatives": []
@@ -1571,10 +1566,6 @@
         "count": 1,
         "alternatives": []
     },
-    "utopiate (2.17.13)": {
-        "count": 1,
-        "alternatives": []
-    },
     "(psy)polygons": {
         "count": 1,
         "alternatives": []
@@ -1712,10 +1703,6 @@
         "alternatives": []
     },
     "the wrong nostaliga": {
-        "count": 1,
-        "alternatives": []
-    },
-    "utopiate w/ max newman*": {
         "count": 1,
         "alternatives": []
     },
@@ -1868,10 +1855,6 @@
         "alternatives": []
     },
     "fahrenheit fair enough (telefon tel aviv)*": {
-        "count": 1,
-        "alternatives": []
-    },
-    "utoptiate": {
         "count": 1,
         "alternatives": []
     },
