@@ -344,6 +344,17 @@
         "count": 48,
         "alternatives": []
     },
+    "ear to ear": {
+        "count": 48,
+        "alternatives": [
+            "ear to ear 2.0",
+            "ear to ear*",
+            "ear to ear>",
+            "ear to ear (2.17.13)",
+            "ear to ear v2",
+            "ear 2 ear"
+        ]
+    },
     "frequence": {
         "count": 47,
         "alternatives": []
@@ -367,10 +378,6 @@
         "alternatives": []
     },
     "oracle theme": {
-        "count": 42,
-        "alternatives": []
-    },
-    "ear to ear": {
         "count": 42,
         "alternatives": []
     },
@@ -974,10 +981,6 @@
         "count": 1,
         "alternatives": []
     },
-    "ear to ear*": {
-        "count": 1,
-        "alternatives": []
-    },
     "the bionic man meets his past*": {
         "count": 1,
         "alternatives": []
@@ -1186,10 +1189,6 @@
         "count": 1,
         "alternatives": []
     },
-    "ear to ear>": {
-        "count": 1,
-        "alternatives": []
-    },
     "improv>": {
         "count": 1,
         "alternatives": []
@@ -1390,10 +1389,6 @@
         "count": 1,
         "alternatives": []
     },
-    "ear 2 ear": {
-        "count": 1,
-        "alternatives": []
-    },
     "what's at stake*": {
         "count": 1,
         "alternatives": []
@@ -1575,10 +1570,6 @@
         "alternatives": []
     },
     "polygons (2.16.13)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "ear to ear (2.17.13)": {
         "count": 1,
         "alternatives": []
     },
@@ -2298,10 +2289,6 @@
         "count": 1,
         "alternatives": []
     },
-    "ear to ear v2": {
-        "count": 1,
-        "alternatives": []
-    },
     "richard d. jams": {
         "count": 1,
         "alternatives": []
@@ -2675,10 +2662,6 @@
         "alternatives": []
     },
     "gazing the great oscilattor": {
-        "count": 1,
-        "alternatives": []
-    },
-    "ear to ear 2.0": {
         "count": 1,
         "alternatives": []
     },
