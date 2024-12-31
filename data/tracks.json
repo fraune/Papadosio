@@ -523,12 +523,17 @@
             "cubensis -- we are water (end)"
         ]
     },
+    "madre de dios": {
+        "count": 45,
+        "alternatives": [
+            "madre de dios (2.17.13)",
+            "madre de dios ft. will franke",
+            "madre do dios",
+            "madres de dios"
+        ]
+    },
     "versicolor": {
         "count": 44,
-        "alternatives": []
-    },
-    "madre de dios": {
-        "count": 41,
         "alternatives": []
     },
     "ritual": {
@@ -1374,10 +1379,6 @@
         "count": 1,
         "alternatives": []
     },
-    "madre do dios": {
-        "count": 1,
-        "alternatives": []
-    },
     "body music intro": {
         "count": 1,
         "alternatives": []
@@ -1499,10 +1500,6 @@
         "alternatives": []
     },
     "madre says": {
-        "count": 1,
-        "alternatives": []
-    },
-    "madre de dios (2.17.13)": {
         "count": 1,
         "alternatives": []
     },
@@ -1743,10 +1740,6 @@
         "alternatives": []
     },
     "inner city blues": {
-        "count": 1,
-        "alternatives": []
-    },
-    "madres de dios": {
         "count": 1,
         "alternatives": []
     },
@@ -2031,10 +2024,6 @@
         "alternatives": []
     },
     "xanadu*": {
-        "count": 1,
-        "alternatives": []
-    },
-    "madre de dios ft. will franke": {
         "count": 1,
         "alternatives": []
     },
