@@ -857,29 +857,42 @@
             "improv>"
         ]
     },
+    "spinning": {
+        "count": 12,
+        "alternatives": [
+            "spinning ft. eli winderman",
+            "spinning*"
+        ]
+    },
+    "psypoly": {
+        "count": 12,
+        "alternatives": [
+            "psipoly"
+        ]
+    },
+    "who you are": {
+        "count": 11,
+        "alternatives": [
+            "who you are ft. stephanie morgan",
+            "who you are*"
+        ]
+    },
     "reishi": {
         "count": 10,
         "alternatives": []
     },
-    "spinning": {
-        "count": 10,
-        "alternatives": []
-    },
     "curve(ature)": {
-        "count": 9,
-        "alternatives": []
-    },
-    "who you are": {
-        "count": 9,
-        "alternatives": []
-    },
-    "psypoly": {
-        "count": 8,
-        "alternatives": []
+        "count": 10,
+        "alternatives": [
+            "curve(ature) (night 2)"
+        ]
     },
     "i had the same dream": {
-        "count": 7,
-        "alternatives": []
+        "count": 9,
+        "alternatives": [
+            "i had the same dream (_)",
+            "i had the same dream>"
+        ]
     },
     "curvature": {
         "count": 6,
@@ -902,10 +915,6 @@
         "alternatives": []
     },
     "in the meantime*": {
-        "count": 4,
-        "alternatives": []
-    },
-    "psipoly": {
         "count": 4,
         "alternatives": []
     },
@@ -933,9 +942,11 @@
             "closer - (nine inch nails)"
         ]
     },
-    "the national anthem*": {
-        "count": 2,
-        "alternatives": []
+    "the national anthem": {
+        "count": 3,
+        "alternatives": [
+            "the national anthem*"
+        ]
     },
     "paradigm": {
         "count": 2,
@@ -1129,10 +1140,6 @@
         "count": 1,
         "alternatives": []
     },
-    "i had the same dream (_)": {
-        "count": 1,
-        "alternatives": []
-    },
     "superjam with dopapod*": {
         "count": 1,
         "alternatives": []
@@ -1166,10 +1173,6 @@
         "alternatives": []
     },
     "15 step": {
-        "count": 1,
-        "alternatives": []
-    },
-    "the national anthem": {
         "count": 1,
         "alternatives": []
     },
@@ -1377,10 +1380,6 @@
         "count": 1,
         "alternatives": []
     },
-    "i had the same dream>": {
-        "count": 1,
-        "alternatives": []
-    },
     "war on war": {
         "count": 1,
         "alternatives": []
@@ -1497,10 +1496,6 @@
         "count": 1,
         "alternatives": []
     },
-    "curve(ature) (night 2)": {
-        "count": 1,
-        "alternatives": []
-    },
     "new 1/2": {
         "count": 1,
         "alternatives": []
@@ -1542,10 +1537,6 @@
         "alternatives": []
     },
     "jungle boogie (ft. esb horns)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "spinning ft. eli winderman": {
         "count": 1,
         "alternatives": []
     },
@@ -1905,10 +1896,6 @@
         "count": 1,
         "alternatives": []
     },
-    "who you are ft. stephanie morgan": {
-        "count": 1,
-        "alternatives": []
-    },
     "psipolygons": {
         "count": 1,
         "alternatives": []
@@ -1993,10 +1980,6 @@
         "count": 1,
         "alternatives": []
     },
-    "who you are*": {
-        "count": 1,
-        "alternatives": []
-    },
     "lift off jam": {
         "count": 1,
         "alternatives": []
@@ -2038,10 +2021,6 @@
         "alternatives": []
     },
     "i've got a brand new mustache (improv)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "spinning*": {
         "count": 1,
         "alternatives": []
     },

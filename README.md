@@ -5,6 +5,8 @@ This is a data documentation of all Papadosio albums and live recordings uploade
 ## Songs in Question
 
 - Psipolygons seems like a variation of polygons. I'll keep them separate for now?
+- curve vs curvature?
+
 
 ## Setup
 
