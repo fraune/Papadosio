@@ -197,6 +197,20 @@
             "curve>"
         ]
     },
+    "the plug": {
+        "count": 76,
+        "alternatives": [
+            "the plug (5.3.13)",
+            "the plug w/ mihali savoulidis (twiddle)",
+            "the plug (2.17.13)",
+            "the plug w/ matt mcdonald (ghost owl)",
+            "the plug* (ft. eli winderman, rob compa, scotty zwang)",
+            "the plug>",
+            "the plug (reprise)",
+            "the plug 1/2",
+            "the plug 2/2"
+        ]
+    },
     "dream estate": {
         "count": 75,
         "alternatives": []
@@ -226,10 +240,6 @@
     },
     "skipswitch": {
         "count": 69,
-        "alternatives": []
-    },
-    "the plug": {
-        "count": 67,
         "alternatives": []
     },
     "2am": {
@@ -1107,10 +1117,6 @@
         "count": 1,
         "alternatives": []
     },
-    "the plug w/ mihali savoulidis (twiddle)": {
-        "count": 1,
-        "alternatives": []
-    },
     "2+2=5* (radiohead)": {
         "count": 1,
         "alternatives": []
@@ -1575,10 +1581,6 @@
         "count": 1,
         "alternatives": []
     },
-    "the plug (2.17.13)": {
-        "count": 1,
-        "alternatives": []
-    },
     "ear to ear (2.17.13)": {
         "count": 1,
         "alternatives": []
@@ -1704,10 +1706,6 @@
         "alternatives": []
     },
     "...and this is what he thought>": {
-        "count": 1,
-        "alternatives": []
-    },
-    "the plug w/ matt mcdonald (ghost owl)": {
         "count": 1,
         "alternatives": []
     },
@@ -2159,10 +2157,6 @@
         "count": 1,
         "alternatives": []
     },
-    "the plug* (ft. eli winderman, rob compa, scotty zwang)": {
-        "count": 1,
-        "alternatives": []
-    },
     "1979* (smashing pumpkins)": {
         "count": 1,
         "alternatives": []
@@ -2295,10 +2289,6 @@
         "count": 1,
         "alternatives": []
     },
-    "the plug>": {
-        "count": 1,
-        "alternatives": []
-    },
     "puddles for oceans reprise": {
         "count": 1,
         "alternatives": []
@@ -2312,10 +2302,6 @@
         "alternatives": []
     },
     "curtain's cleft: you're a catman": {
-        "count": 1,
-        "alternatives": []
-    },
-    "the plug (reprise)": {
         "count": 1,
         "alternatives": []
     },
@@ -2531,14 +2517,6 @@
         "count": 1,
         "alternatives": []
     },
-    "the plug 1/2": {
-        "count": 1,
-        "alternatives": []
-    },
-    "the plug 2/2": {
-        "count": 1,
-        "alternatives": []
-    },
     "new love*": {
         "count": 1,
         "alternatives": []
@@ -2732,10 +2710,6 @@
         "alternatives": []
     },
     "we are water (5.3.13)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "the plug (5.3.13)": {
         "count": 1,
         "alternatives": []
     }
