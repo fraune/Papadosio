@@ -25,7 +25,11 @@
     },
     "fuse": {
         "count": 54,
-        "alternatives": []
+        "alternatives": [
+            "fuse (5.4.13)",
+            "fuse (2.17.13)",
+            "fuse >"
+        ]
     },
     "chaga": {
         "count": 13,
@@ -1497,10 +1501,6 @@
         "count": 1,
         "alternatives": []
     },
-    "fuse (2.17.13)": {
-        "count": 1,
-        "alternatives": []
-    },
     "stick figure (2.17.13)": {
         "count": 1,
         "alternatives": []
@@ -2329,10 +2329,6 @@
         "count": 1,
         "alternatives": []
     },
-    "fuse >": {
-        "count": 1,
-        "alternatives": []
-    },
     "cloud found >": {
         "count": 1,
         "alternatives": []
@@ -2918,10 +2914,6 @@
         "alternatives": []
     },
     "taking turns (5.4.13)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "fuse (5.4.13)": {
         "count": 1,
         "alternatives": []
     }
