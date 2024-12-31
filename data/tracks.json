@@ -114,14 +114,16 @@
         "alternatives": []
     },
     "the eyes have eyes": {
-        "count": 102,
+        "count": 104,
         "alternatives": [
             "the eyes have eyes (5.4.13)",
             "the eyes have eyes (2.16.13)",
             "the eyes have eyes >",
             "the eyes have eyes (ft. esb horns)",
             "the eyes have eyes 2/2",
-            "the eyes have eyes 1/2"
+            "the eyes have eyes 1/2",
+            "eyes have eyes (extended)",
+            "they eyes have eyes"
         ]
     },
     "night colors": {
@@ -1012,10 +1014,6 @@
         "count": 1,
         "alternatives": []
     },
-    "they eyes have eyes": {
-        "count": 1,
-        "alternatives": []
-    },
     "anima mundi*": {
         "count": 1,
         "alternatives": []
@@ -1873,10 +1871,6 @@
         "alternatives": []
     },
     "night colors (xl)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "eyes have eyes (extended)": {
         "count": 1,
         "alternatives": []
     },
