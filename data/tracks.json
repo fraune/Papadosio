@@ -115,8 +115,12 @@
         ]
     },
     "garden": {
-        "count": 115,
-        "alternatives": []
+        "count": 118,
+        "alternatives": [
+            "papadosio - garden",
+            "garden (night 1)",
+            "garden* (w/ rob compa)"
+        ]
     },
     "advocate of change": {
         "count": 108,
@@ -1505,10 +1509,6 @@
         "count": 1,
         "alternatives": []
     },
-    "papadosio - garden": {
-        "count": 1,
-        "alternatives": []
-    },
     "earthcry - 852 \u221e remembrance": {
         "count": 1,
         "alternatives": []
@@ -1594,10 +1594,6 @@
         "alternatives": []
     },
     "front range arp (improv)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "garden (night 1)": {
         "count": 1,
         "alternatives": []
     },
@@ -2098,10 +2094,6 @@
         "alternatives": []
     },
     "ph deez>": {
-        "count": 1,
-        "alternatives": []
-    },
-    "garden* (w/ rob compa)": {
         "count": 1,
         "alternatives": []
     },
