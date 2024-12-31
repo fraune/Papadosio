@@ -338,16 +338,19 @@
             "the plug 2/2"
         ]
     },
+    "the sum": {
+        "count": 73,
+        "alternatives": [
+            "the sum>",
+            "the sum (night 2)"
+        ]
+    },
     "you and yourself": {
         "count": 71,
         "alternatives": [
             "you and yourself (5.4.13)",
             "you and yourself -> cordyceps"
         ]
-    },
-    "the sum": {
-        "count": 69,
-        "alternatives": []
     },
     "skipswitch": {
         "count": 69,
@@ -826,10 +829,6 @@
         "alternatives": []
     },
     "whats at stake": {
-        "count": 3,
-        "alternatives": []
-    },
-    "the sum>": {
         "count": 3,
         "alternatives": []
     },
@@ -1564,10 +1563,6 @@
         "alternatives": []
     },
     "out of hiding (night 2)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "the sum (night 2)": {
         "count": 1,
         "alternatives": []
     },
