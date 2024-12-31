@@ -786,8 +786,10 @@
         ]
     },
     "fossilize": {
-        "count": 15,
-        "alternatives": []
+        "count": 16,
+        "alternatives": [
+            "fossilize3"
+        ]
     },
     "just like the days": {
         "count": 14,
@@ -1876,10 +1878,6 @@
         "alternatives": []
     },
     "1979* (smashing pumpkins)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "fossilize3": {
         "count": 1,
         "alternatives": []
     },
