@@ -770,6 +770,13 @@
             "state of things"
         ]
     },
+    "what's at stake": {
+        "count": 17,
+        "alternatives": [
+            "whats at stake",
+            "what's at stake*"
+        ]
+    },
     "planting the seeds of life": {
         "count": 16,
         "alternatives": [
@@ -806,10 +813,6 @@
         "alternatives": []
     },
     "agarikon": {
-        "count": 13,
-        "alternatives": []
-    },
-    "what's at stake": {
         "count": 13,
         "alternatives": []
     },
@@ -906,10 +909,6 @@
         "alternatives": []
     },
     "karma police": {
-        "count": 3,
-        "alternatives": []
-    },
-    "whats at stake": {
         "count": 3,
         "alternatives": []
     },
@@ -1360,10 +1359,6 @@
         "alternatives": []
     },
     "method": {
-        "count": 1,
-        "alternatives": []
-    },
-    "what's at stake*": {
         "count": 1,
         "alternatives": []
     },
