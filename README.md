@@ -2,6 +2,10 @@
 
 This is a data documentation of all Papadosio albums and live recordings uploaded to their Bandcamp.
 
+## Songs in Question
+
+- Psipolygons seems like a variation of polygons. I'll keep them separate for now?
+
 ## Setup
 
 This project uses Python 3.12.8
