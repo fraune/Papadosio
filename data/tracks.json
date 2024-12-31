@@ -63,8 +63,17 @@
         ]
     },
     "the bionic man meets his past": {
-        "count": 143,
-        "alternatives": []
+        "count": 152,
+        "alternatives": [
+            "the bionic man meets his past...",
+            "the bionic man meets his past*",
+            "the bionic man meets his past pt 2",
+            "the bionic man meets his past xl",
+            "bionic man w/ jeremiah hunt*",
+            "the bionic man meets his pas",
+            "the bionic man meets his past 1/2",
+            "the bionic man meets his past 2/2"
+        ]
     },
     "unparalyzer": {
         "count": 125,
@@ -532,8 +541,10 @@
         "alternatives": []
     },
     "...and this is what he thought": {
-        "count": 21,
-        "alternatives": []
+        "count": 22,
+        "alternatives": [
+            "the bionic man meets his past and this is what he thought"
+        ]
     },
     "the elephant i presume": {
         "count": 21,
@@ -774,10 +785,6 @@
         "count": 2,
         "alternatives": []
     },
-    "the bionic man meets his past...": {
-        "count": 2,
-        "alternatives": []
-    },
     "and this is what he thought...": {
         "count": 2,
         "alternatives": []
@@ -979,10 +986,6 @@
         "alternatives": []
     },
     "swooshbumpam intro": {
-        "count": 1,
-        "alternatives": []
-    },
-    "the bionic man meets his past*": {
         "count": 1,
         "alternatives": []
     },
@@ -1698,10 +1701,6 @@
         "count": 1,
         "alternatives": []
     },
-    "the bionic man meets his past pt 2": {
-        "count": 1,
-        "alternatives": []
-    },
     "jungle boogie (ft. esb horns)": {
         "count": 1,
         "alternatives": []
@@ -1738,19 +1737,7 @@
         "count": 1,
         "alternatives": []
     },
-    "the bionic man meets his past xl": {
-        "count": 1,
-        "alternatives": []
-    },
     "utopiate w/ max newman*": {
-        "count": 1,
-        "alternatives": []
-    },
-    "bionic man w/ jeremiah hunt*": {
-        "count": 1,
-        "alternatives": []
-    },
-    "the bionic man meets his pas": {
         "count": 1,
         "alternatives": []
     },
@@ -2130,10 +2117,6 @@
         "count": 1,
         "alternatives": []
     },
-    "the bionic man meets his past and this is what he thought": {
-        "count": 1,
-        "alternatives": []
-    },
     "synth dad": {
         "count": 1,
         "alternatives": []
@@ -2203,14 +2186,6 @@
         "alternatives": []
     },
     "cloud found >": {
-        "count": 1,
-        "alternatives": []
-    },
-    "the bionic man meets his past 1/2": {
-        "count": 1,
-        "alternatives": []
-    },
-    "the bionic man meets his past 2/2": {
         "count": 1,
         "alternatives": []
     },
