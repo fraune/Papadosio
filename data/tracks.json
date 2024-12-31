@@ -69,12 +69,18 @@
             "2am > paradigm shift > find your cloud"
         ]
     },
+    "method of control": {
+        "count": 119,
+        "alternatives": [
+            "method of control (5.3.13)",
+            "method of control>",
+            "method of control w/ dino dimitrouleas*",
+            "method of control (night 1)",
+            "method of control (ft. esb horns)"
+        ]
+    },
     "garden": {
         "count": 115,
-        "alternatives": []
-    },
-    "method of control": {
-        "count": 111,
         "alternatives": []
     },
     "advocate of change": {
@@ -616,10 +622,6 @@
         "alternatives": []
     },
     "in the meantime*": {
-        "count": 4,
-        "alternatives": []
-    },
-    "method of control>": {
         "count": 4,
         "alternatives": []
     },
@@ -1403,10 +1405,6 @@
         "count": 1,
         "alternatives": []
     },
-    "method of control w/ dino dimitrouleas*": {
-        "count": 1,
-        "alternatives": []
-    },
     "bill murray meets his past": {
         "count": 1,
         "alternatives": []
@@ -1655,10 +1653,6 @@
         "count": 1,
         "alternatives": []
     },
-    "method of control (night 1)": {
-        "count": 1,
-        "alternatives": []
-    },
     "smile n' nod (night 1)": {
         "count": 1,
         "alternatives": []
@@ -1776,10 +1770,6 @@
         "alternatives": []
     },
     "the bionic man meets his past pt 2": {
-        "count": 1,
-        "alternatives": []
-    },
-    "method of control (ft. esb horns)": {
         "count": 1,
         "alternatives": []
     },
@@ -2836,10 +2826,6 @@
         "alternatives": []
     },
     "holy heck (5.3.13)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "method of control (5.3.13)": {
         "count": 1,
         "alternatives": []
     }
