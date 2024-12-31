@@ -750,8 +750,10 @@
         ]
     },
     "the end of the world": {
-        "count": 17,
-        "alternatives": []
+        "count": 18,
+        "alternatives": [
+            "the end of the world*"
+        ]
     },
     "moon entendre": {
         "count": 17,
@@ -1577,10 +1579,6 @@
         "alternatives": []
     },
     "one more time for merrick noyes and the newest dad in town, billy brouse!": {
-        "count": 1,
-        "alternatives": []
-    },
-    "the end of the world*": {
         "count": 1,
         "alternatives": []
     },
