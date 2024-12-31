@@ -469,8 +469,11 @@
         ]
     },
     "anima mundi": {
-        "count": 48,
-        "alternatives": []
+        "count": 50,
+        "alternatives": [
+            "anima mundi*",
+            "anima mundi (night 1)"
+        ]
     },
     "ear to ear": {
         "count": 48,
@@ -1032,10 +1035,6 @@
         "count": 1,
         "alternatives": []
     },
-    "anima mundi*": {
-        "count": 1,
-        "alternatives": []
-    },
     "distant days*": {
         "count": 1,
         "alternatives": []
@@ -1537,10 +1536,6 @@
         "alternatives": []
     },
     "front range arp (improv)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "anima mundi (night 1)": {
         "count": 1,
         "alternatives": []
     },
