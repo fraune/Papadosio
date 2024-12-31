@@ -430,12 +430,15 @@
             "e: holy heck"
         ]
     },
+    "epiphany": {
+        "count": 56,
+        "alternatives": [
+            "epiphany >",
+            "epiphany*"
+        ]
+    },
     "write sing play mix": {
         "count": 55,
-        "alternatives": []
-    },
-    "epiphany": {
-        "count": 54,
         "alternatives": []
     },
     "taking turns": {
@@ -1047,10 +1050,6 @@
         "alternatives": []
     },
     "hey mom": {
-        "count": 1,
-        "alternatives": []
-    },
-    "epiphany >": {
         "count": 1,
         "alternatives": []
     },
@@ -2003,10 +2002,6 @@
         "alternatives": []
     },
     "fpoom": {
-        "count": 1,
-        "alternatives": []
-    },
-    "epiphany*": {
         "count": 1,
         "alternatives": []
     },
