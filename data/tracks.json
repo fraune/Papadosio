@@ -153,9 +153,10 @@
         ]
     },
     "geoglyph": {
-        "count": 94,
+        "count": 95,
         "alternatives": [
-            "geoglyph> if it wasn't for you"
+            "geoglyph> if it wasn't for you",
+            "geoglyph>"
         ]
     },
     "smile and nod": {
@@ -2678,10 +2679,6 @@
         "alternatives": []
     },
     "ear to ear 2.0": {
-        "count": 1,
-        "alternatives": []
-    },
-    "geoglyph>": {
         "count": 1,
         "alternatives": []
     },
