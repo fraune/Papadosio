@@ -393,6 +393,13 @@
             "out of hiding (night 2)"
         ]
     },
+    "euclidean lights": {
+        "count": 59,
+        "alternatives": [
+            "euclidean lights - (kalya scintilla remix)",
+            "euclidean lights - (soulacybin remix)"
+        ]
+    },
     "fuse": {
         "count": 57,
         "alternatives": [
@@ -400,10 +407,6 @@
             "fuse (2.17.13)",
             "fuse >"
         ]
-    },
-    "euclidean lights": {
-        "count": 57,
-        "alternatives": []
     },
     "the lack of everything": {
         "count": 56,
@@ -1213,10 +1216,6 @@
         "count": 1,
         "alternatives": []
     },
-    "euclidean lights - (kalya scintilla remix)": {
-        "count": 1,
-        "alternatives": []
-    },
     "mr. turtles cloud kingdom - (aligning minds remix)": {
         "count": 1,
         "alternatives": []
@@ -1226,10 +1225,6 @@
         "alternatives": []
     },
     "oblivion - (push pull remix)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "euclidean lights - (soulacybin remix)": {
         "count": 1,
         "alternatives": []
     },
