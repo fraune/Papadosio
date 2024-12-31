@@ -153,6 +153,16 @@
             "all i knew - (ft ilya goldberg)"
         ]
     },
+    "night colors": {
+        "count": 107,
+        "alternatives": [
+            "night colors (2.16.13)",
+            "night colors (xl)",
+            "night colors>",
+            "night colors 1/2>",
+            "night colors 2/2"
+        ]
+    },
     "the eyes have eyes": {
         "count": 104,
         "alternatives": [
@@ -165,10 +175,6 @@
             "eyes have eyes (extended)",
             "they eyes have eyes"
         ]
-    },
-    "night colors": {
-        "count": 102,
-        "alternatives": []
     },
     "cloud found": {
         "count": 101,
@@ -1566,10 +1572,6 @@
         "count": 1,
         "alternatives": []
     },
-    "night colors (2.16.13)": {
-        "count": 1,
-        "alternatives": []
-    },
     "polygons (2.16.13)": {
         "count": 1,
         "alternatives": []
@@ -1834,10 +1836,6 @@
         "count": 1,
         "alternatives": []
     },
-    "night colors (xl)": {
-        "count": 1,
-        "alternatives": []
-    },
     "vactollio": {
         "count": 1,
         "alternatives": []
@@ -1859,10 +1857,6 @@
         "alternatives": []
     },
     "head like a hole - (nine inch nails)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "night colors>": {
         "count": 1,
         "alternatives": []
     },
@@ -1991,14 +1985,6 @@
         "alternatives": []
     },
     "fire  rite": {
-        "count": 1,
-        "alternatives": []
-    },
-    "night colors 1/2>": {
-        "count": 1,
-        "alternatives": []
-    },
-    "night colors 2/2": {
         "count": 1,
         "alternatives": []
     },
