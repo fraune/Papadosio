@@ -387,6 +387,13 @@
             "stick figure (2.17.13)"
         ]
     },
+    "the lack of everything": {
+        "count": 61,
+        "alternatives": [
+            "lack of everything",
+            "the lack of everything (acoustic)"
+        ]
+    },
     "out of hiding": {
         "count": 59,
         "alternatives": [
@@ -407,10 +414,6 @@
             "fuse (2.17.13)",
             "fuse >"
         ]
-    },
-    "the lack of everything": {
-        "count": 56,
-        "alternatives": []
     },
     "glimpse of light": {
         "count": 56,
@@ -810,10 +813,6 @@
         "count": 4,
         "alternatives": []
     },
-    "lack of everything": {
-        "count": 4,
-        "alternatives": []
-    },
     "(crowd banter)": {
         "count": 3,
         "alternatives": []
@@ -989,10 +988,6 @@
         "alternatives": []
     },
     "in the meantime (spacehog)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "the lack of everything (acoustic)": {
         "count": 1,
         "alternatives": []
     },
