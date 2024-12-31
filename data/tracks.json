@@ -585,6 +585,13 @@
             "therian>"
         ]
     },
+    "fanfare for the rain people": {
+        "count": 38,
+        "alternatives": [
+            "fanfare for the rainpeople",
+            "fanfare for the rainpeople (power outage)"
+        ]
+    },
     "right now": {
         "count": 37,
         "alternatives": [
@@ -622,14 +629,12 @@
         "alternatives": []
     },
     "each and every wave": {
-        "count": 32,
-        "alternatives": []
+        "count": 33,
+        "alternatives": [
+            "each and every wave - (bluetech remix)"
+        ]
     },
     "zoom out": {
-        "count": 31,
-        "alternatives": []
-    },
-    "fanfare for the rain people": {
         "count": 31,
         "alternatives": []
     },
@@ -820,10 +825,6 @@
         "alternatives": []
     },
     "your'e a catman": {
-        "count": 6,
-        "alternatives": []
-    },
-    "fanfare for the rainpeople": {
         "count": 6,
         "alternatives": []
     },
@@ -1209,15 +1210,7 @@
         "count": 1,
         "alternatives": []
     },
-    "fanfare for the rainpeople (power outage)": {
-        "count": 1,
-        "alternatives": []
-    },
     "improv>": {
-        "count": 1,
-        "alternatives": []
-    },
-    "each and every wave - (bluetech remix)": {
         "count": 1,
         "alternatives": []
     },
