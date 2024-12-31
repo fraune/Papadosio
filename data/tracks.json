@@ -532,6 +532,15 @@
             "madres de dios"
         ]
     },
+    "we can always come back": {
+        "count": 45,
+        "alternatives": [
+            "we can always come back...",
+            "we can always come back>",
+            "we can always come back*",
+            "we can always come back...."
+        ]
+    },
     "versicolor": {
         "count": 44,
         "alternatives": []
@@ -549,15 +558,13 @@
             "now that you know v2"
         ]
     },
-    "not just a word": {
-        "count": 39,
-        "alternatives": []
-    },
     "fire rite": {
-        "count": 39,
-        "alternatives": []
+        "count": 40,
+        "alternatives": [
+            "fire  rite"
+        ]
     },
-    "we can always come back": {
+    "not just a word": {
         "count": 39,
         "alternatives": []
     },
@@ -900,10 +907,6 @@
         "count": 2,
         "alternatives": []
     },
-    "we can always come back...": {
-        "count": 2,
-        "alternatives": []
-    },
     "loud pipes (ratatat)": {
         "count": 2,
         "alternatives": []
@@ -949,10 +952,6 @@
         "alternatives": []
     },
     "...and this is what he thought.": {
-        "count": 2,
-        "alternatives": []
-    },
-    "we can always come back>": {
         "count": 2,
         "alternatives": []
     },
@@ -1053,10 +1052,6 @@
         "alternatives": []
     },
     "therian*": {
-        "count": 1,
-        "alternatives": []
-    },
-    "we can always come back*": {
         "count": 1,
         "alternatives": []
     },
@@ -1828,10 +1823,6 @@
         "count": 1,
         "alternatives": []
     },
-    "fire  rite": {
-        "count": 1,
-        "alternatives": []
-    },
     "speech to t-rext": {
         "count": 1,
         "alternatives": []
@@ -1961,10 +1952,6 @@
         "alternatives": []
     },
     "fyc": {
-        "count": 1,
-        "alternatives": []
-    },
-    "we can always come back....": {
         "count": 1,
         "alternatives": []
     },
