@@ -835,7 +835,10 @@
     },
     "distant days": {
         "count": 11,
-        "alternatives": []
+        "alternatives": [
+            "distant days*",
+            "distant days (acoustic)"
+        ]
     },
     "improv": {
         "count": 11,
@@ -1072,10 +1075,6 @@
         "alternatives": []
     },
     "thearian": {
-        "count": 1,
-        "alternatives": []
-    },
-    "distant days*": {
         "count": 1,
         "alternatives": []
     },
@@ -1392,10 +1391,6 @@
         "alternatives": []
     },
     "rainbow connection*": {
-        "count": 1,
-        "alternatives": []
-    },
-    "distant days (acoustic)": {
         "count": 1,
         "alternatives": []
     },
