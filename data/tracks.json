@@ -537,8 +537,10 @@
         "alternatives": []
     },
     "ritual": {
-        "count": 41,
-        "alternatives": []
+        "count": 42,
+        "alternatives": [
+            "ritual >"
+        ]
     },
     "now that you know": {
         "count": 40,
@@ -1056,10 +1058,6 @@
         "alternatives": []
     },
     "hey mom": {
-        "count": 1,
-        "alternatives": []
-    },
-    "ritual >": {
         "count": 1,
         "alternatives": []
     },
