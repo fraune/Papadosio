@@ -169,8 +169,15 @@
         "alternatives": []
     },
     "the eyes have eyes": {
-        "count": 94,
-        "alternatives": []
+        "count": 102,
+        "alternatives": [
+            "the eyes have eyes (5.4.13)",
+            "the eyes have eyes (2.16.13)",
+            "the eyes have eyes >",
+            "the eyes have eyes (ft. esb horns)",
+            "the eyes have eyes 2/2",
+            "the eyes have eyes 1/2"
+        ]
     },
     "out of hiding": {
         "count": 58,
@@ -636,7 +643,7 @@
         "alternatives": []
     },
     "how not to float": {
-        "count": 63,
+        "count": 66,
         "alternatives": [
             "how not to float (5.4.13)",
             "how not to float (2.16.13)",
@@ -1479,10 +1486,6 @@
         "count": 1,
         "alternatives": []
     },
-    "the eyes have eyes (2.16.13)": {
-        "count": 1,
-        "alternatives": []
-    },
     "the plug (2.17.13)": {
         "count": 1,
         "alternatives": []
@@ -1611,10 +1614,6 @@
         "count": 1,
         "alternatives": []
     },
-    "the eyes have eyes >": {
-        "count": 1,
-        "alternatives": []
-    },
     "new 1/2": {
         "count": 1,
         "alternatives": []
@@ -1696,10 +1695,6 @@
         "alternatives": []
     },
     "pool of stars (ft. esb horns)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "the eyes have eyes (ft. esb horns)": {
         "count": 1,
         "alternatives": []
     },
@@ -2291,10 +2286,6 @@
         "count": 1,
         "alternatives": []
     },
-    "the eyes have eyes 2/2": {
-        "count": 2,
-        "alternatives": []
-    },
     "fyc": {
         "count": 1,
         "alternatives": []
@@ -2456,10 +2447,6 @@
         "alternatives": []
     },
     "porcelain (moby)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "the eyes have eyes 1/2": {
         "count": 1,
         "alternatives": []
     },
@@ -2901,10 +2888,6 @@
     },
     "snorkle (5.3.13)": {
         "count": 1,
-        "alternatives": []
-    },
-    "the eyes have eyes (5.4.13)": {
-        "count": 2,
         "alternatives": []
     }
 }
