@@ -644,6 +644,15 @@
         "count": 31,
         "alternatives": []
     },
+    "you're a catman": {
+        "count": 31,
+        "alternatives": [
+            "your'e a catman",
+            "(curtain's cleft) your'e a catman",
+            "curtain's cleft: you're a catman",
+            "your're a catman"
+        ]
+    },
     "pool of stars": {
         "count": 30,
         "alternatives": [
@@ -691,10 +700,6 @@
             "tv song*",
             "tv song (2.17.13)"
         ]
-    },
-    "you're a catman": {
-        "count": 22,
-        "alternatives": []
     },
     "crowd banter": {
         "count": 22,
@@ -832,10 +837,6 @@
         "alternatives": []
     },
     "curvature": {
-        "count": 6,
-        "alternatives": []
-    },
-    "your'e a catman": {
         "count": 6,
         "alternatives": []
     },
@@ -1945,10 +1946,6 @@
         "count": 1,
         "alternatives": []
     },
-    "(curtain's cleft) your'e a catman": {
-        "count": 1,
-        "alternatives": []
-    },
     "stabwaggle": {
         "count": 1,
         "alternatives": []
@@ -1974,10 +1971,6 @@
         "alternatives": []
     },
     "it it wasn't for you": {
-        "count": 1,
-        "alternatives": []
-    },
-    "curtain's cleft: you're a catman": {
         "count": 1,
         "alternatives": []
     },
@@ -2062,10 +2055,6 @@
         "alternatives": []
     },
     "divine moments of truth": {
-        "count": 1,
-        "alternatives": []
-    },
-    "your're a catman": {
         "count": 1,
         "alternatives": []
     },
