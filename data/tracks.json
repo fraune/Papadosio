@@ -637,7 +637,11 @@
     },
     "how not to float": {
         "count": 63,
-        "alternatives": []
+        "alternatives": [
+            "how not to float (5.4.13)",
+            "how not to float (2.16.13)",
+            "how not to float >"
+        ]
     },
     "obove": {
         "count": 24,
@@ -1456,10 +1460,6 @@
         "alternatives": []
     },
     "find your cloud (2.16.13)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "how not to float (2.16.13)": {
         "count": 1,
         "alternatives": []
     },
@@ -2371,10 +2371,6 @@
         "count": 1,
         "alternatives": []
     },
-    "how not to float >": {
-        "count": 1,
-        "alternatives": []
-    },
     "1. improbability blotter": {
         "count": 1,
         "alternatives": []
@@ -2909,10 +2905,6 @@
     },
     "the eyes have eyes (5.4.13)": {
         "count": 2,
-        "alternatives": []
-    },
-    "how not to float (5.4.13)": {
-        "count": 1,
         "alternatives": []
     }
 }
