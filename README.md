@@ -40,13 +40,16 @@ Delete the raw and data folders to start from scratch
 3. File -> Save Page As... -> Webpage, HTML Only
     - Save the file to the `raw/` directory in this local repository
     - Use default naming, `Music _ Papadosio.html`
+    - Overwrite if necessary, to perform an incremental update
 
-### Parse the music HTML file to pull out the album HTML
+### Parse the music HTML file to pull out the album data
 
 ```
 python app/parse_music.py
-python app/download_albums.py
 ```
+
+```
+
 
 ### Parse Album JSON
 

@@ -14,7 +14,7 @@ def process_tracks(json_file, output_csv):
         # Loop through each album and extract track names
         for album in albums_data:
             for track in album.get('track', []):
-                track_name = track.get('item', {}).get('name')
+                track_name = track.get('item', {}).get('name').lower().strip()
                 if track_name:
                     track_names.append(track_name)
 
@@ -38,7 +38,7 @@ def process_tracks(json_file, output_csv):
 def main():
     """Main function to process the albums JSON file and write the track counts to a CSV."""
     albums_json_file = 'data/albums.json'
-    output_csv = 'data/track_counts.csv'
+    output_csv = 'data/tracks.csv'
     process_tracks(albums_json_file, output_csv)
 
 if __name__ == "__main__":
