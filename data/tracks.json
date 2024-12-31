@@ -475,6 +475,14 @@
             "anima mundi (night 1)"
         ]
     },
+    "frequence": {
+        "count": 50,
+        "alternatives": [
+            "frequence>",
+            "(seequence) frequence",
+            "frequence reprise"
+        ]
+    },
     "ear to ear": {
         "count": 48,
         "alternatives": [
@@ -485,10 +493,6 @@
             "ear to ear v2",
             "ear 2 ear"
         ]
-    },
-    "frequence": {
-        "count": 47,
-        "alternatives": []
     },
     "cubensis": {
         "count": 45,
@@ -1403,10 +1407,6 @@
         "count": 1,
         "alternatives": []
     },
-    "frequence>": {
-        "count": 1,
-        "alternatives": []
-    },
     "war on war": {
         "count": 1,
         "alternatives": []
@@ -1616,10 +1616,6 @@
         "alternatives": []
     },
     "fate*": {
-        "count": 1,
-        "alternatives": []
-    },
-    "(seequence) frequence": {
         "count": 1,
         "alternatives": []
     },
@@ -2076,10 +2072,6 @@
         "alternatives": []
     },
     "into": {
-        "count": 1,
-        "alternatives": []
-    },
-    "frequence reprise": {
         "count": 1,
         "alternatives": []
     },
