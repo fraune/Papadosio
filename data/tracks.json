@@ -123,8 +123,12 @@
         ]
     },
     "advocate of change": {
-        "count": 108,
-        "alternatives": []
+        "count": 113,
+        "alternatives": [
+            "advocate of change (reprise)",
+            "advocates of change",
+            "advocates of change - (ft. ilya goldberg)"
+        ]
     },
     "all i knew": {
         "count": 106,
@@ -768,10 +772,6 @@
         "alternatives": []
     },
     "the antidote for fear": {
-        "count": 3,
-        "alternatives": []
-    },
-    "advocates of change": {
         "count": 3,
         "alternatives": []
     },
@@ -1925,10 +1925,6 @@
         "count": 1,
         "alternatives": []
     },
-    "advocate of change (reprise)": {
-        "count": 1,
-        "alternatives": []
-    },
     "smile and nod>": {
         "count": 1,
         "alternatives": []
@@ -2406,10 +2402,6 @@
         "alternatives": []
     },
     "improbability blotter (ft. rohan prakash)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "advocates of change - (ft. ilya goldberg)": {
         "count": 1,
         "alternatives": []
     },
