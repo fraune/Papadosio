@@ -543,8 +543,11 @@
         ]
     },
     "now that you know": {
-        "count": 40,
-        "alternatives": []
+        "count": 42,
+        "alternatives": [
+            "now that you know>",
+            "now that you know v2"
+        ]
     },
     "not just a word": {
         "count": 39,
@@ -1725,10 +1728,6 @@
         "count": 1,
         "alternatives": []
     },
-    "now that you know>": {
-        "count": 1,
-        "alternatives": []
-    },
     "if it wasn't you": {
         "count": 1,
         "alternatives": []
@@ -2022,10 +2021,6 @@
         "alternatives": []
     },
     "xanadu*": {
-        "count": 1,
-        "alternatives": []
-    },
-    "now that you know v2": {
         "count": 1,
         "alternatives": []
     },
