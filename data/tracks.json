@@ -701,11 +701,13 @@
             "tv song (2.17.13)"
         ]
     },
-    "crowd banter": {
-        "count": 22,
-        "alternatives": []
-    },
     "xanadu": {
+        "count": 23,
+        "alternatives": [
+            "xanadu*"
+        ]
+    },
+    "crowd banter": {
         "count": 22,
         "alternatives": []
     },
@@ -1979,10 +1981,6 @@
         "alternatives": []
     },
     "the state of things*": {
-        "count": 1,
-        "alternatives": []
-    },
-    "xanadu*": {
         "count": 1,
         "alternatives": []
     },
