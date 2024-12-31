@@ -564,6 +564,17 @@
             "fire  rite"
         ]
     },
+    "...and this is what he thought": {
+        "count": 40,
+        "alternatives": [
+            "the bionic man meets his past and this is what he thought",
+            "and this is what he thought",
+            "and this is what he thought...",
+            "...and this is what he thought.",
+            "...and this is what he thought>",
+            "... and this is what he thought"
+        ]
+    },
     "not just a word": {
         "count": 39,
         "alternatives": []
@@ -575,8 +586,10 @@
         ]
     },
     "shiitake": {
-        "count": 38,
-        "alternatives": []
+        "count": 39,
+        "alternatives": [
+            "siitake"
+        ]
     },
     "therian": {
         "count": 38,
@@ -682,6 +695,16 @@
         "count": 25,
         "alternatives": []
     },
+    "tv song": {
+        "count": 25,
+        "alternatives": [
+            "tv song (5.4.13)",
+            "e: tv song",
+            "tv song*",
+            "tv song (2.17.13)",
+            "t.v. song"
+        ]
+    },
     "cordyceps": {
         "count": 24,
         "alternatives": [
@@ -691,15 +714,6 @@
     "obove": {
         "count": 24,
         "alternatives": []
-    },
-    "tv song": {
-        "count": 23,
-        "alternatives": [
-            "tv song (5.4.13)",
-            "e: tv song",
-            "tv song*",
-            "tv song (2.17.13)"
-        ]
     },
     "xanadu": {
         "count": 23,
@@ -713,21 +727,15 @@
             "giving you up >"
         ]
     },
-    "crowd banter": {
-        "count": 22,
-        "alternatives": []
-    },
     "boss battle": {
-        "count": 22,
+        "count": 23,
         "alternatives": [
             "boss battle*"
         ]
     },
-    "...and this is what he thought": {
+    "crowd banter": {
         "count": 22,
-        "alternatives": [
-            "the bionic man meets his past and this is what he thought"
-        ]
+        "alternatives": []
     },
     "the elephant i presume": {
         "count": 21,
@@ -799,10 +807,6 @@
         "alternatives": []
     },
     "passage": {
-        "count": 12,
-        "alternatives": []
-    },
-    "and this is what he thought": {
         "count": 12,
         "alternatives": []
     },
@@ -908,14 +912,6 @@
             "closer - (nine inch nails)"
         ]
     },
-    "and this is what he thought...": {
-        "count": 2,
-        "alternatives": []
-    },
-    "t.v. song": {
-        "count": 2,
-        "alternatives": []
-    },
     "the national anthem*": {
         "count": 2,
         "alternatives": []
@@ -977,10 +973,6 @@
         "alternatives": []
     },
     "porcelain": {
-        "count": 2,
-        "alternatives": []
-    },
-    "...and this is what he thought.": {
         "count": 2,
         "alternatives": []
     },
@@ -1560,10 +1552,6 @@
         "count": 1,
         "alternatives": []
     },
-    "...and this is what he thought>": {
-        "count": 1,
-        "alternatives": []
-    },
     "fahrenheit fair enough*>": {
         "count": 1,
         "alternatives": []
@@ -2081,14 +2069,6 @@
         "alternatives": []
     },
     "earthcry transition": {
-        "count": 1,
-        "alternatives": []
-    },
-    "... and this is what he thought": {
-        "count": 1,
-        "alternatives": []
-    },
-    "siitake": {
         "count": 1,
         "alternatives": []
     },
