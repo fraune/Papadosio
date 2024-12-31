@@ -645,8 +645,10 @@
         "alternatives": []
     },
     "pool of stars": {
-        "count": 29,
-        "alternatives": []
+        "count": 30,
+        "alternatives": [
+            "pool of stars (ft. esb horns)"
+        ]
     },
     "we choose": {
         "count": 28,
@@ -1577,10 +1579,6 @@
         "alternatives": []
     },
     "jungle boogie (ft. esb horns)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "pool of stars (ft. esb horns)": {
         "count": 1,
         "alternatives": []
     },
