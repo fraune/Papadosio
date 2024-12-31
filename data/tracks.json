@@ -241,6 +241,17 @@
             "utoptiate"
         ]
     },
+    "threes": {
+        "count": 88,
+        "alternatives": [
+            "threes 1/2",
+            "threes 2/2",
+            "threes* >",
+            "threes - scott hannay (mister f 8 bit remix)",
+            "threes reprise",
+            "three"
+        ]
+    },
     "direction song": {
         "count": 81,
         "alternatives": [
@@ -258,10 +269,6 @@
             "monochrome >",
             "monochrome (acoustic)"
         ]
-    },
-    "threes": {
-        "count": 80,
-        "alternatives": []
     },
     "by the light of the stars": {
         "count": 79,
@@ -874,14 +881,6 @@
         "count": 2,
         "alternatives": []
     },
-    "threes 1/2": {
-        "count": 2,
-        "alternatives": []
-    },
-    "threes 2/2": {
-        "count": 2,
-        "alternatives": []
-    },
     "if it was'nt for you": {
         "count": 2,
         "alternatives": []
@@ -1026,10 +1025,6 @@
         "count": 1,
         "alternatives": []
     },
-    "three": {
-        "count": 1,
-        "alternatives": []
-    },
     "anima mundi*": {
         "count": 1,
         "alternatives": []
@@ -1051,10 +1046,6 @@
         "alternatives": []
     },
     "epiphany >": {
-        "count": 1,
-        "alternatives": []
-    },
-    "threes* >": {
         "count": 1,
         "alternatives": []
     },
@@ -1231,10 +1222,6 @@
         "alternatives": []
     },
     "oblivion - (push pull remix)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "threes - scott hannay (mister f 8 bit remix)": {
         "count": 1,
         "alternatives": []
     },
@@ -2171,10 +2158,6 @@
         "alternatives": []
     },
     "set ii intro": {
-        "count": 1,
-        "alternatives": []
-    },
-    "threes reprise": {
         "count": 1,
         "alternatives": []
     },
