@@ -685,6 +685,14 @@
             "everyone is cool*"
         ]
     },
+    "crowd banter": {
+        "count": 27,
+        "alternatives": [
+            "(crowd banter)",
+            "crowd banter (night 1)",
+            "crowd banter (night 2)"
+        ]
+    },
     "the world is a cube": {
         "count": 26,
         "alternatives": [
@@ -732,10 +740,6 @@
         "alternatives": [
             "boss battle*"
         ]
-    },
-    "crowd banter": {
-        "count": 22,
-        "alternatives": []
     },
     "the elephant i presume": {
         "count": 22,
@@ -905,15 +909,13 @@
         "count": 4,
         "alternatives": []
     },
-    "(crowd banter)": {
-        "count": 3,
-        "alternatives": []
+    "banter": {
+        "count": 4,
+        "alternatives": [
+            "(banter)"
+        ]
     },
     "the domes": {
-        "count": 3,
-        "alternatives": []
-    },
-    "banter": {
         "count": 3,
         "alternatives": []
     },
@@ -1495,15 +1497,7 @@
         "count": 1,
         "alternatives": []
     },
-    "crowd banter (night 1)": {
-        "count": 1,
-        "alternatives": []
-    },
     "curve(ature) (night 2)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "crowd banter (night 2)": {
         "count": 1,
         "alternatives": []
     },
@@ -2008,10 +2002,6 @@
         "alternatives": []
     },
     "mgrny": {
-        "count": 1,
-        "alternatives": []
-    },
-    "(banter)": {
         "count": 1,
         "alternatives": []
     },
