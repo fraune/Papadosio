@@ -604,11 +604,13 @@
             "dare you (into find your cloud incomplete recording)"
         ]
     },
-    "distress signal": {
-        "count": 35,
-        "alternatives": []
-    },
     "fly agaric": {
+        "count": 36,
+        "alternatives": [
+            "fly agairc"
+        ]
+    },
+    "distress signal": {
         "count": 35,
         "alternatives": []
     },
@@ -1981,10 +1983,6 @@
         "alternatives": []
     },
     "it it wasn't for you": {
-        "count": 1,
-        "alternatives": []
-    },
-    "fly agairc": {
         "count": 1,
         "alternatives": []
     },
