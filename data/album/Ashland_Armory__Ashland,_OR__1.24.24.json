@@ -1,0 +1,108 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/ashland-armory-ashland-or-12424",
+    "name": "Ashland Armory | Ashland, OR | 1.24.24",
+    "dateModified": "07 Feb 2024 19:29:27 GMT",
+    "numTracks": 12,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Cubensis",
+                "duration": "P00H11M01S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-47"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Oracle Theme",
+                "duration": "P00H14M12S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-48"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Dare You",
+                "duration": "P00H07M04S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-25"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Fossilize",
+                "duration": "P00H07M12S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fossilize-9"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Cushion",
+                "duration": "P00H07M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-76"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "How Not To Float",
+                "duration": "P00H06M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-71"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Direction Song",
+                "duration": "P00H10M43S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-73"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Stick Figure",
+                "duration": "P00H07M39S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-70"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Xanadu",
+                "duration": "P00H08M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/xanadu-13"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "The Plug",
+                "duration": "P00H14M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-79"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H10M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-174"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Versicolor",
+                "duration": "P00H07M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-45"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a0549590454_10.jpg",
+    "datePublished": "07 Feb 2024 19:29:28 GMT",
+    "description": "Ashland,\r\n Thanks so much for coming to hang with us on Wednesday. Great town, great times!",
+    "duration": "P01H52M54S"
+}

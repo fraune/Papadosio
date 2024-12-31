@@ -1,0 +1,92 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/83018-druid-city-tuscaloosa-al",
+    "name": "8.30.18 | Druid City | Tuscaloosa, AL",
+    "dateModified": "06 Sep 2018 23:33:50 GMT",
+    "numTracks": 10,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Threes",
+                "duration": "P00H10M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-50"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Geoglyph",
+                "duration": "P00H07M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-62"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "If it Wasn't For You",
+                "duration": "P00H08M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-50"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "You and Yourself",
+                "duration": "P00H13M24S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-55"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Distress Signal",
+                "duration": "P00H08M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-4"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Content Coma",
+                "duration": "P00H10M53S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/content-coma-3"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Anima Mundi",
+                "duration": "P00H10M05S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-42"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "The Wrong Nostalgia",
+                "duration": "P00H04M20S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-44"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H14M27S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-116"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H15M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-107"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a0188072889_10.jpg",
+    "datePublished": "06 Sep 2018 23:33:50 GMT",
+    "description": "This album was recorded at Druid City in Tuscaloosa, AL! thanks to everybody who came out for our first time in Tuscaloosa in 8 years! WOW. Hope to see you all again soon!",
+    "duration": "P01H44M04S"
+}

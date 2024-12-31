@@ -1,0 +1,172 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/to-end-the-illusion-of-separation-t-e-t-i-o-s",
+    "name": "To End the Illusion of Separation (T.E.T.I.O.S)",
+    "dateModified": "26 Nov 2022 20:59:20 GMT",
+    "numTracks": 20,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Direction Song",
+                "duration": "P00H05M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H06M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "The Sum",
+                "duration": "P00H06M42S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Ear to Ear",
+                "duration": "P00H04M42S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "The Bionic Man meets his past...",
+                "duration": "P00H06M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Method of Control",
+                "duration": "P00H07M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Mancoluto",
+                "duration": "P00H03M39S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mancoluto"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Madre De Dios",
+                "duration": "P00H04M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Puddles for Oceans",
+                "duration": "P00H06M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Monochrome",
+                "duration": "P00H09M10S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "...and this is what he thought.",
+                "duration": "P00H01M52S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H08M37S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue"
+            }
+        },
+        {
+            "position": 13,
+            "item": {
+                "name": "Now That You Know",
+                "duration": "P00H08M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know"
+            }
+        },
+        {
+            "position": 14,
+            "item": {
+                "name": "Right Now",
+                "duration": "P00H07M03S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now"
+            }
+        },
+        {
+            "position": 15,
+            "item": {
+                "name": "Stick Figure",
+                "duration": "P00H05M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure"
+            }
+        },
+        {
+            "position": 16,
+            "item": {
+                "name": "The Oracle Theme",
+                "duration": "P00H06M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-oracle-theme"
+            }
+        },
+        {
+            "position": 17,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H08M36S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud"
+            }
+        },
+        {
+            "position": 18,
+            "item": {
+                "name": "TV Song",
+                "duration": "P00H03M06S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/tv-song"
+            }
+        },
+        {
+            "position": 19,
+            "item": {
+                "name": "Garden",
+                "duration": "P00H08M04S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden"
+            }
+        },
+        {
+            "position": 20,
+            "item": {
+                "name": "Planting the Seeds of Life",
+                "duration": "P00H05M49S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/planting-the-seeds-of-life"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a2550791585_10.jpg",
+    "datePublished": "16 Oct 2012 00:00:00 GMT",
+    "description": "This 20 song, double disc album is dedicated to the next horizon which is revealing itself little by little. What we can tell is that we are moving away from being caught in an illusion of separation, and toward something more unified. So in that spirit, we created this conceptual collaboration between us and a team of truly amazing friends whom we have had the of pleasure of meeting along the way. In an effort to catalyze the beautiful and peaceful world that we all know is possible, we give you this collection of art as a sign that we are all moving into that space slowly but surely.",
+    "duration": "P02H03M43S"
+}

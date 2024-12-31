@@ -1,0 +1,92 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/paradise-2016",
+    "name": "Paradise 2016",
+    "dateModified": "17 May 2016 01:28:58 GMT",
+    "numTracks": 10,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Direction Song",
+                "duration": "P00H12M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-42"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Dream Estate",
+                "duration": "P00H14M12S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-64"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "All I Knew",
+                "duration": "P00H14M12S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-67"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "The Wrong Nostalgia",
+                "duration": "P00H04M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-24"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Cloud Found",
+                "duration": "P00H09M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-65"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H13M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-67"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Epiphany",
+                "duration": "P00H08M50S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-35"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Advocate of Change",
+                "duration": "P00H13M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-52"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Crowd Banter",
+                "duration": "P00H02M48S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/crowd-banter-24"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H08M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-88"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a3604402213_10.jpg",
+    "datePublished": "16 May 2016 00:00:00 GMT",
+    "description": "The 2nd half of our night at Paradise Music & Arts Festival.",
+    "duration": "P01H43M00S"
+}

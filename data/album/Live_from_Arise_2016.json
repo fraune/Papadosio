@@ -1,0 +1,76 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/live-from-arise-2016",
+    "name": "Live from Arise 2016",
+    "dateModified": "04 Sep 2016 18:55:15 GMT",
+    "numTracks": 8,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Threes",
+                "duration": "P00H06M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-5"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Smile and Nod",
+                "duration": "P00H20M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-52"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Anima Mundi",
+                "duration": "P00H10M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-29"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H12M37S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-101"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Paradigm Shift",
+                "duration": "P00H18M00S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-56"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "You and Yourself",
+                "duration": "P00H17M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-41"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Puddles for Oceans",
+                "duration": "P00H05M04S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-41"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H08M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-82"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a4093722572_10.jpg",
+    "datePublished": "04 Sep 2016 18:55:15 GMT",
+    "description": null,
+    "duration": "P01H38M25S"
+}

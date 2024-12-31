@@ -1,0 +1,100 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/fourshadows-41915-mobile-al",
+    "name": "#Fourshadows | 4.19.15 | Mobile, AL",
+    "dateModified": "10 May 2015 03:06:06 GMT",
+    "numTracks": 11,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Cushion",
+                "duration": "P00H07M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-36"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Ear to Ear",
+                "duration": "P00H06M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-13"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Night Colors",
+                "duration": "P00H14M20S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-35"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Right Now",
+                "duration": "P00H08M04S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-21"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Whats at Stake",
+                "duration": "P00H04M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/whats-at-stake-22"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H15M07S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-47"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Monochrome",
+                "duration": "P00H09M05S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-25"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Loud Pipes (RATATAT)",
+                "duration": "P00H04M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/loud-pipes-ratatat-2"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "The Eyes Have Eyes",
+                "duration": "P00H11M11S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-25"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Giving You Up",
+                "duration": "P00H14M16S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/giving-you-up-14"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H12M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-69"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a1536305110_10.jpg",
+    "datePublished": "10 May 2015 03:06:06 GMT",
+    "description": "Live from The Soul Kitchen - April 19th, 2015 - Fourshadows Tour\r\nAll music, written, performed & recorded by Papadosio with the exception of \"Loud Pipes\" Originally written and performed by RATATAT\r\n© all rights reserved 2015.",
+    "duration": "P01H48M04S"
+}

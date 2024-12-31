@@ -1,0 +1,100 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/112319-the-visulite-charlotte-nc",
+    "name": "11.23.19 | The Visulite | Charlotte, NC",
+    "dateModified": "03 Dec 2019 20:55:50 GMT",
+    "numTracks": 11,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H01M33S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-76"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Vactrollio",
+                "duration": "P00H08M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-70"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Catalyst",
+                "duration": "P00H08M55S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-11"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Fanfare for the Rain People",
+                "duration": "P00H08M18S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-26"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Holy Heck",
+                "duration": "P00H15M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-46"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Epiphany",
+                "duration": "P00H07M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-51"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Direction Song",
+                "duration": "P00H10M54S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-64"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Dream Estate",
+                "duration": "P00H12M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-81"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Now That You Know",
+                "duration": "P00H07M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-43"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Polygons",
+                "duration": "P00H16M47S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-58"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H13M03S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-139"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a3276174649_10.jpg",
+    "datePublished": "03 Dec 2019 20:55:50 GMT",
+    "description": "This album was recorded on November 23rd, 2019 at The Visulite in Charlotte, NC. Big thanks to everyone who came out! Subscribe to our BandCamp to stay up to date & have access to all of our live sets!",
+    "duration": "P01H50M42S"
+}

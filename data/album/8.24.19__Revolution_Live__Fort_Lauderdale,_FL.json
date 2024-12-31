@@ -1,0 +1,108 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/82419-revolution-live-fort-lauderdale-fl",
+    "name": "8.24.19 | Revolution Live | Fort Lauderdale, FL",
+    "dateModified": "05 Sep 2019 20:14:15 GMT",
+    "numTracks": 12,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H02M48S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-70"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Utopiate",
+                "duration": "P00H11M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-74"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Threes",
+                "duration": "P00H11M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-61"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "All I Knew",
+                "duration": "P00H07M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-98"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Just Like The Days",
+                "duration": "P00H07M56S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/just-like-the-days-12"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Madre de Dios",
+                "duration": "P00H04M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-37"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Skipswitch",
+                "duration": "P00H11M36S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-34"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Ear To Ear",
+                "duration": "P00H06M49S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-41"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Catalyst",
+                "duration": "P00H10M12S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-3"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Advocate of Change",
+                "duration": "P00H18M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-86"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Geoglyph",
+                "duration": "P00H07M37S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-73"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Paradigm Shift",
+                "duration": "P00H15M12S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-90"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a2121005311_10.jpg",
+    "datePublished": "05 Sep 2019 20:14:15 GMT",
+    "description": "This album was recorded on August 24th at The Revolution Live in Fort Lauderdale, FL. Thanks to everybody who came out to have some fun with us. We will be back soon! Thanks to Mystic Grizzly for getting the night started for us.",
+    "duration": "P01H55M44S"
+}

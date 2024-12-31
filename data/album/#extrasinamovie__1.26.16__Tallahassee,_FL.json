@@ -1,0 +1,100 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/extrasinamovie-12616-tallahassee-fl",
+    "name": "#extrasinamovie | 1.26.16 | Tallahassee, FL",
+    "dateModified": "09 Feb 2016 03:56:28 GMT",
+    "numTracks": 11,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Hippie Babysitter",
+                "duration": "P00H18M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-30"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Now That You Know",
+                "duration": "P00H09M06S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-24"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H15M33S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-59"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "The Sum",
+                "duration": "P00H07M03S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-42"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Anima Mundi",
+                "duration": "P00H10M16S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-18"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "By The Light Of The Stars",
+                "duration": "P00H13M06S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-37"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Holy Heck",
+                "duration": "P00H11M25S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-26"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Out Of Hiding",
+                "duration": "P00H12M22S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-18"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Night Colors",
+                "duration": "P00H13M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-44"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Gazing The Great Oscillator",
+                "duration": "P00H02M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/gazing-the-great-oscillator-10"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Moon Entendre",
+                "duration": "P00H07M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/moon-entendre-7"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a1365452331_10.jpg",
+    "datePublished": "09 Feb 2016 03:56:28 GMT",
+    "description": "#extrasinamovie | 1.26.16 | Tallahassee, FL\r\n\r\n'Extras in a Movie' Tour Act II - Live at The Side Bar Theater\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2016.",
+    "duration": "P02H00M35S"
+}

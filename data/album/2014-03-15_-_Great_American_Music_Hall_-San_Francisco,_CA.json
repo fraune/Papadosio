@@ -1,0 +1,92 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/2014-03-15-great-american-music-hall-san-francisco-ca",
+    "name": "2014-03-15 - Great American Music Hall -San Francisco, CA",
+    "dateModified": "14 Mar 2019 15:44:46 GMT",
+    "numTracks": 10,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "The Plug",
+                "duration": "P00H15M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-12"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Puddles for Oceans",
+                "duration": "P00H07M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-13"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "What's at Stake",
+                "duration": "P00H05M16S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/whats-at-stake-13"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H16M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-21"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Cloud Found",
+                "duration": "P00H09M39S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-21"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "The Oracle Theme",
+                "duration": "P00H06M20S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-oracle-theme-5"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Unparalyzer",
+                "duration": "P00H15M12S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-25"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Porcelain (Moby)",
+                "duration": "P00H04M20S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/porcelain-moby"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Magreenery",
+                "duration": "P00H25M52S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-14"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Paradigm Shift",
+                "duration": "P00H14M54S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-17"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a3356545456_10.jpg",
+    "datePublished": "21 Mar 2014 00:00:00 GMT",
+    "description": null,
+    "duration": "P02H00M46S"
+}

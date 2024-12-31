@@ -1,0 +1,76 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/gratifly-2014-72414-night-1",
+    "name": "Gratifly 2014 - 7.24.14 - Night 1",
+    "dateModified": "23 Jul 2015 16:01:21 GMT",
+    "numTracks": 8,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "By The Light Of The Stars",
+                "duration": "P00H10M15S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-15"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Garden",
+                "duration": "P00H12M05S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-29"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Magreenery",
+                "duration": "P00H17M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-17"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Night Colors",
+                "duration": "P00H11M22S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-22"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "We Choose",
+                "duration": "P00H06M57S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-13"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "I've Got A Brand New Mustache (improv)",
+                "duration": "P00H05M11S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ive-got-a-brand-new-mustache-improv"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H09M55S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-40"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Unparalyzer*",
+                "duration": "P00H10M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-33"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a0063606928_10.jpg",
+    "datePublished": "30 Jul 2014 00:00:00 GMT",
+    "description": "Live at Gratifly Music & Arts Festival - Avalon, SC\r\n2014-07-24 - Summer Tour 2014\r\n\r\n* w/ special guests Keith Allen and Kenn Mogel of The Mantras",
+    "duration": "P01H23M30S"
+}

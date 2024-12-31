@@ -1,0 +1,108 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/41418-skyway-theater-minneapolis-mn",
+    "name": "4.14.18 | Skyway Theater | Minneapolis, MN",
+    "dateModified": "25 Apr 2018 19:27:52 GMT",
+    "numTracks": 12,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H02M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-51"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "You and Yourself",
+                "duration": "P00H17M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-52"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Ear to Ear",
+                "duration": "P00H05M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-27"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Cloud Found",
+                "duration": "P00H11M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-86"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H13M37S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-98"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H06M57S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-112"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "The Sum",
+                "duration": "P00H06M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-62"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Curve",
+                "duration": "P00H09M54S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-57"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Taking Turns",
+                "duration": "P00H09M25S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-55"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H08M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-107"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Omnifreeze",
+                "duration": "P00H04M10S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-34"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Monochrome",
+                "duration": "P00H07M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-60"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a4210840129_10.jpg",
+    "datePublished": "25 Apr 2018 19:27:52 GMT",
+    "description": "This album was recorded on April 14th, 2018 at The Skyway Theater in Minneapolis, MN during a crazy blizzard. Thanks to everybody who came out! & Thanks to Bluetech for getting the show started!",
+    "duration": "P01H44M24S"
+}

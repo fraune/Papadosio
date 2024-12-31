@@ -1,0 +1,100 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/cohab-space-high-point-nc-8523",
+    "name": "Cohab Space | High Point, NC | 8.5.23",
+    "dateModified": "22 Aug 2023 17:15:16 GMT",
+    "numTracks": 11,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Euclidean Lights",
+                "duration": "P00H10M41S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-63"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Write Sing Play Mix",
+                "duration": "P00H10M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-50"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Omnifreeze",
+                "duration": "P00H08M53S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-44"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Dare You",
+                "duration": "P00H07M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-18"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Spinning",
+                "duration": "P00H04M00S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/spinning-7"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Threes",
+                "duration": "P00H08M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-82"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Boss Battle",
+                "duration": "P00H03M27S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/boss-battle-4"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Method Of Control",
+                "duration": "P00H20M50S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-125"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Everyone Is Cool",
+                "duration": "P00H06M05S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/everyone-is-cool-4"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Geoglyph",
+                "duration": "P00H08M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-98"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H15M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-162"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a3761899000_10.jpg",
+    "datePublished": "22 Aug 2023 17:15:17 GMT",
+    "description": "Thanks so much for having us High Point! such a unique opportunity to grow the community, hope to see you all again soon!",
+    "duration": "P01H43M52S"
+}

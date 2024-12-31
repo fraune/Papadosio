@@ -1,0 +1,124 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/boulder-theater-10215-boulder-co",
+    "name": "Boulder Theater | 10.2.15 | Boulder, CO",
+    "dateModified": "20 Oct 2015 01:31:26 GMT",
+    "numTracks": 14,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H01M10S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Out of Hiding",
+                "duration": "P00H11M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-2"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Anima Mundi*",
+                "duration": "P00H07M00S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-2"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H14M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-47"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "...and this is what he thought",
+                "duration": "P00H03M50S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-11"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Distant Days*",
+                "duration": "P00H05M50S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distant-days-2"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Therian*",
+                "duration": "P00H08M04S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-2"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Holy Heck",
+                "duration": "P00H09M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-24"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "The Wrong Nostalgia",
+                "duration": "P00H04M24S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-2"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "We Can Always Come Back*",
+                "duration": "P00H12M01S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-2"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Hippie Babysitter",
+                "duration": "P00H16M27S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-24"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Epiphany",
+                "duration": "P00H07M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-3"
+            }
+        },
+        {
+            "position": 13,
+            "item": {
+                "name": "Glimpse of Light",
+                "duration": "P00H08M42S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-2"
+            }
+        },
+        {
+            "position": 14,
+            "item": {
+                "name": "Paradigm Shift",
+                "duration": "P00H28M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-41"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a1055021097_10.jpg",
+    "datePublished": "20 Oct 2015 01:31:26 GMT",
+    "description": "Boulder Theater | 10.2.15 | Boulder, CO\r\n* = First Time Played\r\n\r\nAll music written, recorded and performed by Papadosio. © All Rights Reserved 2015.",
+    "duration": "P02H18M32S"
+}

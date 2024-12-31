@@ -1,0 +1,84 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/3517-2720-cherokee-st-louis-mo",
+    "name": "3.5.17 | 2720 Cherokee | St. Louis, MO",
+    "dateModified": "07 Mar 2017 20:47:16 GMT",
+    "numTracks": 9,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Hippie Babysitter",
+                "duration": "P00H18M41S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-46"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Threes",
+                "duration": "P00H11M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-21"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Each and Every Wave",
+                "duration": "P00H06M21S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-19"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Magreenery",
+                "duration": "P00H16M37S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-39"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Right Now",
+                "duration": "P00H08M01S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-25"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H14M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-79"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Gazing the Great Oscillator",
+                "duration": "P00H01M47S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/gazing-the-great-oscillator-14"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Moon Entendre",
+                "duration": "P00H07M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/moon-entendre-8"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Paradigm Shift",
+                "duration": "P00H11M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-64"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a2735119222_10.jpg",
+    "datePublished": "07 Mar 2017 20:47:16 GMT",
+    "description": "Recorded on March 5th, 2017 at 2720 Cherokee in St. Louis, Missouri. \r\n\r\nPattern Integrities Spring Tour 2017 \r\n\r\nAll material was written and recorded by Papadosio.",
+    "duration": "P01H35M17S"
+}

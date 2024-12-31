@@ -1,0 +1,92 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/111619-deep-ellum-art-co-dallas-tx",
+    "name": "11.16.19 | Deep Ellum Art CO | Dallas, TX",
+    "dateModified": "22 Nov 2019 21:44:11 GMT",
+    "numTracks": 10,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Write Sing Play Mix",
+                "duration": "P00H10M31S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-32"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "We Choose",
+                "duration": "P00H06M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-36"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H10M00S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-142"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Cloud Found",
+                "duration": "P00H08M56S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-101"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H17M52S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-131"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Passage",
+                "duration": "P00H05M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/passage-13"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Threes",
+                "duration": "P00H12M50S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-63"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "You And Yourself",
+                "duration": "P00H13M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-63"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H12M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-138"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H14M24S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-146"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a1985024326_10.jpg",
+    "datePublished": "22 Nov 2019 21:44:11 GMT",
+    "description": "This album was recorded on November 16th, 2019 at the Deep Ellum Art CO in Dallas, TX. Thanks to everybody who came to show their love and support and thanks to Cloudchord for opening the night up.",
+    "duration": "P01H52M07S"
+}

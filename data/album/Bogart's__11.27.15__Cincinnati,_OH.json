@@ -1,0 +1,108 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/bogarts-112715-cincinnati-oh",
+    "name": "Bogart's | 11.27.15 | Cincinnati, OH",
+    "dateModified": "26 Dec 2015 20:56:57 GMT",
+    "numTracks": 12,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H01M01S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-29"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "2AM>",
+                "duration": "P00H04M48S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-20"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Advocate of Change",
+                "duration": "P00H08M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-46"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "The Plug>",
+                "duration": "P00H12M24S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-29"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Bypass Default",
+                "duration": "P00H14M12S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-18"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "We Can Always Come Back>",
+                "duration": "P00H08M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-12"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Epiphany",
+                "duration": "P00H08M31S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-20"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H10M11S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-70"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Out of Hiding",
+                "duration": "P00H11M24S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-14"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H27M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-66"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Find Your Cloud>",
+                "duration": "P00H10M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-69"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "2AM",
+                "duration": "P00H02M42S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-21"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a0778795158_10.jpg",
+    "datePublished": "26 Dec 2015 20:56:57 GMT",
+    "description": "Bogart's | 11.27.15 | Cincinnati, OH\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015.",
+    "duration": "P02H00M07S"
+}

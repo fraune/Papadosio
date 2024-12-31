@@ -1,0 +1,108 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/122719-holidosio-night-1-isis-music-hall-asheville-nc",
+    "name": "12.27.19 | Holidosio Night 1 | Isis Music Hall | Asheville, NC",
+    "dateModified": "15 Dec 2020 19:33:41 GMT",
+    "numTracks": 12,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H02M39S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-77"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Skipswitch",
+                "duration": "P00H14M36S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-40"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Write Sing Play Mix",
+                "duration": "P00H11M16S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-33"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Skipswitch",
+                "duration": "P00H02M50S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-41"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "By The Light Of The Stars",
+                "duration": "P00H10M22S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-69"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Snapcracklepop",
+                "duration": "P00H17M51S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snapcracklepop"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Monochrome",
+                "duration": "P00H08M54S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-75"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Distress Signal",
+                "duration": "P00H09M10S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-30"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Blunderfuzz",
+                "duration": "P00H10M56S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/blunderfuzz"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Catalyst",
+                "duration": "P00H10M53S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-13"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Utopiate",
+                "duration": "P00H23M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-79"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H12M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-140"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a4280898278_10.jpg",
+    "datePublished": "03 Jan 2020 00:00:00 GMT",
+    "description": "This album was recorded on December 27th at Isis Music Hall in Asheville, NC. Thank you so much for everyone who came out to celebrate the holidays with us!",
+    "duration": "P02H15M01S"
+}

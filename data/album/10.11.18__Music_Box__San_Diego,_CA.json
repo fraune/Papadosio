@@ -1,0 +1,92 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/101118-music-box-san-diego-ca",
+    "name": "10.11.18 | Music Box | San Diego, CA",
+    "dateModified": "19 Oct 2018 19:27:35 GMT",
+    "numTracks": 10,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H12M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-129"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Oblivion",
+                "duration": "P00H18M01S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-35"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "No End",
+                "duration": "P00H05M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/no-end-4"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Write Sing Play Mix",
+                "duration": "P00H08M15S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-5"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Passage",
+                "duration": "P00H06M00S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/passage-4"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Oracle Theme",
+                "duration": "P00H06M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-34"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Utopiate",
+                "duration": "P00H13M51S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-69"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Holy Heck",
+                "duration": "P00H07M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-41"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Method of Control",
+                "duration": "P00H07M55S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-91"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Polygons",
+                "duration": "P00H16M37S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-50"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a2605318716_10.jpg",
+    "datePublished": "19 Oct 2018 19:27:35 GMT",
+    "description": "This album was recorded on October 11th at The Music Box in San Diego, CA! Thanks to everybody who came out to show their support & we hope to see you again very soon!",
+    "duration": "P01H43M01S"
+}

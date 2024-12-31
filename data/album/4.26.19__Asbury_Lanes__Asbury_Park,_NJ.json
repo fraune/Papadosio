@@ -1,0 +1,100 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/42619-asbury-lanes-asbury-park-nj",
+    "name": "4.26.19 | Asbury Lanes | Asbury Park, NJ",
+    "dateModified": "01 May 2019 23:17:54 GMT",
+    "numTracks": 11,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H15M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-122"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Write Sing Play mix",
+                "duration": "P00H10M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-25"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Omnifreeze",
+                "duration": "P00H05M18S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-41"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Fanfare For the Rain People",
+                "duration": "P00H07M58S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-21"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Frequence",
+                "duration": "P00H13M50S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-43"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Dream Estate",
+                "duration": "P00H12M21S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-79"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Smile and Nod",
+                "duration": "P00H09M56S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-78"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H13M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-113"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Advocate of Change",
+                "duration": "P00H07M37S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-85"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "By The Light of the Stars",
+                "duration": "P00H08M00S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-64"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H08M07S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-123"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a3869827915_10.jpg",
+    "datePublished": "01 May 2019 23:17:55 GMT",
+    "description": "This album was recorded on April 26th at Asbury Lanes in Asbury, NY. Thanks to everybody who came out & thanks to Lespecial for holding it down! See you again soon Asbury Park!",
+    "duration": "P01H52M46S"
+}

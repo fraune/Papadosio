@@ -1,0 +1,124 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/11020-sheridan-opera-house-night-1-telluride-co",
+    "name": "1.10.20 | Sheridan Opera House Night 1 | Telluride, CO",
+    "dateModified": "15 Jan 2020 23:33:31 GMT",
+    "numTracks": 14,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H10M27S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-144"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Omnifreeze",
+                "duration": "P00H03M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-42"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Taking Turns",
+                "duration": "P00H09M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-62"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Liminal Daybreak",
+                "duration": "P00H05M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/liminal-daybreak-26"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Paradigm Shift",
+                "duration": "P00H15M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-95"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "You And Yourself",
+                "duration": "P00H10M49S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-64"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "If It Wasn't For You",
+                "duration": "P00H07M18S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-56"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "You And Yourself",
+                "duration": "P00H02M33S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-65"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Just Like The Days",
+                "duration": "P00H07M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/just-like-the-days-14"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Skipswitch",
+                "duration": "P00H08M51S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-42"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H11M23S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-125"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Skipswitch",
+                "duration": "P00H02M22S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-43"
+            }
+        },
+        {
+            "position": 13,
+            "item": {
+                "name": "Pinyano",
+                "duration": "P00H02M27S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pinyano"
+            }
+        },
+        {
+            "position": 14,
+            "item": {
+                "name": "Unparalyzer",
+                "duration": "P00H13M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-100"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a0631896946_10.jpg",
+    "datePublished": "15 Jan 2020 23:33:31 GMT",
+    "description": "This album was recorded on January 10th at Sheridan Opera House in Telluride, CO. Thanks for everyone who came out to the show!",
+    "duration": "P01H50M40S"
+}

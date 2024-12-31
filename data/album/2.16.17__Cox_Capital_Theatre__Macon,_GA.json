@@ -1,0 +1,108 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/21617-cox-capital-theatre-macon-ga",
+    "name": "2.16.17 | Cox Capital Theatre | Macon, GA",
+    "dateModified": "24 Feb 2017 17:39:24 GMT",
+    "numTracks": 12,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H05M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-38"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Monochrome",
+                "duration": "P00H10M37S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-45"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Mr. Turtles Cloud Kingdom",
+                "duration": "P00H05M56S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-16"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Garden",
+                "duration": "P00H10M06S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-71"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Each and Every Wave",
+                "duration": "P00H07M34S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-16"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Anima Mundi",
+                "duration": "P00H08M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-32"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Euclidean Lights",
+                "duration": "P00H08M23S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-15"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Cloud Found",
+                "duration": "P00H09M34S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-72"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "And This is What he Thought",
+                "duration": "P00H04M39S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-23"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Omnifreeze",
+                "duration": "P00H08M34S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-17"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Paradigm Shift",
+                "duration": "P00H20M10S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-61"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Method of Control",
+                "duration": "P00H08M01S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-67"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a1335311962_10.jpg",
+    "datePublished": "21 Feb 2017 00:00:00 GMT",
+    "description": "Recorded on February 16th 2017 at Cox Capital Theatre in Macon, GA \r\n\r\nPattern Integrities Spring Tour 2017 \r\n\r\nAll material was written and recorded by Papadosio.",
+    "duration": "P01H46M55S"
+}

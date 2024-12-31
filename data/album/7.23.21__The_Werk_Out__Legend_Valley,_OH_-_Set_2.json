@@ -1,0 +1,44 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/72321-the-werk-out-legend-valley-oh-set-2",
+    "name": "7.23.21 | The Werk Out | Legend Valley, OH - Set 2",
+    "dateModified": "04 Aug 2021 19:35:39 GMT",
+    "numTracks": 4,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "The Lack Of Everything",
+                "duration": "P00H07M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-48"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Monochrome",
+                "duration": "P00H21M41S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-79"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Magreenery",
+                "duration": "P00H35M23S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-75"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Stick Figure",
+                "duration": "P00H08M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-58"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a3760484389_10.jpg",
+    "datePublished": "04 Aug 2021 19:35:40 GMT",
+    "description": "This album was recorded on July 23rd, 2021 at Legend Valley in Thornville, OH. Thanks to our friends The Werks for having us out for this epic comeback party! See you on New Year in Columbus!",
+    "duration": "P01H12M57S"
+}

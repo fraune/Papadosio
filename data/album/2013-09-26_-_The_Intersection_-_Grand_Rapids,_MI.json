@@ -1,0 +1,116 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/2013-09-26-the-intersection-grand-rapids-mi",
+    "name": "2013-09-26 - The Intersection - Grand Rapids, MI",
+    "dateModified": "24 Oct 2013 00:56:55 GMT",
+    "numTracks": 13,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Cushion",
+                "duration": "P00H07M42S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-3"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Garden",
+                "duration": "P00H08M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-12"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Taking Turns",
+                "duration": "P00H09M39S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-11"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Method of Control",
+                "duration": "P00H13M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-12"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H08M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-13"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "All I Knew",
+                "duration": "P00H08M07S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-16"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "What's At Stake",
+                "duration": "P00H04M50S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/whats-at-stake-3"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Cloud Found",
+                "duration": "P00H10M09S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-7"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H13M47S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-15"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "The Sum",
+                "duration": "P00H07M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-4"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Hippie Babysitter",
+                "duration": "P00H17M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-6"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Encore Jam",
+                "duration": "P00H05M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/encore-jam-2"
+            }
+        },
+        {
+            "position": 13,
+            "item": {
+                "name": "Improbability Blotter",
+                "duration": "P00H05M49S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-4"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a2047768898_10.jpg",
+    "datePublished": "03 Oct 2013 00:00:00 GMT",
+    "description": null,
+    "duration": "P02H01M26S"
+}

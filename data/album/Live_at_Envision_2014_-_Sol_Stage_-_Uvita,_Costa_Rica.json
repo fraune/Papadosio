@@ -1,0 +1,92 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/live-at-envision-2014-sol-stage-uvita-costa-rica",
+    "name": "Live at Envision 2014 - Sol Stage - Uvita, Costa Rica",
+    "dateModified": "12 Dec 2016 21:21:15 GMT",
+    "numTracks": 10,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H07M05S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-29"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H11M10S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-26"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "The Sum",
+                "duration": "P00H11M21S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-16"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H10M20S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-26"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Cushion",
+                "duration": "P00H07M43S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-18"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Direction Song",
+                "duration": "P00H10M33S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-13"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Method of Control",
+                "duration": "P00H11M05S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-20"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H08M27S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-20"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Night Colors",
+                "duration": "P00H12M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-15"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Paradigm Shift",
+                "duration": "P00H15M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-19"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a1747835282_10.jpg",
+    "datePublished": "27 Feb 2014 00:00:00 GMT",
+    "description": "Recorded live at Envision Festival 2014\r\nRancho La Merced - Uvita, Puntarenas, Costa Rica\r\nwww.envisionfestival.com",
+    "duration": "P01H46M00S"
+}

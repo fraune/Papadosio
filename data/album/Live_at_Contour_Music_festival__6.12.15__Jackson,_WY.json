@@ -1,0 +1,84 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/live-at-contour-music-festival-61215-jackson-wy-2",
+    "name": "Live at Contour Music festival | 6.12.15 | Jackson, WY",
+    "dateModified": "08 Jul 2015 20:41:29 GMT",
+    "numTracks": 9,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Method of Control",
+                "duration": "P00H14M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-45"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Smile and Nod",
+                "duration": "P00H10M06S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-39"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Cloud Found",
+                "duration": "P00H09M39S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-50"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Curve",
+                "duration": "P00H19M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-34"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Cushion",
+                "duration": "P00H06M36S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-41"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "If It Wasn't For You",
+                "duration": "P00H08M51S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-37"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "All I Knew",
+                "duration": "P00H08M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-52"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Night Colors",
+                "duration": "P00H13M53S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-38"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Unparalyzer",
+                "duration": "P00H12M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-54"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a0696096171_10.jpg",
+    "datePublished": "08 Jul 2015 20:41:29 GMT",
+    "description": "Live from Contour Music Festival - June 12th, 2015 All music written, performed & recorded by Papadosio. © all rights reserved 2015.",
+    "duration": "P01H43M51S"
+}

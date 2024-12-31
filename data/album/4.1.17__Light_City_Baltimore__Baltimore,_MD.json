@@ -1,0 +1,68 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/4117-light-city-baltimore-baltimore-md",
+    "name": "4.1.17 | Light City Baltimore | Baltimore, MD",
+    "dateModified": "02 Apr 2017 20:09:51 GMT",
+    "numTracks": 7,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Curve",
+                "duration": "P00H18M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-47"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Oblivion",
+                "duration": "P00H07M03S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-19"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Geoglyph",
+                "duration": "P00H14M41S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-44"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Vactrollio",
+                "duration": "P00H08M53S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-22"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Night Colors",
+                "duration": "P00H19M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-57"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Monochrome",
+                "duration": "P00H09M49S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-49"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Fuse",
+                "duration": "P00H08M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-48"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a3665227915_10.jpg",
+    "datePublished": "02 Apr 2017 00:00:00 GMT",
+    "description": null,
+    "duration": "P01H26M47S"
+}
