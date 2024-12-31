@@ -744,8 +744,10 @@
         ]
     },
     "content coma": {
-        "count": 18,
-        "alternatives": []
+        "count": 19,
+        "alternatives": [
+            "content coma (acoustic)"
+        ]
     },
     "the end of the world": {
         "count": 17,
@@ -1043,10 +1045,6 @@
         "alternatives": []
     },
     "left on the light (acoustic)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "content coma (acoustic)": {
         "count": 1,
         "alternatives": []
     },
