@@ -634,11 +634,13 @@
             "each and every wave - (bluetech remix)"
         ]
     },
-    "zoom out": {
-        "count": 31,
-        "alternatives": []
-    },
     "catalyst": {
+        "count": 32,
+        "alternatives": [
+            "catalyst*"
+        ]
+    },
+    "zoom out": {
         "count": 31,
         "alternatives": []
     },
@@ -2099,10 +2101,6 @@
         "alternatives": []
     },
     "mario underground": {
-        "count": 1,
-        "alternatives": []
-    },
-    "catalyst*": {
         "count": 1,
         "alternatives": []
     },
