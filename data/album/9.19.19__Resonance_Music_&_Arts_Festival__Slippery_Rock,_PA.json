@@ -1,0 +1,76 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/91919-resonance-music-arts-festival-slippery-rock-pa",
+    "name": "9.19.19 | Resonance Music & Arts Festival | Slippery Rock, PA",
+    "dateModified": "08 Oct 2019 21:53:44 GMT",
+    "numTracks": 8,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H04M24S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-71"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H12M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-126"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Smile & Nod",
+                "duration": "P00H19M48S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-nod"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Fanfare for the Rain People",
+                "duration": "P00H08M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-23"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Direction Song",
+                "duration": "P00H10M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-63"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Magreenery",
+                "duration": "P00H15M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-63"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Puddles for Oceans",
+                "duration": "P00H05M24S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-62"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H09M16S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-129"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a3200704302_10.jpg",
+    "datePublished": "08 Oct 2019 21:52:25 GMT",
+    "description": "This album was recorded on September 19th, 2019 at Coopers Lake Campground during Resonance Music & Arts Festival 2019. This is one of 4 sets that we played this year! \r\n\r\nThanks to everybody who came out to show their love and support. See you next year!",
+    "duration": "P01H26M56S"
+}

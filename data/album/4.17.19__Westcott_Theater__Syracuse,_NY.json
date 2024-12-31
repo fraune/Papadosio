@@ -1,0 +1,108 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/41719-westcott-theater-syracuse-ny",
+    "name": "4.17.19 | Westcott Theater | Syracuse, NY",
+    "dateModified": "18 Oct 2019 19:49:29 GMT",
+    "numTracks": 12,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Improbability Blotter",
+                "duration": "P00H08M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-81"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Madre de Dios",
+                "duration": "P00H04M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-36"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "The Wrong Nostalgia",
+                "duration": "P00H04M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-46"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H10M27S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-129"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Write Sing Play Mix",
+                "duration": "P00H08M58S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-23"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Fanfare for the Rain People",
+                "duration": "P00H08M55S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-19"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Holy Heck",
+                "duration": "P00H12M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-43"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Pool of Stars",
+                "duration": "P00H05M52S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-20"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Garden",
+                "duration": "P00H09M56S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-97"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Fire Rite",
+                "duration": "P00H06M21S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-22"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Improbability Blotter",
+                "duration": "P00H10M09S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-82"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Skipswitch",
+                "duration": "P00H13M10S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-24"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a3853097156_10.jpg",
+    "datePublished": "19 Apr 2019 00:00:00 GMT",
+    "description": "This album was recorded on April 17th, 2019 at the Westcott Theatre in Syracuse, NY! Thanks to everybody who came out and thank you to Cycles for opening up the night for us.",
+    "duration": "P01H44M02S"
+}

@@ -1,0 +1,116 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/41819-the-haunt-ithaca-ny",
+    "name": "4.18.19 | The Haunt | Ithaca, NY",
+    "dateModified": "22 Apr 2019 18:33:26 GMT",
+    "numTracks": 13,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Unparalyzer",
+                "duration": "P00H17M22S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-93"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Cushion",
+                "duration": "P00H06M04S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-65"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "The Eyes Have Eyes",
+                "duration": "P00H19M10S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-70"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Oblivion",
+                "duration": "P00H07M21S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-38"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Liminal Daybreak",
+                "duration": "P00H04M36S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/liminal-daybreak-21"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Distress Signal",
+                "duration": "P00H08M36S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-24"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Content Coma",
+                "duration": "P00H11M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/content-coma-18"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Drift",
+                "duration": "P00H06M03S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-38"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Vactrollio",
+                "duration": "P00H08M15S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-60"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H10M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-136"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "2AM",
+                "duration": "P00H06M18S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-63"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H04M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-137"
+            }
+        },
+        {
+            "position": 13,
+            "item": {
+                "name": "Euclidean Lights",
+                "duration": "P00H10M15S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-48"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a0286214847_10.jpg",
+    "datePublished": "22 Apr 2019 18:33:26 GMT",
+    "description": "This album was recorded on April 18th, 2019 a the Haunt in Ithaca, NY! Thanks to everybody who came out to show support and thanks to our friend's Cycles for opening the night up!",
+    "duration": "P01H59M45S"
+}

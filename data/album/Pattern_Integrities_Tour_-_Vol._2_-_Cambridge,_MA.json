@@ -1,0 +1,100 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/pattern-integrities-tour-vol-2-cambridge-ma",
+    "name": "Pattern Integrities Tour - Vol. 2 - Cambridge, MA",
+    "dateModified": "09 Oct 2016 21:36:57 GMT",
+    "numTracks": 11,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Threes",
+                "duration": "P00H13M54S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-7"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Each and Every Wave",
+                "duration": "P00H05M52S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-2"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Bucky's Sandbox Jam",
+                "duration": "P00H09M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/buckys-sandbox-jam"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H09M37S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-83"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Vactrollio",
+                "duration": "P00H10M15S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-3"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "The Wrong Nostalgia",
+                "duration": "P00H04M25S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-29"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H18M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-103"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Omnifreeze",
+                "duration": "P00H03M25S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-2"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Deacon Frosty Jam",
+                "duration": "P00H08M27S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/deacon-frosty-jam"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Advocate of Change",
+                "duration": "P00H16M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-54"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H22M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-88"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a1788696998_10.jpg",
+    "datePublished": "09 Oct 2016 21:36:57 GMT",
+    "description": null,
+    "duration": "P02H02M19S"
+}

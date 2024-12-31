@@ -1,0 +1,92 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/2014-04-06-magreenery-live-louisville-ky",
+    "name": "2014​​-​​04​​-​​06 - Magreenery Live - Louisville, KY",
+    "dateModified": "19 Feb 2016 01:48:25 GMT",
+    "numTracks": 10,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "The Plug",
+                "duration": "P00H19M31S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-16"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Magreenery",
+                "duration": "P00H29M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-15"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "The Big Smile*",
+                "duration": "P00H16M12S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-big-smile-2"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Fuse",
+                "duration": "P00H09M16S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-18"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "I Had the Same Dream (_)",
+                "duration": "P00H05M25S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/i-had-the-same-dream"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Utopiate",
+                "duration": "P00H12M22S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-16"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Curve",
+                "duration": "P00H16M18S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-15"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "pHDeez",
+                "duration": "P00H06M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/phdeez-2"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Polygons",
+                "duration": "P00H21M11S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-17"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "SuperJam with Dopapod*",
+                "duration": "P00H23M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/superjam-with-dopapod"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a0360164415_10.jpg",
+    "datePublished": "08 Apr 2014 00:00:00 GMT",
+    "description": "In honor of our 8 year anniversary as a project, we decided to end our tour with a live rendition of our debut album 'Magreenery' at Headliner's Music Hall Sunday April 6th in Louisville, KY. Enjoy!\r\n\r\n*featuring Rob Compa on guitar from Dopapod\r\n*featuring all members of Dopapod",
+    "duration": "P02H39M42S"
+}

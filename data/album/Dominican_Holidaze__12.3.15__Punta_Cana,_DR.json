@@ -1,0 +1,76 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/dominican-holidaze-12315-punta-cana-dr",
+    "name": "Dominican Holidaze | 12.3.15 | Punta Cana, DR",
+    "dateModified": "19 Jan 2016 02:58:27 GMT",
+    "numTracks": 8,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H06M16S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-76"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H10M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-88"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Ritual",
+                "duration": "P00H09M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-15"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Anima Mundi",
+                "duration": "P00H08M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-16"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Wrong Nostalgia",
+                "duration": "P00H04M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/wrong-nostalgia-2"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H09M50S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-71"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "You and Yourself",
+                "duration": "P00H14M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-33"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H19M12S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-67"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a1297748692_10.jpg",
+    "datePublished": "19 Jan 2016 02:58:27 GMT",
+    "description": "Dominican Holidaze | 12.3.15 | Punta Cana, DR\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015.",
+    "duration": "P01H22M35S"
+}

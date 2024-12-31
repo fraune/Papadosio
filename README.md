@@ -58,7 +58,13 @@ python app/download_albums.py
 
 ### Process albums to create individual album JSON files
 
+Takes less than a minute
+
 ```
 python app/process_albums.py
 ```
+
+### Combine all albums into a big JSON file that can be used by the frontend
+
+
 

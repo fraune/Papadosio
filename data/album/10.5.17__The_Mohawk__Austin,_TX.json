@@ -1,0 +1,68 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/10517-the-mohawk-austin-tx",
+    "name": "10.5.17 | The Mohawk | Austin, TX",
+    "dateModified": "06 Oct 2017 19:55:56 GMT",
+    "numTracks": 7,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H18M47S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-88"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Omnifreeze",
+                "duration": "P00H07M50S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-25"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Frequence",
+                "duration": "P00H13M50S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-32"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Each and Every Wave",
+                "duration": "P00H07M36S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-26"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "You and Yourself",
+                "duration": "P00H14M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-47"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Therian",
+                "duration": "P00H13M05S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-28"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Night Colors",
+                "duration": "P00H10M24S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-60"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a0478465171_10.jpg",
+    "datePublished": "06 Oct 2017 19:55:57 GMT",
+    "description": "Recorded on October 5th, 2017 at The Austin, Texas during the Shapeshiftour 2017",
+    "duration": "P01H25M34S"
+}

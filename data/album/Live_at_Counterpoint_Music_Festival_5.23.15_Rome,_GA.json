@@ -1,0 +1,100 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/live-at-counterpoint-music-festival-52315-rome-ga",
+    "name": "Live at Counterpoint Music Festival |5.23.15| Rome, GA",
+    "dateModified": "08 Jun 2015 16:07:37 GMT",
+    "numTracks": 11,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Polygons",
+                "duration": "P00H05M25S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-27"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H17M37S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-57"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "If It Wasn't For Your",
+                "duration": "P00H07M57S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-your"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "All I Knew",
+                "duration": "P00H07M10S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-50"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H15M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-51"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H10M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-45"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Oracle Theme",
+                "duration": "P00H12M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-21"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Garden",
+                "duration": "P00H11M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-47"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Method of Control",
+                "duration": "P00H07M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-43"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Polygons",
+                "duration": "P00H18M51S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-28"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Holy Heck",
+                "duration": "P00H06M20S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-22"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a4136030332_10.jpg",
+    "datePublished": "08 Jun 2015 16:07:37 GMT",
+    "description": "Live from Counterpoint Music Festival - May 23th, 2015 All music, written, performed & recorded by Papadosio. © all rights reserved 2015.",
+    "duration": "P01H59M35S"
+}

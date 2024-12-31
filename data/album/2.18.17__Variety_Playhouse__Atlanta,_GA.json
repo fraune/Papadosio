@@ -1,0 +1,108 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/21817-variety-playhouse-atlanta-ga",
+    "name": "2.18.17 | Variety Playhouse | Atlanta, GA",
+    "dateModified": "20 Feb 2020 21:30:23 GMT",
+    "numTracks": 12,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H05M06S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-41"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H17M10S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-94"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Mr. Turtles Cloud Kingdom",
+                "duration": "P00H05M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-19"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "The Wrong Nostalgia",
+                "duration": "P00H04M16S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-32"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Drift",
+                "duration": "P00H06M18S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-15"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Puddles for Oceans 1/2",
+                "duration": "P00H10M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-1-2"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Euclidean Lights",
+                "duration": "P00H07M55S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-19"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Puddles for Oceans 2/2",
+                "duration": "P00H07M57S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-2-2"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H13M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-78"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Oracle Theme",
+                "duration": "P00H06M22S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-27"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "PhDeez",
+                "duration": "P00H06M13S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/phdeez-8"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Unparalyzer",
+                "duration": "P00H16M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-74"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a1011219321_10.jpg",
+    "datePublished": "01 Mar 2017 00:00:00 GMT",
+    "description": "Recorded on February 18th 2017 at The Variety Playhouse in Atlanta, GA. \r\n\r\nPattern Integrities Spring Tour 2017 \r\n\r\nAll material was written and recorded by Papadosio.\r\ncredits",
+    "duration": "P01H47M36S"
+}

@@ -1,0 +1,108 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/62819-cosmic-charlies-lexington-ky",
+    "name": "6.28.19 | Cosmic Charlies | Lexington, KY",
+    "dateModified": "23 Jul 2019 14:10:04 GMT",
+    "numTracks": 12,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "The Lack of Everything",
+                "duration": "P00H14M33S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-39"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H17M33S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-139"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Oblivion",
+                "duration": "P00H10M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-39"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Fuse",
+                "duration": "P00H05M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-59"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Now That You Know",
+                "duration": "P00H07M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-40"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Fuse",
+                "duration": "P00H03M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-60"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Distress Signal",
+                "duration": "P00H09M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-26"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Polygons",
+                "duration": "P00H12M51S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-54"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "TV Song",
+                "duration": "P00H03M58S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/tv-song-26"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Fire Rite",
+                "duration": "P00H07M24S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-28"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Improv",
+                "duration": "P00H11M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improv-13"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H08M39S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-124"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a2717164665_10.jpg",
+    "datePublished": "23 Jul 2019 00:00:00 GMT",
+    "description": "This album was recorded on June 28th, 2019 at the new and improved Cosmic Charlies in Lexington, KY. thanks to everybody who came out to the show and thanks to John Dose for opening up the night for us!",
+    "duration": "P01H52M42S"
+}

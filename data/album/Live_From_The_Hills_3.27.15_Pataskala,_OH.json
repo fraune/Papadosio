@@ -1,0 +1,100 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/live-from-the-hills-32715-pataskala-oh",
+    "name": "Live From The Hills |3.27.15| Pataskala, OH",
+    "dateModified": "13 Apr 2015 19:52:58 GMT",
+    "numTracks": 11,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Improbability Blotter",
+                "duration": "P00H09M39S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-31"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Smile and Nod",
+                "duration": "P00H13M05S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-33"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "By The Light of The Stars",
+                "duration": "P00H12M21S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-25"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Oracle Theme",
+                "duration": "P00H10M42S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-18"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Stick Figure",
+                "duration": "P00H08M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-18"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Method of Control",
+                "duration": "P00H09M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-39"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "You and Yourself",
+                "duration": "P00H10M04S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-24"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Cloud Found",
+                "duration": "P00H09M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-44"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Polygons 1/2",
+                "duration": "P00H04M51S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-1-2"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "The Eyes Have Eyes",
+                "duration": "P00H14M31S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-22"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Advocate of Change",
+                "duration": "P00H14M41S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-33"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a4034873764_10.jpg",
+    "datePublished": "13 Apr 2015 19:52:58 GMT",
+    "description": "Live from the Hills of Pataskala, OH on March 27th 2015",
+    "duration": "P01H57M42S"
+}

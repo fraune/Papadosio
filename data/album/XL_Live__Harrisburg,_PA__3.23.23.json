@@ -1,0 +1,100 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/xl-live-harrisburg-pa-32323",
+    "name": "XL Live | Harrisburg, PA | 3.23.23",
+    "dateModified": "11 Apr 2023 18:45:21 GMT",
+    "numTracks": 11,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Psypoly",
+                "duration": "P00H03M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/psypoly-8"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Geoglyph",
+                "duration": "P00H08M12S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-95"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "All I Knew",
+                "duration": "P00H07M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-117"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Reishi",
+                "duration": "P00H07M39S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/reishi-16"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Bypass Default",
+                "duration": "P00H12M23S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-51"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "You're A Catman",
+                "duration": "P00H09M37S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-8"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Not Just A Word",
+                "duration": "P00H06M03S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-13"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Cloud Found",
+                "duration": "P00H09M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-119"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "By The Light Of The Stars",
+                "duration": "P00H13M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-84"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Holy Heck",
+                "duration": "P00H09M02S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-57"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Paradigm Shift",
+                "duration": "P00H17M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-121"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a3369745641_10.jpg",
+    "datePublished": "11 Apr 2023 18:45:22 GMT",
+    "description": "Great time as always Harrisburg! Thanks so much for welcoming us back again!",
+    "duration": "P01H43M56S"
+}

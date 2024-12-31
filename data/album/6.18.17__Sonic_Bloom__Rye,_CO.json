@@ -1,0 +1,68 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/61817-sonic-bloom-rye-co",
+    "name": "6.18.17 | Sonic Bloom | Rye, CO",
+    "dateModified": "09 Jul 2017 15:15:36 GMT",
+    "numTracks": 7,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "We are Water",
+                "duration": "P00H15M43S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-100"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H13M47S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-100"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Mr. Turtles Cloud Kingdom",
+                "duration": "P00H07M50S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-27"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Magreenery",
+                "duration": "P00H17M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-41"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Method of Control",
+                "duration": "P00H12M12S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-71"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H09M43S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-93"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Polygons",
+                "duration": "P00H12M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-42"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a2154131610_10.jpg",
+    "datePublished": "09 Jul 2017 15:15:36 GMT",
+    "description": "All material was written and recorded by Papadosio at theSonic Bloom Festival on June 18th 2017 at Hummingbird Ranch, CO.",
+    "duration": "P01H29M09S"
+}

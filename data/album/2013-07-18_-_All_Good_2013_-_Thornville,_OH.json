@@ -1,0 +1,68 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/2013-07-18-all-good-2013-thornville-oh",
+    "name": "2013-07-18 - All Good 2013 - Thornville, OH",
+    "dateModified": "04 Feb 2014 06:43:56 GMT",
+    "numTracks": 7,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H09M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-5"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Cloud Found",
+                "duration": "P00H09M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-4"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H07M07S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-12"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Holy Heck",
+                "duration": "P00H05M36S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-4"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Taking Turns",
+                "duration": "P00H10M04S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-3"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Paradigm Shift",
+                "duration": "P00H14M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-8"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "The Eyes Have Eyes",
+                "duration": "P00H04M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-2"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a3045836225_10.jpg",
+    "datePublished": "23 Jul 2013 00:00:00 GMT",
+    "description": "Papadosio Live at All Good 2013\r\nDragon Stage - Thornville, OH \r\n\r\n1. New Love\r\n2. Cloud Found\r\n3. We Are Water\r\n4. Holy Heck\r\n5. Taking Turns\r\n6. Paradigm Shift\r\n7. The Eyes Have Eyes",
+    "duration": "P01H02M11S"
+}

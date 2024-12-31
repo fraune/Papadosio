@@ -1,0 +1,52 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/biscoland-wonderland-forest-lafayette-ny-10623",
+    "name": "Biscoland | Wonderland Forest, Lafayette, NY | 10.6.23",
+    "dateModified": "10 Oct 2023 18:42:23 GMT",
+    "numTracks": 5,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H15M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-163"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H13M42S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-172"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "You're A Catman",
+                "duration": "P00H11M24S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-20"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H09M58S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-171"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H08M56S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-184"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a0704282479_10.jpg",
+    "datePublished": "10 Oct 2023 18:42:11 GMT",
+    "description": "Thanks so much for having us Biscoland!",
+    "duration": "P00H59M28S"
+}

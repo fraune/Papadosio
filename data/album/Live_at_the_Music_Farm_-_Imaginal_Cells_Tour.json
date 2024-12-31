@@ -1,0 +1,108 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/live-at-the-music-farm-imaginal-cells-tour",
+    "name": "Live at the Music Farm - Imaginal Cells Tour",
+    "dateModified": "13 Nov 2014 15:32:26 GMT",
+    "numTracks": 12,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Frequence",
+                "duration": "P00H12M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-11"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Cloud Found",
+                "duration": "P00H09M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-39"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "By the Light of the Stars>",
+                "duration": "P00H14M09S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-21"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "We Choose",
+                "duration": "P00H06M41S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-19"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H17M23S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-48"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Taking Turns",
+                "duration": "P00H09M11S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-33"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Stick Figure",
+                "duration": "P00H07M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-15"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H08M00S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-38"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "The Plug",
+                "duration": "P00H14M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-22"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Night Colors",
+                "duration": "P00H14M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-28"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "PHdeez",
+                "duration": "P00H06M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/phdeez-4"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "New Love",
+                "duration": "P00H10M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-53"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a1673824978_10.jpg",
+    "datePublished": "13 Nov 2014 15:13:47 GMT",
+    "description": null,
+    "duration": "P02H10M22S"
+}

@@ -1,0 +1,116 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/live-at-the-orange-peel-imaginal-cells-halloween",
+    "name": "Live at The Orange Peel - Imaginal Cells Halloween",
+    "dateModified": "05 Nov 2014 17:13:37 GMT",
+    "numTracks": 13,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H06M53S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-34"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "You and Yourself",
+                "duration": "P00H09M36S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-21"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "All I Knew",
+                "duration": "P00H07M07S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-42"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Space Oddity (David Bowie)",
+                "duration": "P00H04M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/space-oddity-david-bowie"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Moonage Daydream (David Bowie)",
+                "duration": "P00H05M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/moonage-daydream-david-bowie"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "In the Meantime (Spacehog)",
+                "duration": "P00H05M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/in-the-meantime-spacehog"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "The Elephant I Presume",
+                "duration": "P00H07M39S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-11"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Snorkle* (w/ Alfonso Graceffo of ATF)",
+                "duration": "P00H17M53S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-w-alfonso-graceffo-of-atf"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "We Are Water",
+                "duration": "P00H06M40S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-51"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Unparalyzer",
+                "duration": "P00H17M55S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-39"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "TV Song",
+                "duration": "P00H04M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/tv-song-18"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Direction>",
+                "duration": "P00H07M03S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-15"
+            }
+        },
+        {
+            "position": 13,
+            "item": {
+                "name": "Method of Control",
+                "duration": "P00H08M05S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-30"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a3341579197_10.jpg",
+    "datePublished": "05 Nov 2014 17:11:06 GMT",
+    "description": "Live at the Orange Peel - Imaginal Cells Halloween\r\n10.31.14 - Asheville, NC\r\n*featuring Alfonso Graceffo on guitar (Asian Teacher Factory)",
+    "duration": "P01H48M19S"
+}

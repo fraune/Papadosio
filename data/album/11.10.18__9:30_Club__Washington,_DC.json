@@ -1,0 +1,108 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/111018-9-30-club-washington-dc",
+    "name": "11.10.18 | 9:30 Club | Washington, DC",
+    "dateModified": "13 Dec 2018 16:45:01 GMT",
+    "numTracks": 12,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Write Sing Play Mix",
+                "duration": "P00H05M45S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-12"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "The Lack of Everything",
+                "duration": "P00H06M31S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-35"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H15M37S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-130"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Hippie Babysitter",
+                "duration": "P00H14M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-63"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Find Your Cloud",
+                "duration": "P00H03M03S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-129"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Taking Turns",
+                "duration": "P00H11M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-56"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Pool of Stars",
+                "duration": "P00H05M28S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-15"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Fuse",
+                "duration": "P00H08M09S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-56"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Method of Control",
+                "duration": "P00H07M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-94"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "You & Yourself",
+                "duration": "P00H17M10S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-yourself-2"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Content Coma",
+                "duration": "P00H08M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/content-coma-14"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Fire Rite",
+                "duration": "P00H06M25S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-13"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a3503102100_10.jpg",
+    "datePublished": "13 Dec 2018 16:45:01 GMT",
+    "description": "This album was recorded on November 10th, 2018 on the Content Coma Fall Tour! Thanks to everybody who came out in DC to show some love & thanks to LITZ for getting the night opened up for us. Thank you all for your patience as these soundboards roll out, some of these files are on tour with Jimmy Buffets backing band at the moment and will be back soon. Thank you all for your patience & support!",
+    "duration": "P01H50M11S"
+}

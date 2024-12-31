@@ -1,0 +1,76 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/91721-resonance-festival-masontown-wv",
+    "name": "9.17.21 | Resonance Festival | Masontown, WV",
+    "dateModified": "23 Sep 2021 16:48:01 GMT",
+    "numTracks": 8,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Robot Rock",
+                "duration": "P00H21M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/robot-rock"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Around The World",
+                "duration": "P00H11M16S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/around-the-world"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Make Love",
+                "duration": "P00H10M57S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/make-love"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Doin it Right",
+                "duration": "P00H06M38S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/doin-it-right"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Harder, Better, Faster, Stronger",
+                "duration": "P00H09M07S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/harder-better-faster-stronger"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "One More Time",
+                "duration": "P00H11M49S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/one-more-time"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Digital Love",
+                "duration": "P00H05M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/digital-love"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Human After All",
+                "duration": "P00H13M22S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/human-after-all"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a1966298717_10.jpg",
+    "datePublished": "23 Sep 2021 16:48:02 GMT",
+    "description": "This set was recorded on September 17th, 2021 in Masontown, WV at Resonance Festival. Thanks to everybody who came out to celebrate with us! Shout out to Essential Productions for throwing this awesome event. See you next year!",
+    "duration": "P01H29M45S"
+}

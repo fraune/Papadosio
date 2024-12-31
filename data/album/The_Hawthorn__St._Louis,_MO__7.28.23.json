@@ -1,0 +1,92 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/the-hawthorn-st-louis-mo-72823",
+    "name": "The Hawthorn | St. Louis, MO | 7.28.23",
+    "dateModified": "03 Aug 2023 21:57:20 GMT",
+    "numTracks": 10,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Catalyst",
+                "duration": "P00H12M25S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-35"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Not Just A Word",
+                "duration": "P00H12M04S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-23"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Zoom Out",
+                "duration": "P00H07M37S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/zoom-out-17"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Utopiate",
+                "duration": "P00H15M44S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-100"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Boss Battle",
+                "duration": "P00H03M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/boss-battle-3"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Everyone Is Cool",
+                "duration": "P00H07M58S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/everyone-is-cool-3"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Polygons",
+                "duration": "P00H16M08S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-73"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Cordyceps",
+                "duration": "P00H10M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cordyceps-21"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Vactrollio",
+                "duration": "P00H09M17S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-92"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "The Eyes Have Eyes",
+                "duration": "P00H08M24S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-97"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a3706999049_10.jpg",
+    "datePublished": "03 Aug 2023 21:57:20 GMT",
+    "description": "Thanks so much for your hospitality St. Louis! It was so great to see you all again, be back soon!!",
+    "duration": "P01H43M41S"
+}

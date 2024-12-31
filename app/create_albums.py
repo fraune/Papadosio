@@ -25,11 +25,9 @@ def create_albums_json(directory, output_file):
     
     print(f"Successfully created {output_file} with {len(albums_data)} albums.")
 
-def main():
+
+if __name__ == "__main__":
     """Main function to create the combined albums JSON."""
     album_directory = "data/album"
     output_json = "data/albums.json"
     create_albums_json(album_directory, output_json)
-
-if __name__ == "__main__":
-    main()

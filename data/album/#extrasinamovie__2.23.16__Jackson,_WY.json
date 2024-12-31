@@ -1,0 +1,100 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/extrasinamovie-22316-jackson-wy",
+    "name": "#extrasinamovie | 2.23.16 | Jackson, WY",
+    "dateModified": "05 Apr 2016 10:01:22 GMT",
+    "numTracks": 11,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H09M58S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-73"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Now That You Know",
+                "duration": "P00H08M53S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-25"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Out of Hiding",
+                "duration": "P00H13M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-20"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "The Wrong Nostalgia",
+                "duration": "P00H04M52S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-16"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H21M32S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-71"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "2AM",
+                "duration": "P00H06M10S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-30"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Utopiate",
+                "duration": "P00H15M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-46"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Fuse",
+                "duration": "P00H11M58S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-42"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Direction Song",
+                "duration": "P00H13M36S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-39"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "Crowd Banter",
+                "duration": "P00H02M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/crowd-banter-9"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "Improbability Blotter",
+                "duration": "P00H12M34S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-45"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a2465463309_10.jpg",
+    "datePublished": "24 Mar 2016 00:00:00 GMT",
+    "description": "'Extras in a Movie' Tour Act II - Live at the The Pink Garter\r\nAll music written, recorded, and performed by Papadosio.\r\n© All Rights Reserved 2016.",
+    "duration": "P02H01M34S"
+}

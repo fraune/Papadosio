@@ -1,0 +1,92 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/42817-resonance-reconstructed-covington-ky",
+    "name": "4.28.17 | Resonance Reconstructed | Covington, KY",
+    "dateModified": "16 May 2017 20:19:28 GMT",
+    "numTracks": 10,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Curve",
+                "duration": "P00H25M41S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-48"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Mr Turtles Cloud Kingdom",
+                "duration": "P00H11M06S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-26"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Each and Every Wave",
+                "duration": "P00H05M35S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-23"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Direction Song",
+                "duration": "P00H10M30S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-50"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Vactrollio",
+                "duration": "P00H12M56S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-27"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Ear to Ear",
+                "duration": "P00H06M10S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-23"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Cloud Found",
+                "duration": "P00H09M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-77"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H07M53S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-84"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Garden",
+                "duration": "P00H10M51S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-75"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "2AM",
+                "duration": "P00H06M03S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-48"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a0654020759_10.jpg",
+    "datePublished": "16 May 2017 00:00:00 GMT",
+    "description": "Recorded on April 28th, 2017 at The Madison Theatre in Covington, KY.\r\n\r\nResonance Reconstructed 2017 \r\n\r\nAll material was written and recorded by Papadosio",
+    "duration": "P01H46M04S"
+}

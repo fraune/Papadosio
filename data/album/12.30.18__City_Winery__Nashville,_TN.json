@@ -1,0 +1,60 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/123018-city-winery-nashville-tn",
+    "name": "12.30.18 | City Winery | Nashville, TN",
+    "dateModified": "17 Jan 2019 15:16:32 GMT",
+    "numTracks": 6,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Smile and Nod",
+                "duration": "P00H09M43S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-73"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "If It Wasn't For You",
+                "duration": "P00H04M23S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-51"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Write Sing Play Mix",
+                "duration": "P00H07M18S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-15"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Fanfare for the Rain People",
+                "duration": "P00H17M11S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-14"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Fire Rite",
+                "duration": "P00H06M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-15"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Magreenery",
+                "duration": "P00H39M01S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-58"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a0031781583_10.jpg",
+    "datePublished": "16 Jan 2019 00:00:00 GMT",
+    "description": "This set was recorded at the City Winery in Nashville, TN during our NYE 2018 run. This set is all acoustic with no computers. Thanks to everybody who came out to enjoy this special evening with us.",
+    "duration": "P01H24M35S"
+}

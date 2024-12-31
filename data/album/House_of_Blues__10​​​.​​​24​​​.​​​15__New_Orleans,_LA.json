@@ -1,0 +1,84 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/house-of-blues-10-24-15-new-orleans-la",
+    "name": "House of Blues | 10​​​.​​​24​​​.​​​15 | New Orleans, LA",
+    "dateModified": "10 Nov 2015 18:49:31 GMT",
+    "numTracks": 9,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Intro",
+                "duration": "P00H00M54S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-13"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Garden",
+                "duration": "P00H09M24S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-54"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "We Can Always Come Back",
+                "duration": "P00H14M07S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-6"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Epiphany",
+                "duration": "P00H07M21S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-13"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Ritual",
+                "duration": "P00H09M48S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-6"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Smile n Nod",
+                "duration": "P00H18M25S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-n-nod-4"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "By The Light of The Stars",
+                "duration": "P00H09M05S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-33"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H16M27S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-51"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "2AM",
+                "duration": "P00H26M00S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-10"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a4229517893_10.jpg",
+    "datePublished": "10 Nov 2015 18:49:31 GMT",
+    "description": "House of Blues | 10​​​.​​​24​​​.​​​15 | New Orleans, LA\r\n\r\nAll music written, recorded and performed by Papadosio. © All Rights Reserved 2015. #extrasinamovie #act1",
+    "duration": "P01H51M31S"
+}

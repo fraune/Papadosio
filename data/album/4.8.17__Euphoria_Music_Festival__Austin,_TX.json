@@ -1,0 +1,84 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/4817-euphoria-music-festival-austin-tx",
+    "name": "4.8.17 | Euphoria Music Festival | Austin, TX",
+    "dateModified": "13 Apr 2017 20:46:10 GMT",
+    "numTracks": 9,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Cue",
+                "duration": "P00H09M26S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-91"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "Vactrollio",
+                "duration": "P00H08M21S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-24"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "Euclidean Lights",
+                "duration": "P00H08M41S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-25"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "The Bionic Man Meets His Past",
+                "duration": "P00H15M34S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-82"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Monochrome",
+                "duration": "P00H10M12S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-50"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Mr. Turtles Cloud Kingdom",
+                "duration": "P00H05M23S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-24"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Now That You Know",
+                "duration": "P00H16M39S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-29"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "All I Knew",
+                "duration": "P00H07M27S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-76"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "The Eyes Have Eyes",
+                "duration": "P00H05M21S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-47"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a2784894393_10.jpg",
+    "datePublished": "13 Apr 2017 20:46:10 GMT",
+    "description": "Recorded on April 8th, 2017 at Euphoria Music Festival 2017 on the Dragonfly stage, \r\n\r\nPattern Integrities Spring Tour 2017 \r\n\r\nAll material was written and recorded by Papadosio",
+    "duration": "P01H27M04S"
+}

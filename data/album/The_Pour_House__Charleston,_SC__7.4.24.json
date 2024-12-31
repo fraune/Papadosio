@@ -1,0 +1,140 @@
+{
+    "@id": "https://papadosio.bandcamp.com/album/the-pour-house-charleston-sc-7424",
+    "name": "The Pour House | Charleston, SC | 7.4.24",
+    "dateModified": "10 Jul 2024 14:33:48 GMT",
+    "numTracks": 16,
+    "track": [
+        {
+            "position": 1,
+            "item": {
+                "name": "Lion's Mane",
+                "duration": "P00H09M14S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-48"
+            }
+        },
+        {
+            "position": 2,
+            "item": {
+                "name": "The National Anthem*",
+                "duration": "P00H04M29S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-national-anthem-3"
+            }
+        },
+        {
+            "position": 3,
+            "item": {
+                "name": "How Not To Float",
+                "duration": "P00H09M59S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-73"
+            }
+        },
+        {
+            "position": 4,
+            "item": {
+                "name": "Method Of Control",
+                "duration": "P00H17M53S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-135"
+            }
+        },
+        {
+            "position": 5,
+            "item": {
+                "name": "Out Of Hiding",
+                "duration": "P00H14M56S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-65"
+            }
+        },
+        {
+            "position": 6,
+            "item": {
+                "name": "Fossilize",
+                "duration": "P00H10M39S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fossilize-13"
+            }
+        },
+        {
+            "position": 7,
+            "item": {
+                "name": "Spinning",
+                "duration": "P00H04M05S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/spinning-12"
+            }
+        },
+        {
+            "position": 8,
+            "item": {
+                "name": "Snorkle",
+                "duration": "P00H11M34S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-176"
+            }
+        },
+        {
+            "position": 9,
+            "item": {
+                "name": "Xanadu",
+                "duration": "P00H08M46S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/xanadu-22"
+            }
+        },
+        {
+            "position": 10,
+            "item": {
+                "name": "If It Wasn't For You",
+                "duration": "P00H06M57S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-61"
+            }
+        },
+        {
+            "position": 11,
+            "item": {
+                "name": "You And Your Self",
+                "duration": "P00H12M53S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-your-self"
+            }
+        },
+        {
+            "position": 12,
+            "item": {
+                "name": "Vactrollio",
+                "duration": "P00H11M39S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-98"
+            }
+        },
+        {
+            "position": 13,
+            "item": {
+                "name": "The End Of The World",
+                "duration": "P00H04M56S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-end-of-the-world-17"
+            }
+        },
+        {
+            "position": 14,
+            "item": {
+                "name": "We Are Water ft. Moonkat",
+                "duration": "P00H11M36S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-ft-moonkat"
+            }
+        },
+        {
+            "position": 15,
+            "item": {
+                "name": "Omnifreeze",
+                "duration": "P00H06M58S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-48"
+            }
+        },
+        {
+            "position": 16,
+            "item": {
+                "name": "Curvature",
+                "duration": "P00H07M19S",
+                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curvature-6"
+            }
+        }
+    ],
+    "image": "https://f4.bcbits.com/img/a0151171391_10.jpg",
+    "datePublished": "10 Jul 2024 14:33:48 GMT",
+    "description": "Murica. Thanks Charleston, we love you!",
+    "duration": "P02H33M53S"
+}
