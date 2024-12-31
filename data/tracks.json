@@ -815,6 +815,13 @@
         "count": 14,
         "alternatives": []
     },
+    "phdeez": {
+        "count": 14,
+        "alternatives": [
+            "ph deez",
+            "ph deez>"
+        ]
+    },
     "chaga": {
         "count": 13,
         "alternatives": []
@@ -847,10 +854,6 @@
         ]
     },
     "reishi": {
-        "count": 10,
-        "alternatives": []
-    },
-    "phdeez": {
         "count": 10,
         "alternatives": []
     },
@@ -911,10 +914,6 @@
         "alternatives": []
     },
     "banter": {
-        "count": 3,
-        "alternatives": []
-    },
-    "ph deez": {
         "count": 3,
         "alternatives": []
     },
@@ -1845,10 +1844,6 @@
         "alternatives": []
     },
     "dayvan cowboy (boards of canada)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "ph deez>": {
         "count": 1,
         "alternatives": []
     },
