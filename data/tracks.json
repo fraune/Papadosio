@@ -345,6 +345,15 @@
             "the sum (night 2)"
         ]
     },
+    "mr. turtles cloud kingdom": {
+        "count": 72,
+        "alternatives": [
+            "mr turtles cloud kingdom",
+            "mr. turtle's cloud kingdom",
+            "mr. turtles cloud kingdom - (aligning minds remix)",
+            "mr. turtle's cloud kingdom (acoustic)"
+        ]
+    },
     "you and yourself": {
         "count": 71,
         "alternatives": [
@@ -499,10 +508,6 @@
         "alternatives": [
             "cubensis -- we are water (end)"
         ]
-    },
-    "mr. turtles cloud kingdom": {
-        "count": 45,
-        "alternatives": []
     },
     "versicolor": {
         "count": 44,
@@ -672,10 +677,6 @@
         "count": 18,
         "alternatives": []
     },
-    "mr. turtle's cloud kingdom": {
-        "count": 17,
-        "alternatives": []
-    },
     "the end of the world": {
         "count": 17,
         "alternatives": []
@@ -774,10 +775,6 @@
         "alternatives": []
     },
     "psypoly": {
-        "count": 8,
-        "alternatives": []
-    },
-    "mr turtles cloud kingdom": {
         "count": 8,
         "alternatives": []
     },
@@ -1215,10 +1212,6 @@
         "count": 1,
         "alternatives": []
     },
-    "mr. turtles cloud kingdom - (aligning minds remix)": {
-        "count": 1,
-        "alternatives": []
-    },
     "omnifreeze - (living light remix)": {
         "count": 1,
         "alternatives": []
@@ -1416,10 +1409,6 @@
         "alternatives": []
     },
     "rainbow connection*": {
-        "count": 1,
-        "alternatives": []
-    },
-    "mr. turtle's cloud kingdom (acoustic)": {
         "count": 1,
         "alternatives": []
     },
