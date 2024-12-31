@@ -289,6 +289,16 @@
             "monochrome (acoustic)"
         ]
     },
+    "polygons": {
+        "count": 81,
+        "alternatives": [
+            "polygons 1/2",
+            "polygons 2/2",
+            "polygons>",
+            "polygons (2.16.13)",
+            "polygone"
+        ]
+    },
     "dream estate": {
         "count": 79,
         "alternatives": [
@@ -334,10 +344,6 @@
             "you and yourself (5.4.13)",
             "you and yourself -> cordyceps"
         ]
-    },
-    "polygons": {
-        "count": 70,
-        "alternatives": []
     },
     "the sum": {
         "count": 69,
@@ -787,14 +793,6 @@
         "count": 4,
         "alternatives": []
     },
-    "polygons 1/2": {
-        "count": 4,
-        "alternatives": []
-    },
-    "polygons 2/2": {
-        "count": 4,
-        "alternatives": []
-    },
     "psipoly": {
         "count": 4,
         "alternatives": []
@@ -1241,10 +1239,6 @@
         "count": 1,
         "alternatives": []
     },
-    "polygons>": {
-        "count": 1,
-        "alternatives": []
-    },
     "dayvan cowboy* (boards of canada)": {
         "count": 1,
         "alternatives": []
@@ -1334,10 +1328,6 @@
         "alternatives": []
     },
     "132 jam": {
-        "count": 1,
-        "alternatives": []
-    },
-    "polygone": {
         "count": 1,
         "alternatives": []
     },
@@ -1534,10 +1524,6 @@
         "alternatives": []
     },
     "madre says": {
-        "count": 1,
-        "alternatives": []
-    },
-    "polygons (2.16.13)": {
         "count": 1,
         "alternatives": []
     },
