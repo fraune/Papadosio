@@ -85,10 +85,6 @@
         "count": 75,
         "alternatives": []
     },
-    "snorkle ft. a.c. carter": {
-        "count": 1,
-        "alternatives": []
-    },
     "you're a catman": {
         "count": 22,
         "alternatives": []
@@ -232,8 +228,15 @@
         "alternatives": []
     },
     "snorkle": {
-        "count": 149,
-        "alternatives": []
+        "count": 155,
+        "alternatives": [
+            "snorkle (5.3.13)",
+            "snorkle* (w/ alfonso graceffo of atf)",
+            "snorkle ft. a.c. carter",
+            "snorkle (w/ dan cox)",
+            "snorkle (reprise)",
+            "snorkle (night 2)"
+        ]
     },
     "oracle theme": {
         "count": 42,
@@ -496,10 +499,6 @@
     },
     "the elephant i presume": {
         "count": 21,
-        "alternatives": []
-    },
-    "snorkle* (w/ alfonso graceffo of atf)": {
-        "count": 1,
         "alternatives": []
     },
     "tv song": {
@@ -1602,10 +1601,6 @@
         "count": 1,
         "alternatives": []
     },
-    "snorkle (night 2)": {
-        "count": 1,
-        "alternatives": []
-    },
     "crowd banter (night 2)": {
         "count": 1,
         "alternatives": []
@@ -1872,10 +1867,6 @@
     },
     "if it was'nt for you": {
         "count": 2,
-        "alternatives": []
-    },
-    "snorkle (reprise)": {
-        "count": 1,
         "alternatives": []
     },
     "curve jam": {
@@ -2610,10 +2601,6 @@
         "count": 1,
         "alternatives": []
     },
-    "snorkle (w/ dan cox)": {
-        "count": 1,
-        "alternatives": []
-    },
     "do joy jam": {
         "count": 1,
         "alternatives": []
@@ -2883,10 +2870,6 @@
         "alternatives": []
     },
     "paradigm shift (5.3.13)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "snorkle (5.3.13)": {
         "count": 1,
         "alternatives": []
     }
