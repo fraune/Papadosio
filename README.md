@@ -44,17 +44,21 @@ Delete the raw and data folders to start from scratch
 
 ### Parse the music HTML file to pull out the album data
 
+You can delete `data/music.json`, then run this. It's very quick to complete.
+
 ```
 python app/parse_music.py
 ```
 
 ### Download raw album data
-```
 
 ```
+python app/download_albums.py
+```
 
-### Parse Album JSON
+### Process albums to create individual album JSON files
 
 ```
 python app/process_albums.py
 ```
+

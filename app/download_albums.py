@@ -24,7 +24,8 @@ async def download_albums(data_path: str):
         for index, album in enumerate(albums):
             page_url = album["page_url"]
             title = album["title"]
-            tasks.append(fetch_album_page(session, page_url, title, delay=index))
+            delay = index # (index * 0.9) is too fast
+            tasks.append(fetch_album_page(session, page_url, title, delay=delay))
         
         # Use tqdm for progress tracking
         results = [await f for f in tqdm(asyncio.as_completed(tasks), total=len(tasks), desc="Downloading Albums")]
@@ -58,6 +59,8 @@ async def fetch_album_page(session: ClientSession, page_url: str, album_title: s
     """Fetch the album page and save it as an HTML file, with a delay before starting."""
     
     absolute_url = f"{BASE_URL}{page_url}"
+    file_name = f"{album_title.replace(' ', '_').replace('|', '').replace('/', '-')}.html"
+    output_path = os.path.join(OUTPUT_DIR, file_name)
 
     await asyncio.sleep(delay)  # Staggered start
 
