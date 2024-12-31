@@ -277,6 +277,14 @@
             "monochrome (acoustic)"
         ]
     },
+    "dream estate": {
+        "count": 79,
+        "alternatives": [
+            "dream estate>",
+            "dream estate >",
+            "dream estate*"
+        ]
+    },
     "curve": {
         "count": 76,
         "alternatives": [
@@ -298,10 +306,6 @@
             "the plug 1/2",
             "the plug 2/2"
         ]
-    },
-    "dream estate": {
-        "count": 75,
-        "alternatives": []
     },
     "puddles for oceans": {
         "count": 75,
@@ -848,10 +852,6 @@
         "count": 2,
         "alternatives": []
     },
-    "dream estate>": {
-        "count": 2,
-        "alternatives": []
-    },
     "last living souls": {
         "count": 2,
         "alternatives": []
@@ -1381,10 +1381,6 @@
         "alternatives": []
     },
     "method": {
-        "count": 1,
-        "alternatives": []
-    },
-    "dream estate >": {
         "count": 1,
         "alternatives": []
     },
@@ -2317,10 +2313,6 @@
         "alternatives": []
     },
     "do the muddy waka (improv)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "dream estate*": {
         "count": 1,
         "alternatives": []
     },
