@@ -542,8 +542,10 @@
         "alternatives": []
     },
     "moon entendre": {
-        "count": 16,
-        "alternatives": []
+        "count": 17,
+        "alternatives": [
+            "gazing the great oscillator > moon entendr\u00e9"
+        ]
     },
     "planting the seeds of life": {
         "count": 16,
@@ -553,11 +555,14 @@
             "planting the seeds of life (2.17.13)"
         ]
     },
-    "the state of things": {
-        "count": 15,
-        "alternatives": []
-    },
     "gazing the great oscillator": {
+        "count": 16,
+        "alternatives": [
+            "gazing the great oscilattor",
+            "gazing the great oscillator > moon entendr\u00e9"
+        ]
+    },
+    "the state of things": {
         "count": 15,
         "alternatives": []
     },
@@ -2601,10 +2606,6 @@
         "count": 1,
         "alternatives": []
     },
-    "gazing the great oscillator > moon entendr\u00e9": {
-        "count": 1,
-        "alternatives": []
-    },
     "don't drink the healy-aid": {
         "count": 1,
         "alternatives": []
@@ -2658,10 +2659,6 @@
         "alternatives": []
     },
     "rob's horse": {
-        "count": 1,
-        "alternatives": []
-    },
-    "gazing the great oscilattor": {
         "count": 1,
         "alternatives": []
     },
