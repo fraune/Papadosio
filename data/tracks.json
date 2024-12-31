@@ -24,7 +24,7 @@
         ]
     },
     "fuse": {
-        "count": 54,
+        "count": 57,
         "alternatives": [
             "fuse (5.4.13)",
             "fuse (2.17.13)",
@@ -131,8 +131,10 @@
         "alternatives": []
     },
     "taking turns": {
-        "count": 51,
-        "alternatives": []
+        "count": 52,
+        "alternatives": [
+            "taking turns (5.4.13)"
+        ]
     },
     "stick figure": {
         "count": 61,
@@ -2910,10 +2912,6 @@
         "alternatives": []
     },
     "how not to float (5.4.13)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "taking turns (5.4.13)": {
         "count": 1,
         "alternatives": []
     }
