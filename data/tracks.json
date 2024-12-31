@@ -213,16 +213,22 @@
             "bippie babysitter"
         ]
     },
+    "vactrollio": {
+        "count": 97,
+        "alternatives": [
+            "vactrollio - (earthcry remix)",
+            "vactrollio - (erothyme remix)",
+            "vactrolio",
+            "vactorillio",
+            "vactollio"
+        ]
+    },
     "geoglyph": {
         "count": 95,
         "alternatives": [
             "geoglyph> if it wasn't for you",
             "geoglyph>"
         ]
-    },
-    "vactrollio": {
-        "count": 89,
-        "alternatives": []
     },
     "utopiate": {
         "count": 86,
@@ -759,10 +765,6 @@
         "count": 4,
         "alternatives": []
     },
-    "vactrolio": {
-        "count": 4,
-        "alternatives": []
-    },
     "lack of everything": {
         "count": 4,
         "alternatives": []
@@ -1233,10 +1235,6 @@
         "count": 1,
         "alternatives": []
     },
-    "vactrollio - (earthcry remix)": {
-        "count": 1,
-        "alternatives": []
-    },
     "threes - scott hannay (mister f 8 bit remix)": {
         "count": 1,
         "alternatives": []
@@ -1246,10 +1244,6 @@
         "alternatives": []
     },
     "omnifreeze - (futexture's carefully ambivalent detailing)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "vactrollio - (erothyme remix)": {
         "count": 1,
         "alternatives": []
     },
@@ -1785,10 +1779,6 @@
         "count": 1,
         "alternatives": []
     },
-    "vactorillio": {
-        "count": 1,
-        "alternatives": []
-    },
     "remind me (r\u00f6yksopp)": {
         "count": 1,
         "alternatives": []
@@ -1826,10 +1816,6 @@
         "alternatives": []
     },
     "animal*": {
-        "count": 1,
-        "alternatives": []
-    },
-    "vactollio": {
         "count": 1,
         "alternatives": []
     },
