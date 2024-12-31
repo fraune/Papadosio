@@ -707,11 +707,13 @@
             "xanadu*"
         ]
     },
-    "crowd banter": {
-        "count": 22,
-        "alternatives": []
-    },
     "giving you up": {
+        "count": 23,
+        "alternatives": [
+            "giving you up >"
+        ]
+    },
+    "crowd banter": {
         "count": 22,
         "alternatives": []
     },
@@ -1149,10 +1151,6 @@
         "alternatives": []
     },
     "elephant i presume": {
-        "count": 1,
-        "alternatives": []
-    },
-    "giving you up >": {
         "count": 1,
         "alternatives": []
     },
