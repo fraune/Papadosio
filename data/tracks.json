@@ -503,6 +503,13 @@
             "ear 2 ear"
         ]
     },
+    "omnifreeze": {
+        "count": 46,
+        "alternatives": [
+            "omnifreeze - (living light remix)",
+            "omnifreeze - (futexture's carefully ambivalent detailing)"
+        ]
+    },
     "cubensis": {
         "count": 45,
         "alternatives": [
@@ -510,10 +517,6 @@
         ]
     },
     "versicolor": {
-        "count": 44,
-        "alternatives": []
-    },
-    "omnifreeze": {
         "count": 44,
         "alternatives": []
     },
@@ -1212,15 +1215,7 @@
         "count": 1,
         "alternatives": []
     },
-    "omnifreeze - (living light remix)": {
-        "count": 1,
-        "alternatives": []
-    },
     "oblivion - (push pull remix)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "omnifreeze - (futexture's carefully ambivalent detailing)": {
         "count": 1,
         "alternatives": []
     },
