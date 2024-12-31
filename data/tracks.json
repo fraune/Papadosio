@@ -592,6 +592,13 @@
             "right now (acoustic)"
         ]
     },
+    "lion's mane": {
+        "count": 37,
+        "alternatives": [
+            "lions mane",
+            "loin's mane"
+        ]
+    },
     "drift": {
         "count": 36,
         "alternatives": [
@@ -611,10 +618,6 @@
         ]
     },
     "distress signal": {
-        "count": 35,
-        "alternatives": []
-    },
-    "lion's mane": {
         "count": 35,
         "alternatives": []
     },
@@ -2074,10 +2077,6 @@
         "count": 1,
         "alternatives": []
     },
-    "lions mane": {
-        "count": 1,
-        "alternatives": []
-    },
     "divine moments of truth": {
         "count": 1,
         "alternatives": []
@@ -2127,10 +2126,6 @@
         "alternatives": []
     },
     "siitake": {
-        "count": 1,
-        "alternatives": []
-    },
-    "loin's mane": {
         "count": 1,
         "alternatives": []
     },
