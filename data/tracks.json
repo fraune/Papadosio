@@ -407,6 +407,13 @@
             "euclidean lights - (soulacybin remix)"
         ]
     },
+    "glimpse of light": {
+        "count": 58,
+        "alternatives": [
+            "glimpse of light (night 1)",
+            "glimpse of light*"
+        ]
+    },
     "fuse": {
         "count": 57,
         "alternatives": [
@@ -414,10 +421,6 @@
             "fuse (2.17.13)",
             "fuse >"
         ]
-    },
-    "glimpse of light": {
-        "count": 56,
-        "alternatives": []
     },
     "holy heck": {
         "count": 56,
@@ -1551,10 +1554,6 @@
         "count": 1,
         "alternatives": []
     },
-    "glimpse of light (night 1)": {
-        "count": 1,
-        "alternatives": []
-    },
     "curve(ature) (night 2)": {
         "count": 1,
         "alternatives": []
@@ -2212,10 +2211,6 @@
         "alternatives": []
     },
     "loin's mane": {
-        "count": 1,
-        "alternatives": []
-    },
-    "glimpse of light*": {
         "count": 1,
         "alternatives": []
     },
