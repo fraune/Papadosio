@@ -658,8 +658,10 @@
         ]
     },
     "everyone is cool": {
-        "count": 26,
-        "alternatives": []
+        "count": 27,
+        "alternatives": [
+            "everyone is cool*"
+        ]
     },
     "the world is a cube": {
         "count": 25,
@@ -1974,10 +1976,6 @@
         "alternatives": []
     },
     "it it wasn't for you": {
-        "count": 1,
-        "alternatives": []
-    },
-    "everyone is cool*": {
         "count": 1,
         "alternatives": []
     },
