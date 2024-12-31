@@ -651,8 +651,11 @@
         ]
     },
     "we choose": {
-        "count": 28,
-        "alternatives": []
+        "count": 30,
+        "alternatives": [
+            "we choose*",
+            "we choose (night 1)"
+        ]
     },
     "everyone is cool": {
         "count": 26,
@@ -1362,10 +1365,6 @@
         "count": 1,
         "alternatives": []
     },
-    "we choose*": {
-        "count": 1,
-        "alternatives": []
-    },
     "bill murray meets his past": {
         "count": 1,
         "alternatives": []
@@ -1511,10 +1510,6 @@
         "alternatives": []
     },
     "front range arp (improv)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "we choose (night 1)": {
         "count": 1,
         "alternatives": []
     },
