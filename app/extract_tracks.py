@@ -45,9 +45,14 @@ def main():
                     "alternatives": []
                 }
 
+    # Sort by count (descending)
+    sorted_tracks = dict(
+        sorted(track_dict.items(), key=lambda x: x[1]["count"], reverse=True)
+    )
+
     # Write updated dict back out
     with open(output_file, "w") as out:
-        json.dump(track_dict, out, indent=4)
+        json.dump(sorted_tracks, out, indent=4)
 
 if __name__ == "__main__":
     main()
