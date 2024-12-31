@@ -388,8 +388,10 @@
         ]
     },
     "out of hiding": {
-        "count": 58,
-        "alternatives": []
+        "count": 59,
+        "alternatives": [
+            "out of hiding (night 2)"
+        ]
     },
     "fuse": {
         "count": 57,
@@ -1560,10 +1562,6 @@
         "alternatives": []
     },
     "glimpse of light (night 1)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "out of hiding (night 2)": {
         "count": 1,
         "alternatives": []
     },
