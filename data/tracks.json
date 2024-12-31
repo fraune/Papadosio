@@ -738,8 +738,10 @@
         "alternatives": []
     },
     "the elephant i presume": {
-        "count": 21,
-        "alternatives": []
+        "count": 22,
+        "alternatives": [
+            "elephant i presume"
+        ]
     },
     "content coma": {
         "count": 18,
@@ -1141,10 +1143,6 @@
         "alternatives": []
     },
     "everybody wants to rule the world": {
-        "count": 1,
-        "alternatives": []
-    },
-    "elephant i presume": {
         "count": 1,
         "alternatives": []
     },
