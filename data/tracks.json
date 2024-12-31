@@ -515,6 +515,14 @@
         "count": 16,
         "alternatives": []
     },
+    "planting the seeds of life": {
+        "count": 16,
+        "alternatives": [
+            "planting the seeds of life (5.3.13)",
+            "papadosio - planting the seeds of life",
+            "planting the seeds of life (2.17.13)"
+        ]
+    },
     "the state of things": {
         "count": 15,
         "alternatives": []
@@ -540,10 +548,6 @@
         "alternatives": []
     },
     "agarikon": {
-        "count": 13,
-        "alternatives": []
-    },
-    "planting the seeds of life": {
         "count": 13,
         "alternatives": []
     },
@@ -1507,10 +1511,6 @@
         "count": 1,
         "alternatives": []
     },
-    "papadosio - planting the seeds of life": {
-        "count": 1,
-        "alternatives": []
-    },
     "earthcry - 852 \u221e remembrance": {
         "count": 1,
         "alternatives": []
@@ -1584,10 +1584,6 @@
         "alternatives": []
     },
     "madre de dios (2.17.13)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "planting the seeds of life (2.17.13)": {
         "count": 1,
         "alternatives": []
     },
@@ -2740,10 +2736,6 @@
         "alternatives": []
     },
     "the plug (5.3.13)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "planting the seeds of life (5.3.13)": {
         "count": 1,
         "alternatives": []
     }
