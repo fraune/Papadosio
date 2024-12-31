@@ -269,8 +269,11 @@
         "alternatives": []
     },
     "stick figure": {
-        "count": 61,
-        "alternatives": []
+        "count": 63,
+        "alternatives": [
+            "stick fgure",
+            "stick figure (2.17.13)"
+        ]
     },
     "out of hiding": {
         "count": 58,
@@ -1586,10 +1589,6 @@
         "count": 1,
         "alternatives": []
     },
-    "stick figure (2.17.13)": {
-        "count": 1,
-        "alternatives": []
-    },
     "(psy)polygons": {
         "count": 1,
         "alternatives": []
@@ -2691,10 +2690,6 @@
         "alternatives": []
     },
     "imagine (john lennon)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "stick fgure": {
         "count": 1,
         "alternatives": []
     }
