@@ -252,6 +252,13 @@
             "three"
         ]
     },
+    "by the light of the stars": {
+        "count": 83,
+        "alternatives": [
+            "by the light of the stars>",
+            "by light of the stars"
+        ]
+    },
     "direction song": {
         "count": 81,
         "alternatives": [
@@ -269,10 +276,6 @@
             "monochrome >",
             "monochrome (acoustic)"
         ]
-    },
-    "by the light of the stars": {
-        "count": 79,
-        "alternatives": []
     },
     "curve": {
         "count": 76,
@@ -816,10 +819,6 @@
         "alternatives": []
     },
     "the antidote for fear": {
-        "count": 3,
-        "alternatives": []
-    },
-    "by the light of the stars>": {
         "count": 3,
         "alternatives": []
     },
@@ -2118,10 +2117,6 @@
         "alternatives": []
     },
     "puddles for oceans reprise": {
-        "count": 1,
-        "alternatives": []
-    },
-    "by light of the stars": {
         "count": 1,
         "alternatives": []
     },
