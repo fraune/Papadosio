@@ -113,8 +113,10 @@
         "alternatives": []
     },
     "geoglyph": {
-        "count": 93,
-        "alternatives": []
+        "count": 94,
+        "alternatives": [
+            "geoglyph> if it wasn't for you"
+        ]
     },
     "smile and nod": {
         "count": 92,
@@ -269,16 +271,22 @@
         "count": 51,
         "alternatives": []
     },
+    "if it wasn't for you": {
+        "count": 50,
+        "alternatives": [
+            "if it wasn't for you (5.3.13)",
+            "if it wasn't for you >",
+            "if it wasn't for you (2.16.13)",
+            "geoglyph> if it wasn't for you",
+            "if it wasn't for your"
+        ]
+    },
     "anima mundi": {
         "count": 48,
         "alternatives": []
     },
     "frequence": {
         "count": 47,
-        "alternatives": []
-    },
-    "if it wasn't for you": {
-        "count": 46,
         "alternatives": []
     },
     "cubensis": {
@@ -1087,10 +1095,6 @@
         "count": 1,
         "alternatives": []
     },
-    "if it wasn't for you >": {
-        "count": 1,
-        "alternatives": []
-    },
     "you and your self": {
         "count": 1,
         "alternatives": []
@@ -1599,10 +1603,6 @@
         "count": 1,
         "alternatives": []
     },
-    "if it wasn't for you (2.16.13)": {
-        "count": 1,
-        "alternatives": []
-    },
     "polygons (2.16.13)": {
         "count": 1,
         "alternatives": []
@@ -2023,10 +2023,6 @@
         "count": 1,
         "alternatives": []
     },
-    "geoglyph> if it wasn't for you": {
-        "count": 1,
-        "alternatives": []
-    },
     "utoptiate": {
         "count": 1,
         "alternatives": []
@@ -2380,10 +2376,6 @@
         "alternatives": []
     },
     "puddles for oceans reprise": {
-        "count": 1,
-        "alternatives": []
-    },
-    "if it wasn't for your": {
         "count": 1,
         "alternatives": []
     },
@@ -2848,10 +2840,6 @@
         "alternatives": []
     },
     "method of control (5.3.13)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "if it wasn't for you (5.3.13)": {
         "count": 1,
         "alternatives": []
     }
