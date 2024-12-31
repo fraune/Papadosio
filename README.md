@@ -48,8 +48,10 @@ Delete the raw and data folders to start from scratch
 python app/parse_music.py
 ```
 
+### Download raw album data
 ```
 
+```
 
 ### Parse Album JSON
 

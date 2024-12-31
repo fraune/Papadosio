@@ -11,25 +11,55 @@ OUTPUT_DIR = "raw/album"
 RETRY_TIMEOUT = 300  # Retry for a maximum of 5 minutes (in seconds)
 
 
-def ensure_output_dir():
-    """Ensure the output directory exists."""
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
+async def download_albums(data_path: str):
+    """Download album pages asynchronously."""
+    # Load album data
+    with open(data_path, 'r', encoding='utf-8') as f:
+        albums = json.load(f)
+
+    albums = filter(need_to_download, albums)
+
+    async with aiohttp.ClientSession() as session:
+        tasks = []
+        for index, album in enumerate(albums):
+            page_url = album["page_url"]
+            title = album["title"]
+            tasks.append(fetch_album_page(session, page_url, title, delay=index))
+        
+        # Use tqdm for progress tracking
+        results = [await f for f in tqdm(asyncio.as_completed(tasks), total=len(tasks), desc="Downloading Albums")]
+
+    # Retry failed downloads
+    failed_albums = [albums[i] for i, result in enumerate(results) if not result]
+    if failed_albums:
+        print(f"Retrying {len(failed_albums)} failed downloads...")
+        await retry_failed_downloads(session, failed_albums)
+
+
+def need_to_download(album):
+    # Skip if file already exists
+    album_title = album["title"]
+    file_name = f"{album_title.replace(' ', '_').replace('|', '').replace('/', '-')}.html"
+    output_path = os.path.join(OUTPUT_DIR, file_name)
+    if os.path.exists(output_path):
+        print(f"Skipping {album_title}, file already exists.")
+        return False
+
+    # Songs might get posted as a single. Ignoring them for now.
+    page_url = album["page_url"]
+    if "/track/" in page_url:
+        print(f"Skipping {album_title}, is a track, not album")
+        return False
+
+    return True
 
 
 async def fetch_album_page(session: ClientSession, page_url: str, album_title: str, delay: int):
     """Fetch the album page and save it as an HTML file, with a delay before starting."""
-    if "/track/" in page_url:
-        return False
     
-    await asyncio.sleep(delay)  # Staggered start
     absolute_url = f"{BASE_URL}{page_url}"
-    file_name = f"{album_title.replace(' ', '_').replace('|', '').replace('/', '-')}.html"
-    output_path = os.path.join(OUTPUT_DIR, file_name)
 
-    # Skip if file already exists
-    if os.path.exists(output_path):
-        print(f"Skipping {album_title}, file already exists.")
-        return True  # Treat as successfully downloaded
+    await asyncio.sleep(delay)  # Staggered start
 
     retries = 0
     start_time = time.time()
@@ -62,29 +92,6 @@ async def fetch_album_page(session: ClientSession, page_url: str, album_title: s
             return False
 
 
-async def download_albums(data_path: str):
-    """Download album pages asynchronously."""
-    # Load album data
-    with open(data_path, 'r', encoding='utf-8') as f:
-        albums = json.load(f)
-
-    async with aiohttp.ClientSession() as session:
-        tasks = []
-        for index, album in enumerate(albums):
-            page_url = album["page_url"]
-            title = album["title"]
-            tasks.append(fetch_album_page(session, page_url, title, delay=index))
-        
-        # Use tqdm for progress tracking
-        results = [await f for f in tqdm(asyncio.as_completed(tasks), total=len(tasks), desc="Downloading Albums")]
-
-    # Retry failed downloads
-    failed_albums = [albums[i] for i, result in enumerate(results) if not result]
-    if failed_albums:
-        print(f"Retrying {len(failed_albums)} failed downloads...")
-        await retry_failed_downloads(session, failed_albums)
-
-
 async def retry_failed_downloads(session, failed_albums):
     """Retry downloading failed albums until all are downloaded or timeout."""
     start_time = time.time()
@@ -114,7 +121,8 @@ if __name__ == "__main__":
     # Paths
     album_data_path = os.path.join(os.path.dirname(__file__), '..', 'data', 'music.json')
     
-    ensure_output_dir()
+    # Ensure the output directory exists
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
     
     try:
         asyncio.run(download_albums(album_data_path))
