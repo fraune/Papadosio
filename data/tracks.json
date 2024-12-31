@@ -743,6 +743,14 @@
             "elephant i presume"
         ]
     },
+    "moon entendre": {
+        "count": 21,
+        "alternatives": [
+            "gazing the great oscillator > moon entendr\u00e9",
+            "moon entendr\u00e9",
+            "moon entendr\u00e9 (night 2)"
+        ]
+    },
     "content coma": {
         "count": 19,
         "alternatives": [
@@ -753,12 +761,6 @@
         "count": 18,
         "alternatives": [
             "the end of the world*"
-        ]
-    },
-    "moon entendre": {
-        "count": 17,
-        "alternatives": [
-            "gazing the great oscillator > moon entendr\u00e9"
         ]
     },
     "planting the seeds of life": {
@@ -881,10 +883,6 @@
         "alternatives": []
     },
     "(crowd banter)": {
-        "count": 3,
-        "alternatives": []
-    },
-    "moon entendr\u00e9": {
         "count": 3,
         "alternatives": []
     },
@@ -1515,10 +1513,6 @@
         "alternatives": []
     },
     "curve(ature) (night 2)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "moon entendr\u00e9 (night 2)": {
         "count": 1,
         "alternatives": []
     },
