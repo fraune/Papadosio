@@ -251,16 +251,20 @@
         "count": 56,
         "alternatives": []
     },
+    "holy heck": {
+        "count": 56,
+        "alternatives": [
+            "holy heck (5.3.13)",
+            "holy heck (acoustic)",
+            "e: holy heck"
+        ]
+    },
     "write sing play mix": {
         "count": 55,
         "alternatives": []
     },
     "epiphany": {
         "count": 54,
-        "alternatives": []
-    },
-    "holy heck": {
-        "count": 53,
         "alternatives": []
     },
     "taking turns": {
@@ -1473,10 +1477,6 @@
         "count": 1,
         "alternatives": []
     },
-    "holy heck (acoustic)": {
-        "count": 1,
-        "alternatives": []
-    },
     "distant days (acoustic)": {
         "count": 1,
         "alternatives": []
@@ -2289,10 +2289,6 @@
         "count": 1,
         "alternatives": []
     },
-    "e: holy heck": {
-        "count": 1,
-        "alternatives": []
-    },
     "all i knew - (ft ilya goldberg)": {
         "count": 1,
         "alternatives": []
@@ -2822,10 +2818,6 @@
         "alternatives": []
     },
     "hippie babysitter (5.3.13)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "holy heck (5.3.13)": {
         "count": 1,
         "alternatives": []
     }
