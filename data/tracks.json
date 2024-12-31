@@ -829,20 +829,22 @@
             "no end (acoustic)"
         ]
     },
-    "passage": {
-        "count": 12,
-        "alternatives": []
-    },
     "distant days": {
-        "count": 11,
+        "count": 13,
         "alternatives": [
             "distant days*",
             "distant days (acoustic)"
         ]
     },
-    "improv": {
-        "count": 11,
+    "passage": {
+        "count": 12,
         "alternatives": []
+    },
+    "improv": {
+        "count": 12,
+        "alternatives": [
+            "improv>"
+        ]
     },
     "reishi": {
         "count": 10,
@@ -1211,10 +1213,6 @@
         "alternatives": []
     },
     "everything in it's right place": {
-        "count": 1,
-        "alternatives": []
-    },
-    "improv>": {
         "count": 1,
         "alternatives": []
     },
