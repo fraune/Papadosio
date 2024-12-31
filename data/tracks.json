@@ -36,8 +36,10 @@
         "alternatives": []
     },
     "cordyceps": {
-        "count": 24,
-        "alternatives": []
+        "count": 25,
+        "alternatives": [
+            "you and yourself -> cordyceps"
+        ]
     },
     "euclidean lights": {
         "count": 57,
@@ -344,8 +346,11 @@
         "alternatives": []
     },
     "you and yourself": {
-        "count": 69,
-        "alternatives": []
+        "count": 70,
+        "alternatives": [
+            "you and yourself (5.4.13)",
+            "you and yourself -> cordyceps"
+        ]
     },
     "utopiate ft. mike gantzer (aqueous)": {
         "count": 1,
@@ -985,10 +990,6 @@
     },
     "your'e a catman": {
         "count": 6,
-        "alternatives": []
-    },
-    "you and yourself -> cordyceps": {
-        "count": 1,
         "alternatives": []
     },
     "hippie babysitter>": {
@@ -2932,10 +2933,6 @@
         "alternatives": []
     },
     "direction (5.4.13)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "you and yourself (5.4.13)": {
         "count": 1,
         "alternatives": []
     }
