@@ -664,8 +664,10 @@
         ]
     },
     "the world is a cube": {
-        "count": 25,
-        "alternatives": []
+        "count": 26,
+        "alternatives": [
+            "the world is cube"
+        ]
     },
     "liminal daybreak": {
         "count": 25,
@@ -1660,10 +1662,6 @@
         "alternatives": []
     },
     "remind me (r\u00f6yksopp)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "the world is cube": {
         "count": 1,
         "alternatives": []
     },
