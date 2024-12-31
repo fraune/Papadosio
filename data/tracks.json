@@ -492,6 +492,13 @@
             "frequence reprise"
         ]
     },
+    "oracle theme": {
+        "count": 49,
+        "alternatives": [
+            "the oracle theme",
+            "oracle theme>"
+        ]
+    },
     "ear to ear": {
         "count": 48,
         "alternatives": [
@@ -518,10 +525,6 @@
     },
     "versicolor": {
         "count": 44,
-        "alternatives": []
-    },
-    "oracle theme": {
-        "count": 42,
         "alternatives": []
     },
     "madre de dios": {
@@ -790,10 +793,6 @@
         "alternatives": []
     },
     "your'e a catman": {
-        "count": 6,
-        "alternatives": []
-    },
-    "the oracle theme": {
         "count": 6,
         "alternatives": []
     },
@@ -1748,10 +1747,6 @@
         "alternatives": []
     },
     "madres de dios": {
-        "count": 1,
-        "alternatives": []
-    },
-    "oracle theme>": {
         "count": 1,
         "alternatives": []
     },
