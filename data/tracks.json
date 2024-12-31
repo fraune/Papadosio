@@ -763,6 +763,13 @@
             "the end of the world*"
         ]
     },
+    "the state of things": {
+        "count": 17,
+        "alternatives": [
+            "the state of things*",
+            "state of things"
+        ]
+    },
     "planting the seeds of life": {
         "count": 16,
         "alternatives": [
@@ -777,10 +784,6 @@
             "gazing the great oscilattor",
             "gazing the great oscillator > moon entendr\u00e9"
         ]
-    },
-    "the state of things": {
-        "count": 15,
-        "alternatives": []
     },
     "fossilize": {
         "count": 15,
@@ -1952,10 +1955,6 @@
         "count": 1,
         "alternatives": []
     },
-    "the state of things*": {
-        "count": 1,
-        "alternatives": []
-    },
     "porcelain (moby)": {
         "count": 1,
         "alternatives": []
@@ -2169,10 +2168,6 @@
         "alternatives": []
     },
     "like old times improv": {
-        "count": 1,
-        "alternatives": []
-    },
-    "state of things": {
         "count": 1,
         "alternatives": []
     },
