@@ -569,8 +569,11 @@
         "alternatives": []
     },
     "right now": {
-        "count": 35,
-        "alternatives": []
+        "count": 37,
+        "alternatives": [
+            "right now (5.4.13)",
+            "right now (acoustic)"
+        ]
     },
     "improv": {
         "count": 11,
@@ -1892,10 +1895,6 @@
         "count": 1,
         "alternatives": []
     },
-    "right now (acoustic)": {
-        "count": 1,
-        "alternatives": []
-    },
     "eyes have eyes (extended)": {
         "count": 1,
         "alternatives": []
@@ -2937,10 +2936,6 @@
         "alternatives": []
     },
     "you and yourself (5.4.13)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "right now (5.4.13)": {
         "count": 1,
         "alternatives": []
     }
