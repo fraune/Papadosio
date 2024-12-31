@@ -476,8 +476,13 @@
         "alternatives": []
     },
     "tv song": {
-        "count": 19,
-        "alternatives": []
+        "count": 23,
+        "alternatives": [
+            "tv song (5.4.13)",
+            "e: tv song",
+            "tv song*",
+            "tv song (2.17.13)"
+        ]
     },
     "direction>": {
         "count": 1,
@@ -1491,10 +1496,6 @@
         "count": 1,
         "alternatives": []
     },
-    "tv song (2.17.13)": {
-        "count": 1,
-        "alternatives": []
-    },
     "fuse (2.17.13)": {
         "count": 1,
         "alternatives": []
@@ -1612,10 +1613,6 @@
         "alternatives": []
     },
     "new 1/2": {
-        "count": 1,
-        "alternatives": []
-    },
-    "tv song*": {
         "count": 1,
         "alternatives": []
     },
@@ -2116,10 +2113,6 @@
         "alternatives": []
     },
     "night colors 2/2": {
-        "count": 1,
-        "alternatives": []
-    },
-    "e: tv song": {
         "count": 1,
         "alternatives": []
     },
@@ -2956,10 +2949,6 @@
         "alternatives": []
     },
     "curve (5.4.13)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "tv song (5.4.13)": {
         "count": 1,
         "alternatives": []
     }
