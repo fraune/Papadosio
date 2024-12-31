@@ -98,8 +98,13 @@
         "alternatives": []
     },
     "direction song": {
-        "count": 67,
-        "alternatives": []
+        "count": 81,
+        "alternatives": [
+            "direction (5.4.13)",
+            "direction>",
+            "direction",
+            "the direction song"
+        ]
     },
     "all i knew": {
         "count": 106,
@@ -493,10 +498,6 @@
             "tv song (2.17.13)"
         ]
     },
-    "direction>": {
-        "count": 1,
-        "alternatives": []
-    },
     "the lack of everything (acoustic)": {
         "count": 1,
         "alternatives": []
@@ -730,10 +731,6 @@
     },
     "super jam": {
         "count": 1,
-        "alternatives": []
-    },
-    "direction": {
-        "count": 11,
         "alternatives": []
     },
     "the big smile*": {
@@ -2284,10 +2281,6 @@
         "count": 1,
         "alternatives": []
     },
-    "the direction song": {
-        "count": 1,
-        "alternatives": []
-    },
     "puddles for oceans*": {
         "count": 1,
         "alternatives": []
@@ -2929,10 +2922,6 @@
         "alternatives": []
     },
     "fuse (5.4.13)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "direction (5.4.13)": {
         "count": 1,
         "alternatives": []
     }
