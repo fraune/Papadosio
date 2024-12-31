@@ -719,7 +719,9 @@
     },
     "boss battle": {
         "count": 22,
-        "alternatives": []
+        "alternatives": [
+            "boss battle*"
+        ]
     },
     "...and this is what he thought": {
         "count": 22,
@@ -1587,10 +1589,6 @@
         "alternatives": []
     },
     "fate*": {
-        "count": 1,
-        "alternatives": []
-    },
-    "boss battle*": {
         "count": 1,
         "alternatives": []
     },
