@@ -172,8 +172,12 @@
         "alternatives": []
     },
     "curve": {
-        "count": 73,
-        "alternatives": []
+        "count": 76,
+        "alternatives": [
+            "curve (5.4.13)",
+            "curve >",
+            "curve>"
+        ]
     },
     "method of control": {
         "count": 111,
@@ -981,10 +985,6 @@
         "alternatives": []
     },
     "you and yourself -> cordyceps": {
-        "count": 1,
-        "alternatives": []
-    },
-    "curve>": {
         "count": 1,
         "alternatives": []
     },
@@ -2344,10 +2344,6 @@
         "count": 1,
         "alternatives": []
     },
-    "curve >": {
-        "count": 1,
-        "alternatives": []
-    },
     "hippie babyistter": {
         "count": 1,
         "alternatives": []
@@ -2945,10 +2941,6 @@
         "alternatives": []
     },
     "right now (5.4.13)": {
-        "count": 1,
-        "alternatives": []
-    },
-    "curve (5.4.13)": {
         "count": 1,
         "alternatives": []
     }
