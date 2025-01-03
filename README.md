@@ -78,7 +78,7 @@ The files in `data/albums` can be deleted before running this script if you like
 
 ### Combine album json files
 
-This script scans `data/albums/` for json files, and combines them into a single file in `data/albums.json`. The `albums.json` file is recreated every time this script is run.
+This script scans `data/albums/` for json files, and combines them into a single file in `data/downloaded_albums.json`. The `downloaded_albums.json` file is recreated every time this script is run.
 
 ```
 python app/4_create_albums.py
