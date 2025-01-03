@@ -52,7 +52,7 @@ Bandcamp is a little weird about reliably loading pages the same way every time.
 
 ### Parse albums
 
-This script scans `raw/Music _ Papadosio.html` for album links that need to be downloaded. It creates/updates `data/albums_to_download.json`.
+This script scans `raw/Music _ Papadosio.html` for album links that need to be downloaded. It creates/overwrites `data/albums_to_download.json`.
 
 ```
 python app/1_parse_albums.py

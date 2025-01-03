@@ -32,7 +32,7 @@ def save_to_json(data, output_path):
 if __name__ == "__main__":
     # Define input/output paths
     input_file = os.path.join(os.path.dirname(__file__), "..", "raw", "Music _ Papadosio.html")
-    output_file = os.path.join(os.path.dirname(__file__), "..", "data", "music.json")
+    output_file = os.path.join(os.path.dirname(__file__), "..", "data", "albums_to_download.json")
 
     # Ensure the output directory exists
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
