@@ -1,9 +1,10 @@
 import json
 import os
 
+
 def main():
-    input_file = os.path.join(os.path.dirname(__file__), '..', 'data', 'albums.json')
-    output_file = os.path.join(os.path.dirname(__file__), '..', 'data', 'tracks.json')
+    input_file = os.path.join(os.path.dirname(__file__), "..", "data", "albums.json")
+    output_file = os.path.join(os.path.dirname(__file__), "..", "data", "tracks.json")
 
     # Load album data
     with open(input_file, "r") as f:
@@ -40,10 +41,7 @@ def main():
 
             # If not matched, create a new entry
             if not matched_existing_key:
-                track_dict[name] = {
-                    "count": 1,
-                    "alternatives": []
-                }
+                track_dict[name] = {"count": 1, "alternatives": []}
 
     # Sort by count (descending)
     sorted_tracks = dict(
@@ -53,6 +51,7 @@ def main():
     # Write updated dict back out
     with open(output_file, "w") as out:
         json.dump(sorted_tracks, out, indent=4)
+
 
 if __name__ == "__main__":
     main()

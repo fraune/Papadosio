@@ -1,6 +1,7 @@
 import os
 import json
 
+
 def create_albums_json(directory, output_file):
     """Create a combined albums JSON from individual album JSON files."""
     # List to hold all the albums' data
@@ -9,20 +10,20 @@ def create_albums_json(directory, output_file):
     # Get all files in the directory
     for filename in os.listdir(directory):
         file_path = os.path.join(directory, filename)
-        
+
         # Only process JSON files
-        if file_path.endswith('.json'):
+        if file_path.endswith(".json"):
             try:
-                with open(file_path, 'r') as file:
+                with open(file_path, "r") as file:
                     album_data = json.load(file)
                     albums_data.append(album_data)
             except Exception as e:
                 print(f"Error reading {file_path}: {e}")
-    
+
     # Write the combined data to albums.json
-    with open(output_file, 'w') as outfile:
+    with open(output_file, "w") as outfile:
         json.dump(albums_data, outfile, indent=4)
-    
+
     print(f"Successfully created {output_file} with {len(albums_data)} albums.")
 
 

@@ -14,7 +14,7 @@ RETRY_TIMEOUT = 300  # Retry for a maximum of 5 minutes (in seconds)
 async def download_albums(data_path: str):
     """Download album pages asynchronously."""
     # Load album data
-    with open(data_path, 'r', encoding='utf-8') as f:
+    with open(data_path, "r", encoding="utf-8") as f:
         albums = json.load(f)
 
     albums = filter(need_to_download, albums)
@@ -24,11 +24,16 @@ async def download_albums(data_path: str):
         for index, album in enumerate(albums):
             page_url = album["page_url"]
             title = album["title"]
-            delay = index # (index * 0.9) is too fast
+            delay = index  # (index * 0.9) is too fast
             tasks.append(fetch_album_page(session, page_url, title, delay=delay))
-        
+
         # Use tqdm for progress tracking
-        results = [await f for f in tqdm(asyncio.as_completed(tasks), total=len(tasks), desc="Downloading Albums")]
+        results = [
+            await f
+            for f in tqdm(
+                asyncio.as_completed(tasks), total=len(tasks), desc="Downloading Albums"
+            )
+        ]
 
     # Retry failed downloads
     failed_albums = [albums[i] for i, result in enumerate(results) if not result]
@@ -40,7 +45,9 @@ async def download_albums(data_path: str):
 def need_to_download(album):
     # Skip if file already exists
     album_title = album["title"]
-    file_name = f"{album_title.replace(' ', '_').replace('|', '').replace('/', '-')}.html"
+    file_name = (
+        f"{album_title.replace(' ', '_').replace('|', '').replace('/', '-')}.html"
+    )
     output_path = os.path.join(OUTPUT_DIR, file_name)
     if os.path.exists(output_path):
         print(f"Skipping {album_title}, file already exists.")
@@ -55,11 +62,15 @@ def need_to_download(album):
     return True
 
 
-async def fetch_album_page(session: ClientSession, page_url: str, album_title: str, delay: int):
+async def fetch_album_page(
+    session: ClientSession, page_url: str, album_title: str, delay: int
+):
     """Fetch the album page and save it as an HTML file, with a delay before starting."""
-    
+
     absolute_url = f"{BASE_URL}{page_url}"
-    file_name = f"{album_title.replace(' ', '_').replace('|', '').replace('/', '-')}.html"
+    file_name = (
+        f"{album_title.replace(' ', '_').replace('|', '').replace('/', '-')}.html"
+    )
     output_path = os.path.join(OUTPUT_DIR, file_name)
 
     await asyncio.sleep(delay)  # Staggered start
@@ -78,12 +89,16 @@ async def fetch_album_page(session: ClientSession, page_url: str, album_title: s
                     return True
                 elif response.status == 429:
                     # Handle rate-limiting
-                    wait_time = 2 ** retries  # Exponential backoff
-                    print(f"Rate-limited on {absolute_url}. Retrying in {wait_time} seconds...")
+                    wait_time = 2**retries  # Exponential backoff
+                    print(
+                        f"Rate-limited on {absolute_url}. Retrying in {wait_time} seconds..."
+                    )
                     await asyncio.sleep(wait_time)
                     retries += 1
                 else:
-                    print(f"Failed to fetch {absolute_url}, status code: {response.status}")
+                    print(
+                        f"Failed to fetch {absolute_url}, status code: {response.status}"
+                    )
                     return False  # Give up on non-429 errors
         except Exception as e:
             print(f"Error fetching {absolute_url}: {e}")
@@ -122,11 +137,13 @@ async def retry_failed_downloads(session, failed_albums):
 
 if __name__ == "__main__":
     # Paths
-    album_data_path = os.path.join(os.path.dirname(__file__), '..', 'data', 'music.json')
-    
+    album_data_path = os.path.join(
+        os.path.dirname(__file__), "..", "data", "music.json"
+    )
+
     # Ensure the output directory exists
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    
+
     try:
         asyncio.run(download_albums(album_data_path))
     except KeyboardInterrupt:
