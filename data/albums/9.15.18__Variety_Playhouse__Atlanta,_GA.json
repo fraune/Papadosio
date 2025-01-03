@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/91518-variety-playhouse-atlanta-ga",
-    "name": "9.15.18 | Variety Playhouse | Atlanta, GA",
-    "dateModified": "28 Sep 2018 18:51:35 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "9.15.18 | Variety Playhouse | Atlanta, GA",
+    "album_link": "https://papadosio.bandcamp.com/album/91518-variety-playhouse-atlanta-ga",
+    "date_modified": "28 Sep 2018 18:51:35 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1485933745_10.jpg",
+    "date_published": "28 Sep 2018 18:51:35 GMT",
+    "album_duration": "P01H48M34S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H12M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-7"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-7",
+            "track_duration": "P00H12M16S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "No End",
-                "duration": "P00H06M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/no-end-2"
-            }
+            "track_name": "No End",
+            "track_link": "https://papadosio.bandcamp.com/track/no-end-2",
+            "track_duration": "P00H06M40S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Ear to Ear",
-                "duration": "P00H09M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-31"
-            }
+            "track_name": "Ear to Ear",
+            "track_link": "https://papadosio.bandcamp.com/track/ear-to-ear-31",
+            "track_duration": "P00H09M42S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Just Like the Days",
-                "duration": "P00H05M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/just-like-the-days-2"
-            }
+            "track_name": "Just Like the Days",
+            "track_link": "https://papadosio.bandcamp.com/track/just-like-the-days-2",
+            "track_duration": "P00H05M16S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H18M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-108"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-108",
+            "track_duration": "P00H18M17S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-89"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-89",
+            "track_duration": "P00H09M27S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Fanfare for the Rain People",
-                "duration": "P00H09M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-2"
-            }
+            "track_name": "Fanfare for the Rain People",
+            "track_link": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-2",
+            "track_duration": "P00H09M36S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H15M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-81"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-81",
+            "track_duration": "P00H15M14S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Content Coma",
-                "duration": "P00H09M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/content-coma-5"
-            }
+            "track_name": "Content Coma",
+            "track_link": "https://papadosio.bandcamp.com/track/content-coma-5",
+            "track_duration": "P00H09M33S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H10M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-2"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-2",
+            "track_duration": "P00H10M50S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H01M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-109"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-109",
+            "track_duration": "P00H01M43S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1485933745_10.jpg",
-    "datePublished": "28 Sep 2018 18:51:35 GMT",
-    "description": "This album was recorded on September 15th Atlanta, GA at the Variety Playhouse on night 2 of the Content Coma album release party! Thanks to Hive Mind + Higher Learning for getting the night started!",
-    "duration": "P01H48M34S"
+    ]
 }

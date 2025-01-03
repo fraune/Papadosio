@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/41218-the-canopy-club-urbana-il",
-    "name": "4.12.18 | The Canopy Club | Urbana, IL",
-    "dateModified": "18 Apr 2018 20:28:46 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "4.12.18 | The Canopy Club | Urbana, IL",
+    "album_link": "https://papadosio.bandcamp.com/album/41218-the-canopy-club-urbana-il",
+    "date_modified": "18 Apr 2018 20:28:46 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3975690080_10.jpg",
+    "date_published": "18 Apr 2018 20:28:46 GMT",
+    "album_duration": "P01H42M39S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H04M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-49"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-49",
+            "track_duration": "P00H04M14S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H14M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-68"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-68",
+            "track_duration": "P00H14M20S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Epiphany",
-                "duration": "P00H08M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-42"
-            }
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-42",
+            "track_duration": "P00H08M19S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Now That You Know",
-                "duration": "P00H08M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-33"
-            }
+            "track_name": "Now That You Know",
+            "track_link": "https://papadosio.bandcamp.com/track/now-that-you-know-33",
+            "track_duration": "P00H08M56S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "If it Wasn't For You",
-                "duration": "P00H07M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-48"
-            }
+            "track_name": "If it Wasn't For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-48",
+            "track_duration": "P00H07M13S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Drift",
-                "duration": "P00H05M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-33"
-            }
+            "track_name": "Drift",
+            "track_link": "https://papadosio.bandcamp.com/track/drift-33",
+            "track_duration": "P00H05M58S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H09M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-37"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-37",
+            "track_duration": "P00H09M08S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H11M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-50"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-50",
+            "track_duration": "P00H11M17S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H11M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-119"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-119",
+            "track_duration": "P00H11M11S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H05M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-58"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-58",
+            "track_duration": "P00H05M38S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H16M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-83"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-83",
+            "track_duration": "P00H16M25S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3975690080_10.jpg",
-    "datePublished": "18 Apr 2018 20:28:46 GMT",
-    "description": null,
-    "duration": "P01H42M39S"
+    ]
 }

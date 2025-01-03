@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2013-09-26-the-intersection-grand-rapids-mi",
-    "name": "2013-09-26 - The Intersection - Grand Rapids, MI",
-    "dateModified": "24 Oct 2013 00:56:55 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "2013-09-26 - The Intersection - Grand Rapids, MI",
+    "album_link": "https://papadosio.bandcamp.com/album/2013-09-26-the-intersection-grand-rapids-mi",
+    "date_modified": "24 Oct 2013 00:56:55 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2047768898_10.jpg",
+    "date_published": "03 Oct 2013 00:00:00 GMT",
+    "album_duration": "P02H01M26S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H07M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-3"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-3",
+            "track_duration": "P00H07M42S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H08M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-12"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-12",
+            "track_duration": "P00H08M35S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H09M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-11"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-11",
+            "track_duration": "P00H09M39S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H13M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-12"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-12",
+            "track_duration": "P00H13M32S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-13"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-13",
+            "track_duration": "P00H08M28S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H08M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-16"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-16",
+            "track_duration": "P00H08M07S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "What's At Stake",
-                "duration": "P00H04M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/whats-at-stake-3"
-            }
+            "track_name": "What's At Stake",
+            "track_link": "https://papadosio.bandcamp.com/track/whats-at-stake-3",
+            "track_duration": "P00H04M50S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H10M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-7"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-7",
+            "track_duration": "P00H10M09S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H13M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-15"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-15",
+            "track_duration": "P00H13M47S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H07M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-4"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-4",
+            "track_duration": "P00H07M29S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H17M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-6"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-6",
+            "track_duration": "P00H17M35S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Encore Jam",
-                "duration": "P00H05M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/encore-jam-2"
-            }
+            "track_name": "Encore Jam",
+            "track_link": "https://papadosio.bandcamp.com/track/encore-jam-2",
+            "track_duration": "P00H05M44S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H05M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-4"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-4",
+            "track_duration": "P00H05M49S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2047768898_10.jpg",
-    "datePublished": "03 Oct 2013 00:00:00 GMT",
-    "description": null,
-    "duration": "P02H01M26S"
+    ]
 }

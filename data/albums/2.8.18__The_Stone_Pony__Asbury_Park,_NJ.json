@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2818-the-stone-pony-asbury-park-nj",
-    "name": "2.8.18 | The Stone Pony | Asbury Park, NJ",
-    "dateModified": "13 Feb 2018 20:06:56 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "2.8.18 | The Stone Pony | Asbury Park, NJ",
+    "album_link": "https://papadosio.bandcamp.com/album/2818-the-stone-pony-asbury-park-nj",
+    "date_modified": "13 Feb 2018 20:06:56 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3615143105_10.jpg",
+    "date_published": "13 Feb 2018 20:06:56 GMT",
+    "album_duration": "P01H45M10S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H12M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-39"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-39",
+            "track_duration": "P00H12M05S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Direction Song",
-                "duration": "P00H08M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-55"
-            }
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-55",
+            "track_duration": "P00H08M47S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Each and Every Wave",
-                "duration": "P00H07M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-29"
-            }
+            "track_name": "Each and Every Wave",
+            "track_link": "https://papadosio.bandcamp.com/track/each-and-every-wave-29",
+            "track_duration": "P00H07M12S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Now That You Know",
-                "duration": "P00H12M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-30"
-            }
+            "track_name": "Now That You Know",
+            "track_link": "https://papadosio.bandcamp.com/track/now-that-you-know-30",
+            "track_duration": "P00H12M25S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Out of Hiding",
-                "duration": "P00H07M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-31"
-            }
+            "track_name": "Out of Hiding",
+            "track_link": "https://papadosio.bandcamp.com/track/out-of-hiding-31",
+            "track_duration": "P00H07M25S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H10M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-40"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-40",
+            "track_duration": "P00H10M03S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Anima Mundi",
-                "duration": "P00H14M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-39"
-            }
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-39",
+            "track_duration": "P00H14M28S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Puddles or Oceans",
-                "duration": "P00H07M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-or-oceans"
-            }
+            "track_name": "Puddles or Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-or-oceans",
+            "track_duration": "P00H07M22S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Giving You Up",
-                "duration": "P00H15M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/giving-you-up-22"
-            }
+            "track_name": "Giving You Up",
+            "track_link": "https://papadosio.bandcamp.com/track/giving-you-up-22",
+            "track_duration": "P00H15M40S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H09M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-107"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-107",
+            "track_duration": "P00H09M43S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3615143105_10.jpg",
-    "datePublished": "13 Feb 2018 20:06:56 GMT",
-    "description": "This set was recorded on February 8th, 2018 at The Stone Pony in Asbury Park, NJ. It was great to play the Stone Pony & Thanks to everybody who came out.",
-    "duration": "P01H45M10S"
+    ]
 }

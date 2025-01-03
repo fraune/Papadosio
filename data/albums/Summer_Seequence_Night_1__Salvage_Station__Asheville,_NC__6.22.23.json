@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/summer-seequence-night-1-salvage-station-asheville-nc-62223",
-    "name": "Summer Seequence Night 1 | Salvage Station | Asheville, NC | 6.22.23",
-    "dateModified": "15 Jul 2023 13:28:52 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "Summer Seequence Night 1 | Salvage Station | Asheville, NC | 6.22.23",
+    "album_link": "https://papadosio.bandcamp.com/album/summer-seequence-night-1-salvage-station-asheville-nc-62223",
+    "date_modified": "15 Jul 2023 13:28:52 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0779914993_10.jpg",
+    "date_published": "15 Jul 2023 13:28:52 GMT",
+    "album_duration": "P01H56M48S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Lack Of Everything",
-                "duration": "P00H07M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-57"
-            }
+            "track_name": "The Lack Of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-57",
+            "track_duration": "P00H07M01S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Zoom Out",
-                "duration": "P00H17M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/zoom-out-16"
-            }
+            "track_name": "Zoom Out",
+            "track_link": "https://papadosio.bandcamp.com/track/zoom-out-16",
+            "track_duration": "P00H17M38S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H15M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-99"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-99",
+            "track_duration": "P00H15M08S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Everyone Is Cool*",
-                "duration": "P00H07M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/everyone-is-cool-2"
-            }
+            "track_name": "Everyone Is Cool*",
+            "track_link": "https://papadosio.bandcamp.com/track/everyone-is-cool-2",
+            "track_duration": "P00H07M48S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Smile And Nod",
-                "duration": "P00H09M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-102"
-            }
+            "track_name": "Smile And Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-102",
+            "track_duration": "P00H09M33S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Curtain's Cleft: You're A Catman",
-                "duration": "P00H10M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curtains-cleft-youre-a-catman"
-            }
+            "track_name": "Curtain's Cleft: You're A Catman",
+            "track_link": "https://papadosio.bandcamp.com/track/curtains-cleft-youre-a-catman",
+            "track_duration": "P00H10M59S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "2am",
-                "duration": "P00H05M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-71"
-            }
+            "track_name": "2am",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-71",
+            "track_duration": "P00H05M42S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H10M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-85"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-85",
+            "track_duration": "P00H10M08S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Mr. Turtle's Cloud Kingdom",
-                "duration": "P00H05M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-71"
-            }
+            "track_name": "Mr. Turtle's Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-71",
+            "track_duration": "P00H05M29S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H06M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-86"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-86",
+            "track_duration": "P00H06M11S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H12M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-105"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-105",
+            "track_duration": "P00H12M42S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H08M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-168"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-168",
+            "track_duration": "P00H08M29S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0779914993_10.jpg",
-    "datePublished": "15 Jul 2023 13:28:52 GMT",
-    "description": "Alright! Lets kick things off shall we? First show with Billy for a month or so and it felt great! We played Everyone Is Cool for the first time and it went so great! I don't know if we played it at all other than soundcheck, so it just felt really good. Super happy to have Billy back up there with us to start this hometown throwdown off right. Thanks Everyone for coming hope to see you next year!\r\n\r\n* = first time played",
-    "duration": "P01H56M48S"
+    ]
 }

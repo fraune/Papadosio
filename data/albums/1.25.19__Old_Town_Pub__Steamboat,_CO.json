@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/12519-old-town-pub-steamboat-co",
-    "name": "1.25.19 | Old Town Pub | Steamboat, CO",
-    "dateModified": "13 Feb 2019 17:52:01 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "1.25.19 | Old Town Pub | Steamboat, CO",
+    "album_link": "https://papadosio.bandcamp.com/album/12519-old-town-pub-steamboat-co",
+    "date_modified": "13 Feb 2019 17:52:01 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1270247785_10.jpg",
+    "date_published": "13 Feb 2019 17:52:01 GMT",
+    "album_duration": "P01H44M57S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "You and Yourself",
-                "duration": "P00H18M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-57"
-            }
+            "track_name": "You and Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-57",
+            "track_duration": "P00H18M59S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H08M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-19"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-19",
+            "track_duration": "P00H08M35S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H06M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-93"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-93",
+            "track_duration": "P00H06M59S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Content Coma",
-                "duration": "P00H09M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/content-coma-15"
-            }
+            "track_name": "Content Coma",
+            "track_link": "https://papadosio.bandcamp.com/track/content-coma-15",
+            "track_duration": "P00H09M18S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Fire Rite",
-                "duration": "P00H06M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-18"
-            }
+            "track_name": "Fire Rite",
+            "track_link": "https://papadosio.bandcamp.com/track/fire-rite-18",
+            "track_duration": "P00H06M16S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H12M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-46"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-46",
+            "track_duration": "P00H12M41S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-133"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-133",
+            "track_duration": "P00H10M16S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "The World is a Cube",
-                "duration": "P00H04M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-13"
-            }
+            "track_name": "The World is a Cube",
+            "track_link": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-13",
+            "track_duration": "P00H04M11S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H13M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-86"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-86",
+            "track_duration": "P00H13M42S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H05M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-46"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-46",
+            "track_duration": "P00H05M25S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H08M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-57"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-57",
+            "track_duration": "P00H08M35S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1270247785_10.jpg",
-    "datePublished": "13 Feb 2019 17:52:01 GMT",
-    "description": "This album was recorded on January 25th, 2019 at the Old Town Pub in Steamboat CO, on the first night of a two-night run! Thanks to everybody who came out to show support at the Old Town Pub! Colorado tour was a blast!",
-    "duration": "P01H44M57S"
+    ]
 }

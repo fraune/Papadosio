@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/extrasinamovie-111315-new-york-ny",
-    "name": "#extrasinamovie | 11.13.15 | New York, NY",
-    "dateModified": "26 Apr 2016 05:10:40 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "#extrasinamovie | 11.13.15 | New York, NY",
+    "album_link": "https://papadosio.bandcamp.com/album/extrasinamovie-111315-new-york-ny",
+    "date_modified": "26 Apr 2016 05:10:40 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3832862605_10.jpg",
+    "date_published": "26 Apr 2016 05:10:40 GMT",
+    "album_duration": "P01H49M42S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H00M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-32"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-32",
+            "track_duration": "P00H00M59S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Glimpse of Light",
-                "duration": "P00H05M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-36"
-            }
+            "track_name": "Glimpse of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-36",
+            "track_duration": "P00H05M47S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Wrong Nostalgia",
-                "duration": "P00H04M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-22"
-            }
+            "track_name": "The Wrong Nostalgia",
+            "track_link": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-22",
+            "track_duration": "P00H04M36S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Ritual",
-                "duration": "P00H08M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-24"
-            }
+            "track_name": "Ritual",
+            "track_link": "https://papadosio.bandcamp.com/track/ritual-24",
+            "track_duration": "P00H08M52S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Curve(ature)",
-                "duration": "P00H13M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-ature-7"
-            }
+            "track_name": "Curve(ature)",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-ature-7",
+            "track_duration": "P00H13M07S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H13M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-63"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-63",
+            "track_duration": "P00H13M27S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H09M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-49"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-49",
+            "track_duration": "P00H09M54S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "...and this is what he thought",
-                "duration": "P00H04M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-19"
-            }
+            "track_name": "...and this is what he thought",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-19",
+            "track_duration": "P00H04M10S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-64"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-64",
+            "track_duration": "P00H09M45S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Anima Mundi",
-                "duration": "P00H07M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-26"
-            }
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-26",
+            "track_duration": "P00H07M12S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H12M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-83"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-83",
+            "track_duration": "P00H12M22S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "PhDeez",
-                "duration": "P00H07M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/phdeez-6"
-            }
+            "track_name": "PhDeez",
+            "track_link": "https://papadosio.bandcamp.com/track/phdeez-6",
+            "track_duration": "P00H07M39S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H11M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-48"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-48",
+            "track_duration": "P00H11M52S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3832862605_10.jpg",
-    "datePublished": "26 Apr 2016 05:10:40 GMT",
-    "description": null,
-    "duration": "P01H49M42S"
+    ]
 }

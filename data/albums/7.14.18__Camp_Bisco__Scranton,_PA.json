@@ -1,52 +1,35 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/71418-camp-bisco-scranton-pa",
-    "name": "7.14.18 | Camp Bisco | Scranton, PA",
-    "dateModified": "25 Jul 2018 22:02:48 GMT",
-    "numTracks": 5,
-    "track": [
+    "album_name": "7.14.18 | Camp Bisco | Scranton, PA",
+    "album_link": "https://papadosio.bandcamp.com/album/71418-camp-bisco-scranton-pa",
+    "date_modified": "25 Jul 2018 22:02:48 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1310706747_10.jpg",
+    "date_published": "25 Jul 2018 00:00:00 GMT",
+    "album_duration": "P01H01M21S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H12M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-61"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-61",
+            "track_duration": "P00H12M04S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Frequence",
-                "duration": "P00H12M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-38"
-            }
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-38",
+            "track_duration": "P00H12M59S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H09M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-88"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-88",
+            "track_duration": "P00H09M22S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H12M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-69"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-69",
+            "track_duration": "P00H12M29S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H14M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-68"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-68",
+            "track_duration": "P00H14M27S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1310706747_10.jpg",
-    "datePublished": "25 Jul 2018 00:00:00 GMT",
-    "description": "This album was recorded on July 14th in Scranton, PA at Camp Bisco 2018 Summer Tour is in full effect see you on the road in August!\r\n\r\nAlbum Art: Sweet Melis",
-    "duration": "P01H01M21S"
+    ]
 }

@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/taft-theatre-cincinnati-oh-112523",
-    "name": "Taft Theatre | Cincinnati, OH | 11.25.23",
-    "dateModified": "30 Nov 2023 18:18:29 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "Taft Theatre | Cincinnati, OH | 11.25.23",
+    "album_link": "https://papadosio.bandcamp.com/album/taft-theatre-cincinnati-oh-112523",
+    "date_modified": "30 Nov 2023 18:18:29 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1764382563_10.jpg",
+    "date_published": "30 Nov 2023 18:18:30 GMT",
+    "album_duration": "P02H10M59S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H01M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-110"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-110",
+            "track_duration": "P00H01M50S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Everyone Is Cool",
-                "duration": "P00H10M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/everyone-is-cool-12"
-            }
+            "track_name": "Everyone Is Cool",
+            "track_link": "https://papadosio.bandcamp.com/track/everyone-is-cool-12",
+            "track_duration": "P00H10M48S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Ritual",
-                "duration": "P00H13M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-42"
-            }
+            "track_name": "Ritual",
+            "track_link": "https://papadosio.bandcamp.com/track/ritual-42",
+            "track_duration": "P00H13M16S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H14M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-95"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-95",
+            "track_duration": "P00H14M14S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Glimpse Of Light",
-                "duration": "P00H05M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-60"
-            }
+            "track_name": "Glimpse Of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-60",
+            "track_duration": "P00H05M45S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "You And Yourself",
-                "duration": "P00H18M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-77"
-            }
+            "track_name": "You And Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-77",
+            "track_duration": "P00H18M15S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H12M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-112"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-112",
+            "track_duration": "P00H12M10S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Fate",
-                "duration": "P00H06M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fate-9"
-            }
+            "track_name": "Fate",
+            "track_link": "https://papadosio.bandcamp.com/track/fate-9",
+            "track_duration": "P00H06M36S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Dare You",
-                "duration": "P00H07M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-22"
-            }
+            "track_name": "Dare You",
+            "track_link": "https://papadosio.bandcamp.com/track/dare-you-22",
+            "track_duration": "P00H07M10S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H13M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-128"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-128",
+            "track_duration": "P00H13M23S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Shiitake",
-                "duration": "P00H11M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-35"
-            }
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-35",
+            "track_duration": "P00H11M27S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H16M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-74"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-74",
+            "track_duration": "P00H16M05S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1764382563_10.jpg",
-    "datePublished": "30 Nov 2023 18:18:30 GMT",
-    "description": "Thanks so much Cincinnati, it felt so right to be back! We hope to see you again soon, it was too much fun....",
-    "duration": "P02H10M59S"
+    ]
 }

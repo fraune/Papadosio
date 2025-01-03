@@ -1,68 +1,45 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/catskill-chill-2014",
-    "name": "Catskill Chill 2014",
-    "dateModified": "15 Sep 2014 14:26:45 GMT",
-    "numTracks": 7,
-    "track": [
+    "album_name": "Catskill Chill 2014",
+    "album_link": "https://papadosio.bandcamp.com/album/catskill-chill-2014",
+    "date_modified": "15 Sep 2014 14:26:45 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1776753541_10.jpg",
+    "date_published": "15 Sep 2014 14:26:45 GMT",
+    "album_duration": "P01H27M05S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H20M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-38"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-38",
+            "track_duration": "P00H20M34S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H11M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-22"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-22",
+            "track_duration": "P00H11M35S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Holy Heck",
-                "duration": "P00H08M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-14"
-            }
+            "track_name": "Holy Heck",
+            "track_link": "https://papadosio.bandcamp.com/track/holy-heck-14",
+            "track_duration": "P00H08M30S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Unparalyzer w/ Eli Winderman*",
-                "duration": "P00H17M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-w-eli-winderman"
-            }
+            "track_name": "Unparalyzer w/ Eli Winderman*",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-w-eli-winderman",
+            "track_duration": "P00H17M05S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H11M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-43"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-43",
+            "track_duration": "P00H11M40S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H08M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-20"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-20",
+            "track_duration": "P00H08M55S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Frequence",
-                "duration": "P00H08M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-6"
-            }
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-6",
+            "track_duration": "P00H08M46S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1776753541_10.jpg",
-    "datePublished": "15 Sep 2014 14:26:45 GMT",
-    "description": "Papadosio returned to Catskill Chill for late night Saturday.\r\n* w/ Eli Winderman (Dopapod)",
-    "duration": "P01H27M05S"
+    ]
 }

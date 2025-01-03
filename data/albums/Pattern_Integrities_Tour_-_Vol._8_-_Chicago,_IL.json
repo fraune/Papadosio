@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/pattern-integrities-tour-vol-8-chicago-il",
-    "name": "Pattern Integrities Tour - Vol. 8 - Chicago, IL",
-    "dateModified": "25 Oct 2016 01:59:56 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Pattern Integrities Tour - Vol. 8 - Chicago, IL",
+    "album_link": "https://papadosio.bandcamp.com/album/pattern-integrities-tour-vol-8-chicago-il",
+    "date_modified": "25 Oct 2016 01:59:56 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1144004147_10.jpg",
+    "date_published": "25 Oct 2016 01:59:56 GMT",
+    "album_duration": "P01H53M48S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H23M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-43"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-43",
+            "track_duration": "P00H23M50S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Lack of Everything",
-                "duration": "P00H06M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lack-of-everything-7"
-            }
+            "track_name": "Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/lack-of-everything-7",
+            "track_duration": "P00H06M54S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Each and Every Wave",
-                "duration": "P00H06M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-5"
-            }
+            "track_name": "Each and Every Wave",
+            "track_link": "https://papadosio.bandcamp.com/track/each-and-every-wave-5",
+            "track_duration": "P00H06M30S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H14M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-34"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-34",
+            "track_duration": "P00H14M49S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Bypass Default",
-                "duration": "P00H08M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-27"
-            }
+            "track_name": "Bypass Default",
+            "track_link": "https://papadosio.bandcamp.com/track/bypass-default-27",
+            "track_duration": "P00H08M09S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Do Joy Jam",
-                "duration": "P00H12M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/do-joy-jam"
-            }
+            "track_name": "Do Joy Jam",
+            "track_link": "https://papadosio.bandcamp.com/track/do-joy-jam",
+            "track_duration": "P00H12M33S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Drift",
-                "duration": "P00H06M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-5"
-            }
+            "track_name": "Drift",
+            "track_link": "https://papadosio.bandcamp.com/track/drift-5",
+            "track_duration": "P00H06M16S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H10M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-42"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-42",
+            "track_duration": "P00H10M23S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H11M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-35"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-35",
+            "track_duration": "P00H11M28S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Omnifreeze",
-                "duration": "P00H05M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-5"
-            }
+            "track_name": "Omnifreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-5",
+            "track_duration": "P00H05M54S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H07M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-9"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-9",
+            "track_duration": "P00H07M02S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1144004147_10.jpg",
-    "datePublished": "25 Oct 2016 01:59:56 GMT",
-    "description": null,
-    "duration": "P01H53M48S"
+    ]
 }

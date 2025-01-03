@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-at-the-international-imaginal-cells-tour",
-    "name": "Live at the International - Imaginal Cells Tour",
-    "dateModified": "17 Nov 2014 15:51:03 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Live at the International - Imaginal Cells Tour",
+    "album_link": "https://papadosio.bandcamp.com/album/live-at-the-international-imaginal-cells-tour",
+    "date_modified": "17 Nov 2014 15:51:03 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0718057296_10.jpg",
+    "date_published": "17 Nov 2014 15:41:53 GMT",
+    "album_duration": "P02H08M14S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-36"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-36",
+            "track_duration": "P00H09M25S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Magreenery>",
-                "duration": "P00H19M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-21"
-            }
+            "track_name": "Magreenery>",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-21",
+            "track_duration": "P00H19M05S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Right Now",
-                "duration": "P00H07M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-17"
-            }
+            "track_name": "Right Now",
+            "track_link": "https://papadosio.bandcamp.com/track/right-now-17",
+            "track_duration": "P00H07M48S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The Elephant I Presume",
-                "duration": "P00H08M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-12"
-            }
+            "track_name": "The Elephant I Presume",
+            "track_link": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-12",
+            "track_duration": "P00H08M29S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H13M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-35"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-35",
+            "track_duration": "P00H13M20S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Monochrome>",
-                "duration": "P00H17M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-18"
-            }
+            "track_name": "Monochrome>",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-18",
+            "track_duration": "P00H17M38S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Hippie Babsitter",
-                "duration": "P00H15M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babsitter"
-            }
+            "track_name": "Hippie Babsitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babsitter",
+            "track_duration": "P00H15M44S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H08M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-34"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-34",
+            "track_duration": "P00H08M55S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Direction Song",
-                "duration": "P00H08M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-22"
-            }
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-22",
+            "track_duration": "P00H08M26S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Method of Control>",
-                "duration": "P00H11M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-31"
-            }
+            "track_name": "Method of Control>",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-31",
+            "track_duration": "P00H11M13S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H08M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-29"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-29",
+            "track_duration": "P00H08M11S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0718057296_10.jpg",
-    "datePublished": "17 Nov 2014 15:41:53 GMT",
-    "description": null,
-    "duration": "P02H08M14S"
+    ]
 }

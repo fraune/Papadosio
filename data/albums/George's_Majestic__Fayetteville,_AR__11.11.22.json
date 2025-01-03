@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/georges-majestic-fayetteville-ar-111122",
-    "name": "George's Majestic | Fayetteville, AR | 11.11.22",
-    "dateModified": "21 Nov 2022 23:29:21 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "George's Majestic | Fayetteville, AR | 11.11.22",
+    "album_link": "https://papadosio.bandcamp.com/album/georges-majestic-fayetteville-ar-111122",
+    "date_modified": "21 Nov 2022 23:29:21 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1348811971_10.jpg",
+    "date_published": "21 Nov 2022 23:29:21 GMT",
+    "album_duration": "P02H10M03S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H11M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-144"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-144",
+            "track_duration": "P00H11M15S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Versicolor",
-                "duration": "P00H07M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-27"
-            }
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-27",
+            "track_duration": "P00H07M19S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H23M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-173"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-173",
+            "track_duration": "P00H23M20S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Epiphany",
-                "duration": "P00H09M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-59"
-            }
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-59",
+            "track_duration": "P00H09M14S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Chaga",
-                "duration": "P00H05M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/chaga-19"
-            }
+            "track_name": "Chaga",
+            "track_link": "https://papadosio.bandcamp.com/track/chaga-19",
+            "track_duration": "P00H05M11S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H07M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-62"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-62",
+            "track_duration": "P00H07M59S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Method Of Control",
-                "duration": "P00H12M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-118"
-            }
+            "track_name": "Method Of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-118",
+            "track_duration": "P00H12M11S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Out Of Hiding",
-                "duration": "P00H12M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-54"
-            }
+            "track_name": "Out Of Hiding",
+            "track_link": "https://papadosio.bandcamp.com/track/out-of-hiding-54",
+            "track_duration": "P00H12M07S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H15M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-86"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-86",
+            "track_duration": "P00H15M42S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H17M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-95"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-95",
+            "track_duration": "P00H17M30S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H08M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-91"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-91",
+            "track_duration": "P00H08M15S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1348811971_10.jpg",
-    "datePublished": "21 Nov 2022 23:29:21 GMT",
-    "description": "We had a blast as always, Fayetteville. Thanks for always rolling deep and bringing the energy!",
-    "duration": "P02H10M03S"
+    ]
 }

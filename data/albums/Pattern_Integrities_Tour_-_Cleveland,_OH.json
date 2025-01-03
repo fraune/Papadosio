@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/pattern-integrities-tour-cleveland-oh",
-    "name": "Pattern Integrities Tour - Cleveland, OH",
-    "dateModified": "30 Nov 2016 21:39:57 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Pattern Integrities Tour - Cleveland, OH",
+    "album_link": "https://papadosio.bandcamp.com/album/pattern-integrities-tour-cleveland-oh",
+    "date_modified": "30 Nov 2016 21:39:57 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2157251759_10.jpg",
+    "date_published": "30 Nov 2016 21:39:57 GMT",
+    "album_duration": "P02H00M18S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "...and this is what he thought",
-                "duration": "P00H04M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-22"
-            }
+            "track_name": "...and this is what he thought",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-22",
+            "track_duration": "P00H04M56S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H19M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-44"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-44",
+            "track_duration": "P00H19M39S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Each and Every Wave",
-                "duration": "P00H06M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-11"
-            }
+            "track_name": "Each and Every Wave",
+            "track_link": "https://papadosio.bandcamp.com/track/each-and-every-wave-11",
+            "track_duration": "P00H06M46S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Ritual",
-                "duration": "P00H12M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-29"
-            }
+            "track_name": "Ritual",
+            "track_link": "https://papadosio.bandcamp.com/track/ritual-29",
+            "track_duration": "P00H12M06S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H15M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-40"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-40",
+            "track_duration": "P00H15M30S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H11M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-11"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-11",
+            "track_duration": "P00H11M15S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H18M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-86"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-86",
+            "track_duration": "P00H18M14S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "We Choose",
-                "duration": "P00H06M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-34"
-            }
+            "track_name": "We Choose",
+            "track_link": "https://papadosio.bandcamp.com/track/we-choose-34",
+            "track_duration": "P00H06M59S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H07M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-43"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-43",
+            "track_duration": "P00H07M07S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H07M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-10"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-10",
+            "track_duration": "P00H07M06S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H10M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-15"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-15",
+            "track_duration": "P00H10M40S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2157251759_10.jpg",
-    "datePublished": "30 Nov 2016 21:39:57 GMT",
-    "description": null,
-    "duration": "P02H00M18S"
+    ]
 }

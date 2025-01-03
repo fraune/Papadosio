@@ -1,148 +1,95 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/10920-smoky-mountain-event-center-waynesville-nc",
-    "name": "10.9.20 | Smoky Mountain Event Center | Waynesville, NC",
-    "dateModified": "21 Oct 2020 17:19:56 GMT",
-    "numTracks": 17,
-    "track": [
+    "album_name": "10.9.20 | Smoky Mountain Event Center | Waynesville, NC",
+    "album_link": "https://papadosio.bandcamp.com/album/10920-smoky-mountain-event-center-waynesville-nc",
+    "date_modified": "21 Oct 2020 17:19:56 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1190491300_10.jpg",
+    "date_published": "21 Oct 2020 00:00:00 GMT",
+    "album_duration": "P02H35M44S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H17M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-80"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-80",
+            "track_duration": "P00H17M16S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Shiitake",
-                "duration": "P00H08M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-5"
-            }
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-5",
+            "track_duration": "P00H08M50S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Agarikon",
-                "duration": "P00H06M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/agarikon-3"
-            }
+            "track_name": "Agarikon",
+            "track_link": "https://papadosio.bandcamp.com/track/agarikon-3",
+            "track_duration": "P00H06M41S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Fly Agaric",
-                "duration": "P00H13M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agaric-7"
-            }
+            "track_name": "Fly Agaric",
+            "track_link": "https://papadosio.bandcamp.com/track/fly-agaric-7",
+            "track_duration": "P00H13M59S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H09M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-31"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-31",
+            "track_duration": "P00H09M13S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-105"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-105",
+            "track_duration": "P00H07M15S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H20M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-74"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-74",
+            "track_duration": "P00H20M45S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Out Of Hiding",
-                "duration": "P00H12M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-44"
-            }
+            "track_name": "Out Of Hiding",
+            "track_link": "https://papadosio.bandcamp.com/track/out-of-hiding-44",
+            "track_duration": "P00H12M53S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-138"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-138",
+            "track_duration": "P00H08M02S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Out Of Hiding",
-                "duration": "P00H02M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-45"
-            }
+            "track_name": "Out Of Hiding",
+            "track_link": "https://papadosio.bandcamp.com/track/out-of-hiding-45",
+            "track_duration": "P00H02M53S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Glimpse of Light",
-                "duration": "P00H06M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-53"
-            }
+            "track_name": "Glimpse of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-53",
+            "track_duration": "P00H06M11S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Cordyceps",
-                "duration": "P00H05M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cordyceps-4"
-            }
+            "track_name": "Cordyceps",
+            "track_link": "https://papadosio.bandcamp.com/track/cordyceps-4",
+            "track_duration": "P00H05M14S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Fire Rite",
-                "duration": "P00H04M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-38"
-            }
+            "track_name": "Fire Rite",
+            "track_link": "https://papadosio.bandcamp.com/track/fire-rite-38",
+            "track_duration": "P00H04M47S"
         },
         {
-            "position": 14,
-            "item": {
-                "name": "Catalyst",
-                "duration": "P00H08M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-20"
-            }
+            "track_name": "Catalyst",
+            "track_link": "https://papadosio.bandcamp.com/track/catalyst-20",
+            "track_duration": "P00H08M55S"
         },
         {
-            "position": 15,
-            "item": {
-                "name": "Fire Rite",
-                "duration": "P00H05M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-39"
-            }
+            "track_name": "Fire Rite",
+            "track_link": "https://papadosio.bandcamp.com/track/fire-rite-39",
+            "track_duration": "P00H05M57S"
         },
         {
-            "position": 16,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-104"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-104",
+            "track_duration": "P00H09M04S"
         },
         {
-            "position": 17,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H07M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-47"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-47",
+            "track_duration": "P00H07M49S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1190491300_10.jpg",
-    "datePublished": "21 Oct 2020 00:00:00 GMT",
-    "description": "This album was recorded on October 10th, 2020 at the Papadosio drive-in event in Waynesville, NC. thanks to everybody who came out to show love and support us at our only show in fall 2020.",
-    "duration": "P02H35M44S"
+    ]
 }

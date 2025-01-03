@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/earth-night-2016-live-pa-set-columbus-oh",
-    "name": "Earth Night 2016 - Live PA Set - Columbus, OH",
-    "dateModified": "10 Jul 2023 17:51:43 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "Earth Night 2016 - Live PA Set - Columbus, OH",
+    "album_link": "https://papadosio.bandcamp.com/album/earth-night-2016-live-pa-set-columbus-oh",
+    "date_modified": "10 Jul 2023 17:51:43 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1844287445_10.jpg",
+    "date_published": "30 Dec 2016 00:00:00 GMT",
+    "album_duration": "P02H04M40S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "How's My Zenglish",
-                "duration": "P00H12M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hows-my-zenglish"
-            }
+            "track_name": "How's My Zenglish",
+            "track_link": "https://papadosio.bandcamp.com/track/hows-my-zenglish",
+            "track_duration": "P00H12M34S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "You're Gonna Need a Bigger Goat",
-                "duration": "P00H05M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-gonna-need-a-bigger-goat"
-            }
+            "track_name": "You're Gonna Need a Bigger Goat",
+            "track_link": "https://papadosio.bandcamp.com/track/youre-gonna-need-a-bigger-goat",
+            "track_duration": "P00H05M48S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Guy of the Tiger",
-                "duration": "P00H09M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/guy-of-the-tiger"
-            }
+            "track_name": "Guy of the Tiger",
+            "track_link": "https://papadosio.bandcamp.com/track/guy-of-the-tiger",
+            "track_duration": "P00H09M06S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Fibberty Gilbert",
-                "duration": "P00H20M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fibberty-gilbert"
-            }
+            "track_name": "Fibberty Gilbert",
+            "track_link": "https://papadosio.bandcamp.com/track/fibberty-gilbert",
+            "track_duration": "P00H20M03S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "A Great Man Once Said...",
-                "duration": "P00H13M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/a-great-man-once-said"
-            }
+            "track_name": "A Great Man Once Said...",
+            "track_link": "https://papadosio.bandcamp.com/track/a-great-man-once-said",
+            "track_duration": "P00H13M05S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Nevermind",
-                "duration": "P00H10M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/nevermind"
-            }
+            "track_name": "Nevermind",
+            "track_link": "https://papadosio.bandcamp.com/track/nevermind",
+            "track_duration": "P00H10M51S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Weekend at Bernie Sanders",
-                "duration": "P00H11M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/weekend-at-bernie-sanders"
-            }
+            "track_name": "Weekend at Bernie Sanders",
+            "track_link": "https://papadosio.bandcamp.com/track/weekend-at-bernie-sanders",
+            "track_duration": "P00H11M02S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Candy Cain & Abel",
-                "duration": "P00H09M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/candy-cain-abel"
-            }
+            "track_name": "Candy Cain & Abel",
+            "track_link": "https://papadosio.bandcamp.com/track/candy-cain-abel",
+            "track_duration": "P00H09M34S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Bonus Level (Is that Beau!?)",
-                "duration": "P00H13M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bonus-level-is-that-beau"
-            }
+            "track_name": "Bonus Level (Is that Beau!?)",
+            "track_link": "https://papadosio.bandcamp.com/track/bonus-level-is-that-beau",
+            "track_duration": "P00H13M57S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "There's a Snake in my Bootsy Collins",
-                "duration": "P00H18M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/theres-a-snake-in-my-bootsy-collins"
-            }
+            "track_name": "There's a Snake in my Bootsy Collins",
+            "track_link": "https://papadosio.bandcamp.com/track/theres-a-snake-in-my-bootsy-collins",
+            "track_duration": "P00H18M40S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1844287445_10.jpg",
-    "datePublished": "30 Dec 2016 00:00:00 GMT",
-    "description": null,
-    "duration": "P02H04M40S"
+    ]
 }

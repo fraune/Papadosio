@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/6718-the-firmament-greenville-sc",
-    "name": "6.7.18 | the Firmament | Greenville, SC",
-    "dateModified": "19 Jun 2018 20:23:59 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "6.7.18 | the Firmament | Greenville, SC",
+    "album_link": "https://papadosio.bandcamp.com/album/6718-the-firmament-greenville-sc",
+    "date_modified": "19 Jun 2018 20:23:59 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3555204279_10.jpg",
+    "date_published": "19 Jun 2018 20:23:59 GMT",
+    "album_duration": "P01H55M19S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H03M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-58"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-58",
+            "track_duration": "P00H03M18S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-88"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-88",
+            "track_duration": "P00H07M11S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H10M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-40"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-40",
+            "track_duration": "P00H10M16S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H16M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-106"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-106",
+            "track_duration": "P00H16M43S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Omnifreeze",
-                "duration": "P00H08M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-36"
-            }
+            "track_name": "Omnifreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-36",
+            "track_duration": "P00H08M50S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H17M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-59"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-59",
+            "track_duration": "P00H17M13S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Utopiate*",
-                "duration": "P00H11M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-67"
-            }
+            "track_name": "Utopiate*",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-67",
+            "track_duration": "P00H11M46S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H10M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-49"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-49",
+            "track_duration": "P00H10M40S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H13M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-111"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-111",
+            "track_duration": "P00H13M44S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H09M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-60"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-60",
+            "track_duration": "P00H09M10S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H06M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-40"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-40",
+            "track_duration": "P00H06M28S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3555204279_10.jpg",
-    "datePublished": "19 Jun 2018 20:23:59 GMT",
-    "description": "This album was recorded on June 7th in Greenville, SC! Summer Tour is in full effect! Thanks to Brooks Dixon Band for the support and we will see you again next time!",
-    "duration": "P01H55M19S"
+    ]
 }

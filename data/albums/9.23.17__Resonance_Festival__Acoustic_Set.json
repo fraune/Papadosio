@@ -1,76 +1,50 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/92317-resonance-festival-acoustic-set",
-    "name": "9.23.17 | Resonance Festival | Acoustic Set",
-    "dateModified": "29 Sep 2017 23:48:22 GMT",
-    "numTracks": 8,
-    "track": [
+    "album_name": "9.23.17 | Resonance Festival | Acoustic Set",
+    "album_link": "https://papadosio.bandcamp.com/album/92317-resonance-festival-acoustic-set",
+    "date_modified": "29 Sep 2017 23:48:22 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0530115340_10.jpg",
+    "date_published": "29 Sep 2017 23:48:22 GMT",
+    "album_duration": "P01H26M15S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Monochrome (Acoustic)",
-                "duration": "P00H08M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-acoustic"
-            }
+            "track_name": "Monochrome (Acoustic)",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-acoustic",
+            "track_duration": "P00H08M13S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Mr. Turtle's Cloud Kingdom (Acoustic)",
-                "duration": "P00H06M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-acoustic"
-            }
+            "track_name": "Mr. Turtle's Cloud Kingdom (Acoustic)",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-acoustic",
+            "track_duration": "P00H06M39S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Unparalyzer (Acoustic)",
-                "duration": "P00H13M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-acoustic"
-            }
+            "track_name": "Unparalyzer (Acoustic)",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-acoustic",
+            "track_duration": "P00H13M31S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Cloud Found (Acoustic) ft. Cass House",
-                "duration": "P00H09M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-acoustic-ft-cass-house"
-            }
+            "track_name": "Cloud Found (Acoustic) ft. Cass House",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-acoustic-ft-cass-house",
+            "track_duration": "P00H09M22S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Holy Heck (Acoustic)",
-                "duration": "P00H13M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-acoustic"
-            }
+            "track_name": "Holy Heck (Acoustic)",
+            "track_link": "https://papadosio.bandcamp.com/track/holy-heck-acoustic",
+            "track_duration": "P00H13M34S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Distant Days (Acoustic)",
-                "duration": "P00H06M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distant-days-acoustic"
-            }
+            "track_name": "Distant Days (Acoustic)",
+            "track_link": "https://papadosio.bandcamp.com/track/distant-days-acoustic",
+            "track_duration": "P00H06M52S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Find Your Cloud (Acoustic)",
-                "duration": "P00H17M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-acoustic"
-            }
+            "track_name": "Find Your Cloud (Acoustic)",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-acoustic",
+            "track_duration": "P00H17M14S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "The Big Smile (Acoustic)",
-                "duration": "P00H10M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-big-smile-acoustic"
-            }
+            "track_name": "The Big Smile (Acoustic)",
+            "track_link": "https://papadosio.bandcamp.com/track/the-big-smile-acoustic",
+            "track_duration": "P00H10M50S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0530115340_10.jpg",
-    "datePublished": "29 Sep 2017 23:48:22 GMT",
-    "description": "All material was written & recorded by Papadosio on September 23rd 2017! Night 3 of Resonance festival at Legend Valley in Thornville, OH",
-    "duration": "P01H26M15S"
+    ]
 }

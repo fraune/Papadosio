@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/tipitinas-new-orleans-la-3423",
-    "name": "Tipitina's | New Orleans, LA | 3.4.23",
-    "dateModified": "20 Mar 2023 18:19:37 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Tipitina's | New Orleans, LA | 3.4.23",
+    "album_link": "https://papadosio.bandcamp.com/album/tipitinas-new-orleans-la-3423",
+    "date_modified": "20 Mar 2023 18:19:37 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4177311362_10.jpg",
+    "date_published": "20 Mar 2023 18:19:38 GMT",
+    "album_duration": "P01H52M56S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H11M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-48"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-48",
+            "track_duration": "P00H11M54S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H08M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-118"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-118",
+            "track_duration": "P00H08M57S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Your'e A Catman",
-                "duration": "P00H09M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-7"
-            }
+            "track_name": "Your'e A Catman",
+            "track_link": "https://papadosio.bandcamp.com/track/youre-a-catman-7",
+            "track_duration": "P00H09M07S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Dare You",
-                "duration": "P00H07M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-5"
-            }
+            "track_name": "Dare You",
+            "track_link": "https://papadosio.bandcamp.com/track/dare-you-5",
+            "track_duration": "P00H07M14S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Zoom Out",
-                "duration": "P00H09M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/zoom-out-9"
-            }
+            "track_name": "Zoom Out",
+            "track_link": "https://papadosio.bandcamp.com/track/zoom-out-9",
+            "track_duration": "P00H09M26S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H15M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-121"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-121",
+            "track_duration": "P00H15M10S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "You And Yourself",
-                "duration": "P00H09M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-75"
-            }
+            "track_name": "You And Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-75",
+            "track_duration": "P00H09M01S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Cordyceps",
-                "duration": "P00H08M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cordyceps-17"
-            }
+            "track_name": "Cordyceps",
+            "track_link": "https://papadosio.bandcamp.com/track/cordyceps-17",
+            "track_duration": "P00H08M23S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "You And Yourself -> Cordyceps",
-                "duration": "P00H04M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-cordyceps"
-            }
+            "track_name": "You And Yourself -> Cordyceps",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-cordyceps",
+            "track_duration": "P00H04M02S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H12M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-101"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-101",
+            "track_duration": "P00H12M42S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H17M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-120"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-120",
+            "track_duration": "P00H17M00S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a4177311362_10.jpg",
-    "datePublished": "20 Mar 2023 18:19:38 GMT",
-    "description": null,
-    "duration": "P01H52M56S"
+    ]
 }

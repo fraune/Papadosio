@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/111018-9-30-club-washington-dc",
-    "name": "11.10.18 | 9:30 Club | Washington, DC",
-    "dateModified": "13 Dec 2018 16:45:01 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "11.10.18 | 9:30 Club | Washington, DC",
+    "album_link": "https://papadosio.bandcamp.com/album/111018-9-30-club-washington-dc",
+    "date_modified": "13 Dec 2018 16:45:01 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3503102100_10.jpg",
+    "date_published": "13 Dec 2018 16:45:01 GMT",
+    "album_duration": "P01H50M11S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H05M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-12"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-12",
+            "track_duration": "P00H05M45S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "The Lack of Everything",
-                "duration": "P00H06M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-35"
-            }
+            "track_name": "The Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-35",
+            "track_duration": "P00H06M31S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H15M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-130"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-130",
+            "track_duration": "P00H15M37S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H14M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-63"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-63",
+            "track_duration": "P00H14M30S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H03M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-129"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-129",
+            "track_duration": "P00H03M03S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H11M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-56"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-56",
+            "track_duration": "P00H11M32S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Pool of Stars",
-                "duration": "P00H05M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-15"
-            }
+            "track_name": "Pool of Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/pool-of-stars-15",
+            "track_duration": "P00H05M28S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H08M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-56"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-56",
+            "track_duration": "P00H08M09S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H07M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-94"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-94",
+            "track_duration": "P00H07M29S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "You & Yourself",
-                "duration": "P00H17M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-yourself-2"
-            }
+            "track_name": "You & Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-yourself-2",
+            "track_duration": "P00H17M10S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Content Coma",
-                "duration": "P00H08M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/content-coma-14"
-            }
+            "track_name": "Content Coma",
+            "track_link": "https://papadosio.bandcamp.com/track/content-coma-14",
+            "track_duration": "P00H08M32S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Fire Rite",
-                "duration": "P00H06M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-13"
-            }
+            "track_name": "Fire Rite",
+            "track_link": "https://papadosio.bandcamp.com/track/fire-rite-13",
+            "track_duration": "P00H06M25S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3503102100_10.jpg",
-    "datePublished": "13 Dec 2018 16:45:01 GMT",
-    "description": "This album was recorded on November 10th, 2018 on the Content Coma Fall Tour! Thanks to everybody who came out in DC to show some love & thanks to LITZ for getting the night opened up for us. Thank you all for your patience as these soundboards roll out, some of these files are on tour with Jimmy Buffets backing band at the moment and will be back soon. Thank you all for your patience & support!",
-    "duration": "P01H50M11S"
+    ]
 }

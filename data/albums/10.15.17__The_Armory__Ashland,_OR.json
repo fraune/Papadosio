@@ -1,84 +1,55 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/101517-the-armory-ashland-or",
-    "name": "10.15.17 | The Armory | Ashland, OR",
-    "dateModified": "19 Oct 2017 00:45:19 GMT",
-    "numTracks": 9,
-    "track": [
+    "album_name": "10.15.17 | The Armory | Ashland, OR",
+    "album_link": "https://papadosio.bandcamp.com/album/101517-the-armory-ashland-or",
+    "date_modified": "19 Oct 2017 00:45:19 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3456589571_10.jpg",
+    "date_published": "19 Oct 2017 00:45:19 GMT",
+    "album_duration": "P01H25M56S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H09M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-35"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-35",
+            "track_duration": "P00H09M28S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-80"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-80",
+            "track_duration": "P00H09M18S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H18M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-51"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-51",
+            "track_duration": "P00H18M47S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H06M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-53"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-53",
+            "track_duration": "P00H06M48S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H11M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-34"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-34",
+            "track_duration": "P00H11M37S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Out of Hiding",
-                "duration": "P00H07M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-30"
-            }
+            "track_name": "Out of Hiding",
+            "track_link": "https://papadosio.bandcamp.com/track/out-of-hiding-30",
+            "track_duration": "P00H07M46S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Bypass Default",
-                "duration": "P00H06M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-30"
-            }
+            "track_name": "Bypass Default",
+            "track_link": "https://papadosio.bandcamp.com/track/bypass-default-30",
+            "track_duration": "P00H06M57S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "The Wrong Nostalgia",
-                "duration": "P00H05M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-36"
-            }
+            "track_name": "The Wrong Nostalgia",
+            "track_link": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-36",
+            "track_duration": "P00H05M06S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H10M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-53"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-53",
+            "track_duration": "P00H10M09S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3456589571_10.jpg",
-    "datePublished": "19 Oct 2017 00:45:19 GMT",
-    "description": "Recorded on October 15th, 2017 at The Armory in Ashland, OR during the Shapeshiftour 2017",
-    "duration": "P01H25M56S"
+    ]
 }

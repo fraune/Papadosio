@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/6818-music-farm-charleston-sc",
-    "name": "6.8.18 | Music Farm | Charleston, SC",
-    "dateModified": "10 Jul 2018 22:35:51 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "6.8.18 | Music Farm | Charleston, SC",
+    "album_link": "https://papadosio.bandcamp.com/album/6818-music-farm-charleston-sc",
+    "date_modified": "10 Jul 2018 22:35:51 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2435341599_10.jpg",
+    "date_published": "10 Jul 2018 22:35:51 GMT",
+    "album_duration": "P01H49M24S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H06M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-79"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-79",
+            "track_duration": "P00H06M56S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H06M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-60"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-60",
+            "track_duration": "P00H06M13S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Paradigm Reprise",
-                "duration": "P00H11M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-reprise-2"
-            }
+            "track_name": "Paradigm Reprise",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-reprise-2",
+            "track_duration": "P00H11M48S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-88"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-88",
+            "track_duration": "P00H09M35S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H09M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-87"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-87",
+            "track_duration": "P00H09M13S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H09M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-68"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-68",
+            "track_duration": "P00H09M55S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H16M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-100"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-100",
+            "track_duration": "P00H16M19S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H14M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-49"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-49",
+            "track_duration": "P00H14M41S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Holy Heck",
-                "duration": "P00H07M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-40"
-            }
+            "track_name": "Holy Heck",
+            "track_link": "https://papadosio.bandcamp.com/track/holy-heck-40",
+            "track_duration": "P00H07M14S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H17M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-85"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-85",
+            "track_duration": "P00H17M30S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2435341599_10.jpg",
-    "datePublished": "10 Jul 2018 22:35:51 GMT",
-    "description": "This album was recorded on June 8th in Charleston, SC! Summer Tour is in full effect! Thanks to The Music Farm for Having us out and thanks to Schema for opening the night up!",
-    "duration": "P01H49M24S"
+    ]
 }

@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/101718-arcata-theatre-arcata-ca",
-    "name": "10.17.18 | Arcata Theatre | Arcata, CA",
-    "dateModified": "02 Nov 2018 18:49:34 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "10.17.18 | Arcata Theatre | Arcata, CA",
+    "album_link": "https://papadosio.bandcamp.com/album/101718-arcata-theatre-arcata-ca",
+    "date_modified": "02 Nov 2018 18:49:34 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2765062121_10.jpg",
+    "date_published": "26 Oct 2018 00:00:00 GMT",
+    "album_duration": "P01H50M33S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Lack of Everything",
-                "duration": "P00H07M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-33"
-            }
+            "track_name": "The Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-33",
+            "track_duration": "P00H07M51S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "The World is a Cube",
-                "duration": "P00H04M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-7"
-            }
+            "track_name": "The World is a Cube",
+            "track_link": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-7",
+            "track_duration": "P00H04M22S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "How Not to Float",
-                "duration": "P00H12M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-49"
-            }
+            "track_name": "How Not to Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-49",
+            "track_duration": "P00H12M44S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Pool of Stars",
-                "duration": "P00H05M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-11"
-            }
+            "track_name": "Pool of Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/pool-of-stars-11",
+            "track_duration": "P00H05M47S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H08M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-50"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-50",
+            "track_duration": "P00H08M32S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H08M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-11"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-11",
+            "track_duration": "P00H08M39S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Just Like the Days",
-                "duration": "P00H05M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/just-like-the-days-5"
-            }
+            "track_name": "Just Like the Days",
+            "track_link": "https://papadosio.bandcamp.com/track/just-like-the-days-5",
+            "track_duration": "P00H05M03S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Ear to Ear",
-                "duration": "P00H08M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-34"
-            }
+            "track_name": "Ear to Ear",
+            "track_link": "https://papadosio.bandcamp.com/track/ear-to-ear-34",
+            "track_duration": "P00H08M52S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "find Your Cloud",
-                "duration": "P00H21M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-125"
-            }
+            "track_name": "find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-125",
+            "track_duration": "P00H21M42S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H09M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-52"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-52",
+            "track_duration": "P00H09M15S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H17M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-106"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-106",
+            "track_duration": "P00H17M46S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2765062121_10.jpg",
-    "datePublished": "26 Oct 2018 00:00:00 GMT",
-    "description": "This album was recorded in Arcata, CA on October 17th at The Arcata Theatre. Thanks to everybody who came out and we cant wait to be back in Arcata!",
-    "duration": "P01H50M33S"
+    ]
 }

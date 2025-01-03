@@ -1,84 +1,55 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/avl-fest-salvage-station-asheville-nc-8324",
-    "name": "AVL Fest | Salvage Station | Asheville, NC | 8.3.24",
-    "dateModified": "07 Aug 2024 14:23:39 GMT",
-    "numTracks": 9,
-    "track": [
+    "album_name": "AVL Fest | Salvage Station | Asheville, NC | 8.3.24",
+    "album_link": "https://papadosio.bandcamp.com/album/avl-fest-salvage-station-asheville-nc-8324",
+    "date_modified": "07 Aug 2024 14:23:39 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3451864016_10.jpg",
+    "date_published": "07 Aug 2024 14:23:40 GMT",
+    "album_duration": "P01H29M43S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Shiitake",
-                "duration": "P00H11M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-48"
-            }
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-48",
+            "track_duration": "P00H11M37S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Pool Of Stars",
-                "duration": "P00H06M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-33"
-            }
+            "track_name": "Pool Of Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/pool-of-stars-33",
+            "track_duration": "P00H06M52S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H07M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-132"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-132",
+            "track_duration": "P00H07M56S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H14M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-172"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-172",
+            "track_duration": "P00H14M34S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Everybody Wants To Rule The World*",
-                "duration": "P00H06M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/everybody-wants-to-rule-the-world-2"
-            }
+            "track_name": "Everybody Wants To Rule The World*",
+            "track_link": "https://papadosio.bandcamp.com/track/everybody-wants-to-rule-the-world-2",
+            "track_duration": "P00H06M16S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "You And Yourself",
-                "duration": "P00H13M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-80"
-            }
+            "track_name": "You And Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-80",
+            "track_duration": "P00H13M04S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Who You Are ft. Stephanie Morgan",
-                "duration": "P00H08M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/who-you-are-ft-stephanie-morgan"
-            }
+            "track_name": "Who You Are ft. Stephanie Morgan",
+            "track_link": "https://papadosio.bandcamp.com/track/who-you-are-ft-stephanie-morgan",
+            "track_duration": "P00H08M07S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Versicolor",
-                "duration": "P00H11M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-53"
-            }
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-53",
+            "track_duration": "P00H11M01S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H10M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-199"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-199",
+            "track_duration": "P00H10M16S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3451864016_10.jpg",
-    "datePublished": "07 Aug 2024 14:23:40 GMT",
-    "description": "Such an unforgettable weekend in Asheville! Thank you to everyone who came out and supported all of the musicians in town, it was special to be a part of something so unique to where we live. Thank you AVL Fest and we will see you all soon!",
-    "duration": "P01H29M43S"
+    ]
 }

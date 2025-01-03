@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/102617-the-belly-up-aspen-co",
-    "name": "10.26.17 | The Belly Up | Aspen, CO",
-    "dateModified": "03 Nov 2017 19:40:37 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "10.26.17 | The Belly Up | Aspen, CO",
+    "album_link": "https://papadosio.bandcamp.com/album/102617-the-belly-up-aspen-co",
+    "date_modified": "03 Nov 2017 19:40:37 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1974945693_10.jpg",
+    "date_published": "03 Nov 2017 19:40:37 GMT",
+    "album_duration": "P01H57M36S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "We Can Always Come Back",
-                "duration": "P00H12M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-27"
-            }
+            "track_name": "We Can Always Come Back",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back-27",
+            "track_duration": "P00H12M19S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H08M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-81"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-81",
+            "track_duration": "P00H08M35S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H11M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-100"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-100",
+            "track_duration": "P00H11M45S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H08M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-50"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-50",
+            "track_duration": "P00H08M33S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "You and Yourself",
-                "duration": "P00H16M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-48"
-            }
+            "track_name": "You and Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-48",
+            "track_duration": "P00H16M22S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Bypass Default",
-                "duration": "P00H07M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-31"
-            }
+            "track_name": "Bypass Default",
+            "track_link": "https://papadosio.bandcamp.com/track/bypass-default-31",
+            "track_duration": "P00H07M46S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Anima Mundi",
-                "duration": "P00H09M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-36"
-            }
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-36",
+            "track_duration": "P00H09M16S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H19M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-97"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-97",
+            "track_duration": "P00H19M13S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H14M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-52"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-52",
+            "track_duration": "P00H14M15S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Holy Heck",
-                "duration": "P00H09M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-37"
-            }
+            "track_name": "Holy Heck",
+            "track_link": "https://papadosio.bandcamp.com/track/holy-heck-37",
+            "track_duration": "P00H09M32S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1974945693_10.jpg",
-    "datePublished": "03 Nov 2017 19:40:37 GMT",
-    "description": "Recorded on October 26th, 2017 at The Belly Up, in Aspen, CO during the Rocky Mountain Run 2017",
-    "duration": "P01H57M36S"
+    ]
 }

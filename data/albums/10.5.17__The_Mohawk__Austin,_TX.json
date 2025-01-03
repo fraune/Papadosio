@@ -1,68 +1,45 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/10517-the-mohawk-austin-tx",
-    "name": "10.5.17 | The Mohawk | Austin, TX",
-    "dateModified": "06 Oct 2017 19:55:56 GMT",
-    "numTracks": 7,
-    "track": [
+    "album_name": "10.5.17 | The Mohawk | Austin, TX",
+    "album_link": "https://papadosio.bandcamp.com/album/10517-the-mohawk-austin-tx",
+    "date_modified": "06 Oct 2017 19:55:56 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0478465171_10.jpg",
+    "date_published": "06 Oct 2017 19:55:57 GMT",
+    "album_duration": "P01H25M34S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H18M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-88"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-88",
+            "track_duration": "P00H18M47S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Omnifreeze",
-                "duration": "P00H07M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-25"
-            }
+            "track_name": "Omnifreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-25",
+            "track_duration": "P00H07M50S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Frequence",
-                "duration": "P00H13M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-32"
-            }
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-32",
+            "track_duration": "P00H13M50S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Each and Every Wave",
-                "duration": "P00H07M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-26"
-            }
+            "track_name": "Each and Every Wave",
+            "track_link": "https://papadosio.bandcamp.com/track/each-and-every-wave-26",
+            "track_duration": "P00H07M36S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "You and Yourself",
-                "duration": "P00H14M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-47"
-            }
+            "track_name": "You and Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-47",
+            "track_duration": "P00H14M02S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Therian",
-                "duration": "P00H13M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-28"
-            }
+            "track_name": "Therian",
+            "track_link": "https://papadosio.bandcamp.com/track/therian-28",
+            "track_duration": "P00H13M05S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H10M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-60"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-60",
+            "track_duration": "P00H10M24S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0478465171_10.jpg",
-    "datePublished": "06 Oct 2017 19:55:57 GMT",
-    "description": "Recorded on October 5th, 2017 at The Austin, Texas during the Shapeshiftour 2017",
-    "duration": "P01H25M34S"
+    ]
 }

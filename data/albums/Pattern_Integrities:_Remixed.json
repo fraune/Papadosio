@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/pattern-integrities-remixed",
-    "name": "Pattern Integrities: Remixed",
-    "dateModified": "26 Nov 2022 20:57:57 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "Pattern Integrities: Remixed",
+    "album_link": "https://papadosio.bandcamp.com/album/pattern-integrities-remixed",
+    "date_modified": "26 Nov 2022 20:57:57 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3282737599_10.jpg",
+    "date_published": "28 Mar 2017 00:00:00 GMT",
+    "album_duration": "P00H53M34S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Each and Every Wave - (Bluetech Remix)",
-                "duration": "P00H04M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-bluetech-remix"
-            }
+            "track_name": "Each and Every Wave - (Bluetech Remix)",
+            "track_link": "https://papadosio.bandcamp.com/track/each-and-every-wave-bluetech-remix",
+            "track_duration": "P00H04M58S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Euclidean Lights - (Kalya Scintilla Remix)",
-                "duration": "P00H06M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-kalya-scintilla-remix"
-            }
+            "track_name": "Euclidean Lights - (Kalya Scintilla Remix)",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-kalya-scintilla-remix",
+            "track_duration": "P00H06M54S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom - (Aligning Minds Remix)",
-                "duration": "P00H03M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-aligning-minds-remix"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom - (Aligning Minds Remix)",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-aligning-minds-remix",
+            "track_duration": "P00H03M26S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Omnifreeze - (Living Light Remix)",
-                "duration": "P00H06M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-living-light-remix"
-            }
+            "track_name": "Omnifreeze - (Living Light Remix)",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-living-light-remix",
+            "track_duration": "P00H06M33S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Oblivion - (Push Pull Remix)",
-                "duration": "P00H07M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-push-pull-remix"
-            }
+            "track_name": "Oblivion - (Push Pull Remix)",
+            "track_link": "https://papadosio.bandcamp.com/track/oblivion-push-pull-remix",
+            "track_duration": "P00H07M19S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Vactrollio - (Earthcry Remix)",
-                "duration": "P00H05M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-earthcry-remix"
-            }
+            "track_name": "Vactrollio - (Earthcry Remix)",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-earthcry-remix",
+            "track_duration": "P00H05M03S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Threes - Scott Hannay (Mister F 8 Bit Remix)",
-                "duration": "P00H05M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-scott-hannay-mister-f-8-bit-remix"
-            }
+            "track_name": "Threes - Scott Hannay (Mister F 8 Bit Remix)",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-scott-hannay-mister-f-8-bit-remix",
+            "track_duration": "P00H05M32S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Euclidean Lights - (Soulacybin Remix)",
-                "duration": "P00H04M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-soulacybin-remix"
-            }
+            "track_name": "Euclidean Lights - (Soulacybin Remix)",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-soulacybin-remix",
+            "track_duration": "P00H04M54S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Omnifreeze - (Futexture's Carefully Ambivalent Detailing)",
-                "duration": "P00H04M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-futextures-carefully-ambivalent-detailing"
-            }
+            "track_name": "Omnifreeze - (Futexture's Carefully Ambivalent Detailing)",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-futextures-carefully-ambivalent-detailing",
+            "track_duration": "P00H04M41S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Vactrollio - (Erothyme Remix)",
-                "duration": "P00H04M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-erothyme-remix"
-            }
+            "track_name": "Vactrollio - (Erothyme Remix)",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-erothyme-remix",
+            "track_duration": "P00H04M14S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3282737599_10.jpg",
-    "datePublished": "28 Mar 2017 00:00:00 GMT",
-    "description": "Thank you to all of our friends who collaborated on our first remix album. We think it turned out great and we hope you enjoy it too! \r\n\r\n- Papadosio",
-    "duration": "P00H53M34S"
+    ]
 }

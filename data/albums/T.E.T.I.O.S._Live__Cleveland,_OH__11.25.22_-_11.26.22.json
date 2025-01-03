@@ -1,172 +1,110 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/t-e-t-i-o-s-live-cleveland-oh-112522-112622",
-    "name": "T.E.T.I.O.S. Live | Cleveland, OH | 11.25.22 - 11.26.22",
-    "dateModified": "14 Dec 2022 18:50:05 GMT",
-    "numTracks": 20,
-    "track": [
+    "album_name": "T.E.T.I.O.S. Live | Cleveland, OH | 11.25.22 - 11.26.22",
+    "album_link": "https://papadosio.bandcamp.com/album/t-e-t-i-o-s-live-cleveland-oh-112522-112622",
+    "date_modified": "14 Dec 2022 18:50:05 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4228257696_10.jpg",
+    "date_published": "14 Dec 2022 18:50:05 GMT",
+    "album_duration": "P05H05M37S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Direction Song",
-                "duration": "P00H21M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-69"
-            }
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-69",
+            "track_duration": "P00H21M21S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H20M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-159"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-159",
+            "track_duration": "P00H20M08S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H07M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-82"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-82",
+            "track_duration": "P00H07M06S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Ear To Ear",
-                "duration": "P00H11M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-48"
-            }
+            "track_name": "Ear To Ear",
+            "track_link": "https://papadosio.bandcamp.com/track/ear-to-ear-48",
+            "track_duration": "P00H11M03S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H19M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-145"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-145",
+            "track_duration": "P00H19M14S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Method Of Control",
-                "duration": "P00H26M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-119"
-            }
+            "track_name": "Method Of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-119",
+            "track_duration": "P00H26M12S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Madre de Dios",
-                "duration": "P00H15M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-43"
-            }
+            "track_name": "Madre de Dios",
+            "track_link": "https://papadosio.bandcamp.com/track/madre-de-dios-43",
+            "track_duration": "P00H15M42S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Puddles For Oceans",
-                "duration": "P00H10M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-78"
-            }
+            "track_name": "Puddles For Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-78",
+            "track_duration": "P00H10M57S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H21M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-86"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-86",
+            "track_duration": "P00H21M57S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "And This Is What He Thought...",
-                "duration": "P00H05M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-39"
-            }
+            "track_name": "And This Is What He Thought...",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-39",
+            "track_duration": "P00H05M07S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H13M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-149"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-149",
+            "track_duration": "P00H13M08S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Now That You Know",
-                "duration": "P00H18M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-47"
-            }
+            "track_name": "Now That You Know",
+            "track_link": "https://papadosio.bandcamp.com/track/now-that-you-know-47",
+            "track_duration": "P00H18M02S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Right Now",
-                "duration": "P00H08M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-38"
-            }
+            "track_name": "Right Now",
+            "track_link": "https://papadosio.bandcamp.com/track/right-now-38",
+            "track_duration": "P00H08M10S"
         },
         {
-            "position": 14,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H24M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-63"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-63",
+            "track_duration": "P00H24M20S"
         },
         {
-            "position": 15,
-            "item": {
-                "name": "Oracle Theme",
-                "duration": "P00H18M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-44"
-            }
+            "track_name": "Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/oracle-theme-44",
+            "track_duration": "P00H18M57S"
         },
         {
-            "position": 16,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H20M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-174"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-174",
+            "track_duration": "P00H20M25S"
         },
         {
-            "position": 17,
-            "item": {
-                "name": "T.V. Song",
-                "duration": "P00H04M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/t-v-song"
-            }
+            "track_name": "T.V. Song",
+            "track_link": "https://papadosio.bandcamp.com/track/t-v-song",
+            "track_duration": "P00H04M54S"
         },
         {
-            "position": 18,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H17M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-119"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-119",
+            "track_duration": "P00H17M02S"
         },
         {
-            "position": 19,
-            "item": {
-                "name": "Planting The Seeds Of Life",
-                "duration": "P00H12M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/planting-the-seeds-of-life-18"
-            }
+            "track_name": "Planting The Seeds Of Life",
+            "track_link": "https://papadosio.bandcamp.com/track/planting-the-seeds-of-life-18",
+            "track_duration": "P00H12M05S"
         },
         {
-            "position": 20,
-            "item": {
-                "name": "The Domes",
-                "duration": "P00H09M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-domes"
-            }
+            "track_name": "The Domes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-domes",
+            "track_duration": "P00H09M47S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a4228257696_10.jpg",
-    "datePublished": "14 Dec 2022 18:50:05 GMT",
-    "description": "Beyond grateful to have been able to perform this album in it's entirety for the very first time in Cleveland to celebrate it's 10th year! Thank you to everyone who came to the shows and also to all of the fans, friends, and family who have believed in and supported us for all these years.\r\n This recording includes the first ever performance of \"The Domes\", a song which was recorded and set to go on the original release of TETIOS, but did not make the cut. It was, however, included on the vinyl release in 2022.",
-    "duration": "P05H05M37S"
+    ]
 }

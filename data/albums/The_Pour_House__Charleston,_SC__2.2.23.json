@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/the-pour-house-charleston-sc-2223",
-    "name": "The Pour House | Charleston, SC | 2.2.23",
-    "dateModified": "13 Feb 2023 16:48:28 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "The Pour House | Charleston, SC | 2.2.23",
+    "album_link": "https://papadosio.bandcamp.com/album/the-pour-house-charleston-sc-2223",
+    "date_modified": "13 Feb 2023 16:48:28 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3877856355_10.jpg",
+    "date_published": "13 Feb 2023 16:48:28 GMT",
+    "album_duration": "P01H56M57S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Versicolor",
-                "duration": "P00H08M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-30"
-            }
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-30",
+            "track_duration": "P00H08M10S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H12M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-87"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-87",
+            "track_duration": "P00H12M33S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H08M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-76"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-76",
+            "track_duration": "P00H08M47S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H08M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-120"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-120",
+            "track_duration": "P00H08M32S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Method Of Control",
-                "duration": "P00H08M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-121"
-            }
+            "track_name": "Method Of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-121",
+            "track_duration": "P00H08M16S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Smile And Nod",
-                "duration": "P00H17M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-99"
-            }
+            "track_name": "Smile And Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-99",
+            "track_duration": "P00H17M15S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H13M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-64"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-64",
+            "track_duration": "P00H13M41S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "You're A Catman",
-                "duration": "P00H12M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-4"
-            }
+            "track_name": "You're A Catman",
+            "track_link": "https://papadosio.bandcamp.com/track/youre-a-catman-4",
+            "track_duration": "P00H12M13S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Not Just A Word",
-                "duration": "P00H06M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-9"
-            }
+            "track_name": "Not Just A Word",
+            "track_link": "https://papadosio.bandcamp.com/track/not-just-a-word-9",
+            "track_duration": "P00H06M16S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Advocate Of Change",
-                "duration": "P00H07M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-110"
-            }
+            "track_name": "Advocate Of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-110",
+            "track_duration": "P00H07M54S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H13M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-123"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-123",
+            "track_duration": "P00H13M20S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3877856355_10.jpg",
-    "datePublished": "13 Feb 2023 16:48:28 GMT",
-    "description": "Thanks to everyone who came out to the Pour House this weekend, we had a wonderful time as always!",
-    "duration": "P01H56M57S"
+    ]
 }

@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/deep-ellum-art-co-dallas-tx-12722",
-    "name": "Deep Ellum Art Co. | Dallas, TX | 1.27.22",
-    "dateModified": "01 Feb 2022 19:43:50 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Deep Ellum Art Co. | Dallas, TX | 1.27.22",
+    "album_link": "https://papadosio.bandcamp.com/album/deep-ellum-art-co-dallas-tx-12722",
+    "date_modified": "01 Feb 2022 19:43:50 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0135323170_10.jpg",
+    "date_published": "01 Feb 2022 19:43:50 GMT",
+    "album_duration": "P01H56M20S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H01M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-95"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-95",
+            "track_duration": "P00H01M32S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-142"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-142",
+            "track_duration": "P00H08M06S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Smile And Nod",
-                "duration": "P00H17M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-93"
-            }
+            "track_name": "Smile And Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-93",
+            "track_duration": "P00H17M38S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "By The Light Of The Stars",
-                "duration": "P00H10M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-76"
-            }
+            "track_name": "By The Light Of The Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-76",
+            "track_duration": "P00H10M54S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H13M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-137"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-137",
+            "track_duration": "P00H13M10S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Catalyst",
-                "duration": "P00H09M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-24"
-            }
+            "track_name": "Catalyst",
+            "track_link": "https://papadosio.bandcamp.com/track/catalyst-24",
+            "track_duration": "P00H09M04S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H06M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-77"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-77",
+            "track_duration": "P00H06M41S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Lion's Mane",
-                "duration": "P00H07M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-13"
-            }
+            "track_name": "Lion's Mane",
+            "track_link": "https://papadosio.bandcamp.com/track/lions-mane-13",
+            "track_duration": "P00H07M08S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H17M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-76"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-76",
+            "track_duration": "P00H17M48S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Puddles For Oceans",
-                "duration": "P00H15M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-73"
-            }
+            "track_name": "Puddles For Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-73",
+            "track_duration": "P00H15M33S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H08M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-85"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-85",
+            "track_duration": "P00H08M46S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0135323170_10.jpg",
-    "datePublished": "01 Feb 2022 19:43:50 GMT",
-    "description": "This album was recorded at Deep Ellum Art Co. in Dallas, Texas on 1.27.22. Thanks so much to everyone who came out, this show is a heater...so much fun.",
-    "duration": "P01H56M20S"
+    ]
 }

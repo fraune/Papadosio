@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/9218-the-senate-columbia-sc",
-    "name": "9.2.18 | The Senate | Columbia, SC",
-    "dateModified": "01 Oct 2018 20:32:49 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "9.2.18 | The Senate | Columbia, SC",
+    "album_link": "https://papadosio.bandcamp.com/album/9218-the-senate-columbia-sc",
+    "date_modified": "01 Oct 2018 20:32:49 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1619428647_10.jpg",
+    "date_published": "01 Oct 2018 00:00:00 GMT",
+    "album_duration": "P01H45M52S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Epiphany",
-                "duration": "P00H09M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-45"
-            }
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-45",
+            "track_duration": "P00H09M04S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "How Not to Float",
-                "duration": "P00H11M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-47"
-            }
+            "track_name": "How Not to Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-47",
+            "track_duration": "P00H11M28S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H11M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-90"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-90",
+            "track_duration": "P00H11M16S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Out of Hiding",
-                "duration": "P00H07M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-37"
-            }
+            "track_name": "Out of Hiding",
+            "track_link": "https://papadosio.bandcamp.com/track/out-of-hiding-37",
+            "track_duration": "P00H07M42S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Content Coma",
-                "duration": "P00H11M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/content-coma-6"
-            }
+            "track_name": "Content Coma",
+            "track_link": "https://papadosio.bandcamp.com/track/content-coma-6",
+            "track_duration": "P00H11M04S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H17M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-110"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-110",
+            "track_duration": "P00H17M18S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-127"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-127",
+            "track_duration": "P00H10M13S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Omnifreeze",
-                "duration": "P00H04M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-38"
-            }
+            "track_name": "Omnifreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-38",
+            "track_duration": "P00H04M32S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H05M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-41"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-41",
+            "track_duration": "P00H05M31S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H17M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-63"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-63",
+            "track_duration": "P00H17M44S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1619428647_10.jpg",
-    "datePublished": "01 Oct 2018 00:00:00 GMT",
-    "description": "This album was recorded on September 2nd, 2018 at The Senate in Columbia, SC. Thanks to everybody who came out to the show! Thanks to Higher Learning for getting the night started for us!",
-    "duration": "P01H45M52S"
+    ]
 }

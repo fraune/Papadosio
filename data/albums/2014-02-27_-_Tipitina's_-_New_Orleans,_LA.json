@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2014-02-27-tipitinas-new-orleans-la",
-    "name": "2014-02-27 - Tipitina's - New Orleans, LA",
-    "dateModified": "01 Mar 2014 19:38:36 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "2014-02-27 - Tipitina's - New Orleans, LA",
+    "album_link": "https://papadosio.bandcamp.com/album/2014-02-27-tipitinas-new-orleans-la",
+    "date_modified": "01 Mar 2014 19:38:36 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2418763593_10.jpg",
+    "date_published": "01 Mar 2014 19:38:36 GMT",
+    "album_duration": "P01H53M02S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "By the Light of the Stars",
-                "duration": "P00H10M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-10"
-            }
+            "track_name": "By the Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-10",
+            "track_duration": "P00H10M00S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "The Oracle Theme",
-                "duration": "P00H10M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-oracle-theme-2"
-            }
+            "track_name": "The Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/the-oracle-theme-2",
+            "track_duration": "P00H10M42S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H12M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-14"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-14",
+            "track_duration": "P00H12M07S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H07M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-17"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-17",
+            "track_duration": "P00H07M59S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "How Not to Float",
-                "duration": "P00H11M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-11"
-            }
+            "track_name": "How Not to Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-11",
+            "track_duration": "P00H11M22S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Direction",
-                "duration": "P00H10M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-9"
-            }
+            "track_name": "Direction",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-9",
+            "track_duration": "P00H10M44S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H08M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-20"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-20",
+            "track_duration": "P00H08M46S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "If It Wasnt for You",
-                "duration": "P00H08M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-17"
-            }
+            "track_name": "If It Wasnt for You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-17",
+            "track_duration": "P00H08M56S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H13M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-12"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-12",
+            "track_duration": "P00H13M04S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H08M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-29"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-29",
+            "track_duration": "P00H08M00S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H11M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-28"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-28",
+            "track_duration": "P00H11M22S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2418763593_10.jpg",
-    "datePublished": "01 Mar 2014 19:38:36 GMT",
-    "description": "Recorded live at Tipitina's - 2.27.14 - New Orleans, LA\r\nWinter + Spring Tour 2014",
-    "duration": "P01H53M02S"
+    ]
 }

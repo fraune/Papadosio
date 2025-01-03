@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/harrahs-lake-tahoe-lake-tahoe-nv-12624",
-    "name": "Harrah's Lake Tahoe | Lake Tahoe, NV | 1.26.24",
-    "dateModified": "07 Feb 2024 19:29:45 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Harrah's Lake Tahoe | Lake Tahoe, NV | 1.26.24",
+    "album_link": "https://papadosio.bandcamp.com/album/harrahs-lake-tahoe-lake-tahoe-nv-12624",
+    "date_modified": "07 Feb 2024 19:29:45 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0057697381_10.jpg",
+    "date_published": "07 Feb 2024 19:29:46 GMT",
+    "album_duration": "P01H46M39S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H12M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-74"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-74",
+            "track_duration": "P00H12M49S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Not Just A Word",
-                "duration": "P00H08M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-31"
-            }
+            "track_name": "Not Just A Word",
+            "track_link": "https://papadosio.bandcamp.com/track/not-just-a-word-31",
+            "track_duration": "P00H08M43S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "You're A Catman",
-                "duration": "P00H08M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-25"
-            }
+            "track_name": "You're A Catman",
+            "track_link": "https://papadosio.bandcamp.com/track/youre-a-catman-25",
+            "track_duration": "P00H08M50S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Fate",
-                "duration": "P00H06M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fate-11"
-            }
+            "track_name": "Fate",
+            "track_link": "https://papadosio.bandcamp.com/track/fate-11",
+            "track_duration": "P00H06M34S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H12M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-93"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-93",
+            "track_duration": "P00H12M41S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Zoom Out",
-                "duration": "P00H09M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/zoom-out-23"
-            }
+            "track_name": "Zoom Out",
+            "track_link": "https://papadosio.bandcamp.com/track/zoom-out-23",
+            "track_duration": "P00H09M09S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Shiitake",
-                "duration": "P00H11M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-38"
-            }
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-38",
+            "track_duration": "P00H11M10S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Agarikon",
-                "duration": "P00H09M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/agarikon-19"
-            }
+            "track_name": "Agarikon",
+            "track_link": "https://papadosio.bandcamp.com/track/agarikon-19",
+            "track_duration": "P00H09M57S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Boss Battle",
-                "duration": "P00H03M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/boss-battle-14"
-            }
+            "track_name": "Boss Battle",
+            "track_link": "https://papadosio.bandcamp.com/track/boss-battle-14",
+            "track_duration": "P00H03M38S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H11M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-123"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-123",
+            "track_duration": "P00H11M20S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Advocate Of Change",
-                "duration": "P00H11M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-119"
-            }
+            "track_name": "Advocate Of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-119",
+            "track_duration": "P00H11M48S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0057697381_10.jpg",
-    "datePublished": "07 Feb 2024 19:29:46 GMT",
-    "description": "Wow, what an incredible room! Thanks for finding your way through the maze to get to the show y'all!",
-    "duration": "P01H46M39S"
+    ]
 }

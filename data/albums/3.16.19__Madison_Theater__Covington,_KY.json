@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/31619-madison-theater-covington-ky",
-    "name": "3.16.19 | Madison Theater | Covington, KY",
-    "dateModified": "26 Mar 2019 18:40:18 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "3.16.19 | Madison Theater | Covington, KY",
+    "album_link": "https://papadosio.bandcamp.com/album/31619-madison-theater-covington-ky",
+    "date_modified": "26 Mar 2019 18:40:18 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3733783710_10.jpg",
+    "date_published": "26 Mar 2019 18:40:18 GMT",
+    "album_duration": "P01H49M05S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Ear to Ear",
-                "duration": "P00H05M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-37"
-            }
+            "track_name": "Ear to Ear",
+            "track_link": "https://papadosio.bandcamp.com/track/ear-to-ear-37",
+            "track_duration": "P00H05M39S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "PHdeez",
-                "duration": "P00H06M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/phdeez-10"
-            }
+            "track_name": "PHdeez",
+            "track_link": "https://papadosio.bandcamp.com/track/phdeez-10",
+            "track_duration": "P00H06M10S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Fanfare for the Rain People",
-                "duration": "P00H08M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-17"
-            }
+            "track_name": "Fanfare for the Rain People",
+            "track_link": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-17",
+            "track_duration": "P00H08M36S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H20M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-59"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-59",
+            "track_duration": "P00H20M09S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H05M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-21"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-21",
+            "track_duration": "P00H05M55S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H20M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-119"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-119",
+            "track_duration": "P00H20M21S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "We are Water",
-                "duration": "P00H06M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-128"
-            }
+            "track_name": "We are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-128",
+            "track_duration": "P00H06M15S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H12M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-20"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-20",
+            "track_duration": "P00H12M09S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H14M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-135"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-135",
+            "track_duration": "P00H14M28S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Drift > Improbability Blotter",
-                "duration": "P00H09M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-improbability-blotter"
-            }
+            "track_name": "Drift > Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/drift-improbability-blotter",
+            "track_duration": "P00H09M23S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3733783710_10.jpg",
-    "datePublished": "26 Mar 2019 18:40:18 GMT",
-    "description": "This album was recorded on March 16th on Night 2 of our two night run at the Madison Theater. thanks to everybody who came out and thanks to Near Earth Objects + Afterfunk for getting the night started!",
-    "duration": "P01H49M05S"
+    ]
 }

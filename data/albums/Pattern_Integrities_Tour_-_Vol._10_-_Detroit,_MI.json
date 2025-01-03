@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/pattern-integrities-tour-vol-10-detroit-mi",
-    "name": "Pattern Integrities Tour - Vol. 10 - Detroit, MI",
-    "dateModified": "30 Oct 2016 22:32:27 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "Pattern Integrities Tour - Vol. 10 - Detroit, MI",
+    "album_link": "https://papadosio.bandcamp.com/album/pattern-integrities-tour-vol-10-detroit-mi",
+    "date_modified": "30 Oct 2016 22:32:27 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0040225817_10.jpg",
+    "date_published": "30 Oct 2016 22:32:27 GMT",
+    "album_duration": "P01H54M47S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H06M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-33"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-33",
+            "track_duration": "P00H06M51S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H13M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-10"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-10",
+            "track_duration": "P00H13M22S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Each and Every Wave",
-                "duration": "P00H06M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-6"
-            }
+            "track_name": "Each and Every Wave",
+            "track_link": "https://papadosio.bandcamp.com/track/each-and-every-wave-6",
+            "track_duration": "P00H06M41S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H08M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-33"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-33",
+            "track_duration": "P00H08M23S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H11M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-38"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-38",
+            "track_duration": "P00H11M03S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Therian",
-                "duration": "P00H08M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-21"
-            }
+            "track_name": "Therian",
+            "track_link": "https://papadosio.bandcamp.com/track/therian-21",
+            "track_duration": "P00H08M07S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Drift",
-                "duration": "P00H06M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-6"
-            }
+            "track_name": "Drift",
+            "track_link": "https://papadosio.bandcamp.com/track/drift-6",
+            "track_duration": "P00H06M45S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H18M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-74"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-74",
+            "track_duration": "P00H18M52S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Obove",
-                "duration": "P00H04M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-8"
-            }
+            "track_name": "Obove",
+            "track_link": "https://papadosio.bandcamp.com/track/obove-8",
+            "track_duration": "P00H04M24S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Don't Drink the Healy-Aid",
-                "duration": "P00H02M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dont-drink-the-healy-aid"
-            }
+            "track_name": "Don't Drink the Healy-Aid",
+            "track_link": "https://papadosio.bandcamp.com/track/dont-drink-the-healy-aid",
+            "track_duration": "P00H02M51S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Omnifreeze",
-                "duration": "P00H04M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-6"
-            }
+            "track_name": "Omnifreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-6",
+            "track_duration": "P00H04M22S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H11M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-43"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-43",
+            "track_duration": "P00H11M32S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H11M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-39"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-39",
+            "track_duration": "P00H11M34S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0040225817_10.jpg",
-    "datePublished": "30 Oct 2016 22:32:27 GMT",
-    "description": null,
-    "duration": "P01H54M47S"
+    ]
 }

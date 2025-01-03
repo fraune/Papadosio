@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/fourshadows-finale-pt-1-51415-norfolk-va",
-    "name": "#Fourshadows Finale Pt. 1 | 5.14.15 | Norfolk, VA",
-    "dateModified": "28 May 2015 18:06:55 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "#Fourshadows Finale Pt. 1 | 5.14.15 | Norfolk, VA",
+    "album_link": "https://papadosio.bandcamp.com/album/fourshadows-finale-pt-1-51415-norfolk-va",
+    "date_modified": "28 May 2015 18:06:55 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0774184369_10.jpg",
+    "date_published": "28 May 2015 00:00:00 GMT",
+    "album_duration": "P01H59M30S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Frequence",
-                "duration": "P00H17M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-15"
-            }
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-15",
+            "track_duration": "P00H17M22S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H14M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-48"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-48",
+            "track_duration": "P00H14M02S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "We are Water",
-                "duration": "P00H06M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-60"
-            }
+            "track_name": "We are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-60",
+            "track_duration": "P00H06M36S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-46"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-46",
+            "track_duration": "P00H09M12S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H07M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-24"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-24",
+            "track_duration": "P00H07M36S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Oracle Theme",
-                "duration": "P00H13M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-20"
-            }
+            "track_name": "Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/oracle-theme-20",
+            "track_duration": "P00H13M28S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H15M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-37"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-37",
+            "track_duration": "P00H15M50S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H13M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-42"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-42",
+            "track_duration": "P00H13M10S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H13M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-37"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-37",
+            "track_duration": "P00H13M41S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H08M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-47"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-47",
+            "track_duration": "P00H08M33S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0774184369_10.jpg",
-    "datePublished": "28 May 2015 00:00:00 GMT",
-    "description": "Live from The Norva - May 14th, 2015 - #Fourshadows Tour All music, written, performed & recorded by Papadosio © all rights reserved 2015.",
-    "duration": "P01H59M30S"
+    ]
 }

@@ -1,76 +1,50 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-from-arise-2016",
-    "name": "Live from Arise 2016",
-    "dateModified": "04 Sep 2016 18:55:15 GMT",
-    "numTracks": 8,
-    "track": [
+    "album_name": "Live from Arise 2016",
+    "album_link": "https://papadosio.bandcamp.com/album/live-from-arise-2016",
+    "date_modified": "04 Sep 2016 18:55:15 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4093722572_10.jpg",
+    "date_published": "04 Sep 2016 18:55:15 GMT",
+    "album_duration": "P01H38M25S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H06M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-5"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-5",
+            "track_duration": "P00H06M14S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H20M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-52"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-52",
+            "track_duration": "P00H20M14S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Anima Mundi",
-                "duration": "P00H10M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-29"
-            }
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-29",
+            "track_duration": "P00H10M19S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H12M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-101"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-101",
+            "track_duration": "P00H12M37S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H18M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-56"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-56",
+            "track_duration": "P00H18M00S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "You and Yourself",
-                "duration": "P00H17M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-41"
-            }
+            "track_name": "You and Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-41",
+            "track_duration": "P00H17M17S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H05M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-41"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-41",
+            "track_duration": "P00H05M04S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H08M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-82"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-82",
+            "track_duration": "P00H08M40S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a4093722572_10.jpg",
-    "datePublished": "04 Sep 2016 18:55:15 GMT",
-    "description": null,
-    "duration": "P01H38M25S"
+    ]
 }

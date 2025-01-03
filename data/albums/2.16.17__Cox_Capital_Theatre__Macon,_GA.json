@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/21617-cox-capital-theatre-macon-ga",
-    "name": "2.16.17 | Cox Capital Theatre | Macon, GA",
-    "dateModified": "24 Feb 2017 17:39:24 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "2.16.17 | Cox Capital Theatre | Macon, GA",
+    "album_link": "https://papadosio.bandcamp.com/album/21617-cox-capital-theatre-macon-ga",
+    "date_modified": "24 Feb 2017 17:39:24 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1335311962_10.jpg",
+    "date_published": "21 Feb 2017 00:00:00 GMT",
+    "album_duration": "P01H46M55S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H05M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-38"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-38",
+            "track_duration": "P00H05M08S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H10M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-45"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-45",
+            "track_duration": "P00H10M37S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H05M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-16"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-16",
+            "track_duration": "P00H05M56S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H10M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-71"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-71",
+            "track_duration": "P00H10M06S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Each and Every Wave",
-                "duration": "P00H07M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-16"
-            }
+            "track_name": "Each and Every Wave",
+            "track_link": "https://papadosio.bandcamp.com/track/each-and-every-wave-16",
+            "track_duration": "P00H07M34S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Anima Mundi",
-                "duration": "P00H08M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-32"
-            }
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-32",
+            "track_duration": "P00H08M13S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H08M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-15"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-15",
+            "track_duration": "P00H08M23S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-72"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-72",
+            "track_duration": "P00H09M34S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "And This is What he Thought",
-                "duration": "P00H04M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-23"
-            }
+            "track_name": "And This is What he Thought",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-23",
+            "track_duration": "P00H04M39S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Omnifreeze",
-                "duration": "P00H08M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-17"
-            }
+            "track_name": "Omnifreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-17",
+            "track_duration": "P00H08M34S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H20M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-61"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-61",
+            "track_duration": "P00H20M10S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H08M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-67"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-67",
+            "track_duration": "P00H08M01S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1335311962_10.jpg",
-    "datePublished": "21 Feb 2017 00:00:00 GMT",
-    "description": "Recorded on February 16th 2017 at Cox Capital Theatre in Macon, GA \r\n\r\nPattern Integrities Spring Tour 2017 \r\n\r\nAll material was written and recorded by Papadosio.",
-    "duration": "P01H46M55S"
+    ]
 }

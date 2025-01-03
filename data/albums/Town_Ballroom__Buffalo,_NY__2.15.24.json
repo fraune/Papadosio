@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/town-ballroom-buffalo-ny-21524",
-    "name": "Town Ballroom | Buffalo, NY | 2.15.24",
-    "dateModified": "23 Feb 2024 20:16:01 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Town Ballroom | Buffalo, NY | 2.15.24",
+    "album_link": "https://papadosio.bandcamp.com/album/town-ballroom-buffalo-ny-21524",
+    "date_modified": "23 Feb 2024 20:16:01 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0685570535_10.jpg",
+    "date_published": "23 Feb 2024 20:16:01 GMT",
+    "album_duration": "P01H42M14S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "2am",
-                "duration": "P00H06M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-72"
-            }
+            "track_name": "2am",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-72",
+            "track_duration": "P00H06M28S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H11M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-94"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-94",
+            "track_duration": "P00H11M41S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Zoom Out",
-                "duration": "P00H11M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/zoom-out-24"
-            }
+            "track_name": "Zoom Out",
+            "track_link": "https://papadosio.bandcamp.com/track/zoom-out-24",
+            "track_duration": "P00H11M18S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H10M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-86"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-86",
+            "track_duration": "P00H10M56S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Xanadu",
-                "duration": "P00H06M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/xanadu-15"
-            }
+            "track_name": "Xanadu",
+            "track_link": "https://papadosio.bandcamp.com/track/xanadu-15",
+            "track_duration": "P00H06M00S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Method Of Control",
-                "duration": "P00H07M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-130"
-            }
+            "track_name": "Method Of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-130",
+            "track_duration": "P00H07M29S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Madre de Dios",
-                "duration": "P00H04M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-48"
-            }
+            "track_name": "Madre de Dios",
+            "track_link": "https://papadosio.bandcamp.com/track/madre-de-dios-48",
+            "track_duration": "P00H04M40S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H11M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-124"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-124",
+            "track_duration": "P00H11M58S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H10M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-53"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-53",
+            "track_duration": "P00H10M30S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "You're A Catman",
-                "duration": "P00H11M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-27"
-            }
+            "track_name": "You're A Catman",
+            "track_link": "https://papadosio.bandcamp.com/track/youre-a-catman-27",
+            "track_duration": "P00H11M39S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H09M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-191"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-191",
+            "track_duration": "P00H09M35S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0685570535_10.jpg",
-    "datePublished": "23 Feb 2024 20:16:01 GMT",
-    "description": "Thanks for coming out to Buffalo! We had an awesome time sharing the stage with our buds in Tauk and getting to play for y'all again. Until Next time!",
-    "duration": "P01H42M14S"
+    ]
 }

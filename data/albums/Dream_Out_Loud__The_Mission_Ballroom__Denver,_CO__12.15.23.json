@@ -1,132 +1,85 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/dream-out-loud-the-mission-ballroom-denver-co-121523",
-    "name": "Dream Out Loud | The Mission Ballroom | Denver, CO | 12.15.23",
-    "dateModified": "21 Dec 2023 20:37:16 GMT",
-    "numTracks": 15,
-    "track": [
+    "album_name": "Dream Out Loud | The Mission Ballroom | Denver, CO | 12.15.23",
+    "album_link": "https://papadosio.bandcamp.com/album/dream-out-loud-the-mission-ballroom-denver-co-121523",
+    "date_modified": "21 Dec 2023 20:37:16 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0610689227_10.jpg",
+    "date_published": "21 Dec 2023 20:37:17 GMT",
+    "album_duration": "P02H12M44S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H02M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-111"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-111",
+            "track_duration": "P00H02M52S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H06M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-123"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-123",
+            "track_duration": "P00H06M54S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Ear To Ear",
-                "duration": "P00H05M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-49"
-            }
+            "track_name": "Ear To Ear",
+            "track_link": "https://papadosio.bandcamp.com/track/ear-to-ear-49",
+            "track_duration": "P00H05M32S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "We Can Always Come Back",
-                "duration": "P00H09M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-46"
-            }
+            "track_name": "We Can Always Come Back",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back-46",
+            "track_duration": "P00H09M55S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Pool Of Stars",
-                "duration": "P00H07M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-29"
-            }
+            "track_name": "Pool Of Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/pool-of-stars-29",
+            "track_duration": "P00H07M44S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Each And Every Wave",
-                "duration": "P00H07M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-30"
-            }
+            "track_name": "Each And Every Wave",
+            "track_link": "https://papadosio.bandcamp.com/track/each-and-every-wave-30",
+            "track_duration": "P00H07M11S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H12M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-175"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-175",
+            "track_duration": "P00H12M05S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Phdeez",
-                "duration": "P00H06M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/phdeez-12"
-            }
+            "track_name": "Phdeez",
+            "track_link": "https://papadosio.bandcamp.com/track/phdeez-12",
+            "track_duration": "P00H06M20S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "The Big Smile",
-                "duration": "P00H15M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-big-smile-18"
-            }
+            "track_name": "The Big Smile",
+            "track_link": "https://papadosio.bandcamp.com/track/the-big-smile-18",
+            "track_duration": "P00H15M43S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Bippie Babysitter",
-                "duration": "P00H14M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bippie-babysitter"
-            }
+            "track_name": "Bippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/bippie-babysitter",
+            "track_duration": "P00H14M15S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Moon Entendre",
-                "duration": "P00H08M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/moon-entendre-16"
-            }
+            "track_name": "Moon Entendre",
+            "track_link": "https://papadosio.bandcamp.com/track/moon-entendre-16",
+            "track_duration": "P00H08M17S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H14M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-113"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-113",
+            "track_duration": "P00H14M22S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H12M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-188"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-188",
+            "track_duration": "P00H12M27S"
         },
         {
-            "position": 14,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H06M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-85"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-85",
+            "track_duration": "P00H06M43S"
         },
         {
-            "position": 15,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H02M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-189"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-189",
+            "track_duration": "P00H02M24S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0610689227_10.jpg",
-    "datePublished": "21 Dec 2023 20:37:17 GMT",
-    "description": "Thank you so much for dreamin' out loud with us Denver! See you soon \\\\\\\\\\///////",
-    "duration": "P02H12M44S"
+    ]
 }

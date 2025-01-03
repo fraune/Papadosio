@@ -1,76 +1,50 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/91919-resonance-music-arts-festival-slippery-rock-pa",
-    "name": "9.19.19 | Resonance Music & Arts Festival | Slippery Rock, PA",
-    "dateModified": "08 Oct 2019 21:53:44 GMT",
-    "numTracks": 8,
-    "track": [
+    "album_name": "9.19.19 | Resonance Music & Arts Festival | Slippery Rock, PA",
+    "album_link": "https://papadosio.bandcamp.com/album/91919-resonance-music-arts-festival-slippery-rock-pa",
+    "date_modified": "08 Oct 2019 21:53:44 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3200704302_10.jpg",
+    "date_published": "08 Oct 2019 21:52:25 GMT",
+    "album_duration": "P01H26M56S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H04M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-71"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-71",
+            "track_duration": "P00H04M24S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H12M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-126"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-126",
+            "track_duration": "P00H12M59S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Smile & Nod",
-                "duration": "P00H19M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-nod"
-            }
+            "track_name": "Smile & Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-nod",
+            "track_duration": "P00H19M48S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Fanfare for the Rain People",
-                "duration": "P00H08M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-23"
-            }
+            "track_name": "Fanfare for the Rain People",
+            "track_link": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-23",
+            "track_duration": "P00H08M35S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Direction Song",
-                "duration": "P00H10M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-63"
-            }
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-63",
+            "track_duration": "P00H10M44S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H15M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-63"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-63",
+            "track_duration": "P00H15M46S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H05M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-62"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-62",
+            "track_duration": "P00H05M24S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H09M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-129"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-129",
+            "track_duration": "P00H09M16S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3200704302_10.jpg",
-    "datePublished": "08 Oct 2019 21:52:25 GMT",
-    "description": "This album was recorded on September 19th, 2019 at Coopers Lake Campground during Resonance Music & Arts Festival 2019. This is one of 4 sets that we played this year! \r\n\r\nThanks to everybody who came out to show their love and support. See you next year!",
-    "duration": "P01H26M56S"
+    ]
 }

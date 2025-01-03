@@ -1,84 +1,55 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/81917-global-eclipse-gathering-big-summit-prairie-or",
-    "name": "8.19.17 | Global Eclipse Gathering | Big Summit Prairie, OR",
-    "dateModified": "25 Aug 2017 17:46:42 GMT",
-    "numTracks": 9,
-    "track": [
+    "album_name": "8.19.17 | Global Eclipse Gathering | Big Summit Prairie, OR",
+    "album_link": "https://papadosio.bandcamp.com/album/81917-global-eclipse-gathering-big-summit-prairie-or",
+    "date_modified": "25 Aug 2017 17:46:42 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1947772963_10.jpg",
+    "date_published": "24 Aug 2017 00:00:00 GMT",
+    "album_duration": "P01H55M44S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H17M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-67"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-67",
+            "track_duration": "P00H17M40S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H08M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-61"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-61",
+            "track_duration": "P00H08M01S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "How Not To Float",
-                "duration": "P00H16M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-36"
-            }
+            "track_name": "How Not To Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-36",
+            "track_duration": "P00H16M35S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H13M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-72"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-72",
+            "track_duration": "P00H13M19S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H16M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-94"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-94",
+            "track_duration": "P00H16M31S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H08M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-46"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-46",
+            "track_duration": "P00H08M45S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "All I knew",
-                "duration": "P00H07M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-78"
-            }
+            "track_name": "All I knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-78",
+            "track_duration": "P00H07M17S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H13M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-59"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-59",
+            "track_duration": "P00H13M10S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H14M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-86"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-86",
+            "track_duration": "P00H14M26S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1947772963_10.jpg",
-    "datePublished": "24 Aug 2017 00:00:00 GMT",
-    "description": "All material was written & recorded by Papadosio at Global Eclipse Festival In Big Summit Prairie, OR",
-    "duration": "P01H55M44S"
+    ]
 }

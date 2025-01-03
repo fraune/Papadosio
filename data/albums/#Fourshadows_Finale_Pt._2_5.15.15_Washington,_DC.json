@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/fourshadows-finale-pt-2-51515-washington-dc",
-    "name": "#Fourshadows Finale Pt. 2 |5.15.15| Washington, DC",
-    "dateModified": "19 Oct 2015 19:01:50 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "#Fourshadows Finale Pt. 2 |5.15.15| Washington, DC",
+    "album_link": "https://papadosio.bandcamp.com/album/fourshadows-finale-pt-2-51515-washington-dc",
+    "date_modified": "19 Oct 2015 19:01:50 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1022069912_10.jpg",
+    "date_published": "28 May 2015 00:00:00 GMT",
+    "album_duration": "P02H16M00S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Direction Song",
-                "duration": "P00H18M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-27"
-            }
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-27",
+            "track_duration": "P00H18M31S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H18M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-25"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-25",
+            "track_duration": "P00H18M41S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Right Now",
-                "duration": "P00H08M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-22"
-            }
+            "track_name": "Right Now",
+            "track_link": "https://papadosio.bandcamp.com/track/right-now-22",
+            "track_duration": "P00H08M19S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The elephant I presume",
-                "duration": "P00H07M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-20"
-            }
+            "track_name": "The elephant I presume",
+            "track_link": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-20",
+            "track_duration": "P00H07M54S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H23M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-50"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-50",
+            "track_duration": "P00H23M41S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Hippy Babysitter",
-                "duration": "P00H18M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippy-babysitter-4"
-            }
+            "track_name": "Hippy Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippy-babysitter-4",
+            "track_duration": "P00H18M17S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H12M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-50"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-50",
+            "track_duration": "P00H12M47S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H05M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-37"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-37",
+            "track_duration": "P00H05M12S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H04M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-51"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-51",
+            "track_duration": "P00H04M06S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Big Smile",
-                "duration": "P00H14M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-big-smile-8"
-            }
+            "track_name": "The Big Smile",
+            "track_link": "https://papadosio.bandcamp.com/track/the-big-smile-8",
+            "track_duration": "P00H14M06S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H04M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-56"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-56",
+            "track_duration": "P00H04M26S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1022069912_10.jpg",
-    "datePublished": "28 May 2015 00:00:00 GMT",
-    "description": "All music written, recorded and performed by Papadosio.\r\n© All Rights Reserved 2015.",
-    "duration": "P02H16M00S"
+    ]
 }

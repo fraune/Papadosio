@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/fourshadows-41615-dallas-tx",
-    "name": "#Fourshadows | 4.16.15 | Dallas, TX",
-    "dateModified": "07 May 2015 20:12:43 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "#Fourshadows | 4.16.15 | Dallas, TX",
+    "album_link": "https://papadosio.bandcamp.com/album/fourshadows-41615-dallas-tx",
+    "date_modified": "07 May 2015 20:12:43 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4291907282_10.jpg",
+    "date_published": "06 May 2015 00:00:00 GMT",
+    "album_duration": "P02H00M18S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H11M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-43"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-43",
+            "track_duration": "P00H11M41S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "By The light of The Stars",
-                "duration": "P00H08M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-28"
-            }
+            "track_name": "By The light of The Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-28",
+            "track_duration": "P00H08M52S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Frequence",
-                "duration": "P00H14M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-16"
-            }
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-16",
+            "track_duration": "P00H14M10S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H10M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-34"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-34",
+            "track_duration": "P00H10M45S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H07M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-48"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-48",
+            "track_duration": "P00H07M22S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Now That You Know",
-                "duration": "P00H10M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-17"
-            }
+            "track_name": "Now That You Know",
+            "track_link": "https://papadosio.bandcamp.com/track/now-that-you-know-17",
+            "track_duration": "P00H10M12S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "All I knew",
-                "duration": "P00H07M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-48"
-            }
+            "track_name": "All I knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-48",
+            "track_duration": "P00H07M03S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Imporbability Blotter",
-                "duration": "P00H09M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/imporbability-blotter"
-            }
+            "track_name": "Imporbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/imporbability-blotter",
+            "track_duration": "P00H09M14S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Puddles For Oceans",
-                "duration": "P00H11M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-29"
-            }
+            "track_name": "Puddles For Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-29",
+            "track_duration": "P00H11M22S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H19M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-48"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-48",
+            "track_duration": "P00H19M57S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H09M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-26"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-26",
+            "track_duration": "P00H09M40S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a4291907282_10.jpg",
-    "datePublished": "06 May 2015 00:00:00 GMT",
-    "description": "Live from TREES Dallas - April 16th, 2015 - Fourshadows Tour\r\nAll music, written, performed & recorded by Papadosio\r\n© all rights reserved 2015.",
-    "duration": "P02H00M18S"
+    ]
 }

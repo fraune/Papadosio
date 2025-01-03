@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/elevation-grand-rapids-mi-111023",
-    "name": "Elevation | Grand Rapids, MI | 11.10.23",
-    "dateModified": "19 Nov 2023 21:01:48 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "Elevation | Grand Rapids, MI | 11.10.23",
+    "album_link": "https://papadosio.bandcamp.com/album/elevation-grand-rapids-mi-111023",
+    "date_modified": "19 Nov 2023 21:01:48 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3043988772_10.jpg",
+    "date_published": "19 Nov 2023 21:01:49 GMT",
+    "album_duration": "P01H56M43S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "And This Is What He Thought",
-                "duration": "P00H17M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-42"
-            }
+            "track_name": "And This Is What He Thought",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-42",
+            "track_duration": "P00H17M43S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H10M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-71"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-71",
+            "track_duration": "P00H10M24S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "State Of Things",
-                "duration": "P00H05M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/state-of-things"
-            }
+            "track_name": "State Of Things",
+            "track_link": "https://papadosio.bandcamp.com/track/state-of-things",
+            "track_duration": "P00H05M31S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Fate",
-                "duration": "P00H06M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fate-8"
-            }
+            "track_name": "Fate",
+            "track_link": "https://papadosio.bandcamp.com/track/fate-8",
+            "track_duration": "P00H06M33S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Mr. Turtle's Cloud Kingdom",
-                "duration": "P00H05M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-73"
-            }
+            "track_name": "Mr. Turtle's Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-73",
+            "track_duration": "P00H05M39S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H14M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-93"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-93",
+            "track_duration": "P00H14M49S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "We Can Always Come Back",
-                "duration": "P00H10M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-45"
-            }
+            "track_name": "We Can Always Come Back",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back-45",
+            "track_duration": "P00H10M12S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Boss Battle",
-                "duration": "P00H03M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/boss-battle-10"
-            }
+            "track_name": "Boss Battle",
+            "track_link": "https://papadosio.bandcamp.com/track/boss-battle-10",
+            "track_duration": "P00H03M48S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-121"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-121",
+            "track_duration": "P00H09M18S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Catalyst",
-                "duration": "P00H09M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-36"
-            }
+            "track_name": "Catalyst",
+            "track_link": "https://papadosio.bandcamp.com/track/catalyst-36",
+            "track_duration": "P00H09M54S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Curvature",
-                "duration": "P00H11M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curvature-4"
-            }
+            "track_name": "Curvature",
+            "track_link": "https://papadosio.bandcamp.com/track/curvature-4",
+            "track_duration": "P00H11M54S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H10M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-158"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-158",
+            "track_duration": "P00H10M58S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3043988772_10.jpg",
-    "datePublished": "19 Nov 2023 21:01:49 GMT",
-    "description": "Wild ride down the most grand rapid of them all..time, mannnnn......far out.",
-    "duration": "P01H56M43S"
+    ]
 }

@@ -1,148 +1,95 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/81019-the-caverns-pelham-tn",
-    "name": "8.10.19 | The Caverns | Pelham, TN",
-    "dateModified": "22 Aug 2019 20:01:07 GMT",
-    "numTracks": 17,
-    "track": [
+    "album_name": "8.10.19 | The Caverns | Pelham, TN",
+    "album_link": "https://papadosio.bandcamp.com/album/81019-the-caverns-pelham-tn",
+    "date_modified": "22 Aug 2019 20:01:07 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0572531872_10.jpg",
+    "date_published": "16 Aug 2019 00:00:00 GMT",
+    "album_duration": "P03H00M56S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Cave Intro",
-                "duration": "P00H05M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cave-intro"
-            }
+            "track_name": "Cave Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/cave-intro",
+            "track_duration": "P00H05M43S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Improbability blotter",
-                "duration": "P00H15M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-85"
-            }
+            "track_name": "Improbability blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-85",
+            "track_duration": "P00H15M13S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H17M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-33"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-33",
+            "track_duration": "P00H17M38S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "By the Light of The Stars",
-                "duration": "P00H08M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-67"
-            }
+            "track_name": "By the Light of The Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-67",
+            "track_duration": "P00H08M39S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Bionic Man Meets HIs Past",
-                "duration": "P00H15M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-116"
-            }
+            "track_name": "The Bionic Man Meets HIs Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-116",
+            "track_duration": "P00H15M52S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Oracle Theme",
-                "duration": "P00H14M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-37"
-            }
+            "track_name": "Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/oracle-theme-37",
+            "track_duration": "P00H14M57S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H04M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-71"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-71",
+            "track_duration": "P00H04M45S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Mario Underground",
-                "duration": "P00H03M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mario-underground"
-            }
+            "track_name": "Mario Underground",
+            "track_link": "https://papadosio.bandcamp.com/track/mario-underground",
+            "track_duration": "P00H03M43S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H02M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-72"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-72",
+            "track_duration": "P00H02M56S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H16M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-68"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-68",
+            "track_duration": "P00H16M37S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-99"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-99",
+            "track_duration": "P00H09M18S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Catalyst*",
-                "duration": "P00H08M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-2"
-            }
+            "track_name": "Catalyst*",
+            "track_link": "https://papadosio.bandcamp.com/track/catalyst-2",
+            "track_duration": "P00H08M38S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Holy Heck",
-                "duration": "P00H13M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-44"
-            }
+            "track_name": "Holy Heck",
+            "track_link": "https://papadosio.bandcamp.com/track/holy-heck-44",
+            "track_duration": "P00H13M39S"
         },
         {
-            "position": 14,
-            "item": {
-                "name": "Epiphany",
-                "duration": "P00H08M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-48"
-            }
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-48",
+            "track_duration": "P00H08M34S"
         },
         {
-            "position": 15,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-101"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-101",
+            "track_duration": "P00H09M36S"
         },
         {
-            "position": 16,
-            "item": {
-                "name": "Fire Rite",
-                "duration": "P00H08M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-30"
-            }
+            "track_name": "Fire Rite",
+            "track_link": "https://papadosio.bandcamp.com/track/fire-rite-30",
+            "track_duration": "P00H08M41S"
         },
         {
-            "position": 17,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H16M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-128"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-128",
+            "track_duration": "P00H16M27S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0572531872_10.jpg",
-    "datePublished": "16 Aug 2019 00:00:00 GMT",
-    "description": "Thank you for everyone who came out to the show & for everyone who supports Papadosio. Here is the set from the Caverns show on August 10th, 2019 in Pelham, TN. Artwork by Sweet Melis.\r\n\r\n*First Time Played",
-    "duration": "P03H00M56S"
+    ]
 }

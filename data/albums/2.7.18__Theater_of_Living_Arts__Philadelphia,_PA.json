@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2718-theater-of-living-arts-philadelphia-pa",
-    "name": "2.7.18 | Theater of Living Arts | Philadelphia, PA",
-    "dateModified": "12 Feb 2018 17:57:36 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "2.7.18 | Theater of Living Arts | Philadelphia, PA",
+    "album_link": "https://papadosio.bandcamp.com/album/2718-theater-of-living-arts-philadelphia-pa",
+    "date_modified": "12 Feb 2018 17:57:36 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3165812791_10.jpg",
+    "date_published": "12 Feb 2018 00:00:00 GMT",
+    "album_duration": "P01H57M44S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "And This is What He Thought",
-                "duration": "P00H04M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-31"
-            }
+            "track_name": "And This is What He Thought",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-31",
+            "track_duration": "P00H04M31S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H14M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-54"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-54",
+            "track_duration": "P00H14M19S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H17M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-55"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-55",
+            "track_duration": "P00H17M57S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H14M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-72"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-72",
+            "track_duration": "P00H14M43S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H13M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-81"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-81",
+            "track_duration": "P00H13M35S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Glimpse of Light",
-                "duration": "P00H06M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-44"
-            }
+            "track_name": "Glimpse of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-44",
+            "track_duration": "P00H06M18S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "You and Yourself",
-                "duration": "P00H16M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-50"
-            }
+            "track_name": "You and Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-50",
+            "track_duration": "P00H16M36S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Ear to Ear",
-                "duration": "P00H12M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-26"
-            }
+            "track_name": "Ear to Ear",
+            "track_link": "https://papadosio.bandcamp.com/track/ear-to-ear-26",
+            "track_duration": "P00H12M16S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "The Wrong Nostalgia",
-                "duration": "P00H04M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-39"
-            }
+            "track_name": "The Wrong Nostalgia",
+            "track_link": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-39",
+            "track_duration": "P00H04M40S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H12M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-63"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-63",
+            "track_duration": "P00H12M49S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3165812791_10.jpg",
-    "datePublished": "12 Feb 2018 00:00:00 GMT",
-    "description": "This set was recorded on February 7th, 2018 at The TLA in Philadelphia, PA. Thanks to everybody who came out. See you next time PA!",
-    "duration": "P01H57M44S"
+    ]
 }

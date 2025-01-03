@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/41919-town-ballroom-buffalo-ny",
-    "name": "4.19.19 | Town Ballroom | Buffalo, NY",
-    "dateModified": "23 Apr 2019 23:38:50 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "4.19.19 | Town Ballroom | Buffalo, NY",
+    "album_link": "https://papadosio.bandcamp.com/album/41919-town-ballroom-buffalo-ny",
+    "date_modified": "23 Apr 2019 23:38:50 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0261144932_10.jpg",
+    "date_published": "23 Apr 2019 00:00:00 GMT",
+    "album_duration": "P01H52M13S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H12M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-77"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-77",
+            "track_duration": "P00H12M38S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "By the Light of the Stars",
-                "duration": "P00H12M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-63"
-            }
+            "track_name": "By the Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-63",
+            "track_duration": "P00H12M41S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Fanfare for the Rain People",
-                "duration": "P00H08M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-20"
-            }
+            "track_name": "Fanfare for the Rain People",
+            "track_link": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-20",
+            "track_duration": "P00H08M39S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Now That You Know",
-                "duration": "P00H07M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-39"
-            }
+            "track_name": "Now That You Know",
+            "track_link": "https://papadosio.bandcamp.com/track/now-that-you-know-39",
+            "track_duration": "P00H07M21S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H08M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-58"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-58",
+            "track_duration": "P00H08M00S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Just Like the Days",
-                "duration": "P00H07M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/just-like-the-days-9"
-            }
+            "track_name": "Just Like the Days",
+            "track_link": "https://papadosio.bandcamp.com/track/just-like-the-days-9",
+            "track_duration": "P00H07M16S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Fire Rite",
-                "duration": "P00H06M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-23"
-            }
+            "track_name": "Fire Rite",
+            "track_link": "https://papadosio.bandcamp.com/track/fire-rite-23",
+            "track_duration": "P00H06M23S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H11M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-60"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-60",
+            "track_duration": "P00H11M21S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H12M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-121"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-121",
+            "track_duration": "P00H12M39S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H03M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-61"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-61",
+            "track_duration": "P00H03M25S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H07M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-84"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-84",
+            "track_duration": "P00H07M33S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-96"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-96",
+            "track_duration": "P00H07M10S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H07M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-130"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-130",
+            "track_duration": "P00H07M07S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0261144932_10.jpg",
-    "datePublished": "23 Apr 2019 00:00:00 GMT",
-    "description": "This album was recorded on April 19th in Buffalo New York at the Westcott Theater! Thanks to everybody who came out and thanks so much to Cycles for opening the night up for us!",
-    "duration": "P01H52M13S"
+    ]
 }

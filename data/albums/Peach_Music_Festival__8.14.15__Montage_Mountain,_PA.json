@@ -1,76 +1,50 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/peach-music-festival-81415-montage-mountain-pa",
-    "name": "Peach Music Festival | 8.14.15 | Montage Mountain, PA",
-    "dateModified": "19 Oct 2015 23:55:15 GMT",
-    "numTracks": 8,
-    "track": [
+    "album_name": "Peach Music Festival | 8.14.15 | Montage Mountain, PA",
+    "album_link": "https://papadosio.bandcamp.com/album/peach-music-festival-81415-montage-mountain-pa",
+    "date_modified": "19 Oct 2015 23:55:15 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3563420685_10.jpg",
+    "date_published": "19 Oct 2015 23:55:15 GMT",
+    "album_duration": "P01H46M08S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H24M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-35"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-35",
+            "track_duration": "P00H24M00S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H16M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-38"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-38",
+            "track_duration": "P00H16M04S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Direction Song",
-                "duration": "P00H12M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-32"
-            }
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-32",
+            "track_duration": "P00H12M15S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H17M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-58"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-58",
+            "track_duration": "P00H17M09S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-53"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-53",
+            "track_duration": "P00H09M48S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H06M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-66"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-66",
+            "track_duration": "P00H06M37S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "By The Light of The Stars",
-                "duration": "P00H12M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-32"
-            }
+            "track_name": "By The Light of The Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-32",
+            "track_duration": "P00H12M51S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H07M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-42"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-42",
+            "track_duration": "P00H07M24S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3563420685_10.jpg",
-    "datePublished": "19 Oct 2015 23:55:15 GMT",
-    "description": "Peach Music Festival | 8.14.15 | Montage Mountain, PA\r\n\r\nAll music written, recorded and performed by Papadosio. \r\n© All Rights Reserved 2015.",
-    "duration": "P01H46M08S"
+    ]
 }

@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/21619-funk-fest-punta-gorda-fl",
-    "name": "2.16.19 | Funk Fest | Punta Gorda, FL",
-    "dateModified": "05 Mar 2019 23:40:17 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "2.16.19 | Funk Fest | Punta Gorda, FL",
+    "album_link": "https://papadosio.bandcamp.com/album/21619-funk-fest-punta-gorda-fl",
+    "date_modified": "05 Mar 2019 23:40:17 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0954105914_10.jpg",
+    "date_published": "05 Mar 2019 23:40:18 GMT",
+    "album_duration": "P01H25M42S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H08M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-19"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-19",
+            "track_duration": "P00H08M09S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H15M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-134"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-134",
+            "track_duration": "P00H15M51S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Pool of Stars",
-                "duration": "P00H05M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-18"
-            }
+            "track_name": "Pool of Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/pool-of-stars-18",
+            "track_duration": "P00H05M44S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H09M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-57"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-57",
+            "track_duration": "P00H09M15S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Now That You Know",
-                "duration": "P00H07M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-36"
-            }
+            "track_name": "Now That You Know",
+            "track_link": "https://papadosio.bandcamp.com/track/now-that-you-know-36",
+            "track_duration": "P00H07M37S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-121"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-121",
+            "track_duration": "P00H08M29S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Fire  Rite",
-                "duration": "P00H06M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-19"
-            }
+            "track_name": "Fire  Rite",
+            "track_link": "https://papadosio.bandcamp.com/track/fire-rite-19",
+            "track_duration": "P00H06M36S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H10M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-127"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-127",
+            "track_duration": "P00H10M06S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H11M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-110"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-110",
+            "track_duration": "P00H11M30S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H02M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-126"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-126",
+            "track_duration": "P00H02M25S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0954105914_10.jpg",
-    "datePublished": "05 Mar 2019 23:40:18 GMT",
-    "description": "This album was recorded on February 16th at Funk Fest in Punta Gorda, FL! thanks to Funk Fest for having us out Florida we will be back soon!",
-    "duration": "P01H25M42S"
+    ]
 }

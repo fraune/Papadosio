@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/82318-last-concert-cafe-houston-tx",
-    "name": "8.23.18 | Last Concert Cafe | Houston, TX",
-    "dateModified": "28 Aug 2018 15:46:48 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "8.23.18 | Last Concert Cafe | Houston, TX",
+    "album_link": "https://papadosio.bandcamp.com/album/82318-last-concert-cafe-houston-tx",
+    "date_modified": "28 Aug 2018 15:46:48 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0989613775_10.jpg",
+    "date_published": "28 Aug 2018 15:46:48 GMT",
+    "album_duration": "P01H39M11S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H06M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-73"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-73",
+            "track_duration": "P00H06M17S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "How Not to Float",
-                "duration": "P00H09M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-46"
-            }
+            "track_name": "How Not to Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-46",
+            "track_duration": "P00H09M05S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H12M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-2"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-2",
+            "track_duration": "P00H12M47S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H19M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-51"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-51",
+            "track_duration": "P00H19M25S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H12M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-101"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-101",
+            "track_duration": "P00H12M33S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Ear to Ear",
-                "duration": "P00H09M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-30"
-            }
+            "track_name": "Ear to Ear",
+            "track_link": "https://papadosio.bandcamp.com/track/ear-to-ear-30",
+            "track_duration": "P00H09M01S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-125"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-125",
+            "track_duration": "P00H10M19S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Omnifreeze",
-                "duration": "P00H03M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-37"
-            }
+            "track_name": "Omnifreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-37",
+            "track_duration": "P00H03M32S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H08M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-64"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-64",
+            "track_duration": "P00H08M04S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H08M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-61"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-61",
+            "track_duration": "P00H08M08S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0989613775_10.jpg",
-    "datePublished": "28 Aug 2018 15:46:48 GMT",
-    "description": "This album was recorded on August 23rd, 2018 in Houston Texas at the Last Concert Cafe. thanks to higher Learning for coming out! \r\n\r\nArtwork: Sweet Melis",
-    "duration": "P01H39M11S"
+    ]
 }

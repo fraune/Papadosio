@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-at-terminal-west-i-imaginal-cells-tour",
-    "name": "Live at Terminal West I - Imaginal Cells Tour",
-    "dateModified": "01 Dec 2014 06:09:21 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "Live at Terminal West I - Imaginal Cells Tour",
+    "album_link": "https://papadosio.bandcamp.com/album/live-at-terminal-west-i-imaginal-cells-tour",
+    "date_modified": "01 Dec 2014 06:09:21 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3530733704_10.jpg",
+    "date_published": "28 Nov 2014 00:00:00 GMT",
+    "album_duration": "P01H57M58S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "...And This is What He Thought>",
-                "duration": "P00H04M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-5"
-            }
+            "track_name": "...And This is What He Thought>",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-5",
+            "track_duration": "P00H04M05S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "By the Light of the Stars",
-                "duration": "P00H14M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-23"
-            }
+            "track_name": "By the Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-23",
+            "track_duration": "P00H14M18S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H18M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-50"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-50",
+            "track_duration": "P00H18M52S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The Elephant I Presume",
-                "duration": "P00H07M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-13"
-            }
+            "track_name": "The Elephant I Presume",
+            "track_link": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-13",
+            "track_duration": "P00H07M44S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H09M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-35"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-35",
+            "track_duration": "P00H09M26S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Direction",
-                "duration": "P00H13M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-18"
-            }
+            "track_name": "Direction",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-18",
+            "track_duration": "P00H13M57S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The Plug w/ Matt McDonald (Ghost Owl)",
-                "duration": "P00H15M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-w-matt-mcdonald-ghost-owl"
-            }
+            "track_name": "The Plug w/ Matt McDonald (Ghost Owl)",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-w-matt-mcdonald-ghost-owl",
+            "track_duration": "P00H15M58S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Fahrenheit Fair Enough*>",
-                "duration": "P00H06M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fahrenheit-fair-enough-3"
-            }
+            "track_name": "Fahrenheit Fair Enough*>",
+            "track_link": "https://papadosio.bandcamp.com/track/fahrenheit-fair-enough-3",
+            "track_duration": "P00H06M54S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H10M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-30"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-30",
+            "track_duration": "P00H10M19S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H16M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-30"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-30",
+            "track_duration": "P00H16M25S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3530733704_10.jpg",
-    "datePublished": "28 Nov 2014 00:00:00 GMT",
-    "description": "* by Telefon Tel Aviv",
-    "duration": "P01H57M58S"
+    ]
 }

@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2013-10-04-ogden-theatre-denver-co",
-    "name": "2013-10-04 - Ogden Theatre - Denver, CO",
-    "dateModified": "23 Oct 2013 23:53:48 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "2013-10-04 - Ogden Theatre - Denver, CO",
+    "album_link": "https://papadosio.bandcamp.com/album/2013-10-04-ogden-theatre-denver-co",
+    "date_modified": "23 Oct 2013 23:53:48 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4231429315_10.jpg",
+    "date_published": "23 Oct 2013 00:00:00 GMT",
+    "album_duration": "P01H41M07S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-13"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-13",
+            "track_duration": "P00H09M09S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H09M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-13"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-13",
+            "track_duration": "P00H09M08S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H10M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-8"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-8",
+            "track_duration": "P00H10M33S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-17"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-17",
+            "track_duration": "P00H07M30S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "What's at Stake",
-                "duration": "P00H04M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/whats-at-stake-4"
-            }
+            "track_name": "What's at Stake",
+            "track_link": "https://papadosio.bandcamp.com/track/whats-at-stake-4",
+            "track_duration": "P00H04M33S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H07M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-8"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-8",
+            "track_duration": "P00H07M21S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H05M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-9"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-9",
+            "track_duration": "P00H05M56S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "...and this is what he thought",
-                "duration": "P00H03M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-3"
-            }
+            "track_name": "...and this is what he thought",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-3",
+            "track_duration": "P00H03M41S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "By the Light of the Stars",
-                "duration": "P00H09M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-5"
-            }
+            "track_name": "By the Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-5",
+            "track_duration": "P00H09M33S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-11"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-11",
+            "track_duration": "P00H10M18S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H17M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-7"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-7",
+            "track_duration": "P00H17M36S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H05M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-5"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-5",
+            "track_duration": "P00H05M49S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a4231429315_10.jpg",
-    "datePublished": "23 Oct 2013 00:00:00 GMT",
-    "description": null,
-    "duration": "P01H41M07S"
+    ]
 }

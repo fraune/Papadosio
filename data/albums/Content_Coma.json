@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/content-coma",
-    "name": "Content Coma",
-    "dateModified": "05 Nov 2018 16:34:33 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "Content Coma",
+    "album_link": "https://papadosio.bandcamp.com/album/content-coma",
+    "date_modified": "05 Nov 2018 16:34:33 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2284038606_10.jpg",
+    "date_published": "07 Sep 2018 00:00:00 GMT",
+    "album_duration": "P01H04M08S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H06M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix",
+            "track_duration": "P00H06M30S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H05M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-5"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-5",
+            "track_duration": "P00H05M58S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Liminal Daybreak",
-                "duration": "P00H05M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/liminal-daybreak"
-            }
+            "track_name": "Liminal Daybreak",
+            "track_link": "https://papadosio.bandcamp.com/track/liminal-daybreak",
+            "track_duration": "P00H05M04S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H05M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch",
+            "track_duration": "P00H05M51S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Just Like the Days",
-                "duration": "P00H05M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/just-like-the-days"
-            }
+            "track_name": "Just Like the Days",
+            "track_link": "https://papadosio.bandcamp.com/track/just-like-the-days",
+            "track_duration": "P00H05M13S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "No End",
-                "duration": "P00H04M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/no-end"
-            }
+            "track_name": "No End",
+            "track_link": "https://papadosio.bandcamp.com/track/no-end",
+            "track_duration": "P00H04M50S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Fire Rite",
-                "duration": "P00H05M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite"
-            }
+            "track_name": "Fire Rite",
+            "track_link": "https://papadosio.bandcamp.com/track/fire-rite",
+            "track_duration": "P00H05M58S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Pool of Stars",
-                "duration": "P00H05M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-4"
-            }
+            "track_name": "Pool of Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/pool-of-stars-4",
+            "track_duration": "P00H05M21S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "The World is a Cube",
-                "duration": "P00H04M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-world-is-a-cube"
-            }
+            "track_name": "The World is a Cube",
+            "track_link": "https://papadosio.bandcamp.com/track/the-world-is-a-cube",
+            "track_duration": "P00H04M06S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Content Coma",
-                "duration": "P00H04M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/content-coma-4"
-            }
+            "track_name": "Content Coma",
+            "track_link": "https://papadosio.bandcamp.com/track/content-coma-4",
+            "track_duration": "P00H04M59S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Fanfare for the Rain People",
-                "duration": "P00H05M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people"
-            }
+            "track_name": "Fanfare for the Rain People",
+            "track_link": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people",
+            "track_duration": "P00H05M40S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Passage",
-                "duration": "P00H04M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/passage"
-            }
+            "track_name": "Passage",
+            "track_link": "https://papadosio.bandcamp.com/track/passage",
+            "track_duration": "P00H04M38S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2284038606_10.jpg",
-    "datePublished": "07 Sep 2018 00:00:00 GMT",
-    "description": "“Content Coma\" is an acknowledgment of the current state of our consciousnesses, a commentary on the phenomenon of our dependence on technology. Social media keeps us apart and brings us together in ways we couldn't have imagined just 20 years ago. We have access to every movie, TV show, or album ever made at our fingertips at all times. We can answer almost any question instantly. The information age presents us with both with an energy and misinformation crisis, yet, at the same time it also provides a means to know the “other” in new ways that can help us find common ground with all people on Earth. This album is an exploration of our emotions and sentiments while navigating this content coma we all find ourselves in.\r\n\r\nHead over to our website to purchase the Vinyl Record -> shop.papadosio.com",
-    "duration": "P01H04M08S"
+    ]
 }

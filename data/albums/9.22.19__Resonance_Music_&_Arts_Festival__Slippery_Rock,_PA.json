@@ -1,68 +1,45 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/92219-resonance-music-arts-festival-slippery-rock-pa",
-    "name": "9.22.19 | Resonance Music & Arts Festival | Slippery Rock, PA",
-    "dateModified": "18 Oct 2019 14:44:06 GMT",
-    "numTracks": 7,
-    "track": [
+    "album_name": "9.22.19 | Resonance Music & Arts Festival | Slippery Rock, PA",
+    "album_link": "https://papadosio.bandcamp.com/album/92219-resonance-music-arts-festival-slippery-rock-pa",
+    "date_modified": "18 Oct 2019 14:44:06 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0707643096_10.jpg",
+    "date_published": "18 Oct 2019 14:44:06 GMT",
+    "album_duration": "P01H28M46S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Lack of Everything (Acoustic)",
-                "duration": "P00H07M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-acoustic"
-            }
+            "track_name": "The Lack of Everything (Acoustic)",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-acoustic",
+            "track_duration": "P00H07M57S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Skipswitch (Acoustic)",
-                "duration": "P00H13M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-acoustic"
-            }
+            "track_name": "Skipswitch (Acoustic)",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-acoustic",
+            "track_duration": "P00H13M37S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "No End (Acoustic)",
-                "duration": "P00H05M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/no-end-acoustic"
-            }
+            "track_name": "No End (Acoustic)",
+            "track_link": "https://papadosio.bandcamp.com/track/no-end-acoustic",
+            "track_duration": "P00H05M34S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "You & Yourself (Acoustic)",
-                "duration": "P00H21M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-yourself-acoustic"
-            }
+            "track_name": "You & Yourself (Acoustic)",
+            "track_link": "https://papadosio.bandcamp.com/track/you-yourself-acoustic",
+            "track_duration": "P00H21M02S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Left on The Light (Acoustic)",
-                "duration": "P00H06M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/left-on-the-light-acoustic"
-            }
+            "track_name": "Left on The Light (Acoustic)",
+            "track_link": "https://papadosio.bandcamp.com/track/left-on-the-light-acoustic",
+            "track_duration": "P00H06M13S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Content Coma (Acoustic)",
-                "duration": "P00H18M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/content-coma-acoustic"
-            }
+            "track_name": "Content Coma (Acoustic)",
+            "track_link": "https://papadosio.bandcamp.com/track/content-coma-acoustic",
+            "track_duration": "P00H18M28S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Paradigm Shift (Acoustic)",
-                "duration": "P00H15M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-acoustic"
-            }
+            "track_name": "Paradigm Shift (Acoustic)",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-acoustic",
+            "track_duration": "P00H15M55S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0707643096_10.jpg",
-    "datePublished": "18 Oct 2019 14:44:06 GMT",
-    "description": "This album was recorded on Sunday, September 22nd at Resonance Music & Arts Festival. We closed down the festival with this acoustic set featuring some songs that we havent played in over a decade. \r\n\r\nThanks again to everybody who came out to share this special weekend with us, see you again next year!",
-    "duration": "P01H28M46S"
+    ]
 }

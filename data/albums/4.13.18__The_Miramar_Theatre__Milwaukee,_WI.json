@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/41318-the-miramar-theatre-milwaukee-wi",
-    "name": "4.13.18 | The Miramar Theatre | Milwaukee, WI",
-    "dateModified": "24 Apr 2018 14:10:04 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "4.13.18 | The Miramar Theatre | Milwaukee, WI",
+    "album_link": "https://papadosio.bandcamp.com/album/41318-the-miramar-theatre-milwaukee-wi",
+    "date_modified": "24 Apr 2018 14:10:04 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2672687332_10.jpg",
+    "date_published": "23 Apr 2018 00:00:00 GMT",
+    "album_duration": "P01H43M58S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H03M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-50"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-50",
+            "track_duration": "P00H03M50S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Oracle Theme",
-                "duration": "P00H08M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-32"
-            }
+            "track_name": "Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/oracle-theme-32",
+            "track_duration": "P00H08M19S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H11M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-76"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-76",
+            "track_duration": "P00H11M23S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Holy Heck",
-                "duration": "P00H07M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-39"
-            }
+            "track_name": "Holy Heck",
+            "track_link": "https://papadosio.bandcamp.com/track/holy-heck-39",
+            "track_duration": "P00H07M50S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Direction Song",
-                "duration": "P00H09M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-57"
-            }
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-57",
+            "track_duration": "P00H09M21S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H08M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-53"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-53",
+            "track_duration": "P00H08M08S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Out of Hiding",
-                "duration": "P00H07M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-33"
-            }
+            "track_name": "Out of Hiding",
+            "track_link": "https://papadosio.bandcamp.com/track/out-of-hiding-33",
+            "track_duration": "P00H07M40S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Right Now",
-                "duration": "P00H07M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-28"
-            }
+            "track_name": "Right Now",
+            "track_link": "https://papadosio.bandcamp.com/track/right-now-28",
+            "track_duration": "P00H07M46S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H21M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-114"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-114",
+            "track_duration": "P00H21M01S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H13M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-45"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-45",
+            "track_duration": "P00H13M02S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Paradigm Reprise",
-                "duration": "P00H05M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-reprise"
-            }
+            "track_name": "Paradigm Reprise",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-reprise",
+            "track_duration": "P00H05M38S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2672687332_10.jpg",
-    "datePublished": "23 Apr 2018 00:00:00 GMT",
-    "description": "This album was recorded on April 13th, 2018 at The Sold Out Miramar Theater in Milwaukee, WI. Thanks to everybody who came out! & Thanks to Bluetech for getting the show started!",
-    "duration": "P01H43M58S"
+    ]
 }

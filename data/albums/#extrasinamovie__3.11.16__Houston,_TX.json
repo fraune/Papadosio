@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/extrasinamovie-31116-houston-tx",
-    "name": "#extrasinamovie | 3.11.16 | Houston, TX",
-    "dateModified": "06 Apr 2016 21:17:27 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "#extrasinamovie | 3.11.16 | Houston, TX",
+    "album_link": "https://papadosio.bandcamp.com/album/extrasinamovie-31116-houston-tx",
+    "date_modified": "06 Apr 2016 21:17:27 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0737250891_10.jpg",
+    "date_published": "06 Apr 2016 21:17:27 GMT",
+    "album_duration": "P01H44M24S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H06M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-34"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-34",
+            "track_duration": "P00H06M12S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H18M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-34"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-34",
+            "track_duration": "P00H18M18S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "If It Wasn't For You",
-                "duration": "P00H10M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-40"
-            }
+            "track_name": "If It Wasn't For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-40",
+            "track_duration": "P00H10M20S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Anima Mundi",
-                "duration": "P00H07M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-25"
-            }
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-25",
+            "track_duration": "P00H07M41S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-63"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-63",
+            "track_duration": "P00H09M59S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "The Wrong Nostalgia",
-                "duration": "P00H04M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-21"
-            }
+            "track_name": "The Wrong Nostalgia",
+            "track_link": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-21",
+            "track_duration": "P00H04M42S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Gazing the Great Oscillator",
-                "duration": "P00H01M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/gazing-the-great-oscillator-13"
-            }
+            "track_name": "Gazing the Great Oscillator",
+            "track_link": "https://papadosio.bandcamp.com/track/gazing-the-great-oscillator-13",
+            "track_duration": "P00H01M38S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Moon Entendré",
-                "duration": "P00H07M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/moon-entendr-4"
-            }
+            "track_name": "Moon Entendré",
+            "track_link": "https://papadosio.bandcamp.com/track/moon-entendr-4",
+            "track_duration": "P00H07M03S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H20M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-76"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-76",
+            "track_duration": "P00H20M38S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Crowd Banter",
-                "duration": "P00H02M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/crowd-banter-21"
-            }
+            "track_name": "Crowd Banter",
+            "track_link": "https://papadosio.bandcamp.com/track/crowd-banter-21",
+            "track_duration": "P00H02M43S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H15M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-67"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-67",
+            "track_duration": "P00H15M10S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0737250891_10.jpg",
-    "datePublished": "06 Apr 2016 21:17:27 GMT",
-    "description": null,
-    "duration": "P01H44M24S"
+    ]
 }

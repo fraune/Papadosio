@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/42618-manchester-music-hall-lexington-ky",
-    "name": "4.26.18 | Manchester Music Hall | Lexington, KY",
-    "dateModified": "02 May 2018 17:55:24 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "4.26.18 | Manchester Music Hall | Lexington, KY",
+    "album_link": "https://papadosio.bandcamp.com/album/42618-manchester-music-hall-lexington-ky",
+    "date_modified": "02 May 2018 17:55:24 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3649891405_10.jpg",
+    "date_published": "02 May 2018 17:55:24 GMT",
+    "album_duration": "P01H41M54S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H03M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-55"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-55",
+            "track_duration": "P00H03M16S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "If It Wasn't For You",
-                "duration": "P00H07M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-49"
-            }
+            "track_name": "If It Wasn't For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-49",
+            "track_duration": "P00H07M31S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H17M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-48"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-48",
+            "track_duration": "P00H17M40S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The Wrong Nostalgia",
-                "duration": "P00H04M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-42"
-            }
+            "track_name": "The Wrong Nostalgia",
+            "track_link": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-42",
+            "track_duration": "P00H04M09S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Right Now",
-                "duration": "P00H08M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-29"
-            }
+            "track_name": "Right Now",
+            "track_link": "https://papadosio.bandcamp.com/track/right-now-29",
+            "track_duration": "P00H08M04S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H14M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-99"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-99",
+            "track_duration": "P00H14M28S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Omnifreeze",
-                "duration": "P00H07M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-35"
-            }
+            "track_name": "Omnifreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-35",
+            "track_duration": "P00H07M11S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Oracle Theme",
-                "duration": "P00H06M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-33"
-            }
+            "track_name": "Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/oracle-theme-33",
+            "track_duration": "P00H06M18S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H07M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-47"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-47",
+            "track_duration": "P00H07M18S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Epiphany",
-                "duration": "P00H07M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-43"
-            }
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-43",
+            "track_duration": "P00H07M17S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Threes Reprise",
-                "duration": "P00H01M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-reprise"
-            }
+            "track_name": "Threes Reprise",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-reprise",
+            "track_duration": "P00H01M46S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H16M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-47"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-47",
+            "track_duration": "P00H16M56S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3649891405_10.jpg",
-    "datePublished": "02 May 2018 17:55:24 GMT",
-    "description": "his album was recorded on April 26th, 2018, at The Manchester Music Hall in Lexington, KY! Thanks to everybody who came out & Thanks to Aqueous for opening up the night! See you again soon!",
-    "duration": "P01H41M54S"
+    ]
 }

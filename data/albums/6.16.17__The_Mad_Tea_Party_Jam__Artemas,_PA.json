@@ -1,76 +1,50 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/61617-the-mad-tea-party-jam-artemas-pa",
-    "name": "6.16.17 | The Mad Tea Party Jam | Artemas, PA",
-    "dateModified": "05 Jul 2017 17:17:48 GMT",
-    "numTracks": 8,
-    "track": [
+    "album_name": "6.16.17 | The Mad Tea Party Jam | Artemas, PA",
+    "album_link": "https://papadosio.bandcamp.com/album/61617-the-mad-tea-party-jam-artemas-pa",
+    "date_modified": "05 Jul 2017 17:17:48 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4055502682_10.jpg",
+    "date_published": "05 Jul 2017 17:17:48 GMT",
+    "album_duration": "P01H30M22S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H20M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-77"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-77",
+            "track_duration": "P00H20M03S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-76"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-76",
+            "track_duration": "P00H09M02S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "How Not to Float",
-                "duration": "P00H16M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-35"
-            }
+            "track_name": "How Not to Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-35",
+            "track_duration": "P00H16M27S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Drift",
-                "duration": "P00H06M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-22"
-            }
+            "track_name": "Drift",
+            "track_link": "https://papadosio.bandcamp.com/track/drift-22",
+            "track_duration": "P00H06M02S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Lack of Everything",
-                "duration": "P00H07M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-20"
-            }
+            "track_name": "The Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-20",
+            "track_duration": "P00H07M06S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Omnifreeze",
-                "duration": "P00H11M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-23"
-            }
+            "track_name": "Omnifreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-23",
+            "track_duration": "P00H11M05S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Advocates of Change",
-                "duration": "P00H16M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocates-of-change"
-            }
+            "track_name": "Advocates of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocates-of-change",
+            "track_duration": "P00H16M15S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "TV Song",
-                "duration": "P00H04M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/tv-song-22"
-            }
+            "track_name": "TV Song",
+            "track_link": "https://papadosio.bandcamp.com/track/tv-song-22",
+            "track_duration": "P00H04M22S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a4055502682_10.jpg",
-    "datePublished": "05 Jul 2017 17:17:48 GMT",
-    "description": "All material was written and recorded by Papadosio at the Mad Tea Party Jam 6, on June 16th 2017 in Artemas, PA.",
-    "duration": "P01H30M22S"
+    ]
 }

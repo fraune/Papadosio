@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/82518-trees-dallas-tx",
-    "name": "8.25.18 | Trees | Dallas, TX",
-    "dateModified": "02 Sep 2018 19:04:54 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "8.25.18 | Trees | Dallas, TX",
+    "album_link": "https://papadosio.bandcamp.com/album/82518-trees-dallas-tx",
+    "date_modified": "02 Sep 2018 19:04:54 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1099335413_10.jpg",
+    "date_published": "02 Sep 2018 19:04:54 GMT",
+    "album_duration": "P01H55M09S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Frequence",
-                "duration": "P00H17M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-39"
-            }
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-39",
+            "track_duration": "P00H17M26S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Direction Song",
-                "duration": "P00H12M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-59"
-            }
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-59",
+            "track_duration": "P00H12M01S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H09M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-55"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-55",
+            "track_duration": "P00H09M13S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H08M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-48"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-48",
+            "track_duration": "P00H08M21S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H12M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-53"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-53",
+            "track_duration": "P00H12M03S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "By the Light of the Stars",
-                "duration": "P00H10M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-56"
-            }
+            "track_name": "By the Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-56",
+            "track_duration": "P00H10M34S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Obove",
-                "duration": "P00H03M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-18"
-            }
+            "track_name": "Obove",
+            "track_link": "https://papadosio.bandcamp.com/track/obove-18",
+            "track_duration": "P00H03M29S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H13M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-68"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-68",
+            "track_duration": "P00H13M21S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H09M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-3"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-3",
+            "track_duration": "P00H09M29S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H19M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-49"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-49",
+            "track_duration": "P00H19M12S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1099335413_10.jpg",
-    "datePublished": "02 Sep 2018 19:04:54 GMT",
-    "description": "This album was recorded on August 25th, 2018 in Dallas Texas at TREES. Honestly, trees are awesome & we all know it. Just sit back and take a breath, that sweet sweet air. Trees made that. \r\n\r\nThanks for Higher Learning + MOJO for coming out to get things raging! Hope to see you all again soon!",
-    "duration": "P01H55M09S"
+    ]
 }

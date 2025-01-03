@@ -1,84 +1,55 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-at-resonance-2016-924-thornville-oh",
-    "name": "Live at Resonance 2016 - 9.24 - Thornville, OH",
-    "dateModified": "06 Oct 2016 18:22:15 GMT",
-    "numTracks": 9,
-    "track": [
+    "album_name": "Live at Resonance 2016 - 9.24 - Thornville, OH",
+    "album_link": "https://papadosio.bandcamp.com/album/live-at-resonance-2016-924-thornville-oh",
+    "date_modified": "06 Oct 2016 18:22:15 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0525081325_10.jpg",
+    "date_published": "06 Oct 2016 00:00:00 GMT",
+    "album_duration": "P01H40M41S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H05M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-37"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-37",
+            "track_duration": "P00H05M47S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H09M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-41"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-41",
+            "track_duration": "P00H09M37S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Frequence",
-                "duration": "P00H13M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-24"
-            }
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-24",
+            "track_duration": "P00H13M19S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Madre Says",
-                "duration": "P00H09M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-says"
-            }
+            "track_name": "Madre Says",
+            "track_link": "https://papadosio.bandcamp.com/track/madre-says",
+            "track_duration": "P00H09M10S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Madre De Dios",
-                "duration": "P00H06M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-26"
-            }
+            "track_name": "Madre De Dios",
+            "track_link": "https://papadosio.bandcamp.com/track/madre-de-dios-26",
+            "track_duration": "P00H06M02S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H11M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-92"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-92",
+            "track_duration": "P00H11M31S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H17M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-40"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-40",
+            "track_duration": "P00H17M53S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H19M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-34"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-34",
+            "track_duration": "P00H19M32S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H07M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-42"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-42",
+            "track_duration": "P00H07M50S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0525081325_10.jpg",
-    "datePublished": "06 Oct 2016 00:00:00 GMT",
-    "description": null,
-    "duration": "P01H40M41S"
+    ]
 }

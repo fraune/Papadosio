@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/42719-soundstage-baltimore-md",
-    "name": "4.27.19 | Soundstage | Baltimore, MD",
-    "dateModified": "03 May 2019 20:54:54 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "4.27.19 | Soundstage | Baltimore, MD",
+    "album_link": "https://papadosio.bandcamp.com/album/42719-soundstage-baltimore-md",
+    "date_modified": "03 May 2019 20:54:54 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2529027103_10.jpg",
+    "date_published": "03 May 2019 20:54:54 GMT",
+    "album_duration": "P01H47M58S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Now That You Know V2",
-                "duration": "P00H09M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-v2"
-            }
+            "track_name": "Now That You Know V2",
+            "track_link": "https://papadosio.bandcamp.com/track/now-that-you-know-v2",
+            "track_duration": "P00H09M07S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H05M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-98"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-98",
+            "track_duration": "P00H05M56S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Content Coma",
-                "duration": "P00H11M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/content-coma-19"
-            }
+            "track_name": "Content Coma",
+            "track_link": "https://papadosio.bandcamp.com/track/content-coma-19",
+            "track_duration": "P00H11M01S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Fire Rite",
-                "duration": "P00H06M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-25"
-            }
+            "track_name": "Fire Rite",
+            "track_link": "https://papadosio.bandcamp.com/track/fire-rite-25",
+            "track_duration": "P00H06M13S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H15M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-83"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-83",
+            "track_duration": "P00H15M07S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H09M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-71"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-71",
+            "track_duration": "P00H09M48S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Mr Turtles Cloud Kingdom",
-                "duration": "P00H05M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-50"
-            }
+            "track_name": "Mr Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-50",
+            "track_duration": "P00H05M15S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-98"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-98",
+            "track_duration": "P00H09M18S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H18M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-61"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-61",
+            "track_duration": "P00H18M58S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H17M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-78"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-78",
+            "track_duration": "P00H17M15S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2529027103_10.jpg",
-    "datePublished": "03 May 2019 20:54:54 GMT",
-    "description": "This album was recorded on April 27th, 2019 in Baltimore, MD at the Soundstage. Thanks to everybody who came out and thank you to Lespecial & The Werks for getting things warmed up for us. See you again soon Baltimore!",
-    "duration": "P01H47M58S"
+    ]
 }

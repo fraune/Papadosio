@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/112919-magic-stick-detroit-mi",
-    "name": "11.29.19 | Magic Stick | Detroit, MI",
-    "dateModified": "04 Dec 2019 23:09:17 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "11.29.19 | Magic Stick | Detroit, MI",
+    "album_link": "https://papadosio.bandcamp.com/album/112919-magic-stick-detroit-mi",
+    "date_modified": "04 Dec 2019 23:09:17 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1604704886_10.jpg",
+    "date_published": "04 Dec 2019 23:09:17 GMT",
+    "album_duration": "P01H54M45S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H08M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-102"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-102",
+            "track_duration": "P00H08M47S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H11M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-81"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-81",
+            "track_duration": "P00H11M26S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H11M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-39"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-39",
+            "track_duration": "P00H11M26S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Catalyst",
-                "duration": "P00H05M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-12"
-            }
+            "track_name": "Catalyst",
+            "track_link": "https://papadosio.bandcamp.com/track/catalyst-12",
+            "track_duration": "P00H05M57S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H10M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-71"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-71",
+            "track_duration": "P00H10M36S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Oracle Theme",
-                "duration": "P00H06M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-38"
-            }
+            "track_name": "Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/oracle-theme-38",
+            "track_duration": "P00H06M28S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Frequence",
-                "duration": "P00H11M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-45"
-            }
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-45",
+            "track_duration": "P00H11M58S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "How Not To Float",
-                "duration": "P00H09M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-56"
-            }
+            "track_name": "How Not To Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-56",
+            "track_duration": "P00H09M37S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Frequence",
-                "duration": "P00H02M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-46"
-            }
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-46",
+            "track_duration": "P00H02M33S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H07M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-29"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-29",
+            "track_duration": "P00H07M52S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-101"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-101",
+            "track_duration": "P00H07M12S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H11M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-123"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-123",
+            "track_duration": "P00H11M43S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "The Bionic Man Meets His Past Pt 2",
-                "duration": "P00H09M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-pt-2"
-            }
+            "track_name": "The Bionic Man Meets His Past Pt 2",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-pt-2",
+            "track_duration": "P00H09M10S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1604704886_10.jpg",
-    "datePublished": "04 Dec 2019 23:09:17 GMT",
-    "description": "This album was recorded on November 29th, 2019 at The Magic Stick in Detroit, MI. Big thanks to everyone who came to the show! Subscribe to our Band Camp to have access to all of our live sets & more!",
-    "duration": "P01H54M45S"
+    ]
 }

@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/42818-the-vogue-indianapolis-in",
-    "name": "4.28.18 | The Vogue | Indianapolis, IN",
-    "dateModified": "04 May 2018 17:29:10 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "4.28.18 | The Vogue | Indianapolis, IN",
+    "album_link": "https://papadosio.bandcamp.com/album/42818-the-vogue-indianapolis-in",
+    "date_modified": "04 May 2018 17:29:10 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1527142350_10.jpg",
+    "date_published": "04 May 2018 17:29:10 GMT",
+    "album_duration": "P01H50M03S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H03M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-57"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-57",
+            "track_duration": "P00H03M56S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H15M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-71"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-71",
+            "track_duration": "P00H15M11S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H17M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-50"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-50",
+            "track_duration": "P00H17M55S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H12M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-70"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-70",
+            "track_duration": "P00H12M51S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-122"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-122",
+            "track_duration": "P00H10M44S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Ear to Ear",
-                "duration": "P00H05M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-28"
-            }
+            "track_name": "Ear to Ear",
+            "track_link": "https://papadosio.bandcamp.com/track/ear-to-ear-28",
+            "track_duration": "P00H05M51S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H09M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-58"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-58",
+            "track_duration": "P00H09M34S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H09M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-86"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-86",
+            "track_duration": "P00H09M49S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H07M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-59"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-59",
+            "track_duration": "P00H07M55S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H06M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-60"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-60",
+            "track_duration": "P00H06M38S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Find your Cloud",
-                "duration": "P00H09M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-117"
-            }
+            "track_name": "Find your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-117",
+            "track_duration": "P00H09M39S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1527142350_10.jpg",
-    "datePublished": "04 May 2018 17:29:10 GMT",
-    "description": "This album was recorded on April 28th, 2018, at The Vogue in Indianapolis, IN! Thanks to everybody who came out & Thanks to Aqueous + DIzgo for opening up the night! See you again soon!",
-    "duration": "P01H50M03S"
+    ]
 }

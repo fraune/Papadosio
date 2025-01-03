@@ -1,52 +1,35 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-from-imagine-2016-hampton-ga",
-    "name": "Live from Imagine 2016 - Hampton, GA",
-    "dateModified": "09 Sep 2016 11:53:12 GMT",
-    "numTracks": 5,
-    "track": [
+    "album_name": "Live from Imagine 2016 - Hampton, GA",
+    "album_link": "https://papadosio.bandcamp.com/album/live-from-imagine-2016-hampton-ga",
+    "date_modified": "09 Sep 2016 11:53:12 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3317040816_10.jpg",
+    "date_published": "09 Sep 2016 11:53:12 GMT",
+    "album_duration": "P00H56M12S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H18M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-83"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-83",
+            "track_duration": "P00H18M14S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H06M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-91"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-91",
+            "track_duration": "P00H06M36S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H14M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-60"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-60",
+            "track_duration": "P00H14M47S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H11M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-82"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-82",
+            "track_duration": "P00H11M12S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H05M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-43"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-43",
+            "track_duration": "P00H05M23S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3317040816_10.jpg",
-    "datePublished": "09 Sep 2016 11:53:12 GMT",
-    "description": null,
-    "duration": "P00H56M12S"
+    ]
 }

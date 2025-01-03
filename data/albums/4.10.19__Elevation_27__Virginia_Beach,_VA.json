@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/41019-elevation-27-virginia-beach-va",
-    "name": "4.10.19 | Elevation 27 | Virginia Beach, VA",
-    "dateModified": "12 Apr 2019 17:47:34 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "4.10.19 | Elevation 27 | Virginia Beach, VA",
+    "album_link": "https://papadosio.bandcamp.com/album/41019-elevation-27-virginia-beach-va",
+    "date_modified": "12 Apr 2019 17:47:34 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3440185118_10.jpg",
+    "date_published": "11 Apr 2019 00:00:00 GMT",
+    "album_duration": "P02H10M36S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H03M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-62"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-62",
+            "track_duration": "P00H03M26S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H19M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-64"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-64",
+            "track_duration": "P00H19M51S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "How Not To Float",
-                "duration": "P00H09M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-51"
-            }
+            "track_name": "How Not To Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-51",
+            "track_duration": "P00H09M33S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H09M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-58"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-58",
+            "track_duration": "P00H09M21S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H08M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-59"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-59",
+            "track_duration": "P00H08M50S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-96"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-96",
+            "track_duration": "P00H09M05S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H19M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-21"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-21",
+            "track_duration": "P00H19M09S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Ritual",
-                "duration": "P00H11M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-40"
-            }
+            "track_name": "Ritual",
+            "track_link": "https://papadosio.bandcamp.com/track/ritual-40",
+            "track_duration": "P00H11M17S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Out of Hiding",
-                "duration": "P00H07M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-39"
-            }
+            "track_name": "Out of Hiding",
+            "track_link": "https://papadosio.bandcamp.com/track/out-of-hiding-39",
+            "track_duration": "P00H07M27S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H13M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-76"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-76",
+            "track_duration": "P00H13M21S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H19M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-22"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-22",
+            "track_duration": "P00H19M16S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3440185118_10.jpg",
-    "datePublished": "11 Apr 2019 00:00:00 GMT",
-    "description": "This album was recorded on April 10th, 2019 at Elevation 27 in Virginia Beach, VA. thanks, to everybody who came out to show their support & thanks to Galaxy Dynamite for getting the night started!",
-    "duration": "P02H10M36S"
+    ]
 }

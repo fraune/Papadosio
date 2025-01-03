@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/culture-room-ft-lauderdale-fl-123023",
-    "name": "Culture Room | Ft. Lauderdale, FL | 12.30.23",
-    "dateModified": "05 Jan 2024 20:26:25 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Culture Room | Ft. Lauderdale, FL | 12.30.23",
+    "album_link": "https://papadosio.bandcamp.com/album/culture-room-ft-lauderdale-fl-123023",
+    "date_modified": "05 Jan 2024 20:26:25 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2425915608_10.jpg",
+    "date_published": "05 Jan 2024 20:26:26 GMT",
+    "album_duration": "P01H53M34S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "By The Light Of The Stars",
-                "duration": "P00H13M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-89"
-            }
+            "track_name": "By The Light Of The Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-89",
+            "track_duration": "P00H13M41S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Dare You",
-                "duration": "P00H07M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-23"
-            }
+            "track_name": "Dare You",
+            "track_link": "https://papadosio.bandcamp.com/track/dare-you-23",
+            "track_duration": "P00H07M14S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H16M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-92"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-92",
+            "track_duration": "P00H16M14S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Zoom Out",
-                "duration": "P00H07M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/zoom-out-21"
-            }
+            "track_name": "Zoom Out",
+            "track_link": "https://papadosio.bandcamp.com/track/zoom-out-21",
+            "track_duration": "P00H07M27S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Lion's Mane",
-                "duration": "P00H11M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-39"
-            }
+            "track_name": "Lion's Mane",
+            "track_link": "https://papadosio.bandcamp.com/track/lions-mane-39",
+            "track_duration": "P00H11M18S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Xanadu",
-                "duration": "P00H08M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/xanadu-11"
-            }
+            "track_name": "Xanadu",
+            "track_link": "https://papadosio.bandcamp.com/track/xanadu-11",
+            "track_duration": "P00H08M37S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Method Of Control",
-                "duration": "P00H07M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-128"
-            }
+            "track_name": "Method Of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-128",
+            "track_duration": "P00H07M16S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H09M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-64"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-64",
+            "track_duration": "P00H09M34S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H10M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-72"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-72",
+            "track_duration": "P00H10M20S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H11M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-159"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-159",
+            "track_duration": "P00H11M02S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H10M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-135"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-135",
+            "track_duration": "P00H10M51S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2425915608_10.jpg",
-    "datePublished": "05 Jan 2024 20:26:26 GMT",
-    "description": "Thanks Ft. Lauderdale!",
-    "duration": "P01H53M34S"
+    ]
 }

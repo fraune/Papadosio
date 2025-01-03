@@ -1,84 +1,55 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-from-the-hills-32815-pataskala-oh",
-    "name": "Live From The Hills |3.28.15| Pataskala, OH",
-    "dateModified": "13 Apr 2015 19:55:54 GMT",
-    "numTracks": 9,
-    "track": [
+    "album_name": "Live From The Hills |3.28.15| Pataskala, OH",
+    "album_link": "https://papadosio.bandcamp.com/album/live-from-the-hills-32815-pataskala-oh",
+    "date_modified": "13 Apr 2015 19:55:54 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0052868320_10.jpg",
+    "date_published": "13 Apr 2015 19:55:54 GMT",
+    "album_duration": "P01H57M32S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H27M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-29"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-29",
+            "track_duration": "P00H27M36S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H13M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-30"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-30",
+            "track_duration": "P00H13M46S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Direction Song",
-                "duration": "P00H06M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-25"
-            }
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-25",
+            "track_duration": "P00H06M23S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Now That You Know",
-                "duration": "P00H09M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-14"
-            }
+            "track_name": "Now That You Know",
+            "track_link": "https://papadosio.bandcamp.com/track/now-that-you-know-14",
+            "track_duration": "P00H09M20S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Elephant I Presume",
-                "duration": "P00H08M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-18"
-            }
+            "track_name": "The Elephant I Presume",
+            "track_link": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-18",
+            "track_duration": "P00H08M20S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H07M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-29"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-29",
+            "track_duration": "P00H07M30S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Hippie Babysitter Ft. Chris Houser (The Werks)",
-                "duration": "P00H19M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-ft-chris-houser-the-werks"
-            }
+            "track_name": "Hippie Babysitter Ft. Chris Houser (The Werks)",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-ft-chris-houser-the-werks",
+            "track_duration": "P00H19M22S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "If It Wasnt For You",
-                "duration": "P00H08M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-34"
-            }
+            "track_name": "If It Wasnt For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-34",
+            "track_duration": "P00H08M19S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Polygons 2/2",
-                "duration": "P00H16M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-2-2"
-            }
+            "track_name": "Polygons 2/2",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-2-2",
+            "track_duration": "P00H16M56S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0052868320_10.jpg",
-    "datePublished": "13 Apr 2015 19:55:54 GMT",
-    "description": "Live from the Hills of Pataskala, OH on March 28th 2015",
-    "duration": "P01H57M32S"
+    ]
 }

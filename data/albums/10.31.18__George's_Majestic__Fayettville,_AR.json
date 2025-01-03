@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/103118-georges-majestic-fayettville-ar",
-    "name": "10.31.18 | George's Majestic | Fayettville, AR",
-    "dateModified": "17 Nov 2018 01:18:43 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "10.31.18 | George's Majestic | Fayettville, AR",
+    "album_link": "https://papadosio.bandcamp.com/album/103118-georges-majestic-fayettville-ar",
+    "date_modified": "17 Nov 2018 01:18:43 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1624977385_10.jpg",
+    "date_published": "17 Nov 2018 01:18:43 GMT",
+    "album_duration": "P01H40M43S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H12M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-72"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-72",
+            "track_duration": "P00H12M28S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H14M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-63"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-63",
+            "track_duration": "P00H14M17S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The World is a Cube",
-                "duration": "P00H08M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-9"
-            }
+            "track_name": "The World is a Cube",
+            "track_link": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-9",
+            "track_duration": "P00H08M39S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H15M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-90"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-90",
+            "track_duration": "P00H15M44S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Liminal Daybreak",
-                "duration": "P00H05M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/liminal-daybreak-9"
-            }
+            "track_name": "Liminal Daybreak",
+            "track_link": "https://papadosio.bandcamp.com/track/liminal-daybreak-9",
+            "track_duration": "P00H05M09S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H07M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-92"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-92",
+            "track_duration": "P00H07M44S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H08M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-13"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-13",
+            "track_duration": "P00H08M28S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H09M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-54"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-54",
+            "track_duration": "P00H09M00S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H11M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-11"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-11",
+            "track_duration": "P00H11M06S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Eyes Have eyes",
-                "duration": "P00H08M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-65"
-            }
+            "track_name": "The Eyes Have eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-65",
+            "track_duration": "P00H08M08S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1624977385_10.jpg",
-    "datePublished": "17 Nov 2018 01:18:43 GMT",
-    "description": "This album was recorded at Goerge's Majestic Lounge in Fayetteville, AR on Halloween night! Thanks to everybody who came out & thanks to Evanoff for getting the night started! We will see you again soon!",
-    "duration": "P01H40M43S"
+    ]
 }

@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/31217-the-majestic-madison-wi",
-    "name": "3.12.17 | The Majestic | Madison, WI",
-    "dateModified": "15 Mar 2017 19:25:31 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "3.12.17 | The Majestic | Madison, WI",
+    "album_link": "https://papadosio.bandcamp.com/album/31217-the-majestic-madison-wi",
+    "date_modified": "15 Mar 2017 19:25:31 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1634809037_10.jpg",
+    "date_published": "15 Mar 2017 00:00:00 GMT",
+    "album_duration": "P01H34M08S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "...And This is What he Thought",
-                "duration": "P00H03M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-26"
-            }
+            "track_name": "...And This is What he Thought",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-26",
+            "track_duration": "P00H03M42S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H09M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-48"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-48",
+            "track_duration": "P00H09M32S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H07M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-59"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-59",
+            "track_duration": "P00H07M32S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H12M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-22"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-22",
+            "track_duration": "P00H12M10S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Out of Hiding",
-                "duration": "P00H08M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-28"
-            }
+            "track_name": "Out of Hiding",
+            "track_link": "https://papadosio.bandcamp.com/track/out-of-hiding-28",
+            "track_duration": "P00H08M07S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H09M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-21"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-21",
+            "track_duration": "P00H09M17S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H09M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-23"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-23",
+            "track_duration": "P00H09M03S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H15M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-89"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-89",
+            "track_duration": "P00H15M20S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "The bionic Man Meets His Past",
-                "duration": "P00H05M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-80"
-            }
+            "track_name": "The bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-80",
+            "track_duration": "P00H05M43S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H13M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-65"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-65",
+            "track_duration": "P00H13M42S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1634809037_10.jpg",
-    "datePublished": "15 Mar 2017 00:00:00 GMT",
-    "description": "Recorded on March 12th, 2017 at The Majestic in Madison, WI \r\n\r\nPattern Integrities Spring Tour 2017 \r\n\r\nAll material was written and recorded by Papadosio",
-    "duration": "P01H34M08S"
+    ]
 }

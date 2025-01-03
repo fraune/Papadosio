@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/winter-werkout-the-bluestone-columbus-oh-21024",
-    "name": "Winter Werkout | The Bluestone | Columbus, OH | 2.10.24",
-    "dateModified": "14 Feb 2024 15:29:00 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "Winter Werkout | The Bluestone | Columbus, OH | 2.10.24",
+    "album_link": "https://papadosio.bandcamp.com/album/winter-werkout-the-bluestone-columbus-oh-21024",
+    "date_modified": "14 Feb 2024 15:29:00 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0848705049_10.jpg",
+    "date_published": "14 Feb 2024 15:29:00 GMT",
+    "album_duration": "P01H27M41S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H11M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-175"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-175",
+            "track_duration": "P00H11M35S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "We Choose",
-                "duration": "P00H06M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-38"
-            }
+            "track_name": "We Choose",
+            "track_link": "https://papadosio.bandcamp.com/track/we-choose-38",
+            "track_duration": "P00H06M59S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Fossilize",
-                "duration": "P00H07M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fossilize-10"
-            }
+            "track_name": "Fossilize",
+            "track_link": "https://papadosio.bandcamp.com/track/fossilize-10",
+            "track_duration": "P00H07M40S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The State Of Things",
-                "duration": "P00H05M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-state-of-things-10"
-            }
+            "track_name": "The State Of Things",
+            "track_link": "https://papadosio.bandcamp.com/track/the-state-of-things-10",
+            "track_duration": "P00H05M27S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Everyone Is Cool",
-                "duration": "P00H08M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/everyone-is-cool-17"
-            }
+            "track_name": "Everyone Is Cool",
+            "track_link": "https://papadosio.bandcamp.com/track/everyone-is-cool-17",
+            "track_duration": "P00H08M03S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H15M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-96"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-96",
+            "track_duration": "P00H15M08S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The End Of The World",
-                "duration": "P00H04M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-end-of-the-world-11"
-            }
+            "track_name": "The End Of The World",
+            "track_link": "https://papadosio.bandcamp.com/track/the-end-of-the-world-11",
+            "track_duration": "P00H04M50S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H11M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-171"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-171",
+            "track_duration": "P00H11M58S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H06M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-178"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-178",
+            "track_duration": "P00H06M54S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Cubensis -- We Are Water (end)",
-                "duration": "P00H09M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-we-are-water-end"
-            }
+            "track_name": "Cubensis -- We Are Water (end)",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis-we-are-water-end",
+            "track_duration": "P00H09M07S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0848705049_10.jpg",
-    "datePublished": "14 Feb 2024 15:29:00 GMT",
-    "description": "Muchos gracias so much to The Werks for having us for Winter Werkout this year! Super danke to everyone who came out and help to make it such a bop.....Night 2",
-    "duration": "P01H27M41S"
+    ]
 }

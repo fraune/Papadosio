@@ -1,68 +1,45 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/earth-night-2016-live-pa-denver-co",
-    "name": "Earth Night 2016 - Live PA - Denver, CO",
-    "dateModified": "16 Dec 2016 03:55:04 GMT",
-    "numTracks": 7,
-    "track": [
+    "album_name": "Earth Night 2016 - Live PA - Denver, CO",
+    "album_link": "https://papadosio.bandcamp.com/album/earth-night-2016-live-pa-denver-co",
+    "date_modified": "16 Dec 2016 03:55:04 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2048843527_10.jpg",
+    "date_published": "16 Dec 2016 00:00:00 GMT",
+    "album_duration": "P02H14M13S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Little Whiskers",
-                "duration": "P00H43M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/little-whiskers"
-            }
+            "track_name": "Little Whiskers",
+            "track_link": "https://papadosio.bandcamp.com/track/little-whiskers",
+            "track_duration": "P00H43M59S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Grand Crayonyon",
-                "duration": "P00H13M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/grand-crayonyon"
-            }
+            "track_name": "Grand Crayonyon",
+            "track_link": "https://papadosio.bandcamp.com/track/grand-crayonyon",
+            "track_duration": "P00H13M20S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Take Up Thy Cape and Vanish",
-                "duration": "P00H17M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/take-up-thy-cape-and-vanish"
-            }
+            "track_name": "Take Up Thy Cape and Vanish",
+            "track_link": "https://papadosio.bandcamp.com/track/take-up-thy-cape-and-vanish",
+            "track_duration": "P00H17M55S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Super High Five",
-                "duration": "P00H22M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/super-high-five"
-            }
+            "track_name": "Super High Five",
+            "track_link": "https://papadosio.bandcamp.com/track/super-high-five",
+            "track_duration": "P00H22M00S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "A Verbs",
-                "duration": "P00H15M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/a-verbs"
-            }
+            "track_name": "A Verbs",
+            "track_link": "https://papadosio.bandcamp.com/track/a-verbs",
+            "track_duration": "P00H15M00S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Phos for Us",
-                "duration": "P00H15M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/phos-for-us"
-            }
+            "track_name": "Phos for Us",
+            "track_link": "https://papadosio.bandcamp.com/track/phos-for-us",
+            "track_duration": "P00H15M56S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Gary Indiana",
-                "duration": "P00H06M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/gary-indiana"
-            }
+            "track_name": "Gary Indiana",
+            "track_link": "https://papadosio.bandcamp.com/track/gary-indiana",
+            "track_duration": "P00H06M03S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2048843527_10.jpg",
-    "datePublished": "16 Dec 2016 00:00:00 GMT",
-    "description": null,
-    "duration": "P02H14M13S"
+    ]
 }

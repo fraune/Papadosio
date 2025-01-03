@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/ziggys-by-the-sea-11515-wilmington-nc",
-    "name": "Ziggys by the Sea | 11.5.15 | Wilmington, NC",
-    "dateModified": "26 Nov 2015 23:55:28 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "Ziggys by the Sea | 11.5.15 | Wilmington, NC",
+    "album_link": "https://papadosio.bandcamp.com/album/ziggys-by-the-sea-11515-wilmington-nc",
+    "date_modified": "26 Nov 2015 23:55:28 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1953999363_10.jpg",
+    "date_published": "26 Nov 2015 23:55:28 GMT",
+    "album_duration": "P02H21M31S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H01M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-18"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-18",
+            "track_duration": "P00H01M05S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Therian",
-                "duration": "P00H08M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-6"
-            }
+            "track_name": "Therian",
+            "track_link": "https://papadosio.bandcamp.com/track/therian-6",
+            "track_duration": "P00H08M19S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "We Can Always Come Back...",
-                "duration": "P00H16M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-8"
-            }
+            "track_name": "We Can Always Come Back...",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back-8",
+            "track_duration": "P00H16M06S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H08M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-55"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-55",
+            "track_duration": "P00H08M46S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H14M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-55"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-55",
+            "track_duration": "P00H14M40S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "You and Yourself",
-                "duration": "P00H16M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-31"
-            }
+            "track_name": "You and Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-31",
+            "track_duration": "P00H16M16S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The Wrong Nostalgia",
-                "duration": "P00H04M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-7"
-            }
+            "track_name": "The Wrong Nostalgia",
+            "track_link": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-7",
+            "track_duration": "P00H04M59S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Frequence",
-                "duration": "P00H17M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-20"
-            }
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-20",
+            "track_duration": "P00H17M40S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H06M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-14"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-14",
+            "track_duration": "P00H06M11S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-82"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-82",
+            "track_duration": "P00H10M44S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Distant Days",
-                "duration": "P00H05M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distant-days-5"
-            }
+            "track_name": "Distant Days",
+            "track_link": "https://papadosio.bandcamp.com/track/distant-days-5",
+            "track_duration": "P00H05M12S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Gazing The Great Oscillator",
-                "duration": "P00H11M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/gazing-the-great-oscillator-5"
-            }
+            "track_name": "Gazing The Great Oscillator",
+            "track_link": "https://papadosio.bandcamp.com/track/gazing-the-great-oscillator-5",
+            "track_duration": "P00H11M13S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H20M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-64"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-64",
+            "track_duration": "P00H20M20S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1953999363_10.jpg",
-    "datePublished": "26 Nov 2015 23:55:28 GMT",
-    "description": "Ziggys by the Sea | 11.5.15 | Wilmington, NC\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015. Special shout out to Terry's Towing service for all the love",
-    "duration": "P02H21M31S"
+    ]
 }

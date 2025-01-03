@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/town-ballroom-buffalo-ny-4723",
-    "name": "Town Ballroom | Buffalo, NY | 4.7.23",
-    "dateModified": "20 Apr 2023 18:08:13 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Town Ballroom | Buffalo, NY | 4.7.23",
+    "album_link": "https://papadosio.bandcamp.com/album/town-ballroom-buffalo-ny-4723",
+    "date_modified": "20 Apr 2023 18:08:13 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1201831267_10.jpg",
+    "date_published": "20 Apr 2023 18:08:13 GMT",
+    "album_duration": "P01H48M35S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H11M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-66"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-66",
+            "track_duration": "P00H11M33S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "The Bionic Man Meets His Past*",
-                "duration": "P00H15M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-152"
-            }
+            "track_name": "The Bionic Man Meets His Past*",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-152",
+            "track_duration": "P00H15M41S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Not Just A Word",
-                "duration": "P00H06M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-16"
-            }
+            "track_name": "Not Just A Word",
+            "track_link": "https://papadosio.bandcamp.com/track/not-just-a-word-16",
+            "track_duration": "P00H06M22S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Versicolor",
-                "duration": "P00H07M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-34"
-            }
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-34",
+            "track_duration": "P00H07M36S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Dare You",
-                "duration": "P00H07M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-9"
-            }
+            "track_name": "Dare You",
+            "track_link": "https://papadosio.bandcamp.com/track/dare-you-9",
+            "track_duration": "P00H07M01S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H10M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-123"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-123",
+            "track_duration": "P00H10M00S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Chaga",
-                "duration": "P00H05M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/chaga-22"
-            }
+            "track_name": "Chaga",
+            "track_link": "https://papadosio.bandcamp.com/track/chaga-22",
+            "track_duration": "P00H05M01S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H18M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-154"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-154",
+            "track_duration": "P00H18M22S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H08M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-96"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-96",
+            "track_duration": "P00H08M29S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H12M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-89"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-89",
+            "track_duration": "P00H12M46S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Cubensis",
-                "duration": "P00H05M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-35"
-            }
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis-35",
+            "track_duration": "P00H05M44S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1201831267_10.jpg",
-    "datePublished": "20 Apr 2023 18:08:13 GMT",
-    "description": "We love you Buffalo! Thanks so much for welcoming us back with such great energy. Still feeling it!\r\n \r\n*Busted out Lost Woods from Ocarina of Time during Bionic Man, that was fun!",
-    "duration": "P01H48M35S"
+    ]
 }

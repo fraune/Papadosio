@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/31718-elevation-at-the-intersection-grand-rapids-mi",
-    "name": "3.17.18 | Elevation at the Intersection | Grand Rapids, MI",
-    "dateModified": "24 Mar 2018 16:27:16 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "3.17.18 | Elevation at the Intersection | Grand Rapids, MI",
+    "album_link": "https://papadosio.bandcamp.com/album/31718-elevation-at-the-intersection-grand-rapids-mi",
+    "date_modified": "24 Mar 2018 16:27:16 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3028768188_10.jpg",
+    "date_published": "23 Mar 2018 00:00:00 GMT",
+    "album_duration": "P01H51M59S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H03M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-44"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-44",
+            "track_duration": "P00H03M29S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H10M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-56"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-56",
+            "track_duration": "P00H10M31S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H12M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-41"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-41",
+            "track_duration": "P00H12M03S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Oblivion",
-                "duration": "P00H11M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-30"
-            }
+            "track_name": "Oblivion",
+            "track_link": "https://papadosio.bandcamp.com/track/oblivion-30",
+            "track_duration": "P00H11M53S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H08M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-83"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-83",
+            "track_duration": "P00H08M06S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Anima Mundi",
-                "duration": "P00H08M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-40"
-            }
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-40",
+            "track_duration": "P00H08M14S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H10M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-35"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-35",
+            "track_duration": "P00H10M39S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "By the Light of the Stars",
-                "duration": "P00H10M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-53"
-            }
+            "track_name": "By the Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-53",
+            "track_duration": "P00H10M44S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Omnifreeze",
-                "duration": "P00H06M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-32"
-            }
+            "track_name": "Omnifreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-32",
+            "track_duration": "P00H06M40S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H20M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-75"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-75",
+            "track_duration": "P00H20M40S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H09M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-55"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-55",
+            "track_duration": "P00H09M00S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3028768188_10.jpg",
-    "datePublished": "23 Mar 2018 00:00:00 GMT",
-    "description": "This set was recorded on March 17th, 2018 at The SOLD OUT Elevation Room in Grand Rapids, MI! Michigan Always treats us well We will definitely be back! Thank you to everybody who came out!",
-    "duration": "P01H51M59S"
+    ]
 }

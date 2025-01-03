@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/night-day-live",
-    "name": "Night & Day (Live)",
-    "dateModified": "25 May 2022 21:29:40 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "Night & Day (Live)",
+    "album_link": "https://papadosio.bandcamp.com/album/night-day-live",
+    "date_modified": "25 May 2022 21:29:40 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1648370049_10.jpg",
+    "date_published": "09 Sep 2014 00:00:00 GMT",
+    "album_duration": "P01H20M17S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H09M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-42"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-42",
+            "track_duration": "P00H09M44S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "The Elephant I Presume",
-                "duration": "P00H08M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-4"
-            }
+            "track_name": "The Elephant I Presume",
+            "track_link": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-4",
+            "track_duration": "P00H08M07S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H08M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-27"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-27",
+            "track_duration": "P00H08M49S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-33"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-33",
+            "track_duration": "P00H09M14S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "If It Wasn't For You",
-                "duration": "P00H07M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-26"
-            }
+            "track_name": "If It Wasn't For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-26",
+            "track_duration": "P00H07M27S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "We Choose",
-                "duration": "P00H06M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-14"
-            }
+            "track_name": "We Choose",
+            "track_link": "https://papadosio.bandcamp.com/track/we-choose-14",
+            "track_duration": "P00H06M42S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H07M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-32"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-32",
+            "track_duration": "P00H07M14S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "What's at Stake",
-                "duration": "P00H04M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/whats-at-stake-17"
-            }
+            "track_name": "What's at Stake",
+            "track_link": "https://papadosio.bandcamp.com/track/whats-at-stake-17",
+            "track_duration": "P00H04M26S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H06M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-26"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-26",
+            "track_duration": "P00H06M09S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Bonus Improvisation",
-                "duration": "P00H12M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bonus-improvisation"
-            }
+            "track_name": "Bonus Improvisation",
+            "track_link": "https://papadosio.bandcamp.com/track/bonus-improvisation",
+            "track_duration": "P00H12M25S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1648370049_10.jpg",
-    "datePublished": "09 Sep 2014 00:00:00 GMT",
-    "description": "Papadosio is excited to bring you Night & Day (Live) - a collection of unreleased songs filmed and recorded live from a cabin in the Appalachian mountains in Asheville, NC.",
-    "duration": "P01H20M17S"
+    ]
 }

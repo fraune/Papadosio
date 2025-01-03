@@ -1,52 +1,35 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/red-rocks-7315-morrison-co",
-    "name": "Red Rocks | 7.3.15 | Morrison, CO",
-    "dateModified": "13 Jul 2015 17:30:09 GMT",
-    "numTracks": 5,
-    "track": [
+    "album_name": "Red Rocks | 7.3.15 | Morrison, CO",
+    "album_link": "https://papadosio.bandcamp.com/album/red-rocks-7315-morrison-co",
+    "date_modified": "13 Jul 2015 17:30:09 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3530421578_10.jpg",
+    "date_published": "13 Jul 2015 00:00:00 GMT",
+    "album_duration": "P00H59M27S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Direction Song",
-                "duration": "P00H18M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-30"
-            }
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-30",
+            "track_duration": "P00H18M20S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H08M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-41"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-41",
+            "track_duration": "P00H08M51S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H16M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-52"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-52",
+            "track_duration": "P00H16M04S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H07M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-40"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-40",
+            "track_duration": "P00H07M25S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H08M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-26"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-26",
+            "track_duration": "P00H08M47S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3530421578_10.jpg",
-    "datePublished": "13 Jul 2015 00:00:00 GMT",
-    "description": "Live from the breathtaking Red Rocks Park & Amphitheatre in Morrison, CO - July 3rd, 2015 All music written, performed & recorded by Papadosio. © all rights reserved 2015. Thanks to Umphrey's Mcgee for having us out!",
-    "duration": "P00H59M27S"
+    ]
 }

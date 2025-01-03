@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/13119-mesa-theatre-grand-junction-co",
-    "name": "1.31.19 | Mesa Theatre | Grand Junction, CO",
-    "dateModified": "18 Feb 2019 18:21:06 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "1.31.19 | Mesa Theatre | Grand Junction, CO",
+    "album_link": "https://papadosio.bandcamp.com/album/13119-mesa-theatre-grand-junction-co",
+    "date_modified": "18 Feb 2019 18:21:06 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1324475523_10.jpg",
+    "date_published": "18 Feb 2019 18:21:06 GMT",
+    "album_duration": "P01H51M15S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H03M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-51"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-51",
+            "track_duration": "P00H03M30S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H17M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-120"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-120",
+            "track_duration": "P00H17M58S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H08M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-74"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-74",
+            "track_duration": "P00H08M15S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The Lack of Everything",
-                "duration": "P00H06M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-36"
-            }
+            "track_name": "The Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-36",
+            "track_duration": "P00H06M44S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H18M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-133"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-133",
+            "track_duration": "P00H18M57S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H05M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-47"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-47",
+            "track_duration": "P00H05M18S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Liminal Daybreak",
-                "duration": "P00H04M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/liminal-daybreak-16"
-            }
+            "track_name": "Liminal Daybreak",
+            "track_link": "https://papadosio.bandcamp.com/track/liminal-daybreak-16",
+            "track_duration": "P00H04M58S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H08M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-20"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-20",
+            "track_duration": "P00H08M32S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H14M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-109"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-109",
+            "track_duration": "P00H14M59S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "We are Water",
-                "duration": "P00H13M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-125"
-            }
+            "track_name": "We are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-125",
+            "track_duration": "P00H13M51S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H08M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-68"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-68",
+            "track_duration": "P00H08M13S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1324475523_10.jpg",
-    "datePublished": "18 Feb 2019 18:21:06 GMT",
-    "description": "This album was recorded on January 31st at the Mesa Theatre in Grand Junction, CO during our winter 2019 CO tour. Thanks to everybody who came out! This was a special intimate evening where we performed two sets.",
-    "duration": "P01H51M15S"
+    ]
 }

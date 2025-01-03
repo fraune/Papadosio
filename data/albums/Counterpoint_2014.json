@@ -1,76 +1,50 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/counterpoint-2014",
-    "name": "Counterpoint 2014",
-    "dateModified": "04 May 2014 04:12:04 GMT",
-    "numTracks": 8,
-    "track": [
+    "album_name": "Counterpoint 2014",
+    "album_link": "https://papadosio.bandcamp.com/album/counterpoint-2014",
+    "date_modified": "04 May 2014 04:12:04 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2609896176_10.jpg",
+    "date_published": "04 May 2014 00:00:00 GMT",
+    "album_duration": "P01H13M44S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H07M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-11"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-11",
+            "track_duration": "P00H07M19S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H11M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-12"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-12",
+            "track_duration": "P00H11M05S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H08M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-21"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-21",
+            "track_duration": "P00H08M01S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H11M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-21"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-21",
+            "track_duration": "P00H11M15S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Direction Song",
-                "duration": "P00H08M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-18"
-            }
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-18",
+            "track_duration": "P00H08M30S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H10M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-28"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-28",
+            "track_duration": "P00H10M12S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-34"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-34",
+            "track_duration": "P00H07M27S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H09M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-34"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-34",
+            "track_duration": "P00H09M55S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2609896176_10.jpg",
-    "datePublished": "04 May 2014 00:00:00 GMT",
-    "description": null,
-    "duration": "P01H13M44S"
+    ]
 }

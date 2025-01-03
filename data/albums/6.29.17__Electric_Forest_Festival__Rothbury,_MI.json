@@ -1,76 +1,50 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/62917-electric-forest-festival-rothbury-mi-2",
-    "name": "6.29.17 | Electric Forest Festival | Rothbury, MI",
-    "dateModified": "11 Jul 2017 14:21:05 GMT",
-    "numTracks": 8,
-    "track": [
+    "album_name": "6.29.17 | Electric Forest Festival | Rothbury, MI",
+    "album_link": "https://papadosio.bandcamp.com/album/62917-electric-forest-festival-rothbury-mi-2",
+    "date_modified": "11 Jul 2017 14:21:05 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1901489561_10.jpg",
+    "date_published": "11 Jul 2017 14:21:05 GMT",
+    "album_duration": "P01H16M29S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Advocates of Change",
-                "duration": "P00H08M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocates-of-change-2"
-            }
+            "track_name": "Advocates of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocates-of-change-2",
+            "track_duration": "P00H08M16S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H09M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-29"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-29",
+            "track_duration": "P00H09M17S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Wrong Nostalgia",
-                "duration": "P00H04M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-31"
-            }
+            "track_name": "The Wrong Nostalgia",
+            "track_link": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-31",
+            "track_duration": "P00H04M42S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Forever Heavy*",
-                "duration": "P00H04M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/forever-heavy"
-            }
+            "track_name": "Forever Heavy*",
+            "track_link": "https://papadosio.bandcamp.com/track/forever-heavy",
+            "track_duration": "P00H04M28S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H18M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-110"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-110",
+            "track_duration": "P00H18M40S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Obove",
-                "duration": "P00H03M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-12"
-            }
+            "track_name": "Obove",
+            "track_link": "https://papadosio.bandcamp.com/track/obove-12",
+            "track_duration": "P00H03M22S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H17M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-101"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-101",
+            "track_duration": "P00H17M02S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H10M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-66"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-66",
+            "track_duration": "P00H10M42S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1901489561_10.jpg",
-    "datePublished": "11 Jul 2017 14:21:05 GMT",
-    "description": "All material was written and recorded by Papadosio at Electric Forest Festival with the exception of Forever* originally written by Black Moth Super Rainbow.",
-    "duration": "P01H16M29S"
+    ]
 }

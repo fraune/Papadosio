@@ -1,52 +1,35 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-at-the-house-of-blues-boston-ma",
-    "name": "Live at the House of Blues - Boston, MA",
-    "dateModified": "08 Jun 2015 17:22:28 GMT",
-    "numTracks": 5,
-    "track": [
+    "album_name": "Live at the House of Blues - Boston, MA",
+    "album_link": "https://papadosio.bandcamp.com/album/live-at-the-house-of-blues-boston-ma",
+    "date_modified": "08 Jun 2015 17:22:28 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2250395337_10.jpg",
+    "date_published": "09 Nov 2014 00:00:00 GMT",
+    "album_duration": "P00H41M26S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H06M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-48"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-48",
+            "track_duration": "P00H06M51S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H10M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-46"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-46",
+            "track_duration": "P00H10M00S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-36"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-36",
+            "track_duration": "P00H08M18S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Fahrenheit Fair Enough*",
-                "duration": "P00H06M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fahrenheit-fair-enough-2"
-            }
+            "track_name": "Fahrenheit Fair Enough*",
+            "track_link": "https://papadosio.bandcamp.com/track/fahrenheit-fair-enough-2",
+            "track_duration": "P00H06M32S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H09M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-50"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-50",
+            "track_duration": "P00H09M45S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2250395337_10.jpg",
-    "datePublished": "09 Nov 2014 00:00:00 GMT",
-    "description": "Live at the House of Blues - Autumn Tour 2014 w/ STS9\r\n10.19.14 - Boston, MA\r\nAll music, written, performed & recorded by Papadosio. © all rights reserved 2014.",
-    "duration": "P00H41M26S"
+    ]
 }

@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/wakarusa-2014-ozark-ar",
-    "name": "Wakarusa 2014 - Ozark, AR",
-    "dateModified": "11 Jun 2015 19:18:23 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "Wakarusa 2014 - Ozark, AR",
+    "album_link": "https://papadosio.bandcamp.com/album/wakarusa-2014-ozark-ar",
+    "date_modified": "11 Jun 2015 19:18:23 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3904699427_10.jpg",
+    "date_published": "10 Jun 2014 00:00:00 GMT",
+    "album_duration": "P02H00M25S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H08M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-25"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-25",
+            "track_duration": "P00H08M13S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "We Choose",
-                "duration": "P00H07M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-12"
-            }
+            "track_name": "We Choose",
+            "track_link": "https://papadosio.bandcamp.com/track/we-choose-12",
+            "track_duration": "P00H07M07S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H17M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-35"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-35",
+            "track_duration": "P00H17M54S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Improv",
-                "duration": "P00H09M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improv"
-            }
+            "track_name": "Improv",
+            "track_link": "https://papadosio.bandcamp.com/track/improv",
+            "track_duration": "P00H09M51S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H08M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-25"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-25",
+            "track_duration": "P00H08M08S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H07M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-25"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-25",
+            "track_duration": "P00H07M02S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Porcelain",
-                "duration": "P00H04M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/porcelain-2"
-            }
+            "track_name": "Porcelain",
+            "track_link": "https://papadosio.bandcamp.com/track/porcelain-2",
+            "track_duration": "P00H04M28S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H11M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-13"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-13",
+            "track_duration": "P00H11M29S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-32"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-32",
+            "track_duration": "P00H07M28S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-31"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-31",
+            "track_duration": "P00H09M57S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H21M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-29"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-29",
+            "track_duration": "P00H21M02S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "E: Holy Heck",
-                "duration": "P00H07M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/e-holy-heck"
-            }
+            "track_name": "E: Holy Heck",
+            "track_link": "https://papadosio.bandcamp.com/track/e-holy-heck",
+            "track_duration": "P00H07M46S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3904699427_10.jpg",
-    "datePublished": "10 Jun 2014 00:00:00 GMT",
-    "description": "Papadosio Live at Wakarusa 2014\r\nLate Night - Revival Tent",
-    "duration": "P02H00M25S"
+    ]
 }

@@ -1,68 +1,45 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/hulaween-103015-live-oak-fl",
-    "name": "Hulaween | 10.30.15 | Live Oak, FL",
-    "dateModified": "11 Nov 2015 01:37:12 GMT",
-    "numTracks": 7,
-    "track": [
+    "album_name": "Hulaween | 10.30.15 | Live Oak, FL",
+    "album_link": "https://papadosio.bandcamp.com/album/hulaween-103015-live-oak-fl",
+    "date_modified": "11 Nov 2015 01:37:12 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1012835502_10.jpg",
+    "date_published": "11 Nov 2015 01:37:12 GMT",
+    "album_duration": "P01H00M01S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Anima Mundi",
-                "duration": "P00H07M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-6"
-            }
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-6",
+            "track_duration": "P00H07M34S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Curve Jam",
-                "duration": "P00H10M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-jam-2"
-            }
+            "track_name": "Curve Jam",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-jam-2",
+            "track_duration": "P00H10M14S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Ritual",
-                "duration": "P00H14M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-8"
-            }
+            "track_name": "Ritual",
+            "track_link": "https://papadosio.bandcamp.com/track/ritual-8",
+            "track_duration": "P00H14M03S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H10M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-62"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-62",
+            "track_duration": "P00H10M45S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H06M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-12"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-12",
+            "track_duration": "P00H06M15S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Wrong Nostalgia",
-                "duration": "P00H04M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/wrong-nostalgia"
-            }
+            "track_name": "Wrong Nostalgia",
+            "track_link": "https://papadosio.bandcamp.com/track/wrong-nostalgia",
+            "track_duration": "P00H04M25S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Glimpse of Light",
-                "duration": "P00H06M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-13"
-            }
+            "track_name": "Glimpse of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-13",
+            "track_duration": "P00H06M45S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1012835502_10.jpg",
-    "datePublished": "11 Nov 2015 01:37:12 GMT",
-    "description": "Hulaween | 10.30.15 | Live Oak, FL\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015.",
-    "duration": "P01H00M01S"
+    ]
 }

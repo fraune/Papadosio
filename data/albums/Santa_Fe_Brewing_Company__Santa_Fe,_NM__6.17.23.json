@@ -1,84 +1,55 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/santa-fe-brewing-company-santa-fe-nm-61723",
-    "name": "Santa Fe Brewing Company | Santa Fe, NM | 6.17.23",
-    "dateModified": "05 Jul 2023 15:55:18 GMT",
-    "numTracks": 9,
-    "track": [
+    "album_name": "Santa Fe Brewing Company | Santa Fe, NM | 6.17.23",
+    "album_link": "https://papadosio.bandcamp.com/album/santa-fe-brewing-company-santa-fe-nm-61723",
+    "date_modified": "05 Jul 2023 15:55:18 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1793829657_10.jpg",
+    "date_published": "05 Jul 2023 15:55:18 GMT",
+    "album_duration": "P01H28M12S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "...And This Is What He Thought",
-                "duration": "P00H03M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-41"
-            }
+            "track_name": "...And This Is What He Thought",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-41",
+            "track_duration": "P00H03M26S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "The Bionic Man Meets His Past...",
-                "duration": "P00H16M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-153"
-            }
+            "track_name": "The Bionic Man Meets His Past...",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-153",
+            "track_duration": "P00H16M17S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Not Just A Word",
-                "duration": "P00H06M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-20"
-            }
+            "track_name": "Not Just A Word",
+            "track_link": "https://papadosio.bandcamp.com/track/not-just-a-word-20",
+            "track_duration": "P00H06M29S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Cubensis",
-                "duration": "P00H10M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-39"
-            }
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis-39",
+            "track_duration": "P00H10M37S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-167"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-167",
+            "track_duration": "P00H10M09S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Fossilize",
-                "duration": "P00H07M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fossilize-2"
-            }
+            "track_name": "Fossilize",
+            "track_link": "https://papadosio.bandcamp.com/track/fossilize-2",
+            "track_duration": "P00H07M48S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H13M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-81"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-81",
+            "track_duration": "P00H13M29S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H08M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-124"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-124",
+            "track_duration": "P00H08M24S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H11M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-167"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-167",
+            "track_duration": "P00H11M33S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1793829657_10.jpg",
-    "datePublished": "05 Jul 2023 15:55:18 GMT",
-    "description": "We had an amazing time in Santa Fe! Thanks so much for inviting us out and showing us a great time in your beautiful desert. Will be sure to remember my stillsuit next time! Please continually give it up for Merrick Noyes, who filled in for Billy on this run!!!!! He's an absolute gangster and deserves your attention even now (the future I'm sure)...",
-    "duration": "P01H28M12S"
+    ]
 }

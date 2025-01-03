@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2013-09-27-house-of-blues-chicago-il",
-    "name": "2013-09-27 - House of Blues - Chicago, IL",
-    "dateModified": "04 Oct 2013 00:50:58 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "2013-09-27 - House of Blues - Chicago, IL",
+    "album_link": "https://papadosio.bandcamp.com/album/2013-09-27-house-of-blues-chicago-il",
+    "date_modified": "04 Oct 2013 00:50:58 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3436533605_10.jpg",
+    "date_published": "03 Oct 2013 21:24:21 GMT",
+    "album_duration": "P02H11M03S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H10M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-8"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-8",
+            "track_duration": "P00H10M55S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H08M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-7"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-7",
+            "track_duration": "P00H08M03S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H12M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-12"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-12",
+            "track_duration": "P00H12M06S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Direction Song",
-                "duration": "P00H10M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-4"
-            }
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-4",
+            "track_duration": "P00H10M06S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Right Now",
-                "duration": "P00H08M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-7"
-            }
+            "track_name": "Right Now",
+            "track_link": "https://papadosio.bandcamp.com/track/right-now-7",
+            "track_duration": "P00H08M03S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "What's At Stake",
-                "duration": "P00H04M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/whats-at-stake-2"
-            }
+            "track_name": "What's At Stake",
+            "track_link": "https://papadosio.bandcamp.com/track/whats-at-stake-2",
+            "track_duration": "P00H04M51S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-10"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-10",
+            "track_duration": "P00H10M02S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Oracle Theme",
-                "duration": "P00H11M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-5"
-            }
+            "track_name": "Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/oracle-theme-5",
+            "track_duration": "P00H11M52S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H11M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-9"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-9",
+            "track_duration": "P00H11M32S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H16M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-16"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-16",
+            "track_duration": "P00H16M20S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H12M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-8"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-8",
+            "track_duration": "P00H12M44S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H14M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-10"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-10",
+            "track_duration": "P00H14M29S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3436533605_10.jpg",
-    "datePublished": "03 Oct 2013 21:24:21 GMT",
-    "description": null,
-    "duration": "P02H11M03S"
+    ]
 }

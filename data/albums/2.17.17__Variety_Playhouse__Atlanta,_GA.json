@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/21717-variety-playhouse-atlanta-ga",
-    "name": "2.17.17 | Variety Playhouse | Atlanta, GA",
-    "dateModified": "22 Feb 2017 21:27:16 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "2.17.17 | Variety Playhouse | Atlanta, GA",
+    "album_link": "https://papadosio.bandcamp.com/album/21717-variety-playhouse-atlanta-ga",
+    "date_modified": "22 Feb 2017 21:27:16 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0747351042_10.jpg",
+    "date_published": "22 Feb 2017 21:27:16 GMT",
+    "album_duration": "P02H01M26S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H09M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-17"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-17",
+            "track_duration": "P00H09M11S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Obove",
-                "duration": "P00H03M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-10"
-            }
+            "track_name": "Obove",
+            "track_link": "https://papadosio.bandcamp.com/track/obove-10",
+            "track_duration": "P00H03M29S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H13M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-51"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-51",
+            "track_duration": "P00H13M56S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H15M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-19"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-19",
+            "track_duration": "P00H15M12S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H09M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-47"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-47",
+            "track_duration": "P00H09M12S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "TV Song",
-                "duration": "P00H06M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/tv-song-21"
-            }
+            "track_name": "TV Song",
+            "track_link": "https://papadosio.bandcamp.com/track/tv-song-21",
+            "track_duration": "P00H06M32S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "How Not to Float",
-                "duration": "P00H14M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-33"
-            }
+            "track_name": "How Not to Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-33",
+            "track_duration": "P00H14M57S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Bypass Default",
-                "duration": "P00H07M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-28"
-            }
+            "track_name": "Bypass Default",
+            "track_link": "https://papadosio.bandcamp.com/track/bypass-default-28",
+            "track_duration": "P00H07M30S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Right Now",
-                "duration": "P00H08M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-24"
-            }
+            "track_name": "Right Now",
+            "track_link": "https://papadosio.bandcamp.com/track/right-now-24",
+            "track_duration": "P00H08M03S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H21M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-38"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-38",
+            "track_duration": "P00H21M43S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H11M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-55"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-55",
+            "track_duration": "P00H11M41S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0747351042_10.jpg",
-    "datePublished": "22 Feb 2017 21:27:16 GMT",
-    "description": "Recorded on February 17th 2017 at The Variety Playhouse in Atlanta, GA.\r\n\r\nPattern Integrities Spring Tour 2017 \r\n\r\nAll material was written and recorded by Papadosio.",
-    "duration": "P02H01M26S"
+    ]
 }

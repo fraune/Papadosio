@@ -1,68 +1,45 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/gratifly-2014-72514-night-ii",
-    "name": "Gratifly 2014 - 7.25.14 - Night II",
-    "dateModified": "31 Jul 2014 03:46:39 GMT",
-    "numTracks": 7,
-    "track": [
+    "album_name": "Gratifly 2014 - 7.25.14 - Night II",
+    "album_link": "https://papadosio.bandcamp.com/album/gratifly-2014-72514-night-ii",
+    "date_modified": "31 Jul 2014 03:46:39 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0545595175_10.jpg",
+    "date_published": "31 Jul 2014 00:00:00 GMT",
+    "album_duration": "P01H23M52S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H17M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-37"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-37",
+            "track_duration": "P00H17M06S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H08M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-10"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-10",
+            "track_duration": "P00H08M16S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H18M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-18"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-18",
+            "track_duration": "P00H18M25S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The Elephant I Presume",
-                "duration": "P00H08M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-2"
-            }
+            "track_name": "The Elephant I Presume",
+            "track_link": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-2",
+            "track_duration": "P00H08M16S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H07M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-41"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-41",
+            "track_duration": "P00H07M04S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H06M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-22"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-22",
+            "track_duration": "P00H06M47S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H17M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-22"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-22",
+            "track_duration": "P00H17M58S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0545595175_10.jpg",
-    "datePublished": "31 Jul 2014 00:00:00 GMT",
-    "description": "Live at Gratifly Music & Arts Festival - Avalon, SC \r\n2014-07-25 - Summer Tour 2014",
-    "duration": "P01H23M52S"
+    ]
 }

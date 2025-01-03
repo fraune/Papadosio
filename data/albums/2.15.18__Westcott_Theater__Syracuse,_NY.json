@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/21518-westcott-theater-syracuse-ny",
-    "name": "2.15.18 | Westcott Theater | Syracuse, NY",
-    "dateModified": "21 Feb 2018 23:39:25 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "2.15.18 | Westcott Theater | Syracuse, NY",
+    "album_link": "https://papadosio.bandcamp.com/album/21518-westcott-theater-syracuse-ny",
+    "date_modified": "21 Feb 2018 23:39:25 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3002254289_10.jpg",
+    "date_published": "21 Feb 2018 23:39:25 GMT",
+    "album_duration": "P01H41M35S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H11M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-42"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-42",
+            "track_duration": "P00H11M10S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Distant Days",
-                "duration": "P00H05M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distant-days-12"
-            }
+            "track_name": "Distant Days",
+            "track_link": "https://papadosio.bandcamp.com/track/distant-days-12",
+            "track_duration": "P00H05M40S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-84"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-84",
+            "track_duration": "P00H09M08S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H11M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-49"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-49",
+            "track_duration": "P00H11M33S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Ritual",
-                "duration": "P00H07M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-36"
-            }
+            "track_name": "Ritual",
+            "track_link": "https://papadosio.bandcamp.com/track/ritual-36",
+            "track_duration": "P00H07M34S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H16M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-64"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-64",
+            "track_duration": "P00H16M11S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Omnifreeze",
-                "duration": "P00H08M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-31"
-            }
+            "track_name": "Omnifreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-31",
+            "track_duration": "P00H08M25S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H16M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-108"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-108",
+            "track_duration": "P00H16M40S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-104"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-104",
+            "track_duration": "P00H08M22S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Oblivion",
-                "duration": "P00H06M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-29"
-            }
+            "track_name": "Oblivion",
+            "track_link": "https://papadosio.bandcamp.com/track/oblivion-29",
+            "track_duration": "P00H06M52S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3002254289_10.jpg",
-    "datePublished": "21 Feb 2018 23:39:25 GMT",
-    "description": "This set was recorded on February 15th, 2018 at The Westcott Theater in Syracuse, NY Thanks to everybody who came out! See you next time!",
-    "duration": "P01H41M35S"
+    ]
 }

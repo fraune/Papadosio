@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/41119-club-xl-live-harrisburg-pa",
-    "name": "4.11.19 | Club XL Live | Harrisburg, PA",
-    "dateModified": "12 Apr 2019 19:06:35 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "4.11.19 | Club XL Live | Harrisburg, PA",
+    "album_link": "https://papadosio.bandcamp.com/album/41119-club-xl-live-harrisburg-pa",
+    "date_modified": "12 Apr 2019 19:06:35 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4092637625_10.jpg",
+    "date_published": "12 Apr 2019 19:06:35 GMT",
+    "album_duration": "P02H01M38S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Fire Rite",
-                "duration": "P00H07M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-21"
-            }
+            "track_name": "Fire Rite",
+            "track_link": "https://papadosio.bandcamp.com/track/fire-rite-21",
+            "track_duration": "P00H07M51S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Fanfare for the Rain People",
-                "duration": "P00H13M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-18"
-            }
+            "track_name": "Fanfare for the Rain People",
+            "track_link": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-18",
+            "track_duration": "P00H13M08S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Find your Cloud",
-                "duration": "P00H27M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-136"
-            }
+            "track_name": "Find your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-136",
+            "track_duration": "P00H27M54S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H05M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-48"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-48",
+            "track_duration": "P00H05M29S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Liminal Daybreak",
-                "duration": "P00H06M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/liminal-daybreak-19"
-            }
+            "track_name": "Liminal Daybreak",
+            "track_link": "https://papadosio.bandcamp.com/track/liminal-daybreak-19",
+            "track_duration": "P00H06M12S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H08M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-52"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-52",
+            "track_duration": "P00H08M01S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Now That You Know",
-                "duration": "P00H07M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-38"
-            }
+            "track_name": "Now That You Know",
+            "track_link": "https://papadosio.bandcamp.com/track/now-that-you-know-38",
+            "track_duration": "P00H07M33S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-122"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-122",
+            "track_duration": "P00H08M52S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Content Coma",
-                "duration": "P00H10M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/content-coma-17"
-            }
+            "track_name": "Content Coma",
+            "track_link": "https://papadosio.bandcamp.com/track/content-coma-17",
+            "track_duration": "P00H10M27S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H18M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-111"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-111",
+            "track_duration": "P00H18M01S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H08M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-69"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-69",
+            "track_duration": "P00H08M10S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a4092637625_10.jpg",
-    "datePublished": "12 Apr 2019 19:06:35 GMT",
-    "description": "This album was recorded on April 11th, 2019 in Harrisburg, PA at Club XL Live! This venue was AMAZING! We can't wait to get back, thanks to Sun & Rain & Space Bacon for getting the night started!",
-    "duration": "P02H01M38S"
+    ]
 }

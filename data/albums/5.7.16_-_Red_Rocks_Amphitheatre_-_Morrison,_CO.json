@@ -1,148 +1,95 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/5716-red-rocks-amphitheatre-morrison-co",
-    "name": "5.7.16 - Red Rocks Amphitheatre - Morrison, CO",
-    "dateModified": "16 May 2016 01:43:42 GMT",
-    "numTracks": 17,
-    "track": [
+    "album_name": "5.7.16 - Red Rocks Amphitheatre - Morrison, CO",
+    "album_link": "https://papadosio.bandcamp.com/album/5716-red-rocks-amphitheatre-morrison-co",
+    "date_modified": "16 May 2016 01:43:42 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0810346634_10.jpg",
+    "date_published": "12 May 2016 00:00:00 GMT",
+    "album_duration": "P01H59M32S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "...and this is what he thought",
-                "duration": "P00H04M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-20"
-            }
+            "track_name": "...and this is what he thought",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-20",
+            "track_duration": "P00H04M33S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H06M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-87"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-87",
+            "track_duration": "P00H06M29S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H07M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-46"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-46",
+            "track_duration": "P00H07M43S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H17M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-50"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-50",
+            "track_duration": "P00H17M36S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Hey Mom",
-                "duration": "P00H00M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hey-mom"
-            }
+            "track_name": "Hey Mom",
+            "track_link": "https://papadosio.bandcamp.com/track/hey-mom",
+            "track_duration": "P00H00M43S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Epiphany >",
-                "duration": "P00H07M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-33"
-            }
+            "track_name": "Epiphany >",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-33",
+            "track_duration": "P00H07M34S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Threes* >",
-                "duration": "P00H07M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes"
-            }
+            "track_name": "Threes* >",
+            "track_link": "https://papadosio.bandcamp.com/track/threes",
+            "track_duration": "P00H07M14S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Epiphany",
-                "duration": "P00H00M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-34"
-            }
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-34",
+            "track_duration": "P00H00M52S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H08M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-57"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-57",
+            "track_duration": "P00H08M27S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Ritual >",
-                "duration": "P00H08M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-25"
-            }
+            "track_name": "Ritual >",
+            "track_link": "https://papadosio.bandcamp.com/track/ritual-25",
+            "track_duration": "P00H08M41S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Glimpse of Light",
-                "duration": "P00H05M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-37"
-            }
+            "track_name": "Glimpse of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-37",
+            "track_duration": "P00H05M48S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-66"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-66",
+            "track_duration": "P00H07M21S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "The Wrong Nostalgia",
-                "duration": "P00H04M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-23"
-            }
+            "track_name": "The Wrong Nostalgia",
+            "track_link": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-23",
+            "track_duration": "P00H04M17S"
         },
         {
-            "position": 14,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H12M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-49"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-49",
+            "track_duration": "P00H12M33S"
         },
         {
-            "position": 15,
-            "item": {
-                "name": "Crowd Banter",
-                "duration": "P00H02M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/crowd-banter-23"
-            }
+            "track_name": "Crowd Banter",
+            "track_link": "https://papadosio.bandcamp.com/track/crowd-banter-23",
+            "track_duration": "P00H02M19S"
         },
         {
-            "position": 16,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H06M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-36"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-36",
+            "track_duration": "P00H06M32S"
         },
         {
-            "position": 17,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H10M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-84"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-84",
+            "track_duration": "P00H10M50S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0810346634_10.jpg",
-    "datePublished": "12 May 2016 00:00:00 GMT",
-    "description": "Live at Red Rocks Amphitheatre - Morrison, CO\r\nAll music written, recorded, and performed by Papadosio. \r\n© All Rights Reserved 2016.\r\n\r\n*1st Time Played",
-    "duration": "P01H59M32S"
+    ]
 }

@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2013-02-02-house-of-blues-chicago-il",
-    "name": "2013-02-02 - House of Blues - Chicago, IL",
-    "dateModified": "05 Feb 2014 05:51:14 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "2013-02-02 - House of Blues - Chicago, IL",
+    "album_link": "https://papadosio.bandcamp.com/album/2013-02-02-house-of-blues-chicago-il",
+    "date_modified": "05 Feb 2014 05:51:14 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3117111442_10.jpg",
+    "date_published": "13 Jun 2013 00:00:00 GMT",
+    "album_duration": "P01H48M44S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H05M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-6"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-6",
+            "track_duration": "P00H05M07S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "How Not To Float",
-                "duration": "P00H08M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-4"
-            }
+            "track_name": "How Not To Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-4",
+            "track_duration": "P00H08M37S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H22M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-4"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-4",
+            "track_duration": "P00H22M12S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-2"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-2",
+            "track_duration": "P00H09M08S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H06M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-4"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-4",
+            "track_duration": "P00H06M41S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H06M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-4"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-4",
+            "track_duration": "P00H06M19S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H12M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-7"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-7",
+            "track_duration": "P00H12M16S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H11M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-6"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-6",
+            "track_duration": "P00H11M42S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H04M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-7"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-7",
+            "track_duration": "P00H04M06S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H10M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-7"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-7",
+            "track_duration": "P00H10M36S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H12M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-4"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-4",
+            "track_duration": "P00H12M00S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3117111442_10.jpg",
-    "datePublished": "13 Jun 2013 00:00:00 GMT",
-    "description": null,
-    "duration": "P01H48M44S"
+    ]
 }

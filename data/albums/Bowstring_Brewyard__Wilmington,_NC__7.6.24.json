@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/bowstring-brewyard-wilmington-nc-7624",
-    "name": "Bowstring Brewyard | Wilmington, NC | 7.6.24",
-    "dateModified": "10 Jul 2024 14:34:02 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "Bowstring Brewyard | Wilmington, NC | 7.6.24",
+    "album_link": "https://papadosio.bandcamp.com/album/bowstring-brewyard-wilmington-nc-7624",
+    "date_modified": "10 Jul 2024 14:34:02 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1570445915_10.jpg",
+    "date_published": "10 Jul 2024 14:34:02 GMT",
+    "album_duration": "P02H06M47S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Cubensis",
-                "duration": "P00H11M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-53"
-            }
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis-53",
+            "track_duration": "P00H11M13S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Not Just A Word",
-                "duration": "P00H13M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-38"
-            }
+            "track_name": "Not Just A Word",
+            "track_link": "https://papadosio.bandcamp.com/track/not-just-a-word-38",
+            "track_duration": "P00H13M34S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "You're A Catman",
-                "duration": "P00H09M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-29"
-            }
+            "track_name": "You're A Catman",
+            "track_link": "https://papadosio.bandcamp.com/track/youre-a-catman-29",
+            "track_duration": "P00H09M40S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Cubensis",
-                "duration": "P00H02M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-54"
-            }
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis-54",
+            "track_duration": "P00H02M18S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H11M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-197"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-197",
+            "track_duration": "P00H11M02S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Fanfare For The Rainpeople",
-                "duration": "P00H08M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rainpeople-9"
-            }
+            "track_name": "Fanfare For The Rainpeople",
+            "track_link": "https://papadosio.bandcamp.com/track/fanfare-for-the-rainpeople-9",
+            "track_duration": "P00H08M56S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H03M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-198"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-198",
+            "track_duration": "P00H03M05S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H12M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-88"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-88",
+            "track_duration": "P00H12M04S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H14M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-81"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-81",
+            "track_duration": "P00H14M15S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Who You Are",
-                "duration": "P00H08M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/who-you-are-8"
-            }
+            "track_name": "Who You Are",
+            "track_link": "https://papadosio.bandcamp.com/track/who-you-are-8",
+            "track_duration": "P00H08M22S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H08M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-78"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-78",
+            "track_duration": "P00H08M45S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H10M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-165"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-165",
+            "track_duration": "P00H10M09S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H13M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-143"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-143",
+            "track_duration": "P00H13M24S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1570445915_10.jpg",
-    "datePublished": "10 Jul 2024 14:34:02 GMT",
-    "description": "Such an amazing crowd! Thanks for coming out and bearing the heat with us, that was wild! Hope to see you again soon, Wilmington.",
-    "duration": "P02H06M47S"
+    ]
 }

@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-at-the-georgia-theatre-imaginal-cells-tour",
-    "name": "Live at the Georgia Theatre - Imaginal Cells Tour",
-    "dateModified": "21 Nov 2019 22:07:54 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Live at the Georgia Theatre - Imaginal Cells Tour",
+    "album_link": "https://papadosio.bandcamp.com/album/live-at-the-georgia-theatre-imaginal-cells-tour",
+    "date_modified": "21 Nov 2019 22:07:54 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3023348321_10.jpg",
+    "date_published": "06 Dec 2014 00:00:00 GMT",
+    "album_duration": "P01H45M43S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H06M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-32"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-32",
+            "track_duration": "P00H06M31S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-37"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-37",
+            "track_duration": "P00H09M19S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Lack of Everything",
-                "duration": "P00H07M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-7"
-            }
+            "track_name": "The Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-7",
+            "track_duration": "P00H07M10S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H07M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-16"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-16",
+            "track_duration": "P00H07M43S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H10M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-39"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-39",
+            "track_duration": "P00H10M04S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H10M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-28"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-28",
+            "track_duration": "P00H10M11S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H11M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-36"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-36",
+            "track_duration": "P00H11M58S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-41"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-41",
+            "track_duration": "P00H09M14S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Puddles for Oceans>",
-                "duration": "P00H06M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-25"
-            }
+            "track_name": "Puddles for Oceans>",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-25",
+            "track_duration": "P00H06M11S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H17M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-36"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-36",
+            "track_duration": "P00H17M36S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "If It Wasn't For You",
-                "duration": "P00H09M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-31"
-            }
+            "track_name": "If It Wasn't For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-31",
+            "track_duration": "P00H09M46S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3023348321_10.jpg",
-    "datePublished": "06 Dec 2014 00:00:00 GMT",
-    "description": "Live at the Georgia Theatre - Imaginal Cells Tour\r\nNovember 20th, 2014 - Athens, GA",
-    "duration": "P01H45M43S"
+    ]
 }

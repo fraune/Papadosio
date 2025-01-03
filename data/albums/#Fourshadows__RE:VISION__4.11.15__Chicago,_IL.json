@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/fourshadows-re-vision-41115-chicago-il",
-    "name": "#Fourshadows | RE:VISION | 4.11.15 | Chicago, IL",
-    "dateModified": "11 Apr 2019 16:14:30 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "#Fourshadows | RE:VISION | 4.11.15 | Chicago, IL",
+    "album_link": "https://papadosio.bandcamp.com/album/fourshadows-re-vision-41115-chicago-il",
+    "date_modified": "11 Apr 2019 16:14:30 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0700289537_10.jpg",
+    "date_published": "23 Apr 2015 00:00:00 GMT",
+    "album_duration": "P02H20M48S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H21M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-24"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-24",
+            "track_duration": "P00H21M55S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "By The Light of The Stars",
-                "duration": "P00H13M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-26"
-            }
+            "track_name": "By The Light of The Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-26",
+            "track_duration": "P00H13M53S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H09M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-24"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-24",
+            "track_duration": "P00H09M07S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Loud Pipes (RATATAT)",
-                "duration": "P00H04M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/loud-pipes-ratatat"
-            }
+            "track_name": "Loud Pipes (RATATAT)",
+            "track_link": "https://papadosio.bandcamp.com/track/loud-pipes-ratatat",
+            "track_duration": "P00H04M57S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "How Not To Float",
-                "duration": "P00H15M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-25"
-            }
+            "track_name": "How Not To Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-25",
+            "track_duration": "P00H15M56S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H10M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-53"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-53",
+            "track_duration": "P00H10M35S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "If It Wasnt For You",
-                "duration": "P00H07M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-35"
-            }
+            "track_name": "If It Wasnt For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-35",
+            "track_duration": "P00H07M52S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H06M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-41"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-41",
+            "track_duration": "P00H06M04S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H12M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-67"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-67",
+            "track_duration": "P00H12M40S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H17M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-57"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-57",
+            "track_duration": "P00H17M35S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H20M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-26"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-26",
+            "track_duration": "P00H20M14S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0700289537_10.jpg",
-    "datePublished": "23 Apr 2015 00:00:00 GMT",
-    "description": "Live from RE:VISION at the Concord Music Hall In Chicago, IL on the #Fourshadows Tour April 11th 2015. \r\n\r\nAll Music Written and performed by Papadoiso with the Exception of \"Loud Pipes\" originally written & performed by RATATAT.\r\n\r\n© All Rights Reserved 2015",
-    "duration": "P02H20M48S"
+    ]
 }

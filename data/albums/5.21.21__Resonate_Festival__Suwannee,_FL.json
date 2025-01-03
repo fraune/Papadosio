@@ -1,84 +1,55 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/52121-resonate-festival-suwannee-fl",
-    "name": "5.21.21 | Resonate Festival | Suwannee, FL",
-    "dateModified": "30 May 2021 21:55:33 GMT",
-    "numTracks": 9,
-    "track": [
+    "album_name": "5.21.21 | Resonate Festival | Suwannee, FL",
+    "album_link": "https://papadosio.bandcamp.com/album/52121-resonate-festival-suwannee-fl",
+    "date_modified": "30 May 2021 21:55:33 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3250234545_10.jpg",
+    "date_published": "30 May 2021 21:55:33 GMT",
+    "album_duration": "P01H30M31S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H02M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-87"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-87",
+            "track_duration": "P00H02M18S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Shiitake",
-                "duration": "P00H17M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-6"
-            }
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-6",
+            "track_duration": "P00H17M22S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Three",
-                "duration": "P00H11M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/three"
-            }
+            "track_name": "Three",
+            "track_link": "https://papadosio.bandcamp.com/track/three",
+            "track_duration": "P00H11M48S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Direction Song",
-                "duration": "P00H11M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-66"
-            }
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-66",
+            "track_duration": "P00H11M58S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Chaga",
-                "duration": "P00H05M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/chaga-8"
-            }
+            "track_name": "Chaga",
+            "track_link": "https://papadosio.bandcamp.com/track/chaga-8",
+            "track_duration": "P00H05M03S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H07M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-139"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-139",
+            "track_duration": "P00H07M56S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Cordyceps",
-                "duration": "P00H09M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cordyceps-5"
-            }
+            "track_name": "Cordyceps",
+            "track_link": "https://papadosio.bandcamp.com/track/cordyceps-5",
+            "track_duration": "P00H09M58S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H10M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-131"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-131",
+            "track_duration": "P00H10M38S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "They Eyes Have Eyes",
-                "duration": "P00H13M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/they-eyes-have-eyes"
-            }
+            "track_name": "They Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/they-eyes-have-eyes",
+            "track_duration": "P00H13M30S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3250234545_10.jpg",
-    "datePublished": "30 May 2021 21:55:33 GMT",
-    "description": "This album was recorded on May 21st at the Spirit of Suwannee Music Park in Live Oak, FL! This was our first set of the weekend! Thanks to the Essential Productions crew for having us out for this first-year event! \r\n\r\nArt: Kevin Harris",
-    "duration": "P01H30M31S"
+    ]
 }

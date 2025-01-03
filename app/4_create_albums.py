@@ -22,7 +22,7 @@ def create_albums_json(directory, output_file):
 
     # Write the combined data to albums.json
     with open(output_file, "w") as outfile:
-        json.dump(albums_data, outfile, indent=4)
+        json.dump(albums_data, outfile, indent=4, ensure_ascii=False)
 
     print(f"Successfully created {output_file} with {len(albums_data)} albums.")
 

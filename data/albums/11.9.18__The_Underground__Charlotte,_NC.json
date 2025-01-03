@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/11918-the-underground-charlotte-nc",
-    "name": "11.9.18 | The Underground | Charlotte, NC",
-    "dateModified": "04 Dec 2018 00:41:48 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "11.9.18 | The Underground | Charlotte, NC",
+    "album_link": "https://papadosio.bandcamp.com/album/11918-the-underground-charlotte-nc",
+    "date_modified": "04 Dec 2018 00:41:48 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3017139173_10.jpg",
+    "date_published": "04 Dec 2018 00:41:48 GMT",
+    "album_duration": "P01H50M08S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "By The Light of The Stars",
-                "duration": "P00H13M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-60"
-            }
+            "track_name": "By The Light of The Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-60",
+            "track_duration": "P00H13M35S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Ear to Ear",
-                "duration": "P00H08M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-33"
-            }
+            "track_name": "Ear to Ear",
+            "track_link": "https://papadosio.bandcamp.com/track/ear-to-ear-33",
+            "track_duration": "P00H08M19S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Obove",
-                "duration": "P00H03M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-19"
-            }
+            "track_name": "Obove",
+            "track_link": "https://papadosio.bandcamp.com/track/obove-19",
+            "track_duration": "P00H03M18S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H19M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-52"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-52",
+            "track_duration": "P00H19M32S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H08M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-15"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-15",
+            "track_duration": "P00H08M54S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Just Like The Days",
-                "duration": "P00H05M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/just-like-the-days-6"
-            }
+            "track_name": "Just Like The Days",
+            "track_link": "https://papadosio.bandcamp.com/track/just-like-the-days-6",
+            "track_duration": "P00H05M19S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H08M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-57"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-57",
+            "track_duration": "P00H08M32S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H13M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-117"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-117",
+            "track_duration": "P00H13M44S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Puddles For Oceans",
-                "duration": "P00H04M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-56"
-            }
+            "track_name": "Puddles For Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-56",
+            "track_duration": "P00H04M08S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H05M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-13"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-13",
+            "track_duration": "P00H05M57S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H01M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-116"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-116",
+            "track_duration": "P00H01M41S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Liminal Daybreak",
-                "duration": "P00H05M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/liminal-daybreak-11"
-            }
+            "track_name": "Liminal Daybreak",
+            "track_link": "https://papadosio.bandcamp.com/track/liminal-daybreak-11",
+            "track_duration": "P00H05M21S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H11M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-73"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-73",
+            "track_duration": "P00H11M48S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3017139173_10.jpg",
-    "datePublished": "04 Dec 2018 00:41:48 GMT",
-    "description": "This album was recorded at the Underground at the Fillmore in Charlotte, NC on November 9th, 2018 thanks to LITZ for coming out strong with the funk and getting the night started.",
-    "duration": "P01H50M08S"
+    ]
 }

@@ -1,76 +1,50 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/peach-festival-2014",
-    "name": "Peach Festival 2014",
-    "dateModified": "12 Aug 2015 21:22:57 GMT",
-    "numTracks": 8,
-    "track": [
+    "album_name": "Peach Festival 2014",
+    "album_link": "https://papadosio.bandcamp.com/album/peach-festival-2014",
+    "date_modified": "12 Aug 2015 21:22:57 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3802914513_10.jpg",
+    "date_published": "27 Sep 2014 00:00:00 GMT",
+    "album_duration": "P01H30M48S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Lack of Everything",
-                "duration": "P00H07M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lack-of-everything"
-            }
+            "track_name": "Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/lack-of-everything",
+            "track_duration": "P00H07M47S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Find Your Cloud>",
-                "duration": "P00H12M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-40"
-            }
+            "track_name": "Find Your Cloud>",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-40",
+            "track_duration": "P00H12M58S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H09M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-14"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-14",
+            "track_duration": "P00H09M01S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-32"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-32",
+            "track_duration": "P00H09M20S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H09M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-29"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-29",
+            "track_duration": "P00H09M34S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Geoglyph> If It Wasn't For You",
-                "duration": "P00H20M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-if-it-wasnt-for-you"
-            }
+            "track_name": "Geoglyph> If It Wasn't For You",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-if-it-wasnt-for-you",
+            "track_duration": "P00H20M35S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "You and Yourself",
-                "duration": "P00H10M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-15"
-            }
+            "track_name": "You and Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-15",
+            "track_duration": "P00H10M45S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-45"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-45",
+            "track_duration": "P00H10M48S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3802914513_10.jpg",
-    "datePublished": "27 Sep 2014 00:00:00 GMT",
-    "description": "Papadosio stopped at The Allman Brothers' Peach Festival in Scranton, PA for this set on the Mushroom Stage. \r\n\r\nAnthony Thogmartin (Guitar, Vocals, Live)\r\nMike Healy (Drums)\r\nRob McConnell (Bass)\r\nBilly Brouse (Keys, Synth)\r\nSam Brouse (Keys, Piano)",
-    "duration": "P01H30M48S"
+    ]
 }

@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/31519-madison-theater-covington-ky",
-    "name": "3.15.19 | Madison Theater | Covington, KY",
-    "dateModified": "22 Mar 2019 21:11:48 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "3.15.19 | Madison Theater | Covington, KY",
+    "album_link": "https://papadosio.bandcamp.com/album/31519-madison-theater-covington-ky",
+    "date_modified": "22 Mar 2019 21:11:48 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0080599351_10.jpg",
+    "date_published": "22 Mar 2019 21:11:48 GMT",
+    "album_duration": "P01H56M47S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H02M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-61"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-61",
+            "track_duration": "P00H02M24S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "TV Song",
-                "duration": "P00H03M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/tv-song-25"
-            }
+            "track_name": "TV Song",
+            "track_link": "https://papadosio.bandcamp.com/track/tv-song-25",
+            "track_duration": "P00H03M35S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H09M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-67"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-67",
+            "track_duration": "P00H09M58S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Pool of Stars",
-                "duration": "P00H05M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-19"
-            }
+            "track_name": "Pool of Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/pool-of-stars-19",
+            "track_duration": "P00H05M30S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Oracle Theme",
-                "duration": "P00H24M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-36"
-            }
+            "track_name": "Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/oracle-theme-36",
+            "track_duration": "P00H24M52S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H14M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-82"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-82",
+            "track_duration": "P00H14M04S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Liminal Daybreak",
-                "duration": "P00H05M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/liminal-daybreak-18"
-            }
+            "track_name": "Liminal Daybreak",
+            "track_link": "https://papadosio.bandcamp.com/track/liminal-daybreak-18",
+            "track_duration": "P00H05M09S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H08M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-57"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-57",
+            "track_duration": "P00H08M59S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Now That You Know",
-                "duration": "P00H08M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-37"
-            }
+            "track_name": "Now That You Know",
+            "track_link": "https://papadosio.bandcamp.com/track/now-that-you-know-37",
+            "track_duration": "P00H08M05S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Fire Rite",
-                "duration": "P00H07M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-20"
-            }
+            "track_name": "Fire Rite",
+            "track_link": "https://papadosio.bandcamp.com/track/fire-rite-20",
+            "track_duration": "P00H07M42S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Anima Mundi",
-                "duration": "P00H08M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-46"
-            }
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-46",
+            "track_duration": "P00H08M56S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H07M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-68"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-68",
+            "track_duration": "P00H07M09S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-134"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-134",
+            "track_duration": "P00H10M24S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0080599351_10.jpg",
-    "datePublished": "22 Mar 2019 21:11:48 GMT",
-    "description": "This album was recorded on March 15th, 2019 at the Madison Theater in Covington, KY. Thanks to Cycles & Funk You for getting the night started & thanks to all of the people that came out to support!",
-    "duration": "P01H56M47S"
+    ]
 }

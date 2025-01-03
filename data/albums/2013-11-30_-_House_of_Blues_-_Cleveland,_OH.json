@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2013-11-30-house-of-blues-cleveland-oh",
-    "name": "2013-11-30 - House of Blues - Cleveland, OH",
-    "dateModified": "08 Dec 2013 18:42:09 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "2013-11-30 - House of Blues - Cleveland, OH",
+    "album_link": "https://papadosio.bandcamp.com/album/2013-11-30-house-of-blues-cleveland-oh",
+    "date_modified": "08 Dec 2013 18:42:09 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0241932139_10.jpg",
+    "date_published": "08 Dec 2013 00:00:00 GMT",
+    "album_duration": "P02H00M37S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H13M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-23"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-23",
+            "track_duration": "P00H13M03S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Right Now",
-                "duration": "P00H08M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-9"
-            }
+            "track_name": "Right Now",
+            "track_link": "https://papadosio.bandcamp.com/track/right-now-9",
+            "track_duration": "P00H08M53S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "What's At Stake",
-                "duration": "P00H04M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/whats-at-stake-8"
-            }
+            "track_name": "What's At Stake",
+            "track_link": "https://papadosio.bandcamp.com/track/whats-at-stake-8",
+            "track_duration": "P00H04M32S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H06M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-13"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-13",
+            "track_duration": "P00H06M11S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Oracle Theme",
-                "duration": "P00H12M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-7"
-            }
+            "track_name": "Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/oracle-theme-7",
+            "track_duration": "P00H12M51S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H12M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-11"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-11",
+            "track_duration": "P00H12M09S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H09M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-17"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-17",
+            "track_duration": "P00H09M11S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Direction Song",
-                "duration": "P00H10M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-8"
-            }
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-8",
+            "track_duration": "P00H10M58S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H14M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-15"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-15",
+            "track_duration": "P00H14M59S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Now That You Know",
-                "duration": "P00H13M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-8"
-            }
+            "track_name": "Now That You Know",
+            "track_link": "https://papadosio.bandcamp.com/track/now-that-you-know-8",
+            "track_duration": "P00H13M28S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H14M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-9"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-9",
+            "track_duration": "P00H14M22S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0241932139_10.jpg",
-    "datePublished": "08 Dec 2013 00:00:00 GMT",
-    "description": "Live at the House of Blues - Cleveland, OH\r\n11.30.2013",
-    "duration": "P02H00M37S"
+    ]
 }

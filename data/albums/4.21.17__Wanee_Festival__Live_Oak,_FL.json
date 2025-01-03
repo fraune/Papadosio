@@ -1,76 +1,50 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/42117-wanee-festival-live-oak-fl",
-    "name": "4.21.17 | Wanee Festival | Live Oak, FL",
-    "dateModified": "10 May 2017 15:57:40 GMT",
-    "numTracks": 8,
-    "track": [
+    "album_name": "4.21.17 | Wanee Festival | Live Oak, FL",
+    "album_link": "https://papadosio.bandcamp.com/album/42117-wanee-festival-live-oak-fl",
+    "date_modified": "10 May 2017 15:57:40 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1602732513_10.jpg",
+    "date_published": "10 May 2017 15:57:40 GMT",
+    "album_duration": "P01H17M41S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "...And This is What he Thought",
-                "duration": "P00H02M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-28"
-            }
+            "track_name": "...And This is What he Thought",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-28",
+            "track_duration": "P00H02M04S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H10M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-92"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-92",
+            "track_duration": "P00H10M43S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H15M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-37"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-37",
+            "track_duration": "P00H15M51S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Drift",
-                "duration": "P00H06M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-20"
-            }
+            "track_name": "Drift",
+            "track_link": "https://papadosio.bandcamp.com/track/drift-20",
+            "track_duration": "P00H06M19S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H08M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-26"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-26",
+            "track_duration": "P00H08M20S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H15M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-99"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-99",
+            "track_duration": "P00H15M13S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H07M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-60"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-60",
+            "track_duration": "P00H07M56S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H11M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-26"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-26",
+            "track_duration": "P00H11M15S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1602732513_10.jpg",
-    "datePublished": "10 May 2017 15:57:40 GMT",
-    "description": null,
-    "duration": "P01H17M41S"
+    ]
 }

@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/112418-the-rex-theatre-pittsburgh-pa",
-    "name": "11.24.18 | The Rex Theatre | Pittsburgh, PA",
-    "dateModified": "07 Jan 2019 19:47:35 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "11.24.18 | The Rex Theatre | Pittsburgh, PA",
+    "album_link": "https://papadosio.bandcamp.com/album/112418-the-rex-theatre-pittsburgh-pa",
+    "date_modified": "07 Jan 2019 19:47:35 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0037482084_10.jpg",
+    "date_published": "07 Jan 2019 19:47:35 GMT",
+    "album_duration": "P01H52M25S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H09M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-16"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-16",
+            "track_duration": "P00H09M56S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "No End",
-                "duration": "P00H05M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/no-end-8"
-            }
+            "track_name": "No End",
+            "track_link": "https://papadosio.bandcamp.com/track/no-end-8",
+            "track_duration": "P00H05M16S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H11M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-55"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-55",
+            "track_duration": "P00H11M00S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H16M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-108"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-108",
+            "track_duration": "P00H16M39S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Ear to Ear",
-                "duration": "P00H09M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-36"
-            }
+            "track_name": "Ear to Ear",
+            "track_link": "https://papadosio.bandcamp.com/track/ear-to-ear-36",
+            "track_duration": "P00H09M17S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Fanfare For the Rain People",
-                "duration": "P00H07M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-13"
-            }
+            "track_name": "Fanfare For the Rain People",
+            "track_link": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-13",
+            "track_duration": "P00H07M46S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The World is a Cube",
-                "duration": "P00H12M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-11"
-            }
+            "track_name": "The World is a Cube",
+            "track_link": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-11",
+            "track_duration": "P00H12M19S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H16M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-91"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-91",
+            "track_duration": "P00H16M39S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H12M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-122"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-122",
+            "track_duration": "P00H12M33S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Giving You Up",
-                "duration": "P00H11M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/giving-you-up-23"
-            }
+            "track_name": "Giving You Up",
+            "track_link": "https://papadosio.bandcamp.com/track/giving-you-up-23",
+            "track_duration": "P00H11M00S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0037482084_10.jpg",
-    "datePublished": "07 Jan 2019 19:47:35 GMT",
-    "description": "This album was recorded on November 24th at the Rex Theatre in Pittsburgh, PA during our thanksgiving tour. Thanks to everybody who came out to show support & Thanks to Litz for getting the night started!",
-    "duration": "P01H52M25S"
+    ]
 }

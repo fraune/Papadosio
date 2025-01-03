@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2013-09-06-hyperion-spencer-in",
-    "name": "2013-09-06 - Hyperion - Spencer, IN",
-    "dateModified": "04 Sep 2019 17:05:11 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "2013-09-06 - Hyperion - Spencer, IN",
+    "album_link": "https://papadosio.bandcamp.com/album/2013-09-06-hyperion-spencer-in",
+    "date_modified": "04 Sep 2019 17:05:11 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2050271031_10.jpg",
+    "date_published": "23 Sep 2013 00:00:00 GMT",
+    "album_duration": "P02H00M44S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "New Love>",
-                "duration": "P00H08M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-8"
-            }
+            "track_name": "New Love>",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-8",
+            "track_duration": "P00H08M13S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "We Choose",
-                "duration": "P00H06M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-2"
-            }
+            "track_name": "We Choose",
+            "track_link": "https://papadosio.bandcamp.com/track/we-choose-2",
+            "track_duration": "P00H06M23S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Find Your Cloud>",
-                "duration": "P00H15M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-11"
-            }
+            "track_name": "Find Your Cloud>",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-11",
+            "track_duration": "P00H15M28S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H06M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-5"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-5",
+            "track_duration": "P00H06M04S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Paradigm Shift>",
-                "duration": "P00H08M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-9"
-            }
+            "track_name": "Paradigm Shift>",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-9",
+            "track_duration": "P00H08M38S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Advocate of Change (reprise)",
-                "duration": "P00H02M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-reprise"
-            }
+            "track_name": "Advocate of Change (reprise)",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-reprise",
+            "track_duration": "P00H02M29S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Dream Estate>",
-                "duration": "P00H07M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-6"
-            }
+            "track_name": "Dream Estate>",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-6",
+            "track_duration": "P00H07M23S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Method of Control>",
-                "duration": "P00H11M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-11"
-            }
+            "track_name": "Method of Control>",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-11",
+            "track_duration": "P00H11M26S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Smile and Nod>",
-                "duration": "P00H10M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-7"
-            }
+            "track_name": "Smile and Nod>",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-7",
+            "track_duration": "P00H10M35S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H07M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-13"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-13",
+            "track_duration": "P00H07M27S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "New Love (reprise)",
-                "duration": "P00H08M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-reprise"
-            }
+            "track_name": "New Love (reprise)",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-reprise",
+            "track_duration": "P00H08M31S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H13M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-11"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-11",
+            "track_duration": "P00H13M20S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H14M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-12"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-12",
+            "track_duration": "P00H14M47S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2050271031_10.jpg",
-    "datePublished": "23 Sep 2013 00:00:00 GMT",
-    "description": null,
-    "duration": "P02H00M44S"
+    ]
 }

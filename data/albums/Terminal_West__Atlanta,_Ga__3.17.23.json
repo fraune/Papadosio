@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/terminal-west-atlanta-ga-31723",
-    "name": "Terminal West | Atlanta, Ga | 3.17.23",
-    "dateModified": "01 Apr 2023 17:56:43 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "Terminal West | Atlanta, Ga | 3.17.23",
+    "album_link": "https://papadosio.bandcamp.com/album/terminal-west-atlanta-ga-31723",
+    "date_modified": "01 Apr 2023 17:56:43 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4175815984_10.jpg",
+    "date_published": "01 Apr 2023 00:00:00 GMT",
+    "album_duration": "P01H47M34S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H10M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-77"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-77",
+            "track_duration": "P00H10M50S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Direction Song",
-                "duration": "P00H10M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-71"
-            }
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-71",
+            "track_duration": "P00H10M34S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Ritual",
-                "duration": "P00H12M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-41"
-            }
+            "track_name": "Ritual",
+            "track_link": "https://papadosio.bandcamp.com/track/ritual-41",
+            "track_duration": "P00H12M20S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Method Of Control",
-                "duration": "P00H07M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-122"
-            }
+            "track_name": "Method Of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-122",
+            "track_duration": "P00H07M42S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Smile And Nod",
-                "duration": "P00H10M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-100"
-            }
+            "track_name": "Smile And Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-100",
+            "track_duration": "P00H10M24S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "The Lack Of Everything",
-                "duration": "P00H06M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-55"
-            }
+            "track_name": "The Lack Of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-55",
+            "track_duration": "P00H06M38S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Dare You",
-                "duration": "P00H07M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-6"
-            }
+            "track_name": "Dare You",
+            "track_link": "https://papadosio.bandcamp.com/track/dare-you-6",
+            "track_duration": "P00H07M36S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Hippy Babysitter",
-                "duration": "P00H14M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippy-babysitter-6"
-            }
+            "track_name": "Hippy Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippy-babysitter-6",
+            "track_duration": "P00H14M58S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H13M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-158"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-158",
+            "track_duration": "P00H13M22S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H13M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-177"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-177",
+            "track_duration": "P00H13M10S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a4175815984_10.jpg",
-    "datePublished": "01 Apr 2023 00:00:00 GMT",
-    "description": "This was a very emotionally charged set. After soundcheck, we learned that Chuck had gone missing in Arkansas. The energy the rest of the night, and weeks to follow was and is still palpable. Confusion, longing for life, hope in the face of unimaginable tragedy. Chuck was always so kind and supportive to all of us and we miss him dearly. We were all lucky to be together during such a hard time.",
-    "duration": "P01H47M34S"
+    ]
 }

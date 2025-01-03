@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/122919-georgia-theatre-athens-ga",
-    "name": "12.29.19 | Georgia Theatre | Athens, GA",
-    "dateModified": "11 Jan 2019 22:26:38 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "12.29.19 | Georgia Theatre | Athens, GA",
+    "album_link": "https://papadosio.bandcamp.com/album/122919-georgia-theatre-athens-ga",
+    "date_modified": "11 Jan 2019 22:26:38 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3545652872_10.jpg",
+    "date_published": "11 Jan 2019 22:26:38 GMT",
+    "album_duration": "P01H59M06S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H18M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-78"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-78",
+            "track_duration": "P00H18M42S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H19M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-123"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-123",
+            "track_duration": "P00H19M03S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H07M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-14"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-14",
+            "track_duration": "P00H07M33S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "By Light of the Stars",
-                "duration": "P00H13M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-light-of-the-stars"
-            }
+            "track_name": "By Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-light-of-the-stars",
+            "track_duration": "P00H13M16S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H13M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-57"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-57",
+            "track_duration": "P00H13M16S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Pool of Stars",
-                "duration": "P00H05M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-16"
-            }
+            "track_name": "Pool of Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/pool-of-stars-16",
+            "track_duration": "P00H05M41S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Liminal Daybreak",
-                "duration": "P00H05M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/liminal-daybreak-13"
-            }
+            "track_name": "Liminal Daybreak",
+            "track_link": "https://papadosio.bandcamp.com/track/liminal-daybreak-13",
+            "track_duration": "P00H05M02S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-118"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-118",
+            "track_duration": "P00H08M07S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H08M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-17"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-17",
+            "track_duration": "P00H08M46S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H11M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-95"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-95",
+            "track_duration": "P00H11M04S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H08M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-66"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-66",
+            "track_duration": "P00H08M36S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3545652872_10.jpg",
-    "datePublished": "11 Jan 2019 22:26:38 GMT",
-    "description": "This album was recorded on December 29th, 2018 at the Georgia Theatre in Athens, GA. Thanks to everybody who came out and Thanks to Universal Sigh for opening the night up! See you in Athens again soon!",
-    "duration": "P01H59M06S"
+    ]
 }

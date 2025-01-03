@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/extrasinamovie-22416-bozeman-mt",
-    "name": "#extrasinamovie | 2.24.16 | Bozeman, MT",
-    "dateModified": "24 Mar 2016 18:18:01 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "#extrasinamovie | 2.24.16 | Bozeman, MT",
+    "album_link": "https://papadosio.bandcamp.com/album/extrasinamovie-22416-bozeman-mt",
+    "date_modified": "24 Mar 2016 18:18:01 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3856004866_10.jpg",
+    "date_published": "24 Mar 2016 18:18:01 GMT",
+    "album_duration": "P01H54M43S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-64"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-64",
+            "track_duration": "P00H07M13S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-61"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-61",
+            "track_duration": "P00H09M30S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H06M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-80"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-80",
+            "track_duration": "P00H06M53S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Dayvan Cowboy (Boards of Canada)",
-                "duration": "P00H05M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dayvan-cowboy-boards-of-canada-2"
-            }
+            "track_name": "Dayvan Cowboy (Boards of Canada)",
+            "track_link": "https://papadosio.bandcamp.com/track/dayvan-cowboy-boards-of-canada-2",
+            "track_duration": "P00H05M56S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H18M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-33"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-33",
+            "track_duration": "P00H18M49S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Epiphany",
-                "duration": "P00H08M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-27"
-            }
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-27",
+            "track_duration": "P00H08M20S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Ritual",
-                "duration": "P00H09M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-19"
-            }
+            "track_name": "Ritual",
+            "track_link": "https://papadosio.bandcamp.com/track/ritual-19",
+            "track_duration": "P00H09M01S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H19M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-46"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-46",
+            "track_duration": "P00H19M00S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-93"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-93",
+            "track_duration": "P00H10M46S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H09M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-77"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-77",
+            "track_duration": "P00H09M55S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Crowd Banter",
-                "duration": "P00H03M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/crowd-banter-10"
-            }
+            "track_name": "Crowd Banter",
+            "track_link": "https://papadosio.bandcamp.com/track/crowd-banter-10",
+            "track_duration": "P00H03M01S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Glimpse of Light",
-                "duration": "P00H06M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-28"
-            }
+            "track_name": "Glimpse of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-28",
+            "track_duration": "P00H06M19S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3856004866_10.jpg",
-    "datePublished": "24 Mar 2016 18:18:01 GMT",
-    "description": "'Extras in a Movie' Tour Act II - Live at the Emerson Center for Arts & Culture\r\nAll music written, recorded, and performed by Papadosio (with the exception of 'Dayvan Cowboy' by Boards of Canada). \r\n© All Rights Reserved 2016.",
-    "duration": "P01H54M43S"
+    ]
 }

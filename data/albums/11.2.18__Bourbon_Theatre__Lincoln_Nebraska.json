@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/11218-bourbon-theatre-lincoln-nebraska",
-    "name": "11.2.18 | Bourbon Theatre | Lincoln Nebraska",
-    "dateModified": "28 Nov 2018 17:02:35 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "11.2.18 | Bourbon Theatre | Lincoln Nebraska",
+    "album_link": "https://papadosio.bandcamp.com/album/11218-bourbon-theatre-lincoln-nebraska",
+    "date_modified": "28 Nov 2018 17:02:35 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3892046782_10.jpg",
+    "date_published": "27 Nov 2018 00:00:00 GMT",
+    "album_duration": "P01H41M31S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H12M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-53"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-53",
+            "track_duration": "P00H12M06S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "How Not to Float",
-                "duration": "P00H08M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-50"
-            }
+            "track_name": "How Not to Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-50",
+            "track_duration": "P00H08M57S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Liminal Daybreak",
-                "duration": "P00H05M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/liminal-daybreak-10"
-            }
+            "track_name": "Liminal Daybreak",
+            "track_link": "https://papadosio.bandcamp.com/track/liminal-daybreak-10",
+            "track_duration": "P00H05M21S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H12M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-93"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-93",
+            "track_duration": "P00H12M17S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Out of Hiding",
-                "duration": "P00H07M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-38"
-            }
+            "track_name": "Out of Hiding",
+            "track_link": "https://papadosio.bandcamp.com/track/out-of-hiding-38",
+            "track_duration": "P00H07M20S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H08M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-14"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-14",
+            "track_duration": "P00H08M36S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H07M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-10"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-10",
+            "track_duration": "P00H07M45S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-131"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-131",
+            "track_duration": "P00H10M06S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Omnifreeze",
-                "duration": "P00H06M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-39"
-            }
+            "track_name": "Omnifreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-39",
+            "track_duration": "P00H06M24S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H07M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-78"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-78",
+            "track_duration": "P00H07M13S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Passage",
-                "duration": "P00H05M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/passage-7"
-            }
+            "track_name": "Passage",
+            "track_link": "https://papadosio.bandcamp.com/track/passage-7",
+            "track_duration": "P00H05M49S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H09M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-128"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-128",
+            "track_duration": "P00H09M37S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3892046782_10.jpg",
-    "datePublished": "27 Nov 2018 00:00:00 GMT",
-    "description": "This album was recorded on November 2nd, 2018 at the Bourbon Theatre in Lincoln, NE! Thanks to everybody who came out to this show & thanks to Evanoff for opening the night up!",
-    "duration": "P01H41M31S"
+    ]
 }

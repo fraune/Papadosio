@@ -1,60 +1,40 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/camp-bisco-71815-montage-mountain-pa",
-    "name": "Camp Bisco | 7.18.15 | Montage Mountain, PA",
-    "dateModified": "21 Aug 2015 04:06:27 GMT",
-    "numTracks": 6,
-    "track": [
+    "album_name": "Camp Bisco | 7.18.15 | Montage Mountain, PA",
+    "album_link": "https://papadosio.bandcamp.com/album/camp-bisco-71815-montage-mountain-pa",
+    "date_modified": "21 Aug 2015 04:06:27 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1210839485_10.jpg",
+    "date_published": "21 Aug 2015 04:06:27 GMT",
+    "album_duration": "P00H49M45S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H09M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-38"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-38",
+            "track_duration": "P00H09M24S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H09M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-38"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-38",
+            "track_duration": "P00H09M20S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Psypoly",
-                "duration": "P00H04M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/psypoly"
-            }
+            "track_name": "Psypoly",
+            "track_link": "https://papadosio.bandcamp.com/track/psypoly",
+            "track_duration": "P00H04M11S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H08M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-36"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-36",
+            "track_duration": "P00H08M45S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H12M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-37"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-37",
+            "track_duration": "P00H12M52S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H05M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-39"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-39",
+            "track_duration": "P00H05M13S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1210839485_10.jpg",
-    "datePublished": "21 Aug 2015 04:06:27 GMT",
-    "description": "Live from Camp Bisco Music Festival - July 18th, 2015 All music written, performed & recorded by Papadosio. © all rights reserved 2015.",
-    "duration": "P00H49M45S"
+    ]
 }

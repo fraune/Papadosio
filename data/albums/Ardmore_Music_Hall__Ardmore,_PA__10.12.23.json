@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/ardmore-music-hall-ardmore-pa-101223",
-    "name": "Ardmore Music Hall | Ardmore, PA | 10.12.23",
-    "dateModified": "23 Oct 2023 15:03:03 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "Ardmore Music Hall | Ardmore, PA | 10.12.23",
+    "album_link": "https://papadosio.bandcamp.com/album/ardmore-music-hall-ardmore-pa-101223",
+    "date_modified": "23 Oct 2023 15:03:03 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1884398534_10.jpg",
+    "date_published": "23 Oct 2023 15:03:04 GMT",
+    "album_duration": "P01H50M50S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-127"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-127",
+            "track_duration": "P00H09M14S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Boss Battle",
-                "duration": "P00H04M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/boss-battle-7"
-            }
+            "track_name": "Boss Battle",
+            "track_link": "https://papadosio.bandcamp.com/track/boss-battle-7",
+            "track_duration": "P00H04M00S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H18M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-87"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-87",
+            "track_duration": "P00H18M53S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H10M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-109"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-109",
+            "track_duration": "P00H10M52S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-120"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-120",
+            "track_duration": "P00H09M10S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H10M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-69"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-69",
+            "track_duration": "P00H10M22S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The End Of The World",
-                "duration": "P00H05M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-end-of-the-world-7"
-            }
+            "track_name": "The End Of The World",
+            "track_link": "https://papadosio.bandcamp.com/track/the-end-of-the-world-7",
+            "track_duration": "P00H05M05S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Not Just A Word",
-                "duration": "P00H08M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-25"
-            }
+            "track_name": "Not Just A Word",
+            "track_link": "https://papadosio.bandcamp.com/track/not-just-a-word-25",
+            "track_duration": "P00H08M56S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Versicolor",
-                "duration": "P00H07M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-40"
-            }
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-40",
+            "track_duration": "P00H07M21S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Fate",
-                "duration": "P00H06M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fate-6"
-            }
+            "track_name": "Fate",
+            "track_link": "https://papadosio.bandcamp.com/track/fate-6",
+            "track_duration": "P00H06M32S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Shiitake",
-                "duration": "P00H09M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-33"
-            }
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-33",
+            "track_duration": "P00H09M00S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Cubensis",
-                "duration": "P00H11M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-41"
-            }
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis-41",
+            "track_duration": "P00H11M25S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1884398534_10.jpg",
-    "datePublished": "23 Oct 2023 15:03:04 GMT",
-    "description": "thanks so much for coming, Ardmore (and Philly....) we loved the vibes!",
-    "duration": "P01H50M50S"
+    ]
 }

@@ -1,84 +1,55 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/92218-resonance-music-festival-thornville-oh",
-    "name": "9.22.18 | Resonance Music Festival | Thornville, OH",
-    "dateModified": "04 Oct 2018 23:11:59 GMT",
-    "numTracks": 9,
-    "track": [
+    "album_name": "9.22.18 | Resonance Music Festival | Thornville, OH",
+    "album_link": "https://papadosio.bandcamp.com/album/92218-resonance-music-festival-thornville-oh",
+    "date_modified": "04 Oct 2018 23:11:59 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0719692761_10.jpg",
+    "date_published": "04 Oct 2018 23:11:59 GMT",
+    "album_duration": "P01H22M10S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H04M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-3"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-3",
+            "track_duration": "P00H04M47S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H11M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-43"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-43",
+            "track_duration": "P00H11M12S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Fanfare for the Rain People",
-                "duration": "P00H08M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-3"
-            }
+            "track_name": "Fanfare for the Rain People",
+            "track_link": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-3",
+            "track_duration": "P00H08M41S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The World is a Cube",
-                "duration": "P00H04M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-3"
-            }
+            "track_name": "The World is a Cube",
+            "track_link": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-3",
+            "track_duration": "P00H04M53S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H05M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-42"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-42",
+            "track_duration": "P00H05M34S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Pool of Stars",
-                "duration": "P00H05M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-7"
-            }
+            "track_name": "Pool of Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/pool-of-stars-7",
+            "track_duration": "P00H05M48S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H13M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-8"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-8",
+            "track_duration": "P00H13M35S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "No End",
-                "duration": "P00H05M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/no-end-3"
-            }
+            "track_name": "No End",
+            "track_link": "https://papadosio.bandcamp.com/track/no-end-3",
+            "track_duration": "P00H05M58S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H21M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-103"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-103",
+            "track_duration": "P00H21M42S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0719692761_10.jpg",
-    "datePublished": "04 Oct 2018 23:11:59 GMT",
-    "description": "This album was recorded on September 22nd, 2018 at Resonance Music Festival, 2018 in Thornville, OH. Resonance was such a special weekend. thanks to everybody who came out to make us special. See you on the road for fall tour!",
-    "duration": "P01H22M10S"
+    ]
 }

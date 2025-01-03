@@ -6,17 +6,6 @@ from datetime import timedelta
 INPUT_PATH = "raw/albums"
 OUTPUT_PATH = "data/albums"
 
-SELECTED_KEYS = [
-    "@id",
-    "name",
-    "dateModified",
-    "numTracks",
-    "track",
-    "image",
-    "datePublished",
-    "description",
-]
-
 
 def process_album_files():
     """Process each HTML file in the RAW_DIR and save the cleaned JSON."""
@@ -47,6 +36,7 @@ def process_album_files():
 
         with open(output_path, "w", encoding="utf-8") as output_file:
             json.dump(filtered_json, output_file, indent=4, ensure_ascii=False)
+
         print(f"Saved cleaned JSON to {output_path}.")
 
 
@@ -72,21 +62,27 @@ def filter_json(json_blob):
         print("Unexpected JSON structure; skipping filtering.")
         return None
 
-    filtered_json = {key: json_blob.get(key) for key in SELECTED_KEYS}
+    formatted_json = {
+        "album_name": json_blob["name"],
+        "album_link": json_blob["@id"],
+        "date_modified": json_blob["dateModified"],
+        "album_artwork": json_blob["image"],
+        "date_published": json_blob["datePublished"],
+    }
 
     # Process track data if available
-    total_duration, tracks = process_track_data(filtered_json["track"])
-    if total_duration is not None and tracks is not None:
-        filtered_json["duration"] = total_duration
-        filtered_json["track"] = tracks
+    total_duration, tracks = process_track_data(json_blob["track"])
+    formatted_json["album_duration"] = total_duration
+    formatted_json["track_list"] = tracks
 
-    return filtered_json
+    return formatted_json
 
 
-def process_track_data(track_data):
+def process_track_data(track_data: dict):
     """Process and clean up the track data."""
     if not track_data or "itemListElement" not in track_data:
-        return None, None
+        print("ERROR: Could not process track data!")
+        return None, []
 
     item_list = track_data["itemListElement"]
     total_seconds = 0
@@ -142,12 +138,9 @@ def parse_duration(iso_duration):
 def format_track(track):
     """Format a track to the desired structure."""
     return {
-        "position": track["position"],
-        "item": {
-            "name": track["item"]["name"],
-            "duration": track["item"]["duration"],
-            "mainEntityOfPage": track["item"]["mainEntityOfPage"],
-        },
+        "track_name": track["item"]["name"],
+        "track_link": track["item"]["mainEntityOfPage"],
+        "track_duration": track["item"]["duration"],
     }
 
 

@@ -1,124 +1,80 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2014-03-29-hoopla-in-the-hills-night-2",
-    "name": "2014​-​03​-​29 - Hoopla in the Hills - Night 2",
-    "dateModified": "03 Apr 2014 03:15:47 GMT",
-    "numTracks": 14,
-    "track": [
+    "album_name": "2014​-​03​-​29 - Hoopla in the Hills - Night 2",
+    "album_link": "https://papadosio.bandcamp.com/album/2014-03-29-hoopla-in-the-hills-night-2",
+    "date_modified": "03 Apr 2014 03:15:47 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0764919008_10.jpg",
+    "date_published": "03 Apr 2014 03:15:47 GMT",
+    "album_duration": "P01H53M19S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H07M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-21"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-21",
+            "track_duration": "P00H07M15S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "and this is what he thought",
-                "duration": "P00H03M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-4"
-            }
+            "track_name": "and this is what he thought",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-4",
+            "track_duration": "P00H03M20S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H06M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-33"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-33",
+            "track_duration": "P00H06M59S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H10M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-30"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-30",
+            "track_duration": "P00H10M09S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Athenian Pack Ape Improv",
-                "duration": "P00H06M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-athenian-pack-ape-improv"
-            }
+            "track_name": "The Athenian Pack Ape Improv",
+            "track_link": "https://papadosio.bandcamp.com/track/the-athenian-pack-ape-improv",
+            "track_duration": "P00H06M24S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H07M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-16"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-16",
+            "track_duration": "P00H07M52S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H07M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-24"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-24",
+            "track_duration": "P00H07M14S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Black Swan",
-                "duration": "P00H07M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/black-swan"
-            }
+            "track_name": "Black Swan",
+            "track_link": "https://papadosio.bandcamp.com/track/black-swan",
+            "track_duration": "P00H07M30S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Direction Song",
-                "duration": "P00H13M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-15"
-            }
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-15",
+            "track_duration": "P00H13M00S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H07M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-24"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-24",
+            "track_duration": "P00H07M13S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H09M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-24"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-24",
+            "track_duration": "P00H09M08S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H14M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-18"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-18",
+            "track_duration": "P00H14M34S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Karma Police",
-                "duration": "P00H05M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/karma-police"
-            }
+            "track_name": "Karma Police",
+            "track_link": "https://papadosio.bandcamp.com/track/karma-police",
+            "track_duration": "P00H05M25S"
         },
         {
-            "position": 14,
-            "item": {
-                "name": "Holy Heck",
-                "duration": "P00H07M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-12"
-            }
+            "track_name": "Holy Heck",
+            "track_link": "https://papadosio.bandcamp.com/track/holy-heck-12",
+            "track_duration": "P00H07M16S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0764919008_10.jpg",
-    "datePublished": "03 Apr 2014 03:15:47 GMT",
-    "description": null,
-    "duration": "P01H53M19S"
+    ]
 }

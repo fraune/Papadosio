@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/the-orange-peel-103115-asheville-nc",
-    "name": "The Orange Peel | 10.31.15 | Asheville, NC",
-    "dateModified": "31 Oct 2019 21:55:51 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "The Orange Peel | 10.31.15 | Asheville, NC",
+    "album_link": "https://papadosio.bandcamp.com/album/the-orange-peel-103115-asheville-nc",
+    "date_modified": "31 Oct 2019 21:55:51 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1988260893_10.jpg",
+    "date_published": "11 Nov 2015 00:00:00 GMT",
+    "album_duration": "P01H45M20S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H00M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-16"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-16",
+            "track_duration": "P00H00M57S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Papadosio Tonight",
-                "duration": "P00H01M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/papadosio-tonight"
-            }
+            "track_name": "Papadosio Tonight",
+            "track_link": "https://papadosio.bandcamp.com/track/papadosio-tonight",
+            "track_duration": "P00H01M42S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Epiphany",
-                "duration": "P00H08M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-15"
-            }
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-15",
+            "track_duration": "P00H08M56S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H14M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-42"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-42",
+            "track_duration": "P00H14M52S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "We Can Always Come Back",
-                "duration": "P00H08M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-7"
-            }
+            "track_name": "We Can Always Come Back",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back-7",
+            "track_duration": "P00H08M22S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Anima Mundi",
-                "duration": "P00H07M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-7"
-            }
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-7",
+            "track_duration": "P00H07M00S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H10M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-66"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-66",
+            "track_duration": "P00H10M04S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H16M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-28"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-28",
+            "track_duration": "P00H16M16S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Rainbow Connection*",
-                "duration": "P00H03M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/rainbow-connection"
-            }
+            "track_name": "Rainbow Connection*",
+            "track_link": "https://papadosio.bandcamp.com/track/rainbow-connection",
+            "track_duration": "P00H03M16S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H07M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-13"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-13",
+            "track_duration": "P00H07M47S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Glimpse of Light",
-                "duration": "P00H06M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-14"
-            }
+            "track_name": "Glimpse of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-14",
+            "track_duration": "P00H06M16S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H19M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-63"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-63",
+            "track_duration": "P00H19M52S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1988260893_10.jpg",
-    "datePublished": "11 Nov 2015 00:00:00 GMT",
-    "description": "The Orange Peel | 10.31.15 | Asheville, NC\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015.\r\n\r\n* Rainbow Connection originally written by Paul Williams & Kenneth Ascher for \" The Muppets Movie\" in 1979",
-    "duration": "P01H45M20S"
+    ]
 }

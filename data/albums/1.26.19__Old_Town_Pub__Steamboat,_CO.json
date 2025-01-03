@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/12619-old-town-pub-steamboat-co",
-    "name": "1.26.19 | Old Town Pub | Steamboat, CO",
-    "dateModified": "13 Feb 2019 17:52:45 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "1.26.19 | Old Town Pub | Steamboat, CO",
+    "album_link": "https://papadosio.bandcamp.com/album/12619-old-town-pub-steamboat-co",
+    "date_modified": "13 Feb 2019 17:52:45 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3671251085_10.jpg",
+    "date_published": "13 Feb 2019 17:52:45 GMT",
+    "album_duration": "P01H49M33S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Hippie Babyistter",
-                "duration": "P00H14M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babyistter"
-            }
+            "track_name": "Hippie Babyistter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babyistter",
+            "track_duration": "P00H14M15S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H14M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-70"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-70",
+            "track_duration": "P00H14M23S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Epiphany",
-                "duration": "P00H09M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-47"
-            }
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-47",
+            "track_duration": "P00H09M23S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H08M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-96"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-96",
+            "track_duration": "P00H08M24S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Liminal Daybreak",
-                "duration": "P00H05M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/liminal-daybreak-15"
-            }
+            "track_name": "Liminal Daybreak",
+            "track_link": "https://papadosio.bandcamp.com/track/liminal-daybreak-15",
+            "track_duration": "P00H05M21S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Madre de Dios",
-                "duration": "P00H05M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-35"
-            }
+            "track_name": "Madre de Dios",
+            "track_link": "https://papadosio.bandcamp.com/track/madre-de-dios-35",
+            "track_duration": "P00H05M42S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-95"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-95",
+            "track_duration": "P00H09M18S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H08M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-17"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-17",
+            "track_duration": "P00H08M08S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H18M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-132"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-132",
+            "track_duration": "P00H18M02S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H16M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-92"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-92",
+            "track_duration": "P00H16M37S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3671251085_10.jpg",
-    "datePublished": "13 Feb 2019 17:52:45 GMT",
-    "description": "This album was recorded on January 26th, 2019 at the Old Town Pub in Steamboat CO, on the second night of a two-night run! Thanks to everybody who came out to show support at the Old Town Pub! Colorado tour was a blast!",
-    "duration": "P01H49M33S"
+    ]
 }

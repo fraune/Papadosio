@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/11219-house-of-blues-cleveland-oh",
-    "name": "11.2.19 | House of Blues | Cleveland, OH",
-    "dateModified": "07 Nov 2019 17:00:33 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "11.2.19 | House of Blues | Cleveland, OH",
+    "album_link": "https://papadosio.bandcamp.com/album/11219-house-of-blues-cleveland-oh",
+    "date_modified": "07 Nov 2019 17:00:33 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3720502119_10.jpg",
+    "date_published": "07 Nov 2019 17:00:33 GMT",
+    "album_duration": "P01H52M34S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H16M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-83"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-83",
+            "track_duration": "P00H16M54S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H12M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-145"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-145",
+            "track_duration": "P00H12M22S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The World is a Cube",
-                "duration": "P00H04M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-17"
-            }
+            "track_name": "The World is a Cube",
+            "track_link": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-17",
+            "track_duration": "P00H04M19S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H03M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-144"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-144",
+            "track_duration": "P00H03M09S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H16M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-98"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-98",
+            "track_duration": "P00H16M26S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Now That You Know",
-                "duration": "P00H07M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-42"
-            }
+            "track_name": "Now That You Know",
+            "track_link": "https://papadosio.bandcamp.com/track/now-that-you-know-42",
+            "track_duration": "P00H07M43S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Left on the Light",
-                "duration": "P00H06M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/left-on-the-light"
-            }
+            "track_name": "Left on the Light",
+            "track_link": "https://papadosio.bandcamp.com/track/left-on-the-light",
+            "track_duration": "P00H06M11S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H16M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-59"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-59",
+            "track_duration": "P00H16M32S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-141"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-141",
+            "track_duration": "P00H10M16S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H09M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-30"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-30",
+            "track_duration": "P00H09M40S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Catalyst",
-                "duration": "P00H09M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-8"
-            }
+            "track_name": "Catalyst",
+            "track_link": "https://papadosio.bandcamp.com/track/catalyst-8",
+            "track_duration": "P00H09M02S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3720502119_10.jpg",
-    "datePublished": "07 Nov 2019 17:00:33 GMT",
-    "description": "This album was recorded on November 2nd, 2019 at the House of Blues in Cleveland, OH! Thanks for everybody who came out to show their support & thanks to Joe Hertler & The Rainbow Seekers for getting the night warmed up for us. This set is dedicated to our friend Pat. <3",
-    "duration": "P01H52M34S"
+    ]
 }

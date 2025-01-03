@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/the-big-dirty-eugene-or-10922",
-    "name": "The Big Dirty | Eugene, OR | 10.9.22",
-    "dateModified": "18 Oct 2022 16:38:27 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "The Big Dirty | Eugene, OR | 10.9.22",
+    "album_link": "https://papadosio.bandcamp.com/album/the-big-dirty-eugene-or-10922",
+    "date_modified": "18 Oct 2022 16:38:27 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3645220703_10.jpg",
+    "date_published": "18 Oct 2022 16:38:27 GMT",
+    "album_duration": "P01H39M14S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Fly Agaric",
-                "duration": "P00H13M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agaric-21"
-            }
+            "track_name": "Fly Agaric",
+            "track_link": "https://papadosio.bandcamp.com/track/fly-agaric-21",
+            "track_duration": "P00H13M41S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Not Just A Word",
-                "duration": "P00H06M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word"
-            }
+            "track_name": "Not Just A Word",
+            "track_link": "https://papadosio.bandcamp.com/track/not-just-a-word",
+            "track_duration": "P00H06M05S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Oracle Theme",
-                "duration": "P00H06M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-43"
-            }
+            "track_name": "Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/oracle-theme-43",
+            "track_duration": "P00H06M44S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Direction Song",
-                "duration": "P00H15M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-68"
-            }
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-68",
+            "track_duration": "P00H15M22S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Bomb Omb Battlefield",
-                "duration": "P00H03M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bomb-omb-battlefield"
-            }
+            "track_name": "Bomb Omb Battlefield",
+            "track_link": "https://papadosio.bandcamp.com/track/bomb-omb-battlefield",
+            "track_duration": "P00H03M12S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-147"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-147",
+            "track_duration": "P00H08M03S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Cordyceps",
-                "duration": "P00H09M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cordyceps-12"
-            }
+            "track_name": "Cordyceps",
+            "track_link": "https://papadosio.bandcamp.com/track/cordyceps-12",
+            "track_duration": "P00H09M51S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-113"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-113",
+            "track_duration": "P00H07M24S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H15M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-109"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-109",
+            "track_duration": "P00H15M32S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H13M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-153"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-153",
+            "track_duration": "P00H13M20S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3645220703_10.jpg",
-    "datePublished": "18 Oct 2022 16:38:27 GMT",
-    "description": "Eugene! Great to be back and at such a cool venue! Thanks so much to everyone who came out to the show, we had such a good time and it was a blast to feature the first ever live performance of Not Just A Word for you all. See you soon!",
-    "duration": "P01H39M14S"
+    ]
 }

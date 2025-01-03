@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-at-toads-place-imaginal-cells-tour",
-    "name": "Live at Toad's Place - Imaginal Cells Tour",
-    "dateModified": "21 Oct 2014 17:29:32 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "Live at Toad's Place - Imaginal Cells Tour",
+    "album_link": "https://papadosio.bandcamp.com/album/live-at-toads-place-imaginal-cells-tour",
+    "date_modified": "21 Oct 2014 17:29:32 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0668190209_10.jpg",
+    "date_published": "20 Oct 2014 00:00:00 GMT",
+    "album_duration": "P01H53M27S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H17M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-35"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-35",
+            "track_duration": "P00H17M14S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Universal Traveler* >",
-                "duration": "P00H08M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/universal-traveler"
-            }
+            "track_name": "Universal Traveler* >",
+            "track_link": "https://papadosio.bandcamp.com/track/universal-traveler",
+            "track_duration": "P00H08M56S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-34"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-34",
+            "track_duration": "P00H09M19S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H20M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-19"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-19",
+            "track_duration": "P00H20M38S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H06M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-28"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-28",
+            "track_duration": "P00H06M40S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Direction",
-                "duration": "P00H09M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-11"
-            }
+            "track_name": "Direction",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-11",
+            "track_duration": "P00H09M20S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Improbability blotter",
-                "duration": "P00H09M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-27"
-            }
+            "track_name": "Improbability blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-27",
+            "track_duration": "P00H09M16S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H14M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-24"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-24",
+            "track_duration": "P00H14M29S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Dream Estate>",
-                "duration": "P00H09M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-36"
-            }
+            "track_name": "Dream Estate>",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-36",
+            "track_duration": "P00H09M19S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-33"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-33",
+            "track_duration": "P00H08M16S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0668190209_10.jpg",
-    "datePublished": "20 Oct 2014 00:00:00 GMT",
-    "description": "Live at Toad's Place - New Haven, CT\r\n10.12.14 - Imaginal Cells Tour\r\n*Air cover",
-    "duration": "P01H53M27S"
+    ]
 }

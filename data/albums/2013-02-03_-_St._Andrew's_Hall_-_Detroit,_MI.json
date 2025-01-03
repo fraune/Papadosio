@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2013-02-03-st-andrews-hall-detroit-mi",
-    "name": "2013-02-03 - St. Andrew's Hall - Detroit, MI",
-    "dateModified": "05 Feb 2014 05:52:34 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "2013-02-03 - St. Andrew's Hall - Detroit, MI",
+    "album_link": "https://papadosio.bandcamp.com/album/2013-02-03-st-andrews-hall-detroit-mi",
+    "date_modified": "05 Feb 2014 05:52:34 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3827159580_10.jpg",
+    "date_published": "12 Jun 2013 00:00:00 GMT",
+    "album_duration": "P01H54M06S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H14M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-6"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-6",
+            "track_duration": "P00H14M17S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "TV Song",
-                "duration": "P00H03M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/tv-song-7"
-            }
+            "track_name": "TV Song",
+            "track_link": "https://papadosio.bandcamp.com/track/tv-song-7",
+            "track_duration": "P00H03M59S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H08M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-3"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-3",
+            "track_duration": "P00H08M28S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H09M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-8"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-8",
+            "track_duration": "P00H09M34S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Direction",
-                "duration": "P00H08M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-4"
-            }
+            "track_name": "Direction",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-4",
+            "track_duration": "P00H08M13S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H10M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-8"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-8",
+            "track_duration": "P00H10M51S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "If It Wasn't For You",
-                "duration": "P00H10M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-11"
-            }
+            "track_name": "If It Wasn't For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-11",
+            "track_duration": "P00H10M00S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-4"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-4",
+            "track_duration": "P00H07M27S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Giving You Up",
-                "duration": "P00H07M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/giving-you-up-2"
-            }
+            "track_name": "Giving You Up",
+            "track_link": "https://papadosio.bandcamp.com/track/giving-you-up-2",
+            "track_duration": "P00H07M53S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H16M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-9"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-9",
+            "track_duration": "P00H16M32S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H16M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-7"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-7",
+            "track_duration": "P00H16M52S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3827159580_10.jpg",
-    "datePublished": "12 Jun 2013 00:00:00 GMT",
-    "description": null,
-    "duration": "P01H54M06S"
+    ]
 }

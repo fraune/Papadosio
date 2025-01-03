@@ -1,140 +1,90 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/extras-in-a-movie",
-    "name": "Extras In A Movie",
-    "dateModified": "02 Jan 2018 22:03:44 GMT",
-    "numTracks": 16,
-    "track": [
+    "album_name": "Extras In A Movie",
+    "album_link": "https://papadosio.bandcamp.com/album/extras-in-a-movie",
+    "date_modified": "02 Jan 2018 22:03:44 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3006576777_10.jpg",
+    "date_published": "02 Oct 2015 00:00:00 GMT",
+    "album_duration": "P01H12M01S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Last Leaf",
-                "duration": "P00H01M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-last-leaf"
-            }
+            "track_name": "The Last Leaf",
+            "track_link": "https://papadosio.bandcamp.com/track/the-last-leaf",
+            "track_duration": "P00H01M40S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Out Of Hiding",
-                "duration": "P00H06M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding"
-            }
+            "track_name": "Out Of Hiding",
+            "track_link": "https://papadosio.bandcamp.com/track/out-of-hiding",
+            "track_duration": "P00H06M19S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Epiphany",
-                "duration": "P00H04M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany"
-            }
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany",
+            "track_duration": "P00H04M58S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Bypass Default",
-                "duration": "P00H06M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default"
-            }
+            "track_name": "Bypass Default",
+            "track_link": "https://papadosio.bandcamp.com/track/bypass-default",
+            "track_duration": "P00H06M51S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H02M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am",
+            "track_duration": "P00H02M35S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Glimpse Of Light",
-                "duration": "P00H05M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light"
-            }
+            "track_name": "Glimpse Of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light",
+            "track_duration": "P00H05M46S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Anima Mundi",
-                "duration": "P00H03M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi"
-            }
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi",
+            "track_duration": "P00H03M35S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Open",
-                "duration": "P00H03M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/open"
-            }
+            "track_name": "Open",
+            "track_link": "https://papadosio.bandcamp.com/track/open",
+            "track_duration": "P00H03M10S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Ritual",
-                "duration": "P00H08M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual"
-            }
+            "track_name": "Ritual",
+            "track_link": "https://papadosio.bandcamp.com/track/ritual",
+            "track_duration": "P00H08M26S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Wrong Nostalgia",
-                "duration": "P00H04M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia"
-            }
+            "track_name": "The Wrong Nostalgia",
+            "track_link": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia",
+            "track_duration": "P00H04M15S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Therian",
-                "duration": "P00H05M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian"
-            }
+            "track_name": "Therian",
+            "track_link": "https://papadosio.bandcamp.com/track/therian",
+            "track_duration": "P00H05M53S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "We Can Always Come Back",
-                "duration": "P00H03M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back"
-            }
+            "track_name": "We Can Always Come Back",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back",
+            "track_duration": "P00H03M53S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Distant Days",
-                "duration": "P00H05M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distant-days"
-            }
+            "track_name": "Distant Days",
+            "track_link": "https://papadosio.bandcamp.com/track/distant-days",
+            "track_duration": "P00H05M02S"
         },
         {
-            "position": 14,
-            "item": {
-                "name": "Obove",
-                "duration": "P00H02M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove"
-            }
+            "track_name": "Obove",
+            "track_link": "https://papadosio.bandcamp.com/track/obove",
+            "track_duration": "P00H02M08S"
         },
         {
-            "position": 15,
-            "item": {
-                "name": "Gazing The Great Oscillator",
-                "duration": "P00H01M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/gazing-the-great-oscillator"
-            }
+            "track_name": "Gazing The Great Oscillator",
+            "track_link": "https://papadosio.bandcamp.com/track/gazing-the-great-oscillator",
+            "track_duration": "P00H01M33S"
         },
         {
-            "position": 16,
-            "item": {
-                "name": "Moon Entendre",
-                "duration": "P00H05M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/moon-entendre"
-            }
+            "track_name": "Moon Entendre",
+            "track_link": "https://papadosio.bandcamp.com/track/moon-entendre",
+            "track_duration": "P00H05M57S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3006576777_10.jpg",
-    "datePublished": "02 Oct 2015 00:00:00 GMT",
-    "description": null,
-    "duration": "P01H12M01S"
+    ]
 }

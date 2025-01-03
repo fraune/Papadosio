@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2013-12-29-ziggys-by-the-sea-wilmington-nc",
-    "name": "2013-12-29- Ziggy's by the Sea - Wilmington, NC",
-    "dateModified": "27 Jan 2014 02:36:27 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "2013-12-29- Ziggy's by the Sea - Wilmington, NC",
+    "album_link": "https://papadosio.bandcamp.com/album/2013-12-29-ziggys-by-the-sea-wilmington-nc",
+    "date_modified": "27 Jan 2014 02:36:27 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0656426346_10.jpg",
+    "date_published": "23 Jan 2014 00:00:00 GMT",
+    "album_duration": "P01H41M32S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H07M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-14"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-14",
+            "track_duration": "P00H07M52S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-18"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-18",
+            "track_duration": "P00H09M11S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H11M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-14"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-14",
+            "track_duration": "P00H11M41S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Direction",
-                "duration": "P00H09M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-8"
-            }
+            "track_name": "Direction",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-8",
+            "track_duration": "P00H09M48S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H08M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-16"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-16",
+            "track_duration": "P00H08M05S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H06M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-24"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-24",
+            "track_duration": "P00H06M58S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H09M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-11"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-11",
+            "track_duration": "P00H09M56S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H07M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-11"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-11",
+            "track_duration": "P00H07M35S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H08M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-10"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-10",
+            "track_duration": "P00H08M28S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H21M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-17"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-17",
+            "track_duration": "P00H21M58S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0656426346_10.jpg",
-    "datePublished": "23 Jan 2014 00:00:00 GMT",
-    "description": "Recorded live at Ziggy's by the Sea\r\nDecember 29th, 2013\r\nNew Years Eve Run",
-    "duration": "P01H41M32S"
+    ]
 }

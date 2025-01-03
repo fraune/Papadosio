@@ -1,124 +1,80 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/102917-the-aggie-fort-collins-co",
-    "name": "10.29.17 | The Aggie | Fort Collins, CO",
-    "dateModified": "17 Jan 2018 20:47:38 GMT",
-    "numTracks": 14,
-    "track": [
+    "album_name": "10.29.17 | The Aggie | Fort Collins, CO",
+    "album_link": "https://papadosio.bandcamp.com/album/102917-the-aggie-fort-collins-co",
+    "date_modified": "17 Jan 2018 20:47:38 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3087546738_10.jpg",
+    "date_published": "08 Nov 2017 00:00:00 GMT",
+    "album_duration": "P01H52M04S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H06M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-54"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-54",
+            "track_duration": "P00H06M40S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H24M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-44"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-44",
+            "track_duration": "P00H24M57S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Drift",
-                "duration": "P00H06M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-28"
-            }
+            "track_name": "Drift",
+            "track_link": "https://papadosio.bandcamp.com/track/drift-28",
+            "track_duration": "P00H06M20S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The Wrong Nostalgia",
-                "duration": "P00H04M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-37"
-            }
+            "track_name": "The Wrong Nostalgia",
+            "track_link": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-37",
+            "track_duration": "P00H04M26S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "And This is What He Thought",
-                "duration": "P00H03M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-30"
-            }
+            "track_name": "And This is What He Thought",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-30",
+            "track_duration": "P00H03M07S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H06M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-91"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-91",
+            "track_duration": "P00H06M51S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H05M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-54"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-54",
+            "track_duration": "P00H05M36S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H10M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-60"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-60",
+            "track_duration": "P00H10M19S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Find Your Cloud 1/2",
-                "duration": "P00H09M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-1-2-2"
-            }
+            "track_name": "Find Your Cloud 1/2",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-1-2-2",
+            "track_duration": "P00H09M54S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H05M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-32"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-32",
+            "track_duration": "P00H05M14S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Paradigm Shift 1/2",
-                "duration": "P00H06M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-1-2-4"
-            }
+            "track_name": "Paradigm Shift 1/2",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-1-2-4",
+            "track_duration": "P00H06M55S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Find Your Cloud 2/2",
-                "duration": "P00H05M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-2-2-2"
-            }
+            "track_name": "Find Your Cloud 2/2",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-2-2-2",
+            "track_duration": "P00H05M46S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Paradigm Shift 2/2",
-                "duration": "P00H08M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-2-2-5"
-            }
+            "track_name": "Paradigm Shift 2/2",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-2-2-5",
+            "track_duration": "P00H08M40S"
         },
         {
-            "position": 14,
-            "item": {
-                "name": "Moon Entendre",
-                "duration": "P00H07M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/moon-entendre-10"
-            }
+            "track_name": "Moon Entendre",
+            "track_link": "https://papadosio.bandcamp.com/track/moon-entendre-10",
+            "track_duration": "P00H07M19S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3087546738_10.jpg",
-    "datePublished": "08 Nov 2017 00:00:00 GMT",
-    "description": "Recorded on October 29th, 2017 at The Aggie Theatre, in Fort Collins, CO during the Rocky Mountain Run 2017",
-    "duration": "P01H52M04S"
+    ]
 }

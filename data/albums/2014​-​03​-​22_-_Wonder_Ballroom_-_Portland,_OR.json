@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2014-03-22-wonder-ballroom-portland-or",
-    "name": "2014​-​03​-​22 - Wonder Ballroom - Portland, OR",
-    "dateModified": "25 Mar 2014 05:56:57 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "2014​-​03​-​22 - Wonder Ballroom - Portland, OR",
+    "album_link": "https://papadosio.bandcamp.com/album/2014-03-22-wonder-ballroom-portland-or",
+    "date_modified": "25 Mar 2014 05:56:57 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0003265347_10.jpg",
+    "date_published": "25 Mar 2014 05:56:57 GMT",
+    "album_duration": "P01H52M46S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H10M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-17"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-17",
+            "track_duration": "P00H10M35S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "You and Yourself",
-                "duration": "P00H09M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-9"
-            }
+            "track_name": "You and Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-9",
+            "track_duration": "P00H09M54S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-22"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-22",
+            "track_duration": "P00H09M12S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H06M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-14"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-14",
+            "track_duration": "P00H06M22S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H10M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-20"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-20",
+            "track_duration": "P00H10M19S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H07M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-31"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-31",
+            "track_duration": "P00H07M04S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-31"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-31",
+            "track_duration": "P00H10M16S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Oracle Theme",
-                "duration": "P00H12M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-11"
-            }
+            "track_name": "Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/oracle-theme-11",
+            "track_duration": "P00H12M22S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H16M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-14"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-14",
+            "track_duration": "P00H16M06S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Giving You Up",
-                "duration": "P00H10M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/giving-you-up-6"
-            }
+            "track_name": "Giving You Up",
+            "track_link": "https://papadosio.bandcamp.com/track/giving-you-up-6",
+            "track_duration": "P00H10M36S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H10M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-24"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-24",
+            "track_duration": "P00H10M00S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0003265347_10.jpg",
-    "datePublished": "25 Mar 2014 05:56:57 GMT",
-    "description": null,
-    "duration": "P01H52M46S"
+    ]
 }

@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/3417-canopy-club-urbana-il",
-    "name": "3.4.17 | Canopy Club | Urbana, IL",
-    "dateModified": "05 Mar 2017 23:59:48 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "3.4.17 | Canopy Club | Urbana, IL",
+    "album_link": "https://papadosio.bandcamp.com/album/3417-canopy-club-urbana-il",
+    "date_modified": "05 Mar 2017 23:59:48 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1254518907_10.jpg",
+    "date_published": "05 Mar 2017 23:59:48 GMT",
+    "album_duration": "P01H45M59S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-74"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-74",
+            "track_duration": "P00H09M37S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Obove",
-                "duration": "P00H10M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-11"
-            }
+            "track_name": "Obove",
+            "track_link": "https://papadosio.bandcamp.com/track/obove-11",
+            "track_duration": "P00H10M21S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H09M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-42"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-42",
+            "track_duration": "P00H09M12S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "You and Yourself",
-                "duration": "P00H16M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-45"
-            }
+            "track_name": "You and Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-45",
+            "track_duration": "P00H16M32S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H06M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-74"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-74",
+            "track_duration": "P00H06M55S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H08M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-18"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-18",
+            "track_duration": "P00H08M54S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "We Can Always Come Back",
-                "duration": "P00H11M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-23"
-            }
+            "track_name": "We Can Always Come Back",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back-23",
+            "track_duration": "P00H11M30S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H07M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-18"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-18",
+            "track_duration": "P00H07M01S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "How Not to Float",
-                "duration": "P00H17M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-34"
-            }
+            "track_name": "How Not to Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-34",
+            "track_duration": "P00H17M16S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Therian",
-                "duration": "P00H08M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-24"
-            }
+            "track_name": "Therian",
+            "track_link": "https://papadosio.bandcamp.com/track/therian-24",
+            "track_duration": "P00H08M41S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1254518907_10.jpg",
-    "datePublished": "05 Mar 2017 23:59:48 GMT",
-    "description": null,
-    "duration": "P01H45M59S"
+    ]
 }

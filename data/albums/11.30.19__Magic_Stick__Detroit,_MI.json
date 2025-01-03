@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/113019-magic-stick-detroit-mi",
-    "name": "11.30.19 | Magic Stick | Detroit, MI",
-    "dateModified": "05 Dec 2019 18:41:16 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "11.30.19 | Magic Stick | Detroit, MI",
+    "album_link": "https://papadosio.bandcamp.com/album/113019-magic-stick-detroit-mi",
+    "date_modified": "05 Dec 2019 18:41:16 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1903883392_10.jpg",
+    "date_published": "05 Dec 2019 18:41:16 GMT",
+    "album_duration": "P01H46M50S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H09M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-94"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-94",
+            "track_duration": "P00H09M10S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H05M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-54"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-54",
+            "track_duration": "P00H05M41S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H04M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-93"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-93",
+            "track_duration": "P00H04M27S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Just Like the Days",
-                "duration": "P00H07M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/just-like-the-days-13"
-            }
+            "track_name": "Just Like the Days",
+            "track_link": "https://papadosio.bandcamp.com/track/just-like-the-days-13",
+            "track_duration": "P00H07M35S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Fire Rite",
-                "duration": "P00H06M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-35"
-            }
+            "track_name": "Fire Rite",
+            "track_link": "https://papadosio.bandcamp.com/track/fire-rite-35",
+            "track_duration": "P00H06M34S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H10M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-64"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-64",
+            "track_duration": "P00H10M42S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H09M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-51"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-51",
+            "track_duration": "P00H09M42S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H03M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-63"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-63",
+            "track_duration": "P00H03M34S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H12M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-78"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-78",
+            "track_duration": "P00H12M37S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H10M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-99"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-99",
+            "track_duration": "P00H10M20S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H01M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-77"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-77",
+            "track_duration": "P00H01M56S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H16M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-132"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-132",
+            "track_duration": "P00H16M25S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H08M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-90"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-90",
+            "track_duration": "P00H08M07S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1903883392_10.jpg",
-    "datePublished": "05 Dec 2019 18:41:16 GMT",
-    "description": "This was recorded on November 30th, 2019 at The Magic Stick in Detroit, MI. Thanks to everyone who came to the show! Make sure to subscribe to our Band Camp to access all of our live sets!",
-    "duration": "P01H46M50S"
+    ]
 }

@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/fillmore-111215-philadelphia-pa",
-    "name": "Fillmore | 11.12.15 | Philadelphia, PA",
-    "dateModified": "22 Dec 2015 21:37:58 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "Fillmore | 11.12.15 | Philadelphia, PA",
+    "album_link": "https://papadosio.bandcamp.com/album/fillmore-111215-philadelphia-pa",
+    "date_modified": "22 Dec 2015 21:37:58 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2310252717_10.jpg",
+    "date_published": "22 Dec 2015 21:37:58 GMT",
+    "album_duration": "P02H00M21S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H00M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-23"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-23",
+            "track_duration": "P00H00M35S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Therian",
-                "duration": "P00H09M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-10"
-            }
+            "track_name": "Therian",
+            "track_link": "https://papadosio.bandcamp.com/track/therian-10",
+            "track_duration": "P00H09M21S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H13M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-43"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-43",
+            "track_duration": "P00H13M20S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Epiphany",
-                "duration": "P00H08M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-17"
-            }
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-17",
+            "track_duration": "P00H08M08S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H09M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-68"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-68",
+            "track_duration": "P00H09M40S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Madre de Dios",
-                "duration": "P00H06M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-23"
-            }
+            "track_name": "Madre de Dios",
+            "track_link": "https://papadosio.bandcamp.com/track/madre-de-dios-23",
+            "track_duration": "P00H06M21S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "2am",
-                "duration": "P00H06M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-16"
-            }
+            "track_name": "2am",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-16",
+            "track_duration": "P00H06M14S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-84"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-84",
+            "track_duration": "P00H10M17S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Distant Days",
-                "duration": "P00H05M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distant-days-6"
-            }
+            "track_name": "Distant Days",
+            "track_link": "https://papadosio.bandcamp.com/track/distant-days-6",
+            "track_duration": "P00H05M10S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Big Smile",
-                "duration": "P00H19M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-big-smile-9"
-            }
+            "track_name": "The Big Smile",
+            "track_link": "https://papadosio.bandcamp.com/track/the-big-smile-9",
+            "track_duration": "P00H19M07S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Bypass Default",
-                "duration": "P00H12M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-15"
-            }
+            "track_name": "Bypass Default",
+            "track_link": "https://papadosio.bandcamp.com/track/bypass-default-15",
+            "track_duration": "P00H12M47S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Giving You Up",
-                "duration": "P00H08M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/giving-you-up-15"
-            }
+            "track_name": "Giving You Up",
+            "track_link": "https://papadosio.bandcamp.com/track/giving-you-up-15",
+            "track_duration": "P00H08M02S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H11M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-44"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-44",
+            "track_duration": "P00H11M19S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2310252717_10.jpg",
-    "datePublished": "22 Dec 2015 21:37:58 GMT",
-    "description": "Fillmore | 11.12.15 | Philadelphia, PA\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015.",
-    "duration": "P02H00M21S"
+    ]
 }

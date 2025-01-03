@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-at-9-30-club-51014",
-    "name": "Live at 9:30 Club - 5.10.14",
-    "dateModified": "21 May 2014 05:57:56 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "Live at 9:30 Club - 5.10.14",
+    "album_link": "https://papadosio.bandcamp.com/album/live-at-9-30-club-51014",
+    "date_modified": "21 May 2014 05:57:56 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3418320416_10.jpg",
+    "date_published": "20 May 2014 00:00:00 GMT",
+    "album_duration": "P02H14M34S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H05M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-6"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-6",
+            "track_duration": "P00H05M35S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Oracle Theme",
-                "duration": "P00H09M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-13"
-            }
+            "track_name": "Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/oracle-theme-13",
+            "track_duration": "P00H09M53S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H07M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-22"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-22",
+            "track_duration": "P00H07M40S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H12M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-19"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-19",
+            "track_duration": "P00H12M08S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H09M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-12"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-12",
+            "track_duration": "P00H09M04S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Giving You Up",
-                "duration": "P00H12M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/giving-you-up-8"
-            }
+            "track_name": "Giving You Up",
+            "track_link": "https://papadosio.bandcamp.com/track/giving-you-up-8",
+            "track_duration": "P00H12M43S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Method Of Control",
-                "duration": "P00H13M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-24"
-            }
+            "track_name": "Method Of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-24",
+            "track_duration": "P00H13M00S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H09M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-21"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-21",
+            "track_duration": "P00H09M42S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H11M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-26"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-26",
+            "track_duration": "P00H11M59S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H14M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-36"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-36",
+            "track_duration": "P00H14M46S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "If It Wasn't For You",
-                "duration": "P00H10M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-24"
-            }
+            "track_name": "If It Wasn't For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-24",
+            "track_duration": "P00H10M12S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H17M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-20"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-20",
+            "track_duration": "P00H17M52S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3418320416_10.jpg",
-    "datePublished": "20 May 2014 00:00:00 GMT",
-    "description": null,
-    "duration": "P02H14M34S"
+    ]
 }

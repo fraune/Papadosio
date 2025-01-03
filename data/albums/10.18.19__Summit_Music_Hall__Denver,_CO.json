@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/101819-summit-music-hall-denver-co",
-    "name": "10.18.19 | Summit Music Hall | Denver, CO",
-    "dateModified": "22 Oct 2019 19:36:59 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "10.18.19 | Summit Music Hall | Denver, CO",
+    "album_link": "https://papadosio.bandcamp.com/album/101819-summit-music-hall-denver-co",
+    "date_modified": "22 Oct 2019 19:36:59 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0499043237_10.jpg",
+    "date_published": "22 Oct 2019 19:36:59 GMT",
+    "album_duration": "P01H53M20S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H11M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-100"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-100",
+            "track_duration": "P00H11M30S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Psypoly",
-                "duration": "P00H04M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/psypoly-6"
-            }
+            "track_name": "Psypoly",
+            "track_link": "https://papadosio.bandcamp.com/track/psypoly-6",
+            "track_duration": "P00H04M15S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H08M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-67"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-67",
+            "track_duration": "P00H08M53S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H16M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-75"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-75",
+            "track_duration": "P00H16M34S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-103"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-103",
+            "track_duration": "P00H09M52S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H13M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-60"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-60",
+            "track_duration": "P00H13M30S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Liminal Daybreak",
-                "duration": "P00H06M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/liminal-daybreak-24"
-            }
+            "track_name": "Liminal Daybreak",
+            "track_link": "https://papadosio.bandcamp.com/track/liminal-daybreak-24",
+            "track_duration": "P00H06M04S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H03M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-59"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-59",
+            "track_duration": "P00H03M01S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Smile & Nod",
-                "duration": "P00H09M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-nod-2"
-            }
+            "track_name": "Smile & Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-nod-2",
+            "track_duration": "P00H09M51S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H09M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-74"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-74",
+            "track_duration": "P00H09M28S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H13M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-62"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-62",
+            "track_duration": "P00H13M19S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-99"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-99",
+            "track_duration": "P00H07M03S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0499043237_10.jpg",
-    "datePublished": "22 Oct 2019 19:36:59 GMT",
-    "description": "This album was recorded on October 18th, 2019 at the Summit Music Hall in Denver, CO. Thank you to everybody who came out to show their love and support and thanks to Autonomix & Erothyme for getting the night started for us!\r\n\r\nSee you again soon Denver!",
-    "duration": "P01H53M20S"
+    ]
 }

@@ -1,60 +1,40 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/82617-night-lights-festival-sherman-ny",
-    "name": "8.26.17 | Night Lights Festival | Sherman, NY",
-    "dateModified": "29 Aug 2017 20:19:58 GMT",
-    "numTracks": 6,
-    "track": [
+    "album_name": "8.26.17 | Night Lights Festival | Sherman, NY",
+    "album_link": "https://papadosio.bandcamp.com/album/82617-night-lights-festival-sherman-ny",
+    "date_modified": "29 Aug 2017 20:19:58 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2902926812_10.jpg",
+    "date_published": "29 Aug 2017 20:19:58 GMT",
+    "album_duration": "P01H24M58S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Lack of Everything",
-                "duration": "P00H07M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-22"
-            }
+            "track_name": "The Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-22",
+            "track_duration": "P00H07M34S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H12M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-111"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-111",
+            "track_duration": "P00H12M12S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H21M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-59"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-59",
+            "track_duration": "P00H21M04S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H18M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-58"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-58",
+            "track_duration": "P00H18M41S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Madre de Dios",
-                "duration": "P00H11M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-30"
-            }
+            "track_name": "Madre de Dios",
+            "track_link": "https://papadosio.bandcamp.com/track/madre-de-dios-30",
+            "track_duration": "P00H11M09S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H14M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-93"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-93",
+            "track_duration": "P00H14M18S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2902926812_10.jpg",
-    "datePublished": "29 Aug 2017 20:19:58 GMT",
-    "description": "All material was written & recorded by Papadosio at Night Light Festival In Sherman, NY",
-    "duration": "P01H24M58S"
+    ]
 }

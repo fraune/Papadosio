@@ -1,60 +1,40 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/red-rocks-91914",
-    "name": "Red Rocks - 9.19.14",
-    "dateModified": "02 Jul 2015 18:47:52 GMT",
-    "numTracks": 6,
-    "track": [
+    "album_name": "Red Rocks - 9.19.14",
+    "album_link": "https://papadosio.bandcamp.com/album/red-rocks-91914",
+    "date_modified": "02 Jul 2015 18:47:52 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3643704741_10.jpg",
+    "date_published": "29 Sep 2014 00:00:00 GMT",
+    "album_duration": "P01H02M23S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H06M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-29"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-29",
+            "track_duration": "P00H06M44S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-34"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-34",
+            "track_duration": "P00H09M23S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-30"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-30",
+            "track_duration": "P00H08M19S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-44"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-44",
+            "track_duration": "P00H10M49S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Find Your Cloud*",
-                "duration": "P00H10M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-39"
-            }
+            "track_name": "Find Your Cloud*",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-39",
+            "track_duration": "P00H10M42S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H16M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-27"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-27",
+            "track_duration": "P00H16M26S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3643704741_10.jpg",
-    "datePublished": "29 Sep 2014 00:00:00 GMT",
-    "description": "Papadosio took to the main stage at the legendary Red Rocks Ampitheatre for the first time in support of Lotus on 9.19.14.\r\n\r\nThe Bionic Man Meets His Past\r\nCloud Found\r\nCue\r\nNew Love\r\nFind Your Cloud*\r\nParadigm Shift\r\n\r\n* w/ special guest Mike Rempel on guitar from Lotus",
-    "duration": "P01H02M23S"
+    ]
 }

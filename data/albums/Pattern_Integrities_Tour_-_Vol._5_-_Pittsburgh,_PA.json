@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/pattern-integrities-tour-vol-5-pittsburgh-pa",
-    "name": "Pattern Integrities Tour - Vol. 5 - Pittsburgh, PA",
-    "dateModified": "14 Oct 2016 04:06:43 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Pattern Integrities Tour - Vol. 5 - Pittsburgh, PA",
+    "album_link": "https://papadosio.bandcamp.com/album/pattern-integrities-tour-vol-5-pittsburgh-pa",
+    "date_modified": "14 Oct 2016 04:06:43 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1782012362_10.jpg",
+    "date_published": "14 Oct 2016 04:06:28 GMT",
+    "album_duration": "P01H58M39S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H07M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-3"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-3",
+            "track_duration": "P00H07M44S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Oblivion",
-                "duration": "P00H07M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-4"
-            }
+            "track_name": "Oblivion",
+            "track_link": "https://papadosio.bandcamp.com/track/oblivion-4",
+            "track_duration": "P00H07M03S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Stormy Jam",
-                "duration": "P00H13M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stormy-jam"
-            }
+            "track_name": "Stormy Jam",
+            "track_link": "https://papadosio.bandcamp.com/track/stormy-jam",
+            "track_duration": "P00H13M28S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Out of Hiding",
-                "duration": "P00H06M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-26"
-            }
+            "track_name": "Out of Hiding",
+            "track_link": "https://papadosio.bandcamp.com/track/out-of-hiding-26",
+            "track_duration": "P00H06M48S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H06M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-70"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-70",
+            "track_duration": "P00H06M55S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "We Can Always Come Back",
-                "duration": "P00H16M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-19"
-            }
+            "track_name": "We Can Always Come Back",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back-19",
+            "track_duration": "P00H16M40S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H10M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-69"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-69",
+            "track_duration": "P00H10M14S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H17M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-53"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-53",
+            "track_duration": "P00H17M50S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H09M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-4"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-4",
+            "track_duration": "P00H09M58S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H12M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-84"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-84",
+            "track_duration": "P00H12M34S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H09M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-5"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-5",
+            "track_duration": "P00H09M25S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1782012362_10.jpg",
-    "datePublished": "14 Oct 2016 04:06:28 GMT",
-    "description": null,
-    "duration": "P01H58M39S"
+    ]
 }

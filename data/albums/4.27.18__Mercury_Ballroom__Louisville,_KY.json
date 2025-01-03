@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/42718-mercury-ballroom-louisville-ky",
-    "name": "4.27.18 | Mercury Ballroom | Louisville, KY",
-    "dateModified": "04 May 2018 17:12:21 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "4.27.18 | Mercury Ballroom | Louisville, KY",
+    "album_link": "https://papadosio.bandcamp.com/album/42718-mercury-ballroom-louisville-ky",
+    "date_modified": "04 May 2018 17:12:21 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3958491919_10.jpg",
+    "date_published": "03 May 2018 00:00:00 GMT",
+    "album_duration": "P01H51M18S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H03M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-56"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-56",
+            "track_duration": "P00H03M55S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H08M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-47"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-47",
+            "track_duration": "P00H08M10S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Obove",
-                "duration": "P00H09M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-17"
-            }
+            "track_name": "Obove",
+            "track_link": "https://papadosio.bandcamp.com/track/obove-17",
+            "track_duration": "P00H09M16S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "You and Yourself",
-                "duration": "P00H10M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-53"
-            }
+            "track_name": "You and Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-53",
+            "track_duration": "P00H10M57S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "All I knew",
-                "duration": "P00H07M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-87"
-            }
+            "track_name": "All I knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-87",
+            "track_duration": "P00H07M42S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H06M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-63"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-63",
+            "track_duration": "P00H06M57S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H05M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-39"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-39",
+            "track_duration": "P00H05M23S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H17M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-78"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-78",
+            "track_duration": "P00H17M20S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "And This is What he Thought",
-                "duration": "P00H03M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-33"
-            }
+            "track_name": "And This is What he Thought",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-33",
+            "track_duration": "P00H03M40S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H16M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-105"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-105",
+            "track_duration": "P00H16M21S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H13M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-73"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-73",
+            "track_duration": "P00H13M28S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-110"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-110",
+            "track_duration": "P00H08M09S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3958491919_10.jpg",
-    "datePublished": "03 May 2018 00:00:00 GMT",
-    "description": "This album was recorded on April 27th, 2018, at The Mercury Ballroom in Louisville, KY! Thanks to everybody who came out & Thanks to Aqueous for opening up the night! See you again soon!",
-    "duration": "P01H51M18S"
+    ]
 }

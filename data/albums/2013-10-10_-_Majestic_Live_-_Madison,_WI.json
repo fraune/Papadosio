@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2013-10-10-majestic-live-madison-wi",
-    "name": "2013-10-10 - Majestic Live - Madison, WI",
-    "dateModified": "17 Nov 2013 19:46:41 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "2013-10-10 - Majestic Live - Madison, WI",
+    "album_link": "https://papadosio.bandcamp.com/album/2013-10-10-majestic-live-madison-wi",
+    "date_modified": "17 Nov 2013 19:46:41 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0536310550_10.jpg",
+    "date_published": "17 Nov 2013 19:46:41 GMT",
+    "album_duration": "P02H05M04S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H17M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-7"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-7",
+            "track_duration": "P00H17M27S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Madre de Dios",
-                "duration": "P00H05M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-6"
-            }
+            "track_name": "Madre de Dios",
+            "track_link": "https://papadosio.bandcamp.com/track/madre-de-dios-6",
+            "track_duration": "P00H05M20S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H16M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-11"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-11",
+            "track_duration": "P00H16M35S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H06M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-16"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-16",
+            "track_duration": "P00H06M43S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Oracle Theme",
-                "duration": "P00H10M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-6"
-            }
+            "track_name": "Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/oracle-theme-6",
+            "track_duration": "P00H10M05S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H09M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-16"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-16",
+            "track_duration": "P00H09M51S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H24M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-10"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-10",
+            "track_duration": "P00H24M27S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-10"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-10",
+            "track_duration": "P00H09M19S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H10M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-10"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-10",
+            "track_duration": "P00H10M31S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H14M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-14"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-14",
+            "track_duration": "P00H14M46S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0536310550_10.jpg",
-    "datePublished": "17 Nov 2013 19:46:41 GMT",
-    "description": null,
-    "duration": "P02H05M04S"
+    ]
 }

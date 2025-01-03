@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2013-09-12-the-werk-out-thornville-oh",
-    "name": "2013-09-12 - The Werk Out - Thornville, OH",
-    "dateModified": "22 Sep 2013 18:01:33 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "2013-09-12 - The Werk Out - Thornville, OH",
+    "album_link": "https://papadosio.bandcamp.com/album/2013-09-12-the-werk-out-thornville-oh",
+    "date_modified": "22 Sep 2013 18:01:33 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2606802610_10.jpg",
+    "date_published": "22 Sep 2013 18:01:33 GMT",
+    "album_duration": "P01H31M45S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H11M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-6"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-6",
+            "track_duration": "P00H11M35S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-13"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-13",
+            "track_duration": "P00H07M36S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Right Now",
-                "duration": "P00H09M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-6"
-            }
+            "track_name": "Right Now",
+            "track_link": "https://papadosio.bandcamp.com/track/right-now-6",
+            "track_duration": "P00H09M02S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Puddles For Oceans",
-                "duration": "P00H06M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-8"
-            }
+            "track_name": "Puddles For Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-8",
+            "track_duration": "P00H06M14S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H05M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-7"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-7",
+            "track_duration": "P00H05M57S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "...and this is what he thought",
-                "duration": "P00H05M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-2"
-            }
+            "track_name": "...and this is what he thought",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-2",
+            "track_duration": "P00H05M31S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H14M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-4"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-4",
+            "track_duration": "P00H14M56S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H08M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-11"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-11",
+            "track_duration": "P00H08M33S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "How Not To Float",
-                "duration": "P00H09M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-6"
-            }
+            "track_name": "How Not To Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-6",
+            "track_duration": "P00H09M50S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H08M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-7"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-7",
+            "track_duration": "P00H08M44S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "The Plug (reprise)",
-                "duration": "P00H03M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-reprise"
-            }
+            "track_name": "The Plug (reprise)",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-reprise",
+            "track_duration": "P00H03M47S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2606802610_10.jpg",
-    "datePublished": "22 Sep 2013 18:01:33 GMT",
-    "description": null,
-    "duration": "P01H31M45S"
+    ]
 }

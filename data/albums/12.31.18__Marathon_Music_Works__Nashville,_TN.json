@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/123118-marathon-music-works-nashville-tn",
-    "name": "12.31.18 | Marathon Music Works | Nashville, TN",
-    "dateModified": "07 Nov 2019 20:26:22 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "12.31.18 | Marathon Music Works | Nashville, TN",
+    "album_link": "https://papadosio.bandcamp.com/album/123118-marathon-music-works-nashville-tn",
+    "date_modified": "07 Nov 2019 20:26:22 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3685927970_10.jpg",
+    "date_published": "27 Jan 2019 00:00:00 GMT",
+    "album_duration": "P01H48M30S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H10M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-85"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-85",
+            "track_duration": "P00H10M20S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H08M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-95"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-95",
+            "track_duration": "P00H08M40S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Vactorillio",
-                "duration": "P00H10M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactorillio"
-            }
+            "track_name": "Vactorillio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactorillio",
+            "track_duration": "P00H10M10S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Remind Me (Röyksopp)",
-                "duration": "P00H05M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/remind-me-r-yksopp"
-            }
+            "track_name": "Remind Me (Röyksopp)",
+            "track_link": "https://papadosio.bandcamp.com/track/remind-me-r-yksopp",
+            "track_duration": "P00H05M37S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Therian",
-                "duration": "P00H07M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-34"
-            }
+            "track_name": "Therian",
+            "track_link": "https://papadosio.bandcamp.com/track/therian-34",
+            "track_duration": "P00H07M31S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H11M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-15"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-15",
+            "track_duration": "P00H11M21S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H18M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-132"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-132",
+            "track_duration": "P00H18M39S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "The World is Cube",
-                "duration": "P00H04M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-world-is-cube"
-            }
+            "track_name": "The World is Cube",
+            "track_link": "https://papadosio.bandcamp.com/track/the-world-is-cube",
+            "track_duration": "P00H04M14S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H15M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-79"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-79",
+            "track_duration": "P00H15M00S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Fire Rite",
-                "duration": "P00H06M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-16"
-            }
+            "track_name": "Fire Rite",
+            "track_link": "https://papadosio.bandcamp.com/track/fire-rite-16",
+            "track_duration": "P00H06M31S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "PsyPoly",
-                "duration": "P00H04M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/psypoly-4"
-            }
+            "track_name": "PsyPoly",
+            "track_link": "https://papadosio.bandcamp.com/track/psypoly-4",
+            "track_duration": "P00H04M20S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H06M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-84"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-84",
+            "track_duration": "P00H06M07S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3685927970_10.jpg",
-    "datePublished": "27 Jan 2019 00:00:00 GMT",
-    "description": "This album was recorded on NYE 2018 at our celebration in Nashville, TN! Thanks to everybody that came out & to CBDB & Russ Liquid Test! Sooo excited to be back in Tennessee this summer at the Pelham Caverns! (More exciting info about the Caverns coming soon!",
-    "duration": "P01H48M30S"
+    ]
 }

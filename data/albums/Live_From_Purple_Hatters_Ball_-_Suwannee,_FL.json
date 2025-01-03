@@ -1,84 +1,55 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-from-purple-hatters-ball-suwannee-fl",
-    "name": "Live From Purple Hatters Ball - Suwannee, FL",
-    "dateModified": "12 Jul 2016 23:49:55 GMT",
-    "numTracks": 9,
-    "track": [
+    "album_name": "Live From Purple Hatters Ball - Suwannee, FL",
+    "album_link": "https://papadosio.bandcamp.com/album/live-from-purple-hatters-ball-suwannee-fl",
+    "date_modified": "12 Jul 2016 23:49:55 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2339777946_10.jpg",
+    "date_published": "12 Jul 2016 23:49:55 GMT",
+    "album_duration": "P01H46M36S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H12M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-37"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-37",
+            "track_duration": "P00H12M05S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H05M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-2"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-2",
+            "track_duration": "P00H05M37S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H18M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-50"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-50",
+            "track_duration": "P00H18M48S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Distant Days",
-                "duration": "P00H10M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distant-days-10"
-            }
+            "track_name": "Distant Days",
+            "track_link": "https://papadosio.bandcamp.com/track/distant-days-10",
+            "track_duration": "P00H10M44S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H07M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-38"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-38",
+            "track_duration": "P00H07M49S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H06M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-46"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-46",
+            "track_duration": "P00H06M35S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "How Not To Float",
-                "duration": "P00H13M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-31"
-            }
+            "track_name": "How Not To Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-31",
+            "track_duration": "P00H13M58S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "You and Yourself",
-                "duration": "P00H17M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-40"
-            }
+            "track_name": "You and Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-40",
+            "track_duration": "P00H17M06S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H13M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-55"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-55",
+            "track_duration": "P00H13M54S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2339777946_10.jpg",
-    "datePublished": "12 Jul 2016 23:49:55 GMT",
-    "description": null,
-    "duration": "P01H46M36S"
+    ]
 }

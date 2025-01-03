@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/extrasinamovie-21916-indianapolis-in",
-    "name": "#extrasinamovie | 2.19.16 | Indianapolis, IN",
-    "dateModified": "20 Mar 2016 00:16:27 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "#extrasinamovie | 2.19.16 | Indianapolis, IN",
+    "album_link": "https://papadosio.bandcamp.com/album/extrasinamovie-21916-indianapolis-in",
+    "date_modified": "20 Mar 2016 00:16:27 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1221282941_10.jpg",
+    "date_published": "20 Mar 2016 00:16:27 GMT",
+    "album_duration": "P02H29M47S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H12M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-31"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-31",
+            "track_duration": "P00H12M51S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Epiphany",
-                "duration": "P00H08M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-25"
-            }
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-25",
+            "track_duration": "P00H08M58S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H21M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-30"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-30",
+            "track_duration": "P00H21M53S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Anima Mundi",
-                "duration": "P00H08M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-20"
-            }
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-20",
+            "track_duration": "P00H08M32S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H10M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-60"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-60",
+            "track_duration": "P00H10M24S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H11M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-37"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-37",
+            "track_duration": "P00H11M41S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H17M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-62"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-62",
+            "track_duration": "P00H17M32S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Distant Days",
-                "duration": "P00H05M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distant-days-8"
-            }
+            "track_name": "Distant Days",
+            "track_link": "https://papadosio.bandcamp.com/track/distant-days-8",
+            "track_duration": "P00H05M23S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H10M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-75"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-75",
+            "track_duration": "P00H10M28S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H10M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-45"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-45",
+            "track_duration": "P00H10M32S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H14M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-32"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-32",
+            "track_duration": "P00H14M29S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Crowd Banter",
-                "duration": "P00H03M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/crowd-banter-6"
-            }
+            "track_name": "Crowd Banter",
+            "track_link": "https://papadosio.bandcamp.com/track/crowd-banter-6",
+            "track_duration": "P00H03M18S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Curve(ature)",
-                "duration": "P00H13M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-ature-4"
-            }
+            "track_name": "Curve(ature)",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-ature-4",
+            "track_duration": "P00H13M46S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1221282941_10.jpg",
-    "datePublished": "20 Mar 2016 00:16:27 GMT",
-    "description": "'Extras in a Movie' Tour Act II - Live at The Egyptian Room\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2016.",
-    "duration": "P02H29M47S"
+    ]
 }

@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/terminal-west-atlanta-ga-31823",
-    "name": "Terminal West | Atlanta, GA | 3.18.23",
-    "dateModified": "01 Apr 2023 18:06:09 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Terminal West | Atlanta, GA | 3.18.23",
+    "album_link": "https://papadosio.bandcamp.com/album/terminal-west-atlanta-ga-31823",
+    "date_modified": "01 Apr 2023 18:06:09 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1916131806_10.jpg",
+    "date_published": "01 Apr 2023 18:06:09 GMT",
+    "album_duration": "P01H45M28S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-164"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-164",
+            "track_duration": "P00H10M25S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Versicolor",
-                "duration": "P00H07M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-32"
-            }
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-32",
+            "track_duration": "P00H07M52S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Spinning*",
-                "duration": "P00H03M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/spinning-2"
-            }
+            "track_name": "Spinning*",
+            "track_link": "https://papadosio.bandcamp.com/track/spinning-2",
+            "track_duration": "P00H03M44S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Zoom Out",
-                "duration": "P00H10M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/zoom-out-10"
-            }
+            "track_name": "Zoom Out",
+            "track_link": "https://papadosio.bandcamp.com/track/zoom-out-10",
+            "track_duration": "P00H10M38S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H08M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-122"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-122",
+            "track_duration": "P00H08M56S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Puddles For Oceans",
-                "duration": "P00H09M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-81"
-            }
+            "track_name": "Puddles For Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-81",
+            "track_duration": "P00H09M14S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H13M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-150"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-150",
+            "track_duration": "P00H13M30S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Puddles For Oceans",
-                "duration": "P00H03M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-82"
-            }
+            "track_name": "Puddles For Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-82",
+            "track_duration": "P00H03M18S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Cubensis",
-                "duration": "P00H14M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-33"
-            }
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis-33",
+            "track_duration": "P00H14M01S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "2am",
-                "duration": "P00H09M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-70"
-            }
+            "track_name": "2am",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-70",
+            "track_duration": "P00H09M06S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H14M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-115"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-115",
+            "track_duration": "P00H14M44S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1916131806_10.jpg",
-    "datePublished": "01 Apr 2023 18:06:09 GMT",
-    "description": "Night two. Thank you ATL\r\n\r\n*first time played",
-    "duration": "P01H45M28S"
+    ]
 }

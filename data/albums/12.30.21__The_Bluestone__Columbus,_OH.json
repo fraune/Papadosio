@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/123021-the-bluestone-columbus-oh",
-    "name": "12.30.21 | The Bluestone | Columbus, OH",
-    "dateModified": "07 Jan 2022 21:24:36 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "12.30.21 | The Bluestone | Columbus, OH",
+    "album_link": "https://papadosio.bandcamp.com/album/123021-the-bluestone-columbus-oh",
+    "date_modified": "07 Jan 2022 21:24:36 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1667978831_10.jpg",
+    "date_published": "07 Jan 2022 00:00:00 GMT",
+    "album_duration": "P02H00M18S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H01M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-94"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-94",
+            "track_duration": "P00H01M54S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H08M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-82"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-82",
+            "track_duration": "P00H08M06S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Reishi",
-                "duration": "P00H07M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/reishi-8"
-            }
+            "track_name": "Reishi",
+            "track_link": "https://papadosio.bandcamp.com/track/reishi-8",
+            "track_duration": "P00H07M45S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Madre De Dios",
-                "duration": "P00H14M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-41"
-            }
+            "track_name": "Madre De Dios",
+            "track_link": "https://papadosio.bandcamp.com/track/madre-de-dios-41",
+            "track_duration": "P00H14M38S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H11M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-108"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-108",
+            "track_duration": "P00H11M50S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H12M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-136"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-136",
+            "track_duration": "P00H12M19S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H02M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-109"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-109",
+            "track_duration": "P00H02M17S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H17M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-78"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-78",
+            "track_duration": "P00H17M32S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-112"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-112",
+            "track_duration": "P00H09M10S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "How Not To Float",
-                "duration": "P00H12M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-61"
-            }
+            "track_name": "How Not To Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-61",
+            "track_duration": "P00H12M00S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Fly Agaric",
-                "duration": "P00H09M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agaric-11"
-            }
+            "track_name": "Fly Agaric",
+            "track_link": "https://papadosio.bandcamp.com/track/fly-agaric-11",
+            "track_duration": "P00H09M35S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H13M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-104"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-104",
+            "track_duration": "P00H13M12S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1667978831_10.jpg",
-    "datePublished": "07 Jan 2022 00:00:00 GMT",
-    "description": "This album was recorded on 12.30.21 at The Bluestone in Columbus, Ohio. Thanks to everyone who came out to celebrate the New Year with us over these two nights!",
-    "duration": "P02H00M18S"
+    ]
 }

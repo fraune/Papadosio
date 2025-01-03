@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/extrasinamovie-3616-tempe-az",
-    "name": "#extrasinamovie | 3.6.16 | Tempe, AZ",
-    "dateModified": "05 Apr 2016 19:19:31 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "#extrasinamovie | 3.6.16 | Tempe, AZ",
+    "album_link": "https://papadosio.bandcamp.com/album/extrasinamovie-3616-tempe-az",
+    "date_modified": "05 Apr 2016 19:19:31 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3639877020_10.jpg",
+    "date_published": "05 Apr 2016 19:19:31 GMT",
+    "album_duration": "P01H54M50S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H21M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-81"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-81",
+            "track_duration": "P00H21M02S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H09M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-45"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-45",
+            "track_duration": "P00H09M05S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H13M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-43"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-43",
+            "track_duration": "P00H13M24S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H14M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-62"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-62",
+            "track_duration": "P00H14M02S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Ritual",
-                "duration": "P00H09M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-22"
-            }
+            "track_name": "Ritual",
+            "track_link": "https://papadosio.bandcamp.com/track/ritual-22",
+            "track_duration": "P00H09M31S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H09M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-35"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-35",
+            "track_duration": "P00H09M08S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Glimpse of Light",
-                "duration": "P00H06M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-32"
-            }
+            "track_name": "Glimpse of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-32",
+            "track_duration": "P00H06M00S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Madre de Dios",
-                "duration": "P00H07M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-24"
-            }
+            "track_name": "Madre de Dios",
+            "track_link": "https://papadosio.bandcamp.com/track/madre-de-dios-24",
+            "track_duration": "P00H07M18S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Anima Mundi",
-                "duration": "P00H07M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-24"
-            }
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-24",
+            "track_duration": "P00H07M56S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Crowd Banter",
-                "duration": "P00H01M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/crowd-banter-17"
-            }
+            "track_name": "Crowd Banter",
+            "track_link": "https://papadosio.bandcamp.com/track/crowd-banter-17",
+            "track_duration": "P00H01M38S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H15M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-75"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-75",
+            "track_duration": "P00H15M46S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3639877020_10.jpg",
-    "datePublished": "05 Apr 2016 19:19:31 GMT",
-    "description": null,
-    "duration": "P01H54M50S"
+    ]
 }

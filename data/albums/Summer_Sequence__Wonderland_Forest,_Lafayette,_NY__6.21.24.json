@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/summer-sequence-wonderland-forest-lafayette-ny-62124",
-    "name": "Summer Sequence | Wonderland Forest, Lafayette, NY | 6.21.24",
-    "dateModified": "26 Jun 2024 18:27:19 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Summer Sequence | Wonderland Forest, Lafayette, NY | 6.21.24",
+    "album_link": "https://papadosio.bandcamp.com/album/summer-sequence-wonderland-forest-lafayette-ny-62124",
+    "date_modified": "26 Jun 2024 18:27:19 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3141720103_10.jpg",
+    "date_published": "26 Jun 2024 18:27:19 GMT",
+    "album_duration": "P01H56M24S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H11M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-164"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-164",
+            "track_duration": "P00H11M30S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Everyone Is Cool",
-                "duration": "P00H10M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/everyone-is-cool-24"
-            }
+            "track_name": "Everyone Is Cool",
+            "track_link": "https://papadosio.bandcamp.com/track/everyone-is-cool-24",
+            "track_duration": "P00H10M41S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Xanadu",
-                "duration": "P00H07M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/xanadu-21"
-            }
+            "track_name": "Xanadu",
+            "track_link": "https://papadosio.bandcamp.com/track/xanadu-21",
+            "track_duration": "P00H07M50S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H08M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-106"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-106",
+            "track_duration": "P00H08M10S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Who You Are",
-                "duration": "P00H07M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/who-you-are-7"
-            }
+            "track_name": "Who You Are",
+            "track_link": "https://papadosio.bandcamp.com/track/who-you-are-7",
+            "track_duration": "P00H07M48S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "We Can Always Come Back",
-                "duration": "P00H10M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-50"
-            }
+            "track_name": "We Can Always Come Back",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back-50",
+            "track_duration": "P00H10M00S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H15M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-88"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-88",
+            "track_duration": "P00H15M32S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "The State Of Things",
-                "duration": "P00H05M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-state-of-things-14"
-            }
+            "track_name": "The State Of Things",
+            "track_link": "https://papadosio.bandcamp.com/track/the-state-of-things-14",
+            "track_duration": "P00H05M21S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Paradigm",
-                "duration": "P00H12M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-3"
-            }
+            "track_name": "Paradigm",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-3",
+            "track_duration": "P00H12M17S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H14M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-106"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-106",
+            "track_duration": "P00H14M39S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Cubensis",
-                "duration": "P00H12M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-52"
-            }
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis-52",
+            "track_duration": "P00H12M36S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3141720103_10.jpg",
-    "datePublished": "26 Jun 2024 18:27:19 GMT",
-    "description": "Thank you so much for coming to Summer Sequence this year, yall. We had a great time up North and hope you did as well!",
-    "duration": "P01H56M24S"
+    ]
 }

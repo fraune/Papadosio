@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/jefferson-theater-111015-charlottesville-va",
-    "name": "Jefferson Theater | 11.10.15 | Charlottesville, VA",
-    "dateModified": "22 Dec 2015 19:52:19 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Jefferson Theater | 11.10.15 | Charlottesville, VA",
+    "album_link": "https://papadosio.bandcamp.com/album/jefferson-theater-111015-charlottesville-va",
+    "date_modified": "22 Dec 2015 19:52:19 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3429561514_10.jpg",
+    "date_published": "22 Dec 2015 19:52:19 GMT",
+    "album_duration": "P01H48M12S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H01M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-21"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-21",
+            "track_duration": "P00H01M01S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Anima Mundi",
-                "duration": "P00H08M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-9"
-            }
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-9",
+            "track_duration": "P00H08M13S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H14M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-53"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-53",
+            "track_duration": "P00H14M43S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H07M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-28"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-28",
+            "track_duration": "P00H07M50S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "You And Yourself",
-                "duration": "P00H17M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-32"
-            }
+            "track_name": "You And Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-32",
+            "track_duration": "P00H17M56S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Bypass Default",
-                "duration": "P00H10M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-13"
-            }
+            "track_name": "Bypass Default",
+            "track_link": "https://papadosio.bandcamp.com/track/bypass-default-13",
+            "track_duration": "P00H10M33S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The Wrong Nostalgia",
-                "duration": "P00H04M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-9"
-            }
+            "track_name": "The Wrong Nostalgia",
+            "track_link": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-9",
+            "track_duration": "P00H04M51S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H08M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-33"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-33",
+            "track_duration": "P00H08M46S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H18M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-31"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-31",
+            "track_duration": "P00H18M02S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Therian",
-                "duration": "P00H09M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-8"
-            }
+            "track_name": "Therian",
+            "track_link": "https://papadosio.bandcamp.com/track/therian-8",
+            "track_duration": "P00H09M22S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H06M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-71"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-71",
+            "track_duration": "P00H06M55S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3429561514_10.jpg",
-    "datePublished": "22 Dec 2015 19:52:19 GMT",
-    "description": "Jefferson Theater | 11.10.15 | Charlottesville, VA\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015.",
-    "duration": "P01H48M12S"
+    ]
 }

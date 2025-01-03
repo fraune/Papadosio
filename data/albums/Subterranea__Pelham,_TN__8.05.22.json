@@ -1,124 +1,80 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/subterranea-pelham-tn-80522",
-    "name": "Subterranea | Pelham, TN | 8.05.22",
-    "dateModified": "13 Aug 2022 00:16:38 GMT",
-    "numTracks": 14,
-    "track": [
+    "album_name": "Subterranea | Pelham, TN | 8.05.22",
+    "album_link": "https://papadosio.bandcamp.com/album/subterranea-pelham-tn-80522",
+    "date_modified": "13 Aug 2022 00:16:38 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3330011775_10.jpg",
+    "date_published": "13 Aug 2022 00:00:00 GMT",
+    "album_duration": "P02H29M15S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H20M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-151"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-151",
+            "track_duration": "P00H20M54S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Subterranean Homesick Alien",
-                "duration": "P00H04M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/subterranean-homesick-alien"
-            }
+            "track_name": "Subterranean Homesick Alien",
+            "track_link": "https://papadosio.bandcamp.com/track/subterranean-homesick-alien",
+            "track_duration": "P00H04M22S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H13M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-141"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-141",
+            "track_duration": "P00H13M31S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Fanfare For The Rainpeople",
-                "duration": "P00H08M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rainpeople-4"
-            }
+            "track_name": "Fanfare For The Rainpeople",
+            "track_link": "https://papadosio.bandcamp.com/track/fanfare-for-the-rainpeople-4",
+            "track_duration": "P00H08M58S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H08M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-66"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-66",
+            "track_duration": "P00H08M23S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Out Of Hiding",
-                "duration": "P00H07M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-51"
-            }
+            "track_name": "Out Of Hiding",
+            "track_link": "https://papadosio.bandcamp.com/track/out-of-hiding-51",
+            "track_duration": "P00H07M18S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Glimpse Of Light",
-                "duration": "P00H06M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-57"
-            }
+            "track_name": "Glimpse Of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-57",
+            "track_duration": "P00H06M21S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H12M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-71"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-71",
+            "track_duration": "P00H12M06S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Magreenery ft. Cloudchord",
-                "duration": "P00H22M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-ft-cloudchord"
-            }
+            "track_name": "Magreenery ft. Cloudchord",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-ft-cloudchord",
+            "track_duration": "P00H22M40S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Wrong Nostalgia",
-                "duration": "P00H04M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-50"
-            }
+            "track_name": "The Wrong Nostalgia",
+            "track_link": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-50",
+            "track_duration": "P00H04M50S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H12M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-58"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-58",
+            "track_duration": "P00H12M24S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H08M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-114"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-114",
+            "track_duration": "P00H08M48S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H09M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-152"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-152",
+            "track_duration": "P00H09M01S"
         },
         {
-            "position": 14,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H09M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-115"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-115",
+            "track_duration": "P00H09M39S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3330011775_10.jpg",
-    "datePublished": "13 Aug 2022 00:00:00 GMT",
-    "description": "Wow, what a cathartic experience after two years of waiting. Thank you so much to everyone in attendance at the Caverns this year! It is an experience we will never forget, and it couldn't have happened without you. Love Love Love!",
-    "duration": "P02H29M15S"
+    ]
 }

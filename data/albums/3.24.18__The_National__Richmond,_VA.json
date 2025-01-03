@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/32418-the-national-richmond-va",
-    "name": "3.24.18 | The National | Richmond, VA",
-    "dateModified": "28 Mar 2018 21:07:28 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "3.24.18 | The National | Richmond, VA",
+    "album_link": "https://papadosio.bandcamp.com/album/32418-the-national-richmond-va",
+    "date_modified": "28 Mar 2018 21:07:28 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0170743871_10.jpg",
+    "date_published": "28 Mar 2018 21:07:28 GMT",
+    "album_duration": "P01H56M55S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H16M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-66"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-66",
+            "track_duration": "P00H16M22S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "The Lack of Everything",
-                "duration": "P00H11M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-28"
-            }
+            "track_name": "The Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-28",
+            "track_duration": "P00H11M10S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H06M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-61"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-61",
+            "track_duration": "P00H06M13S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H12M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-57"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-57",
+            "track_duration": "P00H12M09S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "How Not to Float",
-                "duration": "P00H09M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-42"
-            }
+            "track_name": "How Not to Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-42",
+            "track_duration": "P00H09M40S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H03M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-58"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-58",
+            "track_duration": "P00H03M31S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Oblivion",
-                "duration": "P00H09M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-31"
-            }
+            "track_name": "Oblivion",
+            "track_link": "https://papadosio.bandcamp.com/track/oblivion-31",
+            "track_duration": "P00H09M43S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Smile and nod",
-                "duration": "P00H10M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-65"
-            }
+            "track_name": "Smile and nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-65",
+            "track_duration": "P00H10M43S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Glimpse of Light",
-                "duration": "P00H05M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-46"
-            }
+            "track_name": "Glimpse of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-46",
+            "track_duration": "P00H05M41S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Drift",
-                "duration": "P00H06M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-32"
-            }
+            "track_name": "Drift",
+            "track_link": "https://papadosio.bandcamp.com/track/drift-32",
+            "track_duration": "P00H06M57S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H16M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-82"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-82",
+            "track_duration": "P00H16M08S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H08M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-44"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-44",
+            "track_duration": "P00H08M38S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0170743871_10.jpg",
-    "datePublished": "28 Mar 2018 21:07:28 GMT",
-    "description": "This set was recorded on March 24th, 2018 in Richmond, VA at The National. Thanks to everybody who came out to the show!",
-    "duration": "P01H56M55S"
+    ]
 }

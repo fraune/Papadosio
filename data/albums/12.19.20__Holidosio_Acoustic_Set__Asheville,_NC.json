@@ -1,76 +1,50 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/121920-holidosio-acoustic-set-asheville-nc",
-    "name": "12.19.20 | Holidosio Acoustic Set | Asheville, NC",
-    "dateModified": "08 Jan 2021 16:24:57 GMT",
-    "numTracks": 8,
-    "track": [
+    "album_name": "12.19.20 | Holidosio Acoustic Set | Asheville, NC",
+    "album_link": "https://papadosio.bandcamp.com/album/121920-holidosio-acoustic-set-asheville-nc",
+    "date_modified": "08 Jan 2021 16:24:57 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2419703636_10.jpg",
+    "date_published": "20 Dec 2020 00:00:00 GMT",
+    "album_duration": "P01H20M05S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Reishi",
-                "duration": "P00H09M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/reishi-4"
-            }
+            "track_name": "Reishi",
+            "track_link": "https://papadosio.bandcamp.com/track/reishi-4",
+            "track_duration": "P00H09M45S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H09M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-32"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-32",
+            "track_duration": "P00H09M38S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Giving You Up",
-                "duration": "P00H08M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/giving-you-up-27"
-            }
+            "track_name": "Giving You Up",
+            "track_link": "https://papadosio.bandcamp.com/track/giving-you-up-27",
+            "track_duration": "P00H08M36S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H06M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-63"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-63",
+            "track_duration": "P00H06M38S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H10M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-75"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-75",
+            "track_duration": "P00H10M10S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Versicolor",
-                "duration": "P00H07M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-7"
-            }
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-7",
+            "track_duration": "P00H07M24S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H20M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-141"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-141",
+            "track_duration": "P00H20M52S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H07M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-74"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-74",
+            "track_duration": "P00H07M02S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2419703636_10.jpg",
-    "datePublished": "20 Dec 2020 00:00:00 GMT",
-    "description": "This set was recorded on December 19th, 2020 in Asheville, NC for our annual hometown Holidosio celebration. This year was a weird one, to say the least. We are thankful to be able to play music for such an amazing fanbase, even if it is streamed over the internet. We are looking forward to gathering and celebrating together again soon. Fingers crossed for 2021. Happy Holidosio to all! \r\n\r\nArt: Nathanial Deas",
-    "duration": "P01H20M05S"
+    ]
 }

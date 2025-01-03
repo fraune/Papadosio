@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/aggie-theatre-fort-collins-co-121022",
-    "name": "Aggie Theatre | Fort Collins, CO | 12.10.22",
-    "dateModified": "02 Jan 2023 14:36:43 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "Aggie Theatre | Fort Collins, CO | 12.10.22",
+    "album_link": "https://papadosio.bandcamp.com/album/aggie-theatre-fort-collins-co-121022",
+    "date_modified": "02 Jan 2023 14:36:43 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0558899724_10.jpg",
+    "date_published": "02 Jan 2023 14:36:44 GMT",
+    "album_duration": "P01H58M16S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H03M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-101"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-101",
+            "track_duration": "P00H03M38S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "By The Light Of The Stars",
-                "duration": "P00H12M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-82"
-            }
+            "track_name": "By The Light Of The Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-82",
+            "track_duration": "P00H12M09S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The World Is A Cube",
-                "duration": "P00H04M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-20"
-            }
+            "track_name": "The World Is A Cube",
+            "track_link": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-20",
+            "track_duration": "P00H04M20S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H13M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-121"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-121",
+            "track_duration": "P00H13M52S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Glimpse Of Light",
-                "duration": "P00H05M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-59"
-            }
+            "track_name": "Glimpse Of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-59",
+            "track_duration": "P00H05M46S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Cordyceps",
-                "duration": "P00H10M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cordyceps-14"
-            }
+            "track_name": "Cordyceps",
+            "track_link": "https://papadosio.bandcamp.com/track/cordyceps-14",
+            "track_duration": "P00H10M50S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H07M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-98"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-98",
+            "track_duration": "P00H07M54S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "The Wrong Nostalgia",
-                "duration": "P00H04M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-51"
-            }
+            "track_name": "The Wrong Nostalgia",
+            "track_link": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-51",
+            "track_duration": "P00H04M02S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-116"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-116",
+            "track_duration": "P00H09M09S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Lack Of Everything",
-                "duration": "P00H07M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-53"
-            }
+            "track_name": "The Lack Of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-53",
+            "track_duration": "P00H07M01S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H18M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-92"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-92",
+            "track_duration": "P00H18M12S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H15M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-82"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-82",
+            "track_duration": "P00H15M00S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H06M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-99"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-99",
+            "track_duration": "P00H06M23S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0558899724_10.jpg",
-    "datePublished": "02 Jan 2023 14:36:44 GMT",
-    "description": "This was a really fun show, thanks again Fort Collins!!",
-    "duration": "P01H58M16S"
+    ]
 }

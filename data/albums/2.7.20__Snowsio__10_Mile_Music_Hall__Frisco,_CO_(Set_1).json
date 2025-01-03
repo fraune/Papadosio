@@ -1,68 +1,45 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2720-snowsio-10-mile-music-hall-frisco-co-set-1",
-    "name": "2.7.20 | Snowsio | 10 Mile Music Hall | Frisco, CO (Set 1)",
-    "dateModified": "04 Feb 2021 18:11:37 GMT",
-    "numTracks": 7,
-    "track": [
+    "album_name": "2.7.20 | Snowsio | 10 Mile Music Hall | Frisco, CO (Set 1)",
+    "album_link": "https://papadosio.bandcamp.com/album/2720-snowsio-10-mile-music-hall-frisco-co-set-1",
+    "date_modified": "04 Feb 2021 18:11:37 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3223986593_10.jpg",
+    "date_published": "12 Feb 2020 00:00:00 GMT",
+    "album_duration": "P00H48M56S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H04M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-82"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-82",
+            "track_duration": "P00H04M06S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Fire Rite",
-                "duration": "P00H06M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-37"
-            }
+            "track_name": "Fire Rite",
+            "track_link": "https://papadosio.bandcamp.com/track/fire-rite-37",
+            "track_duration": "P00H06M21S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H05M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-66"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-66",
+            "track_duration": "P00H05M21S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Omnifreeze",
-                "duration": "P00H04M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-43"
-            }
+            "track_name": "Omnifreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-43",
+            "track_duration": "P00H04M30S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H05M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-55"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-55",
+            "track_duration": "P00H05M10S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H07M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-77"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-77",
+            "track_duration": "P00H07M39S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Out Of Hiding",
-                "duration": "P00H15M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-41"
-            }
+            "track_name": "Out Of Hiding",
+            "track_link": "https://papadosio.bandcamp.com/track/out-of-hiding-41",
+            "track_duration": "P00H15M49S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3223986593_10.jpg",
-    "datePublished": "12 Feb 2020 00:00:00 GMT",
-    "description": "This album was recorded on February 7th, 2020 at the 10-mile music hall in Frisco, CO. It was a blizzard of EPIC wonders in Frisco, CO. Thanks to everybody who made it out through the storm! Thanks to Eminence Ensemble for opening the night up!",
-    "duration": "P00H48M56S"
+    ]
 }

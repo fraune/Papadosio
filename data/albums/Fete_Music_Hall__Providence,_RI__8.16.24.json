@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/fete-music-hall-providence-ri-81624",
-    "name": "Fete Music Hall | Providence, RI | 8.16.24",
-    "dateModified": "20 Aug 2024 19:24:37 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Fete Music Hall | Providence, RI | 8.16.24",
+    "album_link": "https://papadosio.bandcamp.com/album/fete-music-hall-providence-ri-81624",
+    "date_modified": "20 Aug 2024 19:24:37 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4161690216_10.jpg",
+    "date_published": "20 Aug 2024 19:24:37 GMT",
+    "album_duration": "P01H58M44S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H17M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-184"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-184",
+            "track_duration": "P00H17M21S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H10M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-57"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-57",
+            "track_duration": "P00H10M56S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Not Just A Word",
-                "duration": "P00H09M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-39"
-            }
+            "track_name": "Not Just A Word",
+            "track_link": "https://papadosio.bandcamp.com/track/not-just-a-word-39",
+            "track_duration": "P00H09M40S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Fossilize",
-                "duration": "P00H08M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fossilize-14"
-            }
+            "track_name": "Fossilize",
+            "track_link": "https://papadosio.bandcamp.com/track/fossilize-14",
+            "track_duration": "P00H08M28S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H06M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-78"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-78",
+            "track_duration": "P00H06M25S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Agarikon",
-                "duration": "P00H05M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/agarikon-20"
-            }
+            "track_name": "Agarikon",
+            "track_link": "https://papadosio.bandcamp.com/track/agarikon-20",
+            "track_duration": "P00H05M53S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Fly Agaric",
-                "duration": "P00H12M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agaric-46"
-            }
+            "track_name": "Fly Agaric",
+            "track_link": "https://papadosio.bandcamp.com/track/fly-agaric-46",
+            "track_duration": "P00H12M27S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "People As Trees",
-                "duration": "P00H14M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/people-as-trees-5"
-            }
+            "track_name": "People As Trees",
+            "track_link": "https://papadosio.bandcamp.com/track/people-as-trees-5",
+            "track_duration": "P00H14M05S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H07M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-107"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-107",
+            "track_duration": "P00H07M52S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H13M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-144"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-144",
+            "track_duration": "P00H13M38S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H11M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-122"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-122",
+            "track_duration": "P00H11M59S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a4161690216_10.jpg",
-    "datePublished": "20 Aug 2024 19:24:37 GMT",
-    "description": "Was great to be back in RI, thanks so much for the hospitality. Hope to see yall again soon!",
-    "duration": "P01H58M44S"
+    ]
 }

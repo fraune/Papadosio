@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/21618-the-sinclair-cambridge-ma",
-    "name": "2.16.18 | The Sinclair | Cambridge, MA",
-    "dateModified": "23 Feb 2018 21:15:25 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "2.16.18 | The Sinclair | Cambridge, MA",
+    "album_link": "https://papadosio.bandcamp.com/album/21618-the-sinclair-cambridge-ma",
+    "date_modified": "23 Feb 2018 21:15:25 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2267332398_10.jpg",
+    "date_published": "23 Feb 2018 21:15:25 GMT",
+    "album_duration": "P01H58M08S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H14M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-94"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-94",
+            "track_duration": "P00H14M33S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "The Lack of Everything",
-                "duration": "P00H07M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-27"
-            }
+            "track_name": "The Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-27",
+            "track_duration": "P00H07M05S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H14M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-55"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-55",
+            "track_duration": "P00H14M10S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H10M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-53"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-53",
+            "track_duration": "P00H10M16S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H20M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-47"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-47",
+            "track_duration": "P00H20M02S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Right Now",
-                "duration": "P00H07M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-27"
-            }
+            "track_name": "Right Now",
+            "track_link": "https://papadosio.bandcamp.com/track/right-now-27",
+            "track_duration": "P00H07M24S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "By the Light of the Stars",
-                "duration": "P00H09M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-52"
-            }
+            "track_name": "By the Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-52",
+            "track_duration": "P00H09M48S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H07M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-59"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-59",
+            "track_duration": "P00H07M15S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-84"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-84",
+            "track_duration": "P00H09M34S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H18M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-74"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-74",
+            "track_duration": "P00H18M01S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2267332398_10.jpg",
-    "datePublished": "23 Feb 2018 21:15:25 GMT",
-    "description": "This set was recorded on February 16th, 2018 at The Sinclair on night 1 of our two-night run! Cambridge, MA. Thanks to everybody who came out! See you next time!",
-    "duration": "P01H58M08S"
+    ]
 }

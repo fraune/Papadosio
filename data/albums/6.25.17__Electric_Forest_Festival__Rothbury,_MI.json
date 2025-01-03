@@ -1,76 +1,50 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/62517-electric-forest-festival-rothbury-mi",
-    "name": "6.25.17 | Electric Forest Festival | Rothbury, MI",
-    "dateModified": "10 Jul 2017 13:37:22 GMT",
-    "numTracks": 8,
-    "track": [
+    "album_name": "6.25.17 | Electric Forest Festival | Rothbury, MI",
+    "album_link": "https://papadosio.bandcamp.com/album/62517-electric-forest-festival-rothbury-mi",
+    "date_modified": "10 Jul 2017 13:37:22 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1546340185_10.jpg",
+    "date_published": "10 Jul 2017 13:37:22 GMT",
+    "album_duration": "P01H28M49S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H12M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-28"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-28",
+            "track_duration": "P00H12M28S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H10M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-57"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-57",
+            "track_duration": "P00H10M23S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Eventually*",
-                "duration": "P00H05M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/eventually"
-            }
+            "track_name": "Eventually*",
+            "track_link": "https://papadosio.bandcamp.com/track/eventually",
+            "track_duration": "P00H05M34S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H11M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-78"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-78",
+            "track_duration": "P00H11M06S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H13M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-91"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-91",
+            "track_duration": "P00H13M35S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "The Lack of Everything",
-                "duration": "P00H07M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-21"
-            }
+            "track_name": "The Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-21",
+            "track_duration": "P00H07M15S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H09M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-51"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-51",
+            "track_duration": "P00H09M40S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H18M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-58"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-58",
+            "track_duration": "P00H18M48S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1546340185_10.jpg",
-    "datePublished": "10 Jul 2017 13:37:22 GMT",
-    "description": "All material was written and recorded by Papadosio at Electric Forest Festival with the exception of Eventually* originally written by Tame Impala.",
-    "duration": "P01H28M49S"
+    ]
 }

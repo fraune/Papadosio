@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/observations",
-    "name": "Observations",
-    "dateModified": "24 Oct 2013 02:49:16 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Observations",
+    "album_link": "https://papadosio.bandcamp.com/album/observations",
+    "date_modified": "24 Oct 2013 02:49:16 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3473303821_10.jpg",
+    "date_published": "23 Oct 2009 00:00:00 GMT",
+    "album_duration": "P01H03M14S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Lack of Everything",
-                "duration": "P00H05M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything"
-            }
+            "track_name": "The Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything",
+            "track_duration": "P00H05M39S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H07M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle",
+            "track_duration": "P00H07M48S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "You and Yourself",
-                "duration": "P00H06M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself"
-            }
+            "track_name": "You and Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself",
+            "track_duration": "P00H06M23S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H05M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew",
+            "track_duration": "P00H05M48S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H05M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter",
+            "track_duration": "P00H05M26S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H03M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter",
+            "track_duration": "P00H03M36S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Giving You Up",
-                "duration": "P00H04M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/giving-you-up"
-            }
+            "track_name": "Giving You Up",
+            "track_link": "https://papadosio.bandcamp.com/track/giving-you-up",
+            "track_duration": "P00H04M30S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H06M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod",
+            "track_duration": "P00H06M14S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H05M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors",
+            "track_duration": "P00H05M24S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "How Not to Float",
-                "duration": "P00H05M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float"
-            }
+            "track_name": "How Not to Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float",
+            "track_duration": "P00H05M05S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H07M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes",
+            "track_duration": "P00H07M21S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3473303821_10.jpg",
-    "datePublished": "23 Oct 2009 00:00:00 GMT",
-    "description": "You are, the sum of your experiences up until this moment. Your art, your style, your opinions, are all contrived from what you have observed. With this knowledge realize, that no matter how insignificant you think your actions are, you are influencing everyone around you. Herein lies your power to change the world, because the world is always watching.",
-    "duration": "P01H03M14S"
+    ]
 }

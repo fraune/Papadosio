@@ -1,76 +1,50 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/backwoods-music-festival-ozark-ar-42123",
-    "name": "Backwoods Music Festival | Ozark, AR | 4.21.23",
-    "dateModified": "27 Apr 2023 16:55:04 GMT",
-    "numTracks": 8,
-    "track": [
+    "album_name": "Backwoods Music Festival | Ozark, AR | 4.21.23",
+    "album_link": "https://papadosio.bandcamp.com/album/backwoods-music-festival-ozark-ar-42123",
+    "date_modified": "27 Apr 2023 16:55:04 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3726915994_10.jpg",
+    "date_published": "27 Apr 2023 16:55:04 GMT",
+    "album_duration": "P01H29M37S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H11M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-165"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-165",
+            "track_duration": "P00H11M17S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "By The Light Of The Stars",
-                "duration": "P00H14M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-85"
-            }
+            "track_name": "By The Light Of The Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-85",
+            "track_duration": "P00H14M13S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "You're A Catman",
-                "duration": "P00H12M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-13"
-            }
+            "track_name": "You're A Catman",
+            "track_link": "https://papadosio.bandcamp.com/track/youre-a-catman-13",
+            "track_duration": "P00H12M23S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Dare You",
-                "duration": "P00H07M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-10"
-            }
+            "track_name": "Dare You",
+            "track_link": "https://papadosio.bandcamp.com/track/dare-you-10",
+            "track_duration": "P00H07M18S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Zoom Out",
-                "duration": "P00H08M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/zoom-out-13"
-            }
+            "track_name": "Zoom Out",
+            "track_link": "https://papadosio.bandcamp.com/track/zoom-out-13",
+            "track_duration": "P00H08M43S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Lion's Mane",
-                "duration": "P00H06M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-30"
-            }
+            "track_name": "Lion's Mane",
+            "track_link": "https://papadosio.bandcamp.com/track/lions-mane-30",
+            "track_duration": "P00H06M57S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H13M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-155"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-155",
+            "track_duration": "P00H13M42S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H15M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-103"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-103",
+            "track_duration": "P00H15M04S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3726915994_10.jpg",
-    "datePublished": "27 Apr 2023 16:55:04 GMT",
-    "description": "Thanks for having us back Backwoods....woods...!! We lucked out this year with beautiful weather! Great crowd as always, see you soon Arkansas!",
-    "duration": "P01H29M37S"
+    ]
 }

@@ -1,84 +1,55 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/gem-and-jam-2015",
-    "name": "Gem and Jam 2015",
-    "dateModified": "26 Jan 2018 22:59:17 GMT",
-    "numTracks": 9,
-    "track": [
+    "album_name": "Gem and Jam 2015",
+    "album_link": "https://papadosio.bandcamp.com/album/gem-and-jam-2015",
+    "date_modified": "26 Jan 2018 22:59:17 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2334732180_10.jpg",
+    "date_published": "16 Feb 2015 00:00:00 GMT",
+    "album_duration": "P01H30M41S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H07M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-33"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-33",
+            "track_duration": "P00H07M04S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H08M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-38"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-38",
+            "track_duration": "P00H08M44S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Bionic Man Meets his Past",
-                "duration": "P00H11M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-38"
-            }
+            "track_name": "The Bionic Man Meets his Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-38",
+            "track_duration": "P00H11M47S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Cue >",
-                "duration": "P00H08M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-47"
-            }
+            "track_name": "Cue >",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-47",
+            "track_duration": "P00H08M41S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "If It Wasn't For you",
-                "duration": "P00H08M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-32"
-            }
+            "track_name": "If It Wasn't For you",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-32",
+            "track_duration": "P00H08M45S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H06M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-46"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-46",
+            "track_duration": "P00H06M56S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H18M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-41"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-41",
+            "track_duration": "P00H18M35S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-61"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-61",
+            "track_duration": "P00H10M56S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H09M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-53"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-53",
+            "track_duration": "P00H09M13S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2334732180_10.jpg",
-    "datePublished": "16 Feb 2015 00:00:00 GMT",
-    "description": "Live at Gem and Jam Festival 2015 - Tuscon, AZ\r\nfeaturing live painting from Alex + Allyson Grey, Amanda Sage, and J. Garcia",
-    "duration": "P01H30M41S"
+    ]
 }

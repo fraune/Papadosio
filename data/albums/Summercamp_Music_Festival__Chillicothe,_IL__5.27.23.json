@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/summercamp-music-festival-chillicothe-il-52723",
-    "name": "Summercamp Music Festival | Chillicothe, IL | 5.27.23",
-    "dateModified": "01 Jun 2023 17:14:13 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Summercamp Music Festival | Chillicothe, IL | 5.27.23",
+    "album_link": "https://papadosio.bandcamp.com/album/summercamp-music-festival-chillicothe-il-52723",
+    "date_modified": "01 Jun 2023 17:14:13 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3031443041_10.jpg",
+    "date_published": "01 Jun 2023 17:14:13 GMT",
+    "album_duration": "P02H00M20S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Cubensis",
-                "duration": "P00H12M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-37"
-            }
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis-37",
+            "track_duration": "P00H12M50S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H15M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-123"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-123",
+            "track_duration": "P00H15M11S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H13M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-181"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-181",
+            "track_duration": "P00H13M35S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Dare You",
-                "duration": "P00H10M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-12"
-            }
+            "track_name": "Dare You",
+            "track_link": "https://papadosio.bandcamp.com/track/dare-you-12",
+            "track_duration": "P00H10M17S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H09M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-80"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-80",
+            "track_duration": "P00H09M48S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H07M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-157"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-157",
+            "track_duration": "P00H07M53S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Smile And Nod",
-                "duration": "P00H10M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-101"
-            }
+            "track_name": "Smile And Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-101",
+            "track_duration": "P00H10M09S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H10M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-166"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-166",
+            "track_duration": "P00H10M52S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "You're A Catman",
-                "duration": "P00H08M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-16"
-            }
+            "track_name": "You're A Catman",
+            "track_link": "https://papadosio.bandcamp.com/track/youre-a-catman-16",
+            "track_duration": "P00H08M25S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Not Just A Word",
-                "duration": "P00H06M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-18"
-            }
+            "track_name": "Not Just A Word",
+            "track_link": "https://papadosio.bandcamp.com/track/not-just-a-word-18",
+            "track_duration": "P00H06M35S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H14M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-72"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-72",
+            "track_duration": "P00H14M45S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3031443041_10.jpg",
-    "datePublished": "01 Jun 2023 17:14:13 GMT",
-    "description": "Thanks so much for staying up late with us! Biggest shout out ever to Merrick Noyes @merricknoyesmusic for filling in for Billy his first time! Absolutely crushed!",
-    "duration": "P02H00M20S"
+    ]
 }

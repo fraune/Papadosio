@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/3917-gabes-iowa-city-ia",
-    "name": "3.9.17 | Gabes | Iowa City, IA",
-    "dateModified": "10 Mar 2017 22:32:19 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "3.9.17 | Gabes | Iowa City, IA",
+    "album_link": "https://papadosio.bandcamp.com/album/3917-gabes-iowa-city-ia",
+    "date_modified": "10 Mar 2017 22:32:19 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3036559691_10.jpg",
+    "date_published": "10 Mar 2017 22:32:19 GMT",
+    "album_duration": "P01H52M34S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H15M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-56"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-56",
+            "track_duration": "P00H15M25S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-73"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-73",
+            "track_duration": "P00H09M23S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Each and Every Wave",
-                "duration": "P00H06M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-20"
-            }
+            "track_name": "Each and Every Wave",
+            "track_link": "https://papadosio.bandcamp.com/track/each-and-every-wave-20",
+            "track_duration": "P00H06M50S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-89"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-89",
+            "track_duration": "P00H08M51S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "If It Wasn't For You",
-                "duration": "P00H12M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-44"
-            }
+            "track_name": "If It Wasn't For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-44",
+            "track_duration": "P00H12M36S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Ear to Ear",
-                "duration": "P00H12M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-22"
-            }
+            "track_name": "Ear to Ear",
+            "track_link": "https://papadosio.bandcamp.com/track/ear-to-ear-22",
+            "track_duration": "P00H12M57S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H14M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-56"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-56",
+            "track_duration": "P00H14M45S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H08M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-22"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-22",
+            "track_duration": "P00H08M19S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-75"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-75",
+            "track_duration": "P00H07M38S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H15M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-73"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-73",
+            "track_duration": "P00H15M50S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3036559691_10.jpg",
-    "datePublished": "10 Mar 2017 22:32:19 GMT",
-    "description": "Recorded on March 9th, 2017 at Gabes in Iowa City, IA. \r\n\r\nPattern Integrities Spring Tour 2017. \r\n\r\nAll material was written and recorded by Papadosio.",
-    "duration": "P01H52M34S"
+    ]
 }

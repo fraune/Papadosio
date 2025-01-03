@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/extrasinamovie-12316-knoxville-tn",
-    "name": "#extrasinamovie | 1.23.16 | Knoxville, TN",
-    "dateModified": "27 Jan 2016 00:54:14 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "#extrasinamovie | 1.23.16 | Knoxville, TN",
+    "album_link": "https://papadosio.bandcamp.com/album/extrasinamovie-12316-knoxville-tn",
+    "date_modified": "27 Jan 2016 00:54:14 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3515524192_10.jpg",
+    "date_published": "27 Jan 2016 00:54:14 GMT",
+    "album_duration": "P02H13M06S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H25M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-41"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-41",
+            "track_duration": "P00H25M08S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-59"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-59",
+            "track_duration": "P00H09M39S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Distant Days",
-                "duration": "P00H05M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distant-days-7"
-            }
+            "track_name": "Distant Days",
+            "track_link": "https://papadosio.bandcamp.com/track/distant-days-7",
+            "track_duration": "P00H05M43S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H13M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-47"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-47",
+            "track_duration": "P00H13M30S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Epiphany",
-                "duration": "P00H08M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-23"
-            }
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-23",
+            "track_duration": "P00H08M05S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H10M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-71"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-71",
+            "track_duration": "P00H10M01S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H08M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-41"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-41",
+            "track_duration": "P00H08M56S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Wrong Nostalgia",
-                "duration": "P00H06M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/wrong-nostalgia-4"
-            }
+            "track_name": "Wrong Nostalgia",
+            "track_link": "https://papadosio.bandcamp.com/track/wrong-nostalgia-4",
+            "track_duration": "P00H06M23S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "We Can Always Come Back",
-                "duration": "P00H10M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-14"
-            }
+            "track_name": "We Can Always Come Back",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back-14",
+            "track_duration": "P00H10M20S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H18M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-43"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-43",
+            "track_duration": "P00H18M50S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H06M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-48"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-48",
+            "track_duration": "P00H06M47S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Crowd Banter",
-                "duration": "P00H03M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/crowd-banter"
-            }
+            "track_name": "Crowd Banter",
+            "track_link": "https://papadosio.bandcamp.com/track/crowd-banter",
+            "track_duration": "P00H03M21S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Glimpse of Light",
-                "duration": "P00H06M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-24"
-            }
+            "track_name": "Glimpse of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-24",
+            "track_duration": "P00H06M23S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3515524192_10.jpg",
-    "datePublished": "27 Jan 2016 00:54:14 GMT",
-    "description": "#extrasinamovie | 1.23.16 | Knoxville, TN\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2016.",
-    "duration": "P02H13M06S"
+    ]
 }

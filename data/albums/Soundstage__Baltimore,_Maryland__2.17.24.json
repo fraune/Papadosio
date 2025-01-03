@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/soundstage-baltimore-maryland-21724",
-    "name": "Soundstage | Baltimore, Maryland | 2.17.24",
-    "dateModified": "23 Feb 2024 20:16:16 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "Soundstage | Baltimore, Maryland | 2.17.24",
+    "album_link": "https://papadosio.bandcamp.com/album/soundstage-baltimore-maryland-21724",
+    "date_modified": "23 Feb 2024 20:16:16 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0606561329_10.jpg",
+    "date_published": "23 Feb 2024 20:16:17 GMT",
+    "album_duration": "P01H59M42S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "By The Light Of The Stars",
-                "duration": "P00H11M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-91"
-            }
+            "track_name": "By The Light Of The Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-91",
+            "track_duration": "P00H11M43S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "The World Is A Cube",
-                "duration": "P00H04M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-24"
-            }
+            "track_name": "The World Is A Cube",
+            "track_link": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-24",
+            "track_duration": "P00H04M33S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Fate",
-                "duration": "P00H06M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fate-12"
-            }
+            "track_name": "Fate",
+            "track_link": "https://papadosio.bandcamp.com/track/fate-12",
+            "track_duration": "P00H06M53S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H08M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-129"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-129",
+            "track_duration": "P00H08M20S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Pool Of Stars",
-                "duration": "P00H10M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-30"
-            }
+            "track_name": "Pool Of Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/pool-of-stars-30",
+            "track_duration": "P00H10M53S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Each And Every Wave",
-                "duration": "P00H05M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-33"
-            }
+            "track_name": "Each And Every Wave",
+            "track_link": "https://papadosio.bandcamp.com/track/each-and-every-wave-33",
+            "track_duration": "P00H05M39S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Puddles For Oceans",
-                "duration": "P00H09M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-89"
-            }
+            "track_name": "Puddles For Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-89",
+            "track_duration": "P00H09M51S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H14M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-75"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-75",
+            "track_duration": "P00H14M59S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "The End Of The World",
-                "duration": "P00H05M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-end-of-the-world-12"
-            }
+            "track_name": "The End Of The World",
+            "track_link": "https://papadosio.bandcamp.com/track/the-end-of-the-world-12",
+            "track_duration": "P00H05M09S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Not Just A Word",
-                "duration": "P00H10M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-32"
-            }
+            "track_name": "Not Just A Word",
+            "track_link": "https://papadosio.bandcamp.com/track/not-just-a-word-32",
+            "track_duration": "P00H10M25S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H10M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-131"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-131",
+            "track_duration": "P00H10M30S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H12M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-138"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-138",
+            "track_duration": "P00H12M12S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H08M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-102"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-102",
+            "track_duration": "P00H08M35S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0606561329_10.jpg",
-    "datePublished": "23 Feb 2024 20:16:17 GMT",
-    "description": "Thanks Baltimore, good to see you again!",
-    "duration": "P01H59M42S"
+    ]
 }

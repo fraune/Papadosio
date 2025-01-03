@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/82918-varsity-theatre-baton-rouge-la",
-    "name": "8.29.18 | Varsity Theatre | Baton Rouge, LA",
-    "dateModified": "04 Sep 2018 15:36:56 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "8.29.18 | Varsity Theatre | Baton Rouge, LA",
+    "album_link": "https://papadosio.bandcamp.com/album/82918-varsity-theatre-baton-rouge-la",
+    "date_modified": "04 Sep 2018 15:36:56 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1306683158_10.jpg",
+    "date_published": "04 Sep 2018 15:36:56 GMT",
+    "album_duration": "P01H58M42S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H17M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-70"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-70",
+            "track_duration": "P00H17M16S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H14M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-126"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-126",
+            "track_duration": "P00H14M59S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-88"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-88",
+            "track_duration": "P00H09M10S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H18M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-121"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-121",
+            "track_duration": "P00H18M16S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H06M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-61"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-61",
+            "track_duration": "P00H06M24S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-89"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-89",
+            "track_duration": "P00H09M07S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Pool of Stars",
-                "duration": "P00H06M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-3"
-            }
+            "track_name": "Pool of Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/pool-of-stars-3",
+            "track_duration": "P00H06M18S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H15M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-72"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-72",
+            "track_duration": "P00H15M41S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H15M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-69"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-69",
+            "track_duration": "P00H15M19S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Glimpse of Light",
-                "duration": "P00H06M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-48"
-            }
+            "track_name": "Glimpse of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-48",
+            "track_duration": "P00H06M12S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1306683158_10.jpg",
-    "datePublished": "04 Sep 2018 15:36:56 GMT",
-    "description": "This album was recorded in Baton Rouge, LA at the Varsity Theatre! Thanks to everybody who came out. and we will see you all again soon!",
-    "duration": "P01H58M42S"
+    ]
 }

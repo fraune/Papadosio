@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/12718-gem-jam-tucson-az",
-    "name": "1.27.18 | Gem & Jam | Tucson, AZ",
-    "dateModified": "23 Jan 2020 22:44:28 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "1.27.18 | Gem & Jam | Tucson, AZ",
+    "album_link": "https://papadosio.bandcamp.com/album/12718-gem-jam-tucson-az",
+    "date_modified": "23 Jan 2020 22:44:28 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2147759338_10.jpg",
+    "date_published": "30 Jan 2018 00:00:00 GMT",
+    "album_duration": "P01H25M48S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H10M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-38"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-38",
+            "track_duration": "P00H10M52S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H08M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-80"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-80",
+            "track_duration": "P00H08M13S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H09M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-39"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-39",
+            "track_duration": "P00H09M08S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "We are Water",
-                "duration": "P00H06M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-107"
-            }
+            "track_name": "We are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-107",
+            "track_duration": "P00H06M48S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Obove",
-                "duration": "P00H04M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-14"
-            }
+            "track_name": "Obove",
+            "track_link": "https://papadosio.bandcamp.com/track/obove-14",
+            "track_duration": "P00H04M14S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H07M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-57"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-57",
+            "track_duration": "P00H07M48S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H09M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-56"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-56",
+            "track_duration": "P00H09M01S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H05M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-34"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-34",
+            "track_duration": "P00H05M38S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H18M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-66"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-66",
+            "track_duration": "P00H18M50S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H05M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-53"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-53",
+            "track_duration": "P00H05M16S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2147759338_10.jpg",
-    "datePublished": "30 Jan 2018 00:00:00 GMT",
-    "description": "This set was recorded on January 27th, 2018 at Pima County Fairgrounds, in Tucson AZ, This show on Night 1 of Gem & Jam 2018. Thanks to everybody who came out, this was an awesome way to get 2018 started!",
-    "duration": "P01H25M48S"
+    ]
 }

@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/star-theatre-portland-or-12324",
-    "name": "Star Theatre | Portland, OR | 1.23.24",
-    "dateModified": "07 Feb 2024 19:29:19 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Star Theatre | Portland, OR | 1.23.24",
+    "album_link": "https://papadosio.bandcamp.com/album/star-theatre-portland-or-12324",
+    "date_modified": "07 Feb 2024 19:29:19 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1076394387_10.jpg",
+    "date_published": "07 Feb 2024 19:29:19 GMT",
+    "album_duration": "P01H56M04S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H10M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-128"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-128",
+            "track_duration": "P00H10M36S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Method Of Control",
-                "duration": "P00H13M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-129"
-            }
+            "track_name": "Method Of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-129",
+            "track_duration": "P00H13M11S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Everyone Is Cool",
-                "duration": "P00H10M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/everyone-is-cool-15"
-            }
+            "track_name": "Everyone Is Cool",
+            "track_link": "https://papadosio.bandcamp.com/track/everyone-is-cool-15",
+            "track_duration": "P00H10M31S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H12M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-164"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-164",
+            "track_duration": "P00H12M26S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H08M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-103"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-103",
+            "track_duration": "P00H08M11S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "If It Was'nt For You",
-                "duration": "P00H07M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-59"
-            }
+            "track_name": "If It Was'nt For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-59",
+            "track_duration": "P00H07M33S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H09M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-125"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-125",
+            "track_duration": "P00H09M31S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H11M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-115"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-115",
+            "track_duration": "P00H11M29S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "You're A Catman",
-                "duration": "P00H11M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-24"
-            }
+            "track_name": "You're A Catman",
+            "track_link": "https://papadosio.bandcamp.com/track/youre-a-catman-24",
+            "track_duration": "P00H11M14S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The World Is A Cube",
-                "duration": "P00H04M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-23"
-            }
+            "track_name": "The World Is A Cube",
+            "track_link": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-23",
+            "track_duration": "P00H04M21S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H17M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-130"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-130",
+            "track_duration": "P00H17M01S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1076394387_10.jpg",
-    "datePublished": "07 Feb 2024 19:29:19 GMT",
-    "description": "After an icepocalypse, we had to move this show to a Tuesdeeee...First tuesdee show in a while!!! Portland showed turned up on a tuesdee, thanks so much Portland!",
-    "duration": "P01H56M04S"
+    ]
 }

@@ -1,84 +1,55 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-at-electric-forest-2016",
-    "name": "Live at Electric Forest 2016",
-    "dateModified": "24 May 2017 16:13:49 GMT",
-    "numTracks": 9,
-    "track": [
+    "album_name": "Live at Electric Forest 2016",
+    "album_link": "https://papadosio.bandcamp.com/album/live-at-electric-forest-2016",
+    "date_modified": "24 May 2017 16:13:49 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0127274798_10.jpg",
+    "date_published": "11 Jul 2016 00:00:00 GMT",
+    "album_duration": "P01H11M19S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Eyes Have Eyes >",
-                "duration": "P00H06M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-41"
-            }
+            "track_name": "The Eyes Have Eyes >",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-41",
+            "track_duration": "P00H06M08S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-67"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-67",
+            "track_duration": "P00H09M57S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H12M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-59"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-59",
+            "track_duration": "P00H12M45S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H08M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-37"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-37",
+            "track_duration": "P00H08M04S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Glimpse of Light",
-                "duration": "P00H05M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-39"
-            }
+            "track_name": "Glimpse of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-39",
+            "track_duration": "P00H05M57S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Therian",
-                "duration": "P00H08M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-18"
-            }
+            "track_name": "Therian",
+            "track_link": "https://papadosio.bandcamp.com/track/therian-18",
+            "track_duration": "P00H08M36S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H06M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-90"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-90",
+            "track_duration": "P00H06M28S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Curve(ature)",
-                "duration": "P00H11M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-ature-9"
-            }
+            "track_name": "Curve(ature)",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-ature-9",
+            "track_duration": "P00H11M40S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H01M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-42"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-42",
+            "track_duration": "P00H01M44S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0127274798_10.jpg",
-    "datePublished": "11 Jul 2016 00:00:00 GMT",
-    "description": null,
-    "duration": "P01H11M19S"
+    ]
 }

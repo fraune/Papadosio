@@ -1,132 +1,85 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-at-the-mad-tea-party-jam-2016",
-    "name": "Live at the Mad Tea Party Jam 2016",
-    "dateModified": "24 May 2017 16:14:44 GMT",
-    "numTracks": 15,
-    "track": [
+    "album_name": "Live at the Mad Tea Party Jam 2016",
+    "album_link": "https://papadosio.bandcamp.com/album/live-at-the-mad-tea-party-jam-2016",
+    "date_modified": "24 May 2017 16:14:44 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0672051422_10.jpg",
+    "date_published": "13 Jul 2016 00:00:00 GMT",
+    "album_duration": "P02H48M01S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H22M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-33"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-33",
+            "track_duration": "P00H22M49S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Madre de Dios",
-                "duration": "P00H06M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-25"
-            }
+            "track_name": "Madre de Dios",
+            "track_link": "https://papadosio.bandcamp.com/track/madre-de-dios-25",
+            "track_duration": "P00H06M01S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H15M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-51"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-51",
+            "track_duration": "P00H15M51S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Anima Mundi",
-                "duration": "P00H17M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-28"
-            }
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-28",
+            "track_duration": "P00H17M19S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Wrong Nostalgia",
-                "duration": "P00H04M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-26"
-            }
+            "track_name": "The Wrong Nostalgia",
+            "track_link": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-26",
+            "track_duration": "P00H04M27S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H18M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-79"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-79",
+            "track_duration": "P00H18M59S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Set II Intro",
-                "duration": "P00H08M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/set-ii-intro"
-            }
+            "track_name": "Set II Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/set-ii-intro",
+            "track_duration": "P00H08M55S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Ear to Ear",
-                "duration": "P00H05M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-20"
-            }
+            "track_name": "Ear to Ear",
+            "track_link": "https://papadosio.bandcamp.com/track/ear-to-ear-20",
+            "track_duration": "P00H05M53S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H12M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-40"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-40",
+            "track_duration": "P00H12M47S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Obove",
-                "duration": "P00H08M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-6"
-            }
+            "track_name": "Obove",
+            "track_link": "https://papadosio.bandcamp.com/track/obove-6",
+            "track_duration": "P00H08M52S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H09M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-41"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-41",
+            "track_duration": "P00H09M38S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Out of Hiding",
-                "duration": "P00H08M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-24"
-            }
+            "track_name": "Out of Hiding",
+            "track_link": "https://papadosio.bandcamp.com/track/out-of-hiding-24",
+            "track_duration": "P00H08M53S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H10M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-37"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-37",
+            "track_duration": "P00H10M36S"
         },
         {
-            "position": 14,
-            "item": {
-                "name": "Out of Hiding",
-                "duration": "P00H05M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-25"
-            }
+            "track_name": "Out of Hiding",
+            "track_link": "https://papadosio.bandcamp.com/track/out-of-hiding-25",
+            "track_duration": "P00H05M36S"
         },
         {
-            "position": 15,
-            "item": {
-                "name": "Holy Heck",
-                "duration": "P00H11M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-29"
-            }
+            "track_name": "Holy Heck",
+            "track_link": "https://papadosio.bandcamp.com/track/holy-heck-29",
+            "track_duration": "P00H11M25S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0672051422_10.jpg",
-    "datePublished": "13 Jul 2016 00:00:00 GMT",
-    "description": null,
-    "duration": "P02H48M01S"
+    ]
 }

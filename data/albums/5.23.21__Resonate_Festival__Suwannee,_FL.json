@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/52321-resonate-festival-suwannee-fl",
-    "name": "5.23.21 | Resonate Festival | Suwannee, FL",
-    "dateModified": "30 May 2021 21:55:59 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "5.23.21 | Resonate Festival | Suwannee, FL",
+    "album_link": "https://papadosio.bandcamp.com/album/52321-resonate-festival-suwannee-fl",
+    "date_modified": "30 May 2021 21:55:59 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0789214975_10.jpg",
+    "date_published": "30 May 2021 21:55:59 GMT",
+    "album_duration": "P01H55M15S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "EarthCry Transition",
-                "duration": "P00H05M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/earthcry-transition"
-            }
+            "track_name": "EarthCry Transition",
+            "track_link": "https://papadosio.bandcamp.com/track/earthcry-transition",
+            "track_duration": "P00H05M39S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H16M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-145"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-145",
+            "track_duration": "P00H16M26S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H07M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-75"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-75",
+            "track_duration": "P00H07M38S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Agarikon",
-                "duration": "P00H08M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/agarikon-4"
-            }
+            "track_name": "Agarikon",
+            "track_link": "https://papadosio.bandcamp.com/track/agarikon-4",
+            "track_duration": "P00H08M59S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Lion's Mane",
-                "duration": "P00H06M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-8"
-            }
+            "track_name": "Lion's Mane",
+            "track_link": "https://papadosio.bandcamp.com/track/lions-mane-8",
+            "track_duration": "P00H06M12S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H14M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-110"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-110",
+            "track_duration": "P00H14M24S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "You And Yourself",
-                "duration": "P00H14M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-67"
-            }
+            "track_name": "You And Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-67",
+            "track_duration": "P00H14M58S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Ear to Ear",
-                "duration": "P00H09M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-45"
-            }
+            "track_name": "Ear to Ear",
+            "track_link": "https://papadosio.bandcamp.com/track/ear-to-ear-45",
+            "track_duration": "P00H09M24S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H15M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-76"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-76",
+            "track_duration": "P00H15M37S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-105"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-105",
+            "track_duration": "P00H09M07S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H06M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-48"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-48",
+            "track_duration": "P00H06M51S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0789214975_10.jpg",
-    "datePublished": "30 May 2021 21:55:59 GMT",
-    "description": "This album was recorded on May 23rd at the Spirit of Suwannee Music Park in Live Oak, FL! This was our 2nd set of the weekend! Thanks to the Essential Productions crew for having us out for this first-year event! \r\n\r\nArt: Kevin Harris",
-    "duration": "P01H55M15S"
+    ]
 }

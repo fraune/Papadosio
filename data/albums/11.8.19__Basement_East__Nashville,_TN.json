@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/11819-basement-east-nashville-tn",
-    "name": "11.8.19 | Basement East | Nashville, TN",
-    "dateModified": "13 Nov 2019 18:27:37 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "11.8.19 | Basement East | Nashville, TN",
+    "album_link": "https://papadosio.bandcamp.com/album/11819-basement-east-nashville-tn",
+    "date_modified": "13 Nov 2019 18:27:37 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0815130964_10.jpg",
+    "date_published": "13 Nov 2019 18:27:37 GMT",
+    "album_duration": "P01H48M53S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H01M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-75"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-75",
+            "track_duration": "P00H01M42S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H14M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-137"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-137",
+            "track_duration": "P00H14M25S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H13M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-70"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-70",
+            "track_duration": "P00H13M28S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "2am",
-                "duration": "P00H07M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-65"
-            }
+            "track_name": "2am",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-65",
+            "track_duration": "P00H07M43S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H13M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-101"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-101",
+            "track_duration": "P00H13M43S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H05M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-127"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-127",
+            "track_duration": "P00H05M23S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H08M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-75"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-75",
+            "track_duration": "P00H08M21S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H03M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-128"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-128",
+            "track_duration": "P00H03M12S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Bypass Default",
-                "duration": "P00H07M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-42"
-            }
+            "track_name": "Bypass Default",
+            "track_link": "https://papadosio.bandcamp.com/track/bypass-default-42",
+            "track_duration": "P00H07M33S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H16M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-122"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-122",
+            "track_duration": "P00H16M47S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H16M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-31"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-31",
+            "track_duration": "P00H16M36S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0815130964_10.jpg",
-    "datePublished": "13 Nov 2019 18:27:37 GMT",
-    "description": "This album was recorded on September 8th, 2019 at The Basement East in Nashville, TN! Thank you to everybody who came out to show their love and support & thanks to Dritwire for getting the night started for us!",
-    "duration": "P01H48M53S"
+    ]
 }

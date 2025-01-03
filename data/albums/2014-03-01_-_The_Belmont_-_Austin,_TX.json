@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2014-03-01-the-belmont-austin-tx",
-    "name": "2014-03-01 - The Belmont - Austin, TX",
-    "dateModified": "04 Mar 2014 15:36:41 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "2014-03-01 - The Belmont - Austin, TX",
+    "album_link": "https://papadosio.bandcamp.com/album/2014-03-01-the-belmont-austin-tx",
+    "date_modified": "04 Mar 2014 15:36:41 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1268025794_10.jpg",
+    "date_published": "03 Mar 2014 00:00:00 GMT",
+    "album_duration": "P02H08M09S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H12M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-14"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-14",
+            "track_duration": "P00H12M00S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "By the Light of the Stars",
-                "duration": "P00H08M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-12"
-            }
+            "track_name": "By the Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-12",
+            "track_duration": "P00H08M42S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-18"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-18",
+            "track_duration": "P00H09M08S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H06M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-11"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-11",
+            "track_duration": "P00H06M49S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-24"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-24",
+            "track_duration": "P00H10M53S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "The Oracle Theme",
-                "duration": "P00H07M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-oracle-theme-3"
-            }
+            "track_name": "The Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/the-oracle-theme-3",
+            "track_duration": "P00H07M09S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H13M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-9"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-9",
+            "track_duration": "P00H13M49S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H07M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-15"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-15",
+            "track_duration": "P00H07M39S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Holy Heck",
-                "duration": "P00H06M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-9"
-            }
+            "track_name": "Holy Heck",
+            "track_link": "https://papadosio.bandcamp.com/track/holy-heck-9",
+            "track_duration": "P00H06M26S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H07M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-20"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-20",
+            "track_duration": "P00H07M22S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H13M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-13"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-13",
+            "track_duration": "P00H13M50S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H24M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-11"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-11",
+            "track_duration": "P00H24M22S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1268025794_10.jpg",
-    "datePublished": "03 Mar 2014 00:00:00 GMT",
-    "description": "Recorded live at The Belmont - Austin, TX - 3.1.14\r\nWinter // Spring Tour 2014\r\n\r\nw/ The Main Squeeze",
-    "duration": "P02H08M09S"
+    ]
 }

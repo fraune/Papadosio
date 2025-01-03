@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/the-range-mason-nh-81724",
-    "name": "The Range | Mason, NH | 8.17.24",
-    "dateModified": "20 Aug 2024 19:24:41 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "The Range | Mason, NH | 8.17.24",
+    "album_link": "https://papadosio.bandcamp.com/album/the-range-mason-nh-81724",
+    "date_modified": "20 Aug 2024 19:24:41 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1348981028_10.jpg",
+    "date_published": "20 Aug 2024 19:24:41 GMT",
+    "album_duration": "P01H40M02S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H17M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-180"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-180",
+            "track_duration": "P00H17M23S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Fate",
-                "duration": "P00H09M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fate-15"
-            }
+            "track_name": "Fate",
+            "track_link": "https://papadosio.bandcamp.com/track/fate-15",
+            "track_duration": "P00H09M38S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Advocate Of Change",
-                "duration": "P00H12M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-123"
-            }
+            "track_name": "Advocate Of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-123",
+            "track_duration": "P00H12M44S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Zoom Out",
-                "duration": "P00H08M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/zoom-out-30"
-            }
+            "track_name": "Zoom Out",
+            "track_link": "https://papadosio.bandcamp.com/track/zoom-out-30",
+            "track_duration": "P00H08M01S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Boss Battle",
-                "duration": "P00H03M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/boss-battle-22"
-            }
+            "track_name": "Boss Battle",
+            "track_link": "https://papadosio.bandcamp.com/track/boss-battle-22",
+            "track_duration": "P00H03M23S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Lion's Mane",
-                "duration": "P00H06M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-49"
-            }
+            "track_name": "Lion's Mane",
+            "track_link": "https://papadosio.bandcamp.com/track/lions-mane-49",
+            "track_duration": "P00H06M26S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H08M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-71"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-71",
+            "track_duration": "P00H08M04S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Method Of Control",
-                "duration": "P00H08M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-136"
-            }
+            "track_name": "Method Of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-136",
+            "track_duration": "P00H08M58S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Everyone Is Cool",
-                "duration": "P00H06M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/everyone-is-cool-25"
-            }
+            "track_name": "Everyone Is Cool",
+            "track_link": "https://papadosio.bandcamp.com/track/everyone-is-cool-25",
+            "track_duration": "P00H06M56S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H11M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-128"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-128",
+            "track_duration": "P00H11M49S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Holy Heck",
-                "duration": "P00H06M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-61"
-            }
+            "track_name": "Holy Heck",
+            "track_link": "https://papadosio.bandcamp.com/track/holy-heck-61",
+            "track_duration": "P00H06M40S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1348981028_10.jpg",
-    "datePublished": "20 Aug 2024 19:24:41 GMT",
-    "description": "Thanks so much for having us out to The Range!",
-    "duration": "P01H40M02S"
+    ]
 }

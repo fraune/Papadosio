@@ -1,76 +1,50 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-at-resonance-2016-923-thornville-oh",
-    "name": "Live at Resonance 2016 - 9.23 - Thornville, OH",
-    "dateModified": "03 Aug 2017 16:23:15 GMT",
-    "numTracks": 8,
-    "track": [
+    "album_name": "Live at Resonance 2016 - 9.23 - Thornville, OH",
+    "album_link": "https://papadosio.bandcamp.com/album/live-at-resonance-2016-923-thornville-oh",
+    "date_modified": "03 Aug 2017 16:23:15 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3712514046_10.jpg",
+    "date_published": "04 Oct 2016 00:00:00 GMT",
+    "album_duration": "P01H29M07S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Lack of Everything",
-                "duration": "P00H07M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-16"
-            }
+            "track_name": "The Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-16",
+            "track_duration": "P00H07M10S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H07M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-102"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-102",
+            "track_duration": "P00H07M29S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H16M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-47"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-47",
+            "track_duration": "P00H16M00S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Ritual",
-                "duration": "P00H10M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-27"
-            }
+            "track_name": "Ritual",
+            "track_link": "https://papadosio.bandcamp.com/track/ritual-27",
+            "track_duration": "P00H10M06S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Richard D. Jams",
-                "duration": "P00H07M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/richard-d-jams"
-            }
+            "track_name": "Richard D. Jams",
+            "track_link": "https://papadosio.bandcamp.com/track/richard-d-jams",
+            "track_duration": "P00H07M20S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H10M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-39"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-39",
+            "track_duration": "P00H10M41S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H21M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-51"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-51",
+            "track_duration": "P00H21M58S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H08M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-32"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-32",
+            "track_duration": "P00H08M23S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3712514046_10.jpg",
-    "datePublished": "04 Oct 2016 00:00:00 GMT",
-    "description": null,
-    "duration": "P01H29M07S"
+    ]
 }

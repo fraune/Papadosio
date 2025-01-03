@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2013-12-28-the-norva-norfolk-va",
-    "name": "2013-12-28 - The NorVa - Norfolk, VA",
-    "dateModified": "30 Apr 2015 18:09:20 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "2013-12-28 - The NorVa - Norfolk, VA",
+    "album_link": "https://papadosio.bandcamp.com/album/2013-12-28-the-norva-norfolk-va",
+    "date_modified": "30 Apr 2015 18:09:20 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2133498374_10.jpg",
+    "date_published": "21 Jan 2014 00:00:00 GMT",
+    "album_duration": "P02H02M27S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H15M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-17"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-17",
+            "track_duration": "P00H15M56S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H10M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-13"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-13",
+            "track_duration": "P00H10M41S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "We Choose",
-                "duration": "P00H06M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-8"
-            }
+            "track_name": "We Choose",
+            "track_link": "https://papadosio.bandcamp.com/track/we-choose-8",
+            "track_duration": "P00H06M34S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Oracle Theme",
-                "duration": "P00H09M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-9"
-            }
+            "track_name": "Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/oracle-theme-9",
+            "track_duration": "P00H09M21S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Hippy Babysitter",
-                "duration": "P00H12M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippy-babysitter"
-            }
+            "track_name": "Hippy Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippy-babysitter",
+            "track_duration": "P00H12M34S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H18M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-20"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-20",
+            "track_duration": "P00H18M55S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "How Not to Float",
-                "duration": "P00H15M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-10"
-            }
+            "track_name": "How Not to Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-10",
+            "track_duration": "P00H15M58S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H10M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-19"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-19",
+            "track_duration": "P00H10M06S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "If It Wasn't For You",
-                "duration": "P00H08M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-16"
-            }
+            "track_name": "If It Wasn't For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-16",
+            "track_duration": "P00H08M56S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H13M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-10"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-10",
+            "track_duration": "P00H13M26S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2133498374_10.jpg",
-    "datePublished": "21 Jan 2014 00:00:00 GMT",
-    "description": "Recorded live at the NorVA - Norfolk, VA\r\nDecember 28th, 2013",
-    "duration": "P02H02M27S"
+    ]
 }

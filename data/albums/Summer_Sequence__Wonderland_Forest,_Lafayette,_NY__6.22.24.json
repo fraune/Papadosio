@@ -1,84 +1,55 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/summer-sequence-wonderland-forest-lafayette-ny-62224",
-    "name": "Summer Sequence | Wonderland Forest, Lafayette, NY | 6.22.24",
-    "dateModified": "26 Jun 2024 18:27:33 GMT",
-    "numTracks": 9,
-    "track": [
+    "album_name": "Summer Sequence | Wonderland Forest, Lafayette, NY | 6.22.24",
+    "album_link": "https://papadosio.bandcamp.com/album/summer-sequence-wonderland-forest-lafayette-ny-62224",
+    "date_modified": "26 Jun 2024 18:27:33 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2776528439_10.jpg",
+    "date_published": "26 Jun 2024 18:27:34 GMT",
+    "album_duration": "P01H24M29S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Versicolor",
-                "duration": "P00H09M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-52"
-            }
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-52",
+            "track_duration": "P00H09M43S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H07M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-95"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-95",
+            "track_duration": "P00H07M47S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H14M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-142"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-142",
+            "track_duration": "P00H14M33S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Each And Every Wave",
-                "duration": "P00H07M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-34"
-            }
+            "track_name": "Each And Every Wave",
+            "track_link": "https://papadosio.bandcamp.com/track/each-and-every-wave-34",
+            "track_duration": "P00H07M09S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "People As Trees",
-                "duration": "P00H06M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/people-as-trees-3"
-            }
+            "track_name": "People As Trees",
+            "track_link": "https://papadosio.bandcamp.com/track/people-as-trees-3",
+            "track_duration": "P00H06M02S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H10M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-37"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-37",
+            "track_duration": "P00H10M32S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H10M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-56"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-56",
+            "track_duration": "P00H10M13S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Dare You",
-                "duration": "P00H07M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-35"
-            }
+            "track_name": "Dare You",
+            "track_link": "https://papadosio.bandcamp.com/track/dare-you-35",
+            "track_duration": "P00H07M12S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H11M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-78"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-78",
+            "track_duration": "P00H11M18S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2776528439_10.jpg",
-    "datePublished": "26 Jun 2024 18:27:34 GMT",
-    "description": "Night TWO: We survived the thunderstorm! Really special clearing the weather with you all!",
-    "duration": "P01H24M29S"
+    ]
 }

@@ -1,60 +1,40 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-from-that-tent-bonnaroo-2016",
-    "name": "Live from That Tent - Bonnaroo 2016",
-    "dateModified": "16 Jun 2016 23:45:42 GMT",
-    "numTracks": 6,
-    "track": [
+    "album_name": "Live from That Tent - Bonnaroo 2016",
+    "album_link": "https://papadosio.bandcamp.com/album/live-from-that-tent-bonnaroo-2016",
+    "date_modified": "16 Jun 2016 23:45:42 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1188038150_10.jpg",
+    "date_published": "16 Jun 2016 23:45:42 GMT",
+    "album_duration": "P01H02M02S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Direction Song",
-                "duration": "P00H16M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-43"
-            }
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-43",
+            "track_duration": "P00H16M27S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H09M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-80"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-80",
+            "track_duration": "P00H09M41S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Wrong Nostalgia",
-                "duration": "P00H04M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-25"
-            }
+            "track_name": "The Wrong Nostalgia",
+            "track_link": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-25",
+            "track_duration": "P00H04M59S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H12M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-68"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-68",
+            "track_duration": "P00H12M30S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-66"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-66",
+            "track_duration": "P00H09M40S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H08M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-98"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-98",
+            "track_duration": "P00H08M45S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1188038150_10.jpg",
-    "datePublished": "16 Jun 2016 23:45:42 GMT",
-    "description": null,
-    "duration": "P01H02M02S"
+    ]
 }

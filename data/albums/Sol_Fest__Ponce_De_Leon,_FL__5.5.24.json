@@ -1,68 +1,45 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/sol-fest-ponce-de-leon-fl-5524",
-    "name": "Sol Fest | Ponce De Leon, FL | 5.5.24",
-    "dateModified": "08 May 2024 14:23:30 GMT",
-    "numTracks": 7,
-    "track": [
+    "album_name": "Sol Fest | Ponce De Leon, FL | 5.5.24",
+    "album_link": "https://papadosio.bandcamp.com/album/sol-fest-ponce-de-leon-fl-5524",
+    "date_modified": "08 May 2024 14:23:30 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0442212501_10.jpg",
+    "date_published": "08 May 2024 14:23:30 GMT",
+    "album_duration": "P01H00M45S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Advocate Of Change",
-                "duration": "P00H12M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-122"
-            }
+            "track_name": "Advocate Of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-122",
+            "track_duration": "P00H12M59S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Zoom Out",
-                "duration": "P00H10M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/zoom-out-27"
-            }
+            "track_name": "Zoom Out",
+            "track_link": "https://papadosio.bandcamp.com/track/zoom-out-27",
+            "track_duration": "P00H10M04S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Shiitake",
-                "duration": "P00H07M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-44"
-            }
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-44",
+            "track_duration": "P00H07M42S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Xanadu",
-                "duration": "P00H06M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/xanadu-20"
-            }
+            "track_name": "Xanadu",
+            "track_link": "https://papadosio.bandcamp.com/track/xanadu-20",
+            "track_duration": "P00H06M08S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-170"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-170",
+            "track_duration": "P00H08M10S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H08M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-127"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-127",
+            "track_duration": "P00H08M07S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Versicolor",
-                "duration": "P00H07M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-51"
-            }
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-51",
+            "track_duration": "P00H07M35S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0442212501_10.jpg",
-    "datePublished": "08 May 2024 14:23:30 GMT",
-    "description": "Heat. Thanks Sol Fest!!!",
-    "duration": "P01H00M45S"
+    ]
 }

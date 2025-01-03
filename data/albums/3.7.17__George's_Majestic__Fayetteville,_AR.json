@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/3717-georges-majestic-fayetteville-ar",
-    "name": "3.7.17 | George's Majestic | Fayetteville, AR",
-    "dateModified": "08 Mar 2017 23:10:38 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "3.7.17 | George's Majestic | Fayetteville, AR",
+    "album_link": "https://papadosio.bandcamp.com/album/3717-georges-majestic-fayetteville-ar",
+    "date_modified": "08 Mar 2017 23:10:38 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3938431189_10.jpg",
+    "date_published": "08 Mar 2017 23:10:38 GMT",
+    "album_duration": "P01H59M50S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H18M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-93"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-93",
+            "track_duration": "P00H18M54S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H07M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-69"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-69",
+            "track_duration": "P00H07M55S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Ritual",
-                "duration": "P00H11M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-32"
-            }
+            "track_name": "Ritual",
+            "track_link": "https://papadosio.bandcamp.com/track/ritual-32",
+            "track_duration": "P00H11M50S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Epiphany",
-                "duration": "P00H09M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-37"
-            }
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-37",
+            "track_duration": "P00H09M55S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H10M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-49"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-49",
+            "track_duration": "P00H10M00S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Oblivion",
-                "duration": "P00H06M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-17"
-            }
+            "track_name": "Oblivion",
+            "track_link": "https://papadosio.bandcamp.com/track/oblivion-17",
+            "track_duration": "P00H06M26S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H08M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-19"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-19",
+            "track_duration": "P00H08M36S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H08M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-21"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-21",
+            "track_duration": "P00H08M35S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H19M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-46"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-46",
+            "track_duration": "P00H19M44S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H17M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-41"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-41",
+            "track_duration": "P00H17M55S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3938431189_10.jpg",
-    "datePublished": "08 Mar 2017 23:10:38 GMT",
-    "description": "Recorded on March 7th, 2017 at George's Majestic Theatre in Fayetteville, AR. \r\n\r\nPattern Integrities Spring Tour 2017. \r\n\r\nAll material was written and recorded by Papadosio.",
-    "duration": "P01H59M50S"
+    ]
 }

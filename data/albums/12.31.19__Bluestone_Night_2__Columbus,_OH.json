@@ -1,156 +1,100 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/123119-bluestone-night-2-columbus-oh",
-    "name": "12.31.19 | Bluestone Night 2 | Columbus, OH",
-    "dateModified": "07 Jan 2020 16:33:33 GMT",
-    "numTracks": 18,
-    "track": [
+    "album_name": "12.31.19 | Bluestone Night 2 | Columbus, OH",
+    "album_link": "https://papadosio.bandcamp.com/album/123119-bluestone-night-2-columbus-oh",
+    "date_modified": "07 Jan 2020 16:33:33 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2064983869_10.jpg",
+    "date_published": "07 Jan 2020 16:33:33 GMT",
+    "album_duration": "P02H19M21S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H02M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-79"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-79",
+            "track_duration": "P00H02M19S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H08M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-70"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-70",
+            "track_duration": "P00H08M58S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Epiphany",
-                "duration": "P00H08M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-52"
-            }
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-52",
+            "track_duration": "P00H08M53S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H05M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-71"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-71",
+            "track_duration": "P00H05M54S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H08M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-55"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-55",
+            "track_duration": "P00H08M25S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Method Of Control",
-                "duration": "P00H07M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-103"
-            }
+            "track_name": "Method Of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-103",
+            "track_duration": "P00H07M32S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H05M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-130"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-130",
+            "track_duration": "P00H05M51S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H07M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-82"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-82",
+            "track_duration": "P00H07M25S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H02M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-131"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-131",
+            "track_duration": "P00H02M38S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Smile And Nod",
-                "duration": "P00H02M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-83"
-            }
+            "track_name": "Smile And Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-83",
+            "track_duration": "P00H02M40S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H06M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-102"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-102",
+            "track_duration": "P00H06M48S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H11M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-90"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-90",
+            "track_duration": "P00H11M29S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Right Now",
-                "duration": "P00H08M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-32"
-            }
+            "track_name": "Right Now",
+            "track_link": "https://papadosio.bandcamp.com/track/right-now-32",
+            "track_duration": "P00H08M03S"
         },
         {
-            "position": 14,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H13M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-133"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-133",
+            "track_duration": "P00H13M32S"
         },
         {
-            "position": 15,
-            "item": {
-                "name": "The Lack Of Everything",
-                "duration": "P00H06M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-43"
-            }
+            "track_name": "The Lack Of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-43",
+            "track_duration": "P00H06M08S"
         },
         {
-            "position": 16,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H17M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-77"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-77",
+            "track_duration": "P00H17M14S"
         },
         {
-            "position": 17,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H04M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-134"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-134",
+            "track_duration": "P00H04M17S"
         },
         {
-            "position": 18,
-            "item": {
-                "name": "Catalyst",
-                "duration": "P00H11M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-14"
-            }
+            "track_name": "Catalyst",
+            "track_link": "https://papadosio.bandcamp.com/track/catalyst-14",
+            "track_duration": "P00H11M15S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2064983869_10.jpg",
-    "datePublished": "07 Jan 2020 16:33:33 GMT",
-    "description": "This album was recorded on December 31st, 2019. Thanks for everyone who came out to celebrate the new year with us!",
-    "duration": "P02H19M21S"
+    ]
 }

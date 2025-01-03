@@ -1,84 +1,55 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/magreenery",
-    "name": "Magreenery",
-    "dateModified": "13 Nov 2014 07:29:36 GMT",
-    "numTracks": 9,
-    "track": [
+    "album_name": "Magreenery",
+    "album_link": "https://papadosio.bandcamp.com/album/magreenery",
+    "date_modified": "13 Nov 2014 07:29:36 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1263609003_10.jpg",
+    "date_published": "11 Sep 2007 00:00:00 GMT",
+    "album_duration": "P01H01M25S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H08M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug",
+            "track_duration": "P00H08M15S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H07M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery",
+            "track_duration": "P00H07M30S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Big Smile",
-                "duration": "P00H06M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-big-smile"
-            }
+            "track_name": "The Big Smile",
+            "track_link": "https://papadosio.bandcamp.com/track/the-big-smile",
+            "track_duration": "P00H06M12S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H06M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse",
+            "track_duration": "P00H06M19S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "_",
-                "duration": "P00H02M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/-"
-            }
+            "track_name": "_",
+            "track_link": "https://papadosio.bandcamp.com/track/-",
+            "track_duration": "P00H02M24S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H08M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate",
+            "track_duration": "P00H08M51S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H08M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve",
+            "track_duration": "P00H08M14S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "PhDeez",
-                "duration": "P00H06M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/phdeez"
-            }
+            "track_name": "PhDeez",
+            "track_link": "https://papadosio.bandcamp.com/track/phdeez",
+            "track_duration": "P00H06M00S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H07M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons",
+            "track_duration": "P00H07M40S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1263609003_10.jpg",
-    "datePublished": "11 Sep 2007 00:00:00 GMT",
-    "description": null,
-    "duration": "P01H01M25S"
+    ]
 }

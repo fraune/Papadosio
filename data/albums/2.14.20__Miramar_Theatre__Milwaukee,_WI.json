@@ -1,84 +1,55 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/21420-miramar-theatre-milwaukee-wi",
-    "name": "2.14.20 | Miramar Theatre | Milwaukee, WI",
-    "dateModified": "25 Feb 2020 18:42:59 GMT",
-    "numTracks": 9,
-    "track": [
+    "album_name": "2.14.20 | Miramar Theatre | Milwaukee, WI",
+    "album_link": "https://papadosio.bandcamp.com/album/21420-miramar-theatre-milwaukee-wi",
+    "date_modified": "25 Feb 2020 18:42:59 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3655580794_10.jpg",
+    "date_published": "25 Feb 2020 18:42:59 GMT",
+    "album_duration": "P01H45M12S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H02M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-83"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-83",
+            "track_duration": "P00H02M46S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H17M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-92"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-92",
+            "track_duration": "P00H17M12S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Puddles For Oceans",
-                "duration": "P00H12M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-67"
-            }
+            "track_name": "Puddles For Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-67",
+            "track_duration": "P00H12M44S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "...And This is What He Thought",
-                "duration": "P00H03M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-37"
-            }
+            "track_name": "...And This is What He Thought",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-37",
+            "track_duration": "P00H03M13S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H10M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-34"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-34",
+            "track_duration": "P00H10M24S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "By The Light of The Stars",
-                "duration": "P00H09M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-70"
-            }
+            "track_name": "By The Light of The Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-70",
+            "track_duration": "P00H09M52S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Fanfare for the Rain People",
-                "duration": "P00H09M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-28"
-            }
+            "track_name": "Fanfare for the Rain People",
+            "track_link": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-28",
+            "track_duration": "P00H09M26S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H16M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-72"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-72",
+            "track_duration": "P00H16M18S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H23M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-69"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-69",
+            "track_duration": "P00H23M17S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3655580794_10.jpg",
-    "datePublished": "25 Feb 2020 18:42:59 GMT",
-    "description": "This album was recorded on February 14th, 2020 at The Miramar Theatre in Milwaukee, WI! Thanks to everybody who came out to enjoy the show and thanks for Chachuba for opening the night up!",
-    "duration": "P01H45M12S"
+    ]
 }

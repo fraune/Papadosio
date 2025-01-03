@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/11819-animas-city-theatre-durango-co",
-    "name": "1.18.19 | Animas City Theatre | Durango, CO",
-    "dateModified": "31 Jan 2019 23:25:32 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "1.18.19 | Animas City Theatre | Durango, CO",
+    "album_link": "https://papadosio.bandcamp.com/album/11819-animas-city-theatre-durango-co",
+    "date_modified": "31 Jan 2019 23:25:32 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0111618063_10.jpg",
+    "date_published": "30 Jan 2019 00:00:00 GMT",
+    "album_duration": "P01H49M44S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H03M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-60"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-60",
+            "track_duration": "P00H03M30S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H10M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-17"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-17",
+            "track_duration": "P00H10M49S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H14M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-124"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-124",
+            "track_duration": "P00H14M42S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H02M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-16"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-16",
+            "track_duration": "P00H02M28S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H06M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-68"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-68",
+            "track_duration": "P00H06M11S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H06M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-45"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-45",
+            "track_duration": "P00H06M02S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Frequence",
-                "duration": "P00H15M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-42"
-            }
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-42",
+            "track_duration": "P00H15M32S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Liminal Daybreak",
-                "duration": "P00H05M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/liminal-daybreak-14"
-            }
+            "track_name": "Liminal Daybreak",
+            "track_link": "https://papadosio.bandcamp.com/track/liminal-daybreak-14",
+            "track_duration": "P00H05M10S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "If It Wasn't For You",
-                "duration": "P00H08M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-52"
-            }
+            "track_name": "If It Wasn't For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-52",
+            "track_duration": "P00H08M14S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Just Like The Days",
-                "duration": "P00H05M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/just-like-the-days-7"
-            }
+            "track_name": "Just Like The Days",
+            "track_link": "https://papadosio.bandcamp.com/track/just-like-the-days-7",
+            "track_duration": "P00H05M11S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H13M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-74"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-74",
+            "track_duration": "P00H13M19S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Fanfare for the Rain People",
-                "duration": "P00H08M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-15"
-            }
+            "track_name": "Fanfare for the Rain People",
+            "track_link": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-15",
+            "track_duration": "P00H08M51S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H09M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-131"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-131",
+            "track_duration": "P00H09M45S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0111618063_10.jpg",
-    "datePublished": "30 Jan 2019 00:00:00 GMT",
-    "description": "This show was recorded on Night one of our two night run in Durango, CO on the opening night of our Colorado 2019 run. Thanks to our buddies Cycles for opening the night up & thanks to everybody who made it out to the shows!",
-    "duration": "P01H49M44S"
+    ]
 }

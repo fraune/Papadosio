@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/acoustic-live",
-    "name": "Acoustic Live",
-    "dateModified": "07 Jun 2022 14:35:15 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Acoustic Live",
+    "album_link": "https://papadosio.bandcamp.com/album/acoustic-live",
+    "date_modified": "07 Jun 2022 14:35:15 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3588890395_10.jpg",
+    "date_published": "03 Jun 2022 00:00:00 GMT",
+    "album_duration": "P01H45M49S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H16M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-79"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-79",
+            "track_duration": "P00H16M07S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H07M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-116"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-116",
+            "track_duration": "P00H07M37S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "We Can Always Come Back",
-                "duration": "P00H10M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-41"
-            }
+            "track_name": "We Can Always Come Back",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back-41",
+            "track_duration": "P00H10M43S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Epiphany",
-                "duration": "P00H10M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-57"
-            }
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-57",
+            "track_duration": "P00H10M12S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Elephant I Presume",
-                "duration": "P00H08M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-24"
-            }
+            "track_name": "The Elephant I Presume",
+            "track_link": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-24",
+            "track_duration": "P00H08M20S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H13M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-67"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-67",
+            "track_duration": "P00H13M46S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "All I Knew feat. Melanie Dewey",
-                "duration": "P00H07M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-feat-melanie-dewey"
-            }
+            "track_name": "All I Knew feat. Melanie Dewey",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-feat-melanie-dewey",
+            "track_duration": "P00H07M33S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Obove",
-                "duration": "P00H03M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-25"
-            }
+            "track_name": "Obove",
+            "track_link": "https://papadosio.bandcamp.com/track/obove-25",
+            "track_duration": "P00H03M08S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H10M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-116"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-116",
+            "track_duration": "P00H10M05S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H12M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-104"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-104",
+            "track_duration": "P00H12M31S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H05M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-65"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-65",
+            "track_duration": "P00H05M47S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3588890395_10.jpg",
-    "datePublished": "03 Jun 2022 00:00:00 GMT",
-    "description": "Papadosio presents Acoustic Live, an eleven-track album captured during their 2022 four-night run at City Winery in Atlanta, GA and Nashville, TN. The LP features the band's curated selections from the series performed in rare acoustic splendor, with fan favorites such as Epiphany, The Elephant I Presume, Unparalyzer, and Mr. Turtles Cloud Kingdom. Eclectic instrumentation takes the spotlight to reveal a more mellow side of these familiar songs, now available on all major platforms.\r\n\r\n\"The sublime acoustic recordings featured on Acoustic Live feature delicate reimaginings of fan-favorite Papadosio compositions. The 11-track live document also hosts deep cuts from 2015’s Extras In A Movie, with Dosio focusing on time-tested classics.\" \r\n—Live for Live Music",
-    "duration": "P01H45M49S"
+    ]
 }

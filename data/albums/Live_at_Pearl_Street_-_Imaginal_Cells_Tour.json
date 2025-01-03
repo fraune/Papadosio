@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-at-pearl-street-imaginal-cells-tour",
-    "name": "Live at Pearl Street - Imaginal Cells Tour",
-    "dateModified": "26 Oct 2014 22:03:50 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Live at Pearl Street - Imaginal Cells Tour",
+    "album_link": "https://papadosio.bandcamp.com/album/live-at-pearl-street-imaginal-cells-tour",
+    "date_modified": "26 Oct 2014 22:03:50 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3660408539_10.jpg",
+    "date_published": "26 Oct 2014 00:00:00 GMT",
+    "album_duration": "P01H48M41S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-49"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-49",
+            "track_duration": "P00H10M28S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H10M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-35"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-35",
+            "track_duration": "P00H10M00S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H09M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-31"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-31",
+            "track_duration": "P00H09M10S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H10M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-28"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-28",
+            "track_duration": "P00H10M01S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H07M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-37"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-37",
+            "track_duration": "P00H07M23S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Smile n' Nod",
-                "duration": "P00H08M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-n-nod"
-            }
+            "track_name": "Smile n' Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-n-nod",
+            "track_duration": "P00H08M50S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H13M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-32"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-32",
+            "track_duration": "P00H13M21S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "PH Deez",
-                "duration": "P00H06M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ph-deez-2"
-            }
+            "track_name": "PH Deez",
+            "track_link": "https://papadosio.bandcamp.com/track/ph-deez-2",
+            "track_duration": "P00H06M31S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H10M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-27"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-27",
+            "track_duration": "P00H10M39S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H12M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-36"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-36",
+            "track_duration": "P00H12M51S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H09M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-18"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-18",
+            "track_duration": "P00H09M27S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3660408539_10.jpg",
-    "datePublished": "26 Oct 2014 00:00:00 GMT",
-    "description": "Live at Pearl Street - Imaginal Cells Tour\r\n10.16.14 - Northhampton, MA\r\nw/ Twiddle",
-    "duration": "P01H48M41S"
+    ]
 }

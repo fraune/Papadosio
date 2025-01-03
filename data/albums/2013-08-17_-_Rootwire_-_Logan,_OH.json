@@ -1,164 +1,105 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2013-08-17-rootwire-logan-oh",
-    "name": "2013-08-17 - Rootwire - Logan, OH",
-    "dateModified": "21 Jul 2014 07:34:14 GMT",
-    "numTracks": 19,
-    "track": [
+    "album_name": "2013-08-17 - Rootwire - Logan, OH",
+    "album_link": "https://papadosio.bandcamp.com/album/2013-08-17-rootwire-logan-oh",
+    "date_modified": "21 Jul 2014 07:34:14 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2056625708_10.jpg",
+    "date_published": "22 Aug 2013 00:00:00 GMT",
+    "album_duration": "P02H30M33S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H08M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-10"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-10",
+            "track_duration": "P00H08M28S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Ear 2 Ear",
-                "duration": "P00H07M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-2-ear"
-            }
+            "track_name": "Ear 2 Ear",
+            "track_link": "https://papadosio.bandcamp.com/track/ear-2-ear",
+            "track_duration": "P00H07M28S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Right Now",
-                "duration": "P00H08M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-5"
-            }
+            "track_name": "Right Now",
+            "track_link": "https://papadosio.bandcamp.com/track/right-now-5",
+            "track_duration": "P00H08M04S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H10M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-5"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-5",
+            "track_duration": "P00H10M04S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "What's At Stake*",
-                "duration": "P00H04M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/whats-at-stake"
-            }
+            "track_name": "What's At Stake*",
+            "track_link": "https://papadosio.bandcamp.com/track/whats-at-stake",
+            "track_duration": "P00H04M48S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "The Lack of Everything",
-                "duration": "P00H06M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-2"
-            }
+            "track_name": "The Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-2",
+            "track_duration": "P00H06M56S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Holy Heck",
-                "duration": "P00H05M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-5"
-            }
+            "track_name": "Holy Heck",
+            "track_link": "https://papadosio.bandcamp.com/track/holy-heck-5",
+            "track_duration": "P00H05M01S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H07M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-5"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-5",
+            "track_duration": "P00H07M21S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-11"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-11",
+            "track_duration": "P00H08M18S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H06M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion",
+            "track_duration": "P00H06M58S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H08M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-10"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-10",
+            "track_duration": "P00H08M04S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Oracle Theme",
-                "duration": "P00H07M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-4"
-            }
+            "track_name": "Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/oracle-theme-4",
+            "track_duration": "P00H07M00S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H07M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-2"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-2",
+            "track_duration": "P00H07M52S"
         },
         {
-            "position": 14,
-            "item": {
-                "name": "If It Wasn't For You",
-                "duration": "P00H08M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-14"
-            }
+            "track_name": "If It Wasn't For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-14",
+            "track_duration": "P00H08M44S"
         },
         {
-            "position": 15,
-            "item": {
-                "name": "Madre de Dios",
-                "duration": "P00H04M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-2"
-            }
+            "track_name": "Madre de Dios",
+            "track_link": "https://papadosio.bandcamp.com/track/madre-de-dios-2",
+            "track_duration": "P00H04M46S"
         },
         {
-            "position": 16,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H07M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-3"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-3",
+            "track_duration": "P00H07M02S"
         },
         {
-            "position": 17,
-            "item": {
-                "name": "We Choose*",
-                "duration": "P00H07M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose"
-            }
+            "track_name": "We Choose*",
+            "track_link": "https://papadosio.bandcamp.com/track/we-choose",
+            "track_duration": "P00H07M12S"
         },
         {
-            "position": 18,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H13M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-6"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-6",
+            "track_duration": "P00H13M04S"
         },
         {
-            "position": 19,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H13M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-7"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-7",
+            "track_duration": "P00H13M23S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2056625708_10.jpg",
-    "datePublished": "22 Aug 2013 00:00:00 GMT",
-    "description": null,
-    "duration": "P02H30M33S"
+    ]
 }

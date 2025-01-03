@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/10-mile-music-hall-frisco-co-12822",
-    "name": "10 Mile Music Hall | Frisco, CO | 12.8.22",
-    "dateModified": "02 Jan 2023 14:36:18 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "10 Mile Music Hall | Frisco, CO | 12.8.22",
+    "album_link": "https://papadosio.bandcamp.com/album/10-mile-music-hall-frisco-co-12822",
+    "date_modified": "02 Jan 2023 14:36:18 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2941055875_10.jpg",
+    "date_published": "02 Jan 2023 14:36:18 GMT",
+    "album_duration": "P02H00M36S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Cubensis",
-                "duration": "P00H15M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-28"
-            }
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis-28",
+            "track_duration": "P00H15M58S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H14M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-117"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-117",
+            "track_duration": "P00H14M02S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Zoom Out",
-                "duration": "P00H08M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/zoom-out-4"
-            }
+            "track_name": "Zoom Out",
+            "track_link": "https://papadosio.bandcamp.com/track/zoom-out-4",
+            "track_duration": "P00H08M43S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Fly Agaric",
-                "duration": "P00H09M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agaric-23"
-            }
+            "track_name": "Fly Agaric",
+            "track_link": "https://papadosio.bandcamp.com/track/fly-agaric-23",
+            "track_duration": "P00H09M56S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Chaga",
-                "duration": "P00H05M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/chaga-20"
-            }
+            "track_name": "Chaga",
+            "track_link": "https://papadosio.bandcamp.com/track/chaga-20",
+            "track_duration": "P00H05M41S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "You And Yourself",
-                "duration": "P00H15M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-73"
-            }
+            "track_name": "You And Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-73",
+            "track_duration": "P00H15M14S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-115"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-115",
+            "track_duration": "P00H07M11S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H10M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-60"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-60",
+            "track_duration": "P00H10M06S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H14M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-61"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-61",
+            "track_duration": "P00H14M49S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H09M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-161"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-161",
+            "track_duration": "P00H09M46S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H09M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-118"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-118",
+            "track_duration": "P00H09M10S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2941055875_10.jpg",
-    "datePublished": "02 Jan 2023 14:36:18 GMT",
-    "description": "Great to be back up up UP in the mountains. Thanks everyone who came out!",
-    "duration": "P02H00M36S"
+    ]
 }

@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-at-wakarusa-2013-revival-tent-ozark-ar",
-    "name": "Live at Wakarusa 2013 - Revival Tent - Ozark, AR",
-    "dateModified": "03 Mar 2014 10:44:28 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Live at Wakarusa 2013 - Revival Tent - Ozark, AR",
+    "album_link": "https://papadosio.bandcamp.com/album/live-at-wakarusa-2013-revival-tent-ozark-ar",
+    "date_modified": "03 Mar 2014 10:44:28 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1765975102_10.jpg",
+    "date_published": "07 Jun 2013 00:00:00 GMT",
+    "album_duration": "P01H35M52S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H09M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-4"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-4",
+            "track_duration": "P00H09M55S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H11M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-3"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-3",
+            "track_duration": "P00H11M07S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H07M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-5"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-5",
+            "track_duration": "P00H07M20S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "New Love*",
-                "duration": "P00H09M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love"
-            }
+            "track_name": "New Love*",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love",
+            "track_duration": "P00H09M40S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Oracle Theme",
-                "duration": "P00H06M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-2"
-            }
+            "track_name": "Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/oracle-theme-2",
+            "track_duration": "P00H06M22S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Do the Muddy Waka (improv)",
-                "duration": "P00H03M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/do-the-muddy-waka-improv"
-            }
+            "track_name": "Do the Muddy Waka (improv)",
+            "track_link": "https://papadosio.bandcamp.com/track/do-the-muddy-waka-improv",
+            "track_duration": "P00H03M15S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H06M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-4"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-4",
+            "track_duration": "P00H06M11S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Dream Estate*",
-                "duration": "P00H07M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate"
-            }
+            "track_name": "Dream Estate*",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate",
+            "track_duration": "P00H07M13S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-7"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-7",
+            "track_duration": "P00H08M21S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H14M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-3"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-3",
+            "track_duration": "P00H14M09S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H12M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-5"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-5",
+            "track_duration": "P00H12M19S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1765975102_10.jpg",
-    "datePublished": "07 Jun 2013 00:00:00 GMT",
-    "description": "Papadosio returned for Wakarusa 2013 to play the late night slot in the Revival Tent after 3 days of rain and tornados. Here's what went down!",
-    "duration": "P01H35M52S"
+    ]
 }

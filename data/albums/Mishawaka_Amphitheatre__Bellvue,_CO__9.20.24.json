@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/mishawaka-amphitheatre-bellvue-co-92024",
-    "name": "Mishawaka Amphitheatre | Bellvue, CO | 9.20.24",
-    "dateModified": "25 Sep 2024 20:21:22 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "Mishawaka Amphitheatre | Bellvue, CO | 9.20.24",
+    "album_link": "https://papadosio.bandcamp.com/album/mishawaka-amphitheatre-bellvue-co-92024",
+    "date_modified": "25 Sep 2024 20:21:22 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0887427960_10.jpg",
+    "date_published": "25 Sep 2024 20:21:22 GMT",
+    "album_duration": "P01H55M46S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Fly Agaric",
-                "duration": "P00H15M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agaric-47"
-            }
+            "track_name": "Fly Agaric",
+            "track_link": "https://papadosio.bandcamp.com/track/fly-agaric-47",
+            "track_duration": "P00H15M14S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H06M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-108"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-108",
+            "track_duration": "P00H06M42S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Fly Agaric",
-                "duration": "P00H01M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agaric-48"
-            }
+            "track_name": "Fly Agaric",
+            "track_link": "https://papadosio.bandcamp.com/track/fly-agaric-48",
+            "track_duration": "P00H01M41S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Everyone Is Cool",
-                "duration": "P00H07M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/everyone-is-cool-28"
-            }
+            "track_name": "Everyone Is Cool",
+            "track_link": "https://papadosio.bandcamp.com/track/everyone-is-cool-28",
+            "track_duration": "P00H07M54S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H08M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-108"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-108",
+            "track_duration": "P00H08M30S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H11M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-39"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-39",
+            "track_duration": "P00H11M05S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H11M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-100"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-100",
+            "track_duration": "P00H11M24S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H09M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-81"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-81",
+            "track_duration": "P00H09M49S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Not Just A Word",
-                "duration": "P00H09M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-42"
-            }
+            "track_name": "Not Just A Word",
+            "track_link": "https://papadosio.bandcamp.com/track/not-just-a-word-42",
+            "track_duration": "P00H09M22S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Versicolor",
-                "duration": "P00H07M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-55"
-            }
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-55",
+            "track_duration": "P00H07M33S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H13M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-89"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-89",
+            "track_duration": "P00H13M03S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Advocate Of Change",
-                "duration": "P00H10M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-124"
-            }
+            "track_name": "Advocate Of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-124",
+            "track_duration": "P00H10M24S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H03M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-109"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-109",
+            "track_duration": "P00H03M05S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0887427960_10.jpg",
-    "datePublished": "25 Sep 2024 20:21:22 GMT",
-    "description": "Life affirming weekend at the Mish! Thank you so much for everyone who came out for our first ever performance at this amazing venue. We really look forward to another opportunity to play here with you all again! Heres night one of two...",
-    "duration": "P01H55M46S"
+    ]
 }

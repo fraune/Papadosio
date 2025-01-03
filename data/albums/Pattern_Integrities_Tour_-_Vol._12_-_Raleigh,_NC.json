@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/pattern-integrities-tour-vol-12-raleigh-nc",
-    "name": "Pattern Integrities Tour - Vol. 12 - Raleigh, NC",
-    "dateModified": "20 Nov 2016 02:49:59 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "Pattern Integrities Tour - Vol. 12 - Raleigh, NC",
+    "album_link": "https://papadosio.bandcamp.com/album/pattern-integrities-tour-vol-12-raleigh-nc",
+    "date_modified": "20 Nov 2016 02:49:59 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2971854386_10.jpg",
+    "date_published": "19 Nov 2016 00:00:00 GMT",
+    "album_duration": "P02H01M35S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H02M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-34"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-34",
+            "track_duration": "P00H02M08S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "By the Light of the Stars",
-                "duration": "P00H14M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-43"
-            }
+            "track_name": "By the Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-43",
+            "track_duration": "P00H14M34S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H11M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-105"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-105",
+            "track_duration": "P00H11M49S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Omnifreeze",
-                "duration": "P00H07M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-8"
-            }
+            "track_name": "Omnifreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-8",
+            "track_duration": "P00H07M46S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H08M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-49"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-49",
+            "track_duration": "P00H08M07S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Oblivion",
-                "duration": "P00H07M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-7"
-            }
+            "track_name": "Oblivion",
+            "track_link": "https://papadosio.bandcamp.com/track/oblivion-7",
+            "track_duration": "P00H07M23S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Ritual",
-                "duration": "P00H15M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-28"
-            }
+            "track_name": "Ritual",
+            "track_link": "https://papadosio.bandcamp.com/track/ritual-28",
+            "track_duration": "P00H15M37S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H10M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-85"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-85",
+            "track_duration": "P00H10M16S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H09M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-8"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-8",
+            "track_duration": "P00H09M43S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Drift",
-                "duration": "P00H06M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-7"
-            }
+            "track_name": "Drift",
+            "track_link": "https://papadosio.bandcamp.com/track/drift-7",
+            "track_duration": "P00H06M04S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H19M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-85"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-85",
+            "track_duration": "P00H19M41S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H08M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-34"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-34",
+            "track_duration": "P00H08M27S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2971854386_10.jpg",
-    "datePublished": "19 Nov 2016 00:00:00 GMT",
-    "description": null,
-    "duration": "P02H01M35S"
+    ]
 }

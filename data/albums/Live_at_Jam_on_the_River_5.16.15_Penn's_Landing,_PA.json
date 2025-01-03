@@ -1,52 +1,35 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-at-jam-on-the-river-51615-penns-landing-pa",
-    "name": "Live at Jam on the River |5.16.15| Penn's Landing, PA",
-    "dateModified": "03 Jun 2015 19:16:22 GMT",
-    "numTracks": 5,
-    "track": [
+    "album_name": "Live at Jam on the River |5.16.15| Penn's Landing, PA",
+    "album_link": "https://papadosio.bandcamp.com/album/live-at-jam-on-the-river-51615-penns-landing-pa",
+    "date_modified": "03 Jun 2015 19:16:22 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3748135999_10.jpg",
+    "date_published": "03 Jun 2015 00:00:00 GMT",
+    "album_duration": "P00H54M18S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H10M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-60"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-60",
+            "track_duration": "P00H10M14S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "How Not To Float",
-                "duration": "P00H09M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-26"
-            }
+            "track_name": "How Not To Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-26",
+            "track_duration": "P00H09M55S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H20M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-26"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-26",
+            "track_duration": "P00H20M17S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H06M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-44"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-44",
+            "track_duration": "P00H06M35S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H07M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-34"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-34",
+            "track_duration": "P00H07M17S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3748135999_10.jpg",
-    "datePublished": "03 Jun 2015 00:00:00 GMT",
-    "description": "Live from Jam on the River 2015 - May 16th, 2015 - All music, written, performed & recorded by Papadosio © all rights reserved 2015.",
-    "duration": "P00H54M18S"
+    ]
 }

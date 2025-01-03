@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2317-revelry-room-chattanooga-tn",
-    "name": "2.3.17 | Revelry Room | Chattanooga, TN",
-    "dateModified": "05 Feb 2017 22:14:40 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "2.3.17 | Revelry Room | Chattanooga, TN",
+    "album_link": "https://papadosio.bandcamp.com/album/2317-revelry-room-chattanooga-tn",
+    "date_modified": "05 Feb 2017 22:14:40 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1083096782_10.jpg",
+    "date_published": "05 Feb 2017 00:00:00 GMT",
+    "album_duration": "P02H08M34S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "By the Light of the Stars",
-                "duration": "P00H17M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-45"
-            }
+            "track_name": "By the Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-45",
+            "track_duration": "P00H17M35S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Omnifreeze",
-                "duration": "P00H10M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-14"
-            }
+            "track_name": "Omnifreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-14",
+            "track_duration": "P00H10M14S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H17M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-92"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-92",
+            "track_duration": "P00H17M48S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H05M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-13"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-13",
+            "track_duration": "P00H05M45S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Each and Every Wave",
-                "duration": "P00H07M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-14"
-            }
+            "track_name": "Each and Every Wave",
+            "track_link": "https://papadosio.bandcamp.com/track/each-and-every-wave-14",
+            "track_duration": "P00H07M35S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H09M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-41"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-41",
+            "track_duration": "P00H09M54S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "If it Wasnt for You",
-                "duration": "P00H15M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-43"
-            }
+            "track_name": "If it Wasnt for You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-43",
+            "track_duration": "P00H15M36S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H08M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-14"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-14",
+            "track_duration": "P00H08M52S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H19M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-87"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-87",
+            "track_duration": "P00H19M42S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H15M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-60"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-60",
+            "track_duration": "P00H15M33S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1083096782_10.jpg",
-    "datePublished": "05 Feb 2017 00:00:00 GMT",
-    "description": "Recorded on February 3rd 2017 at The Revelry Room in Chattanooga, TN. \r\n\r\nPattern Integrities Spring Tour 2017 \r\n\r\nAll material was written and recorded by Papadosio.",
-    "duration": "P02H08M34S"
+    ]
 }

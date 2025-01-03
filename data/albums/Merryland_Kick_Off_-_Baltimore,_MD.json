@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/merryland-kick-off-baltimore-md",
-    "name": "Merryland Kick Off - Baltimore, MD",
-    "dateModified": "25 Jul 2016 00:04:39 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Merryland Kick Off - Baltimore, MD",
+    "album_link": "https://papadosio.bandcamp.com/album/merryland-kick-off-baltimore-md",
+    "date_modified": "25 Jul 2016 00:04:39 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1560131380_10.jpg",
+    "date_published": "25 Jul 2016 00:00:00 GMT",
+    "album_duration": "P02H03M31S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Ritual",
-                "duration": "P00H10M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-26"
-            }
+            "track_name": "Ritual",
+            "track_link": "https://papadosio.bandcamp.com/track/ritual-26",
+            "track_duration": "P00H10M47S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H09M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-68"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-68",
+            "track_duration": "P00H09M02S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Therian",
-                "duration": "P00H08M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-19"
-            }
+            "track_name": "Therian",
+            "track_link": "https://papadosio.bandcamp.com/track/therian-19",
+            "track_duration": "P00H08M59S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H17M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-69"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-69",
+            "track_duration": "P00H17M50S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Oracle Theme",
-                "duration": "P00H11M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-24"
-            }
+            "track_name": "Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/oracle-theme-24",
+            "track_duration": "P00H11M22S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H15M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-51"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-51",
+            "track_duration": "P00H15M50S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H17M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-53"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-53",
+            "track_duration": "P00H17M01S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Now That You Know",
-                "duration": "P00H09M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-26"
-            }
+            "track_name": "Now That You Know",
+            "track_link": "https://papadosio.bandcamp.com/track/now-that-you-know-26",
+            "track_duration": "P00H09M34S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Banter",
-                "duration": "P00H03M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/banter-5"
-            }
+            "track_name": "Banter",
+            "track_link": "https://papadosio.bandcamp.com/track/banter-5",
+            "track_duration": "P00H03M10S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H14M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-68"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-68",
+            "track_duration": "P00H14M27S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H05M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-3"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-3",
+            "track_duration": "P00H05M29S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1560131380_10.jpg",
-    "datePublished": "25 Jul 2016 00:00:00 GMT",
-    "description": null,
-    "duration": "P02H03M31S"
+    ]
 }

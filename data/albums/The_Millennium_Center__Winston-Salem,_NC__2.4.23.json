@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/the-millennium-center-winston-salem-nc-2423",
-    "name": "The Millennium Center | Winston-Salem, NC | 2.4.23",
-    "dateModified": "13 Feb 2023 16:48:47 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "The Millennium Center | Winston-Salem, NC | 2.4.23",
+    "album_link": "https://papadosio.bandcamp.com/album/the-millennium-center-winston-salem-nc-2423",
+    "date_modified": "13 Feb 2023 16:48:47 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1748941902_10.jpg",
+    "date_published": "13 Feb 2023 16:48:48 GMT",
+    "album_duration": "P01H52M09S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H14M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-157"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-157",
+            "track_duration": "P00H14M24S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "You're A Catman",
-                "duration": "P00H11M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-5"
-            }
+            "track_name": "You're A Catman",
+            "track_link": "https://papadosio.bandcamp.com/track/youre-a-catman-5",
+            "track_duration": "P00H11M52S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Cubensis",
-                "duration": "P00H12M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-31"
-            }
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis-31",
+            "track_duration": "P00H12M16S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H12M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-176"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-176",
+            "track_duration": "P00H12M00S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Epiphany",
-                "duration": "P00H09M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-60"
-            }
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-60",
+            "track_duration": "P00H09M22S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "How Not To Float",
-                "duration": "P00H10M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-66"
-            }
+            "track_name": "How Not To Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-66",
+            "track_duration": "P00H10M24S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Fly Agaric",
-                "duration": "P00H09M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agaric-25"
-            }
+            "track_name": "Fly Agaric",
+            "track_link": "https://papadosio.bandcamp.com/track/fly-agaric-25",
+            "track_duration": "P00H09M07S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "And This Is What He Thought",
-                "duration": "P00H02M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-40"
-            }
+            "track_name": "And This Is What He Thought",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-40",
+            "track_duration": "P00H02M58S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Not Just A Word",
-                "duration": "P00H06M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-10"
-            }
+            "track_name": "Not Just A Word",
+            "track_link": "https://papadosio.bandcamp.com/track/not-just-a-word-10",
+            "track_duration": "P00H06M02S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-163"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-163",
+            "track_duration": "P00H10M30S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H13M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-61"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-61",
+            "track_duration": "P00H13M14S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1748941902_10.jpg",
-    "datePublished": "13 Feb 2023 16:48:48 GMT",
-    "description": "What an amazing time we had in Winston-Salem! Thank you so much for making our return to your city so memorable and at such a cool venue, we hope to be back soon!",
-    "duration": "P01H52M09S"
+    ]
 }

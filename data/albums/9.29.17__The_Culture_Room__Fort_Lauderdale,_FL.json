@@ -1,76 +1,50 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/92917-the-culture-room-fort-lauderdale-fl",
-    "name": "9.29.17 | The Culture Room | Fort Lauderdale, FL",
-    "dateModified": "03 Oct 2017 20:18:43 GMT",
-    "numTracks": 8,
-    "track": [
+    "album_name": "9.29.17 | The Culture Room | Fort Lauderdale, FL",
+    "album_link": "https://papadosio.bandcamp.com/album/92917-the-culture-room-fort-lauderdale-fl",
+    "date_modified": "03 Oct 2017 20:18:43 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1772987752_10.jpg",
+    "date_published": "03 Oct 2017 20:18:43 GMT",
+    "album_duration": "P01H39M22S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H17M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-31"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-31",
+            "track_duration": "P00H17M34S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H09M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-50"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-50",
+            "track_duration": "P00H09M29S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Each and Every Wave",
-                "duration": "P00H07M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-25"
-            }
+            "track_name": "Each and Every Wave",
+            "track_link": "https://papadosio.bandcamp.com/track/each-and-every-wave-25",
+            "track_duration": "P00H07M18S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "If It Wasn't For You",
-                "duration": "P00H12M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-45"
-            }
+            "track_name": "If It Wasn't For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-45",
+            "track_duration": "P00H12M26S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H17M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-60"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-60",
+            "track_duration": "P00H17M25S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H09M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-102"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-102",
+            "track_duration": "P00H09M41S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H17M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-62"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-62",
+            "track_duration": "P00H17M16S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H08M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-41"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-41",
+            "track_duration": "P00H08M13S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1772987752_10.jpg",
-    "datePublished": "03 Oct 2017 20:18:43 GMT",
-    "description": "Recorded on September 9tth, 2017 at The Culture Room during the Shapeshiftour 2017.",
-    "duration": "P01H39M22S"
+    ]
 }

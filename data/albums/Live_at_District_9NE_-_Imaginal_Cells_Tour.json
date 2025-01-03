@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-at-district-9ne-imaginal-cells-tour",
-    "name": "Live at District 9NE - Imaginal Cells Tour",
-    "dateModified": "20 Oct 2014 14:31:48 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "Live at District 9NE - Imaginal Cells Tour",
+    "album_link": "https://papadosio.bandcamp.com/album/live-at-district-9ne-imaginal-cells-tour",
+    "date_modified": "20 Oct 2014 14:31:48 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0501459270_10.jpg",
+    "date_published": "19 Oct 2014 00:00:00 GMT",
+    "album_duration": "P02H10M28S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H17M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-15"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-15",
+            "track_duration": "P00H17M18S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H10M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-24"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-24",
+            "track_duration": "P00H10M41S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "We Choose",
-                "duration": "P00H07M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-16"
-            }
+            "track_name": "We Choose",
+            "track_link": "https://papadosio.bandcamp.com/track/we-choose-16",
+            "track_duration": "P00H07M03S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The Sum>",
-                "duration": "P00H06M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-25"
-            }
+            "track_name": "The Sum>",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-25",
+            "track_duration": "P00H06M47S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H17M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-21"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-21",
+            "track_duration": "P00H17M19S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "I Had the Same Dream>",
-                "duration": "P00H04M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/i-had-the-same-dream-3"
-            }
+            "track_name": "I Had the Same Dream>",
+            "track_link": "https://papadosio.bandcamp.com/track/i-had-the-same-dream-3",
+            "track_duration": "P00H04M15S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H11M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-24"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-24",
+            "track_duration": "P00H11M57S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "How Not to Float",
-                "duration": "P00H11M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-19"
-            }
+            "track_name": "How Not to Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-19",
+            "track_duration": "P00H11M00S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-36"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-36",
+            "track_duration": "P00H09M16S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H12M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-22"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-22",
+            "track_duration": "P00H12M17S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H08M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-16"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-16",
+            "track_duration": "P00H08M15S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Frequence>",
-                "duration": "P00H10M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-9"
-            }
+            "track_name": "Frequence>",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-9",
+            "track_duration": "P00H10M28S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H03M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-17"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-17",
+            "track_duration": "P00H03M52S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0501459270_10.jpg",
-    "datePublished": "19 Oct 2014 00:00:00 GMT",
-    "description": "Live at District 9NE - Philadelphia, PA\r\n10.10.14 - Imaginal Cells Tour",
-    "duration": "P02H10M28S"
+    ]
 }

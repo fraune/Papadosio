@@ -1,76 +1,50 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/empire-garage-austin-tx-12822-2",
-    "name": "Empire Garage | Austin, TX | 1.28.22",
-    "dateModified": "01 Feb 2022 19:51:49 GMT",
-    "numTracks": 8,
-    "track": [
+    "album_name": "Empire Garage | Austin, TX | 1.28.22",
+    "album_link": "https://papadosio.bandcamp.com/album/empire-garage-austin-tx-12822-2",
+    "date_modified": "01 Feb 2022 19:51:49 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4180265455_10.jpg",
+    "date_published": "01 Feb 2022 19:51:50 GMT",
+    "album_duration": "P01H25M30S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-151"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-151",
+            "track_duration": "P00H10M40S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Shiitake",
-                "duration": "P00H09M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-12"
-            }
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-12",
+            "track_duration": "P00H09M49S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H08M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-113"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-113",
+            "track_duration": "P00H08M17S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Fly Agaric",
-                "duration": "P00H11M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agaric-12"
-            }
+            "track_name": "Fly Agaric",
+            "track_link": "https://papadosio.bandcamp.com/track/fly-agaric-12",
+            "track_duration": "P00H11M25S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Method Of Control",
-                "duration": "P00H15M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-112"
-            }
+            "track_name": "Method Of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-112",
+            "track_duration": "P00H15M22S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H08M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-83"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-83",
+            "track_duration": "P00H08M56S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H09M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-79"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-79",
+            "track_duration": "P00H09M59S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H11M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-109"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-109",
+            "track_duration": "P00H11M02S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a4180265455_10.jpg",
-    "datePublished": "01 Feb 2022 19:51:50 GMT",
-    "description": "This album was recorded at the Empire Garage in Austin, Texas on 1.28.22. Thanks to everyone who came out to the first night of two in Austin. That was fun!",
-    "duration": "P01H25M30S"
+    ]
 }

@@ -1,76 +1,50 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/52419-summercamp-music-festival-red-barn-late-night",
-    "name": "5.24.19 | Summercamp Music Festival | Red Barn Late Night",
-    "dateModified": "10 Jun 2019 21:56:22 GMT",
-    "numTracks": 8,
-    "track": [
+    "album_name": "5.24.19 | Summercamp Music Festival | Red Barn Late Night",
+    "album_link": "https://papadosio.bandcamp.com/album/52419-summercamp-music-festival-red-barn-late-night",
+    "date_modified": "10 Jun 2019 21:56:22 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0208263349_10.jpg",
+    "date_published": "10 Jun 2019 00:00:00 GMT",
+    "album_duration": "P01H06M05S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H05M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-61"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-61",
+            "track_duration": "P00H05M34S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H13M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-84"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-84",
+            "track_duration": "P00H13M17S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H11M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-89"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-89",
+            "track_duration": "P00H11M56S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H08M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-99"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-99",
+            "track_duration": "P00H08M21S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H06M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-114"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-114",
+            "track_duration": "P00H06M02S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H09M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-139"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-139",
+            "track_duration": "P00H09M56S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Improv",
-                "duration": "P00H06M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improv-12"
-            }
+            "track_name": "Improv",
+            "track_link": "https://papadosio.bandcamp.com/track/improv-12",
+            "track_duration": "P00H06M38S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H04M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-62"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-62",
+            "track_duration": "P00H04M21S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0208263349_10.jpg",
-    "datePublished": "10 Jun 2019 00:00:00 GMT",
-    "description": "This album was recorded at Summercamp Music Festival in Chillicothe, IL. This set was in the Red Barn for a Late Night Set, thanks to everybody who came out to show support.",
-    "duration": "P01H06M05S"
+    ]
 }

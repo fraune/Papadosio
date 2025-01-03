@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/park-city-music-hall-bridgeport-ct-32623",
-    "name": "Park City Music Hall | Bridgeport, CT | 3.26.23",
-    "dateModified": "11 Apr 2023 19:19:39 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "Park City Music Hall | Bridgeport, CT | 3.26.23",
+    "album_link": "https://papadosio.bandcamp.com/album/park-city-music-hall-bridgeport-ct-32623",
+    "date_modified": "11 Apr 2023 19:19:39 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2678041659_10.jpg",
+    "date_published": "11 Apr 2023 19:19:40 GMT",
+    "album_duration": "P01H52M10S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Lack Of Everything",
-                "duration": "P00H10M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-56"
-            }
+            "track_name": "The Lack Of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-56",
+            "track_duration": "P00H10M56S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H14M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-84"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-84",
+            "track_duration": "P00H14M06S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Fly Agaric",
-                "duration": "P00H09M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agaric-26"
-            }
+            "track_name": "Fly Agaric",
+            "track_link": "https://papadosio.bandcamp.com/track/fly-agaric-26",
+            "track_duration": "P00H09M45S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "How Not To Float",
-                "duration": "P00H10M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-67"
-            }
+            "track_name": "How Not To Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-67",
+            "track_duration": "P00H10M59S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Fly Agaric",
-                "duration": "P00H02M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agaric-29"
-            }
+            "track_name": "Fly Agaric",
+            "track_link": "https://papadosio.bandcamp.com/track/fly-agaric-29",
+            "track_duration": "P00H02M24S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Method Of Control",
-                "duration": "P00H08M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-123"
-            }
+            "track_name": "Method Of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-123",
+            "track_duration": "P00H08M30S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Madre de Dios",
-                "duration": "P00H09M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-45"
-            }
+            "track_name": "Madre de Dios",
+            "track_link": "https://papadosio.bandcamp.com/track/madre-de-dios-45",
+            "track_duration": "P00H09M37S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H12M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-116"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-116",
+            "track_duration": "P00H12M37S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Obove",
-                "duration": "P00H03M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-26"
-            }
+            "track_name": "Obove",
+            "track_link": "https://papadosio.bandcamp.com/track/obove-26",
+            "track_duration": "P00H03M41S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Dare You",
-                "duration": "P00H07M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-8"
-            }
+            "track_name": "Dare You",
+            "track_link": "https://papadosio.bandcamp.com/track/dare-you-8",
+            "track_duration": "P00H07M04S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H08M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-65"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-65",
+            "track_duration": "P00H08M24S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H14M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-151"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-151",
+            "track_duration": "P00H14M07S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2678041659_10.jpg",
-    "datePublished": "11 Apr 2023 19:19:40 GMT",
-    "description": "Park City!! THE BEST! Thank you so much for your amazing hospitality. Such a great time! Bridgeport, you kick ass!",
-    "duration": "P01H52M10S"
+    ]
 }

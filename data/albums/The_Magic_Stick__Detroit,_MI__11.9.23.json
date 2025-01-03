@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/the-magic-stick-detroit-mi-11923",
-    "name": "The Magic Stick | Detroit, MI | 11.9.23",
-    "dateModified": "19 Nov 2023 21:01:38 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "The Magic Stick | Detroit, MI | 11.9.23",
+    "album_link": "https://papadosio.bandcamp.com/album/the-magic-stick-detroit-mi-11923",
+    "date_modified": "19 Nov 2023 21:01:38 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3556521271_10.jpg",
+    "date_published": "19 Nov 2023 21:01:38 GMT",
+    "album_duration": "P02H03M56S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H14M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-101"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-101",
+            "track_duration": "P00H14M46S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Lion's Mane",
-                "duration": "P00H07M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-38"
-            }
+            "track_name": "Lion's Mane",
+            "track_link": "https://papadosio.bandcamp.com/track/lions-mane-38",
+            "track_duration": "P00H07M28S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Versicolor",
-                "duration": "P00H07M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-42"
-            }
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-42",
+            "track_duration": "P00H07M59S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Not Just A Word",
-                "duration": "P00H06M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-27"
-            }
+            "track_name": "Not Just A Word",
+            "track_link": "https://papadosio.bandcamp.com/track/not-just-a-word-27",
+            "track_duration": "P00H06M13S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H14M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-121"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-121",
+            "track_duration": "P00H14M37S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Fossilize",
-                "duration": "P00H08M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fossilize-7"
-            }
+            "track_name": "Fossilize",
+            "track_link": "https://papadosio.bandcamp.com/track/fossilize-7",
+            "track_duration": "P00H08M33S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Everyone Is Cool",
-                "duration": "P00H08M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/everyone-is-cool-10"
-            }
+            "track_name": "Everyone Is Cool",
+            "track_link": "https://papadosio.bandcamp.com/track/everyone-is-cool-10",
+            "track_duration": "P00H08M09S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Method Of Control",
-                "duration": "P00H16M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-127"
-            }
+            "track_name": "Method Of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-127",
+            "track_duration": "P00H16M10S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "How Not To Float",
-                "duration": "P00H11M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-70"
-            }
+            "track_name": "How Not To Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-70",
+            "track_duration": "P00H11M10S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Agarikon",
-                "duration": "P00H11M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/agarikon-18"
-            }
+            "track_name": "Agarikon",
+            "track_link": "https://papadosio.bandcamp.com/track/agarikon-18",
+            "track_duration": "P00H11M48S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Shiitake",
-                "duration": "P00H17M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-34"
-            }
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-34",
+            "track_duration": "P00H17M03S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3556521271_10.jpg",
-    "datePublished": "19 Nov 2023 21:01:38 GMT",
-    "description": null,
-    "duration": "P02H03M56S"
+    ]
 }

@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/9118-the-blind-tiger-greensboro-nc",
-    "name": "9.1.18 | The Blind Tiger | Greensboro, NC",
-    "dateModified": "19 Sep 2018 21:23:17 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "9.1.18 | The Blind Tiger | Greensboro, NC",
+    "album_link": "https://papadosio.bandcamp.com/album/9118-the-blind-tiger-greensboro-nc",
+    "date_modified": "19 Sep 2018 21:23:17 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4017810864_10.jpg",
+    "date_published": "19 Sep 2018 21:23:17 GMT",
+    "album_duration": "P01H54M28S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "By the Light of the Stars",
-                "duration": "P00H14M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-57"
-            }
+            "track_name": "By the Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-57",
+            "track_duration": "P00H14M57S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H12M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-74"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-74",
+            "track_duration": "P00H12M51S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Oblivion",
-                "duration": "P00H12M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-34"
-            }
+            "track_name": "Oblivion",
+            "track_link": "https://papadosio.bandcamp.com/track/oblivion-34",
+            "track_duration": "P00H12M32S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H13M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-74"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-74",
+            "track_duration": "P00H13M25S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Moon Entendre",
-                "duration": "P00H07M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/moon-entendre-13"
-            }
+            "track_name": "Moon Entendre",
+            "track_link": "https://papadosio.bandcamp.com/track/moon-entendre-13",
+            "track_duration": "P00H07M02S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H13M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-50"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-50",
+            "track_duration": "P00H13M32S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H07M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-6"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-6",
+            "track_duration": "P00H07M54S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H10M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-65"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-65",
+            "track_duration": "P00H10M25S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H12M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-80"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-80",
+            "track_duration": "P00H12M23S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H09M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-42"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-42",
+            "track_duration": "P00H09M27S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a4017810864_10.jpg",
-    "datePublished": "19 Sep 2018 21:23:17 GMT",
-    "description": "This album was recorded at the Blind Tiger in Greensboro, NC on September 1st 2018. Thanks for Higher Learning for coming out to get the night started!",
-    "duration": "P01H54M28S"
+    ]
 }

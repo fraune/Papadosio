@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/georges-majestic-fayetteville-ar-102723",
-    "name": "George's Majestic | Fayetteville, AR | 10.27.23",
-    "dateModified": "07 Nov 2023 18:00:14 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "George's Majestic | Fayetteville, AR | 10.27.23",
+    "album_link": "https://papadosio.bandcamp.com/album/georges-majestic-fayetteville-ar-102723",
+    "date_modified": "07 Nov 2023 18:00:14 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4104532182_10.jpg",
+    "date_published": "07 Nov 2023 18:00:15 GMT",
+    "album_duration": "P01H51M58S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Cordyceps",
-                "duration": "P00H12M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cordyceps-23"
-            }
+            "track_name": "Cordyceps",
+            "track_link": "https://papadosio.bandcamp.com/track/cordyceps-23",
+            "track_duration": "P00H12M13S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-122"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-122",
+            "track_duration": "P00H07M08S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Bypass Default",
-                "duration": "P00H07M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-52"
-            }
+            "track_name": "Bypass Default",
+            "track_link": "https://papadosio.bandcamp.com/track/bypass-default-52",
+            "track_duration": "P00H07M29S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Puddles For Oceans",
-                "duration": "P00H10M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-86"
-            }
+            "track_name": "Puddles For Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-86",
+            "track_duration": "P00H10M15S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The End Of The World",
-                "duration": "P00H04M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-end-of-the-world-8"
-            }
+            "track_name": "The End Of The World",
+            "track_link": "https://papadosio.bandcamp.com/track/the-end-of-the-world-8",
+            "track_duration": "P00H04M55S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H13M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-87"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-87",
+            "track_duration": "P00H13M33S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The State Of Things",
-                "duration": "P00H05M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-state-of-things-6"
-            }
+            "track_name": "The State Of Things",
+            "track_link": "https://papadosio.bandcamp.com/track/the-state-of-things-6",
+            "track_duration": "P00H05M23S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H06M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-88"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-88",
+            "track_duration": "P00H06M29S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Boss Battle",
-                "duration": "P00H03M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/boss-battle-9"
-            }
+            "track_name": "Boss Battle",
+            "track_link": "https://papadosio.bandcamp.com/track/boss-battle-9",
+            "track_duration": "P00H03M41S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Fly Agaric",
-                "duration": "P00H12M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agaric-35"
-            }
+            "track_name": "Fly Agaric",
+            "track_link": "https://papadosio.bandcamp.com/track/fly-agaric-35",
+            "track_duration": "P00H12M01S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Everyone Is Cool",
-                "duration": "P00H09M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/everyone-is-cool-9"
-            }
+            "track_name": "Everyone Is Cool",
+            "track_link": "https://papadosio.bandcamp.com/track/everyone-is-cool-9",
+            "track_duration": "P00H09M00S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H08M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-100"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-100",
+            "track_duration": "P00H08M15S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H11M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-166"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-166",
+            "track_duration": "P00H11M36S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a4104532182_10.jpg",
-    "datePublished": "07 Nov 2023 18:00:15 GMT",
-    "description": "Fayetteville, always a pleasure! Thanks for showing up on this most spooky of hallerween weekends!",
-    "duration": "P01H51M58S"
+    ]
 }

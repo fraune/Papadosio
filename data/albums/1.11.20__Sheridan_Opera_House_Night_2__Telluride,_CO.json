@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/11120-sheridan-opera-house-night-2-telluride-co",
-    "name": "1.11.20 | Sheridan Opera House Night 2 | Telluride, CO",
-    "dateModified": "15 Jan 2020 23:33:56 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "1.11.20 | Sheridan Opera House Night 2 | Telluride, CO",
+    "album_link": "https://papadosio.bandcamp.com/album/11120-sheridan-opera-house-night-2-telluride-co",
+    "date_modified": "15 Jan 2020 23:33:56 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1406874362_10.jpg",
+    "date_published": "15 Jan 2020 23:33:56 GMT",
+    "album_duration": "P01H51M16S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H02M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-81"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-81",
+            "track_duration": "P00H02M58S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H14M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-141"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-141",
+            "track_duration": "P00H14M11S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Lack Of Everything",
-                "duration": "P00H06M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-44"
-            }
+            "track_name": "The Lack Of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-44",
+            "track_duration": "P00H06M36S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H19M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-148"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-148",
+            "track_duration": "P00H19M18S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Method Of Control",
-                "duration": "P00H10M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-104"
-            }
+            "track_name": "Method Of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-104",
+            "track_duration": "P00H10M02S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Now That You Know",
-                "duration": "P00H07M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-44"
-            }
+            "track_name": "Now That You Know",
+            "track_link": "https://papadosio.bandcamp.com/track/now-that-you-know-44",
+            "track_duration": "P00H07M48S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Fire Rite",
-                "duration": "P00H06M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-36"
-            }
+            "track_name": "Fire Rite",
+            "track_link": "https://papadosio.bandcamp.com/track/fire-rite-36",
+            "track_duration": "P00H06M00S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "We Can Always Come Back",
-                "duration": "P00H09M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-35"
-            }
+            "track_name": "We Can Always Come Back",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back-35",
+            "track_duration": "P00H09M17S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H10M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-65"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-65",
+            "track_duration": "P00H10M13S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H14M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-135"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-135",
+            "track_duration": "P00H14M34S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H10M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-91"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-91",
+            "track_duration": "P00H10M19S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1406874362_10.jpg",
-    "datePublished": "15 Jan 2020 23:33:56 GMT",
-    "description": "This album was recorded on January 11th, 2020 at Sheridan Opera House in Telluride, CO. Thanks to everyone who came out to the show!",
-    "duration": "P01H51M16S"
+    ]
 }

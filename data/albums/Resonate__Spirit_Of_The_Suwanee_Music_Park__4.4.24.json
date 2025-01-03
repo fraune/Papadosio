@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/resonate-spirit-of-the-suwanee-music-park-4424",
-    "name": "Resonate | Spirit Of The Suwanee Music Park | 4.4.24",
-    "dateModified": "06 Apr 2024 22:40:45 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "Resonate | Spirit Of The Suwanee Music Park | 4.4.24",
+    "album_link": "https://papadosio.bandcamp.com/album/resonate-spirit-of-the-suwanee-music-park-4424",
+    "date_modified": "06 Apr 2024 22:40:45 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0046443705_10.jpg",
+    "date_published": "06 Apr 2024 22:40:46 GMT",
+    "album_duration": "P01H45M46S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H12M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-181"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-181",
+            "track_duration": "P00H12M12S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Catalyst",
-                "duration": "P00H08M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-38"
-            }
+            "track_name": "Catalyst",
+            "track_link": "https://papadosio.bandcamp.com/track/catalyst-38",
+            "track_duration": "P00H08M59S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Versicolor",
-                "duration": "P00H07M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-49"
-            }
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-49",
+            "track_duration": "P00H07M35S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Dayvan Cowboy",
-                "duration": "P00H05M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dayvan-cowboy-4"
-            }
+            "track_name": "Dayvan Cowboy",
+            "track_link": "https://papadosio.bandcamp.com/track/dayvan-cowboy-4",
+            "track_duration": "P00H05M08S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Dare You",
-                "duration": "P00H07M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-31"
-            }
+            "track_name": "Dare You",
+            "track_link": "https://papadosio.bandcamp.com/track/dare-you-31",
+            "track_duration": "P00H07M09S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Curvature",
-                "duration": "P00H10M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curvature-5"
-            }
+            "track_name": "Curvature",
+            "track_link": "https://papadosio.bandcamp.com/track/curvature-5",
+            "track_duration": "P00H10M07S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Lion's Mane",
-                "duration": "P00H11M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-46"
-            }
+            "track_name": "Lion's Mane",
+            "track_link": "https://papadosio.bandcamp.com/track/lions-mane-46",
+            "track_duration": "P00H11M46S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H08M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-130"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-130",
+            "track_duration": "P00H08M50S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Who You Are",
-                "duration": "P00H08M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/who-you-are-3"
-            }
+            "track_name": "Who You Are",
+            "track_link": "https://papadosio.bandcamp.com/track/who-you-are-3",
+            "track_duration": "P00H08M30S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The End Of The World",
-                "duration": "P00H05M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-end-of-the-world-15"
-            }
+            "track_name": "The End Of The World",
+            "track_link": "https://papadosio.bandcamp.com/track/the-end-of-the-world-15",
+            "track_duration": "P00H05M12S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H13M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-177"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-177",
+            "track_duration": "P00H13M38S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Everyone Is Cool",
-                "duration": "P00H06M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/everyone-is-cool-21"
-            }
+            "track_name": "Everyone Is Cool",
+            "track_link": "https://papadosio.bandcamp.com/track/everyone-is-cool-21",
+            "track_duration": "P00H06M40S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0046443705_10.jpg",
-    "datePublished": "06 Apr 2024 22:40:46 GMT",
-    "description": "We had an amazing time back at Resonate this year. Thanks so much for being there with us. We love you!",
-    "duration": "P01H45M46S"
+    ]
 }

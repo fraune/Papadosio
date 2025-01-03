@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/the-great-thaw-part-ii-22715-asheville-nc",
-    "name": "The Great Thaw Part II |2.27.15| Asheville, NC",
-    "dateModified": "09 Mar 2015 21:58:33 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "The Great Thaw Part II |2.27.15| Asheville, NC",
+    "album_link": "https://papadosio.bandcamp.com/album/the-great-thaw-part-ii-22715-asheville-nc",
+    "date_modified": "09 Mar 2015 21:58:33 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4223740694_10.jpg",
+    "date_published": "08 Mar 2015 00:00:00 GMT",
+    "album_duration": "P02H34M31S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "...And This is What He Thought",
-                "duration": "P00H04M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-6"
-            }
+            "track_name": "...And This is What He Thought",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-6",
+            "track_duration": "P00H04M12S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H17M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-43"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-43",
+            "track_duration": "P00H17M27S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "By The Light of the Stars",
-                "duration": "P00H09M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-24"
-            }
+            "track_name": "By The Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-24",
+            "track_duration": "P00H09M44S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H09M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-20"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-20",
+            "track_duration": "P00H09M49S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H13M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-48"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-48",
+            "track_duration": "P00H13M53S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "If it Wasn't For You",
-                "duration": "P00H08M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-33"
-            }
+            "track_name": "If it Wasn't For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-33",
+            "track_duration": "P00H08M26S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H05M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-25"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-25",
+            "track_duration": "P00H05M00S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H20M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-28"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-28",
+            "track_duration": "P00H20M30S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H13M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-29"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-29",
+            "track_duration": "P00H13M23S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Holy Heck",
-                "duration": "P00H15M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-19"
-            }
+            "track_name": "Holy Heck",
+            "track_link": "https://papadosio.bandcamp.com/track/holy-heck-19",
+            "track_duration": "P00H15M10S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H06M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-34"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-34",
+            "track_duration": "P00H06M32S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H11M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-21"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-21",
+            "track_duration": "P00H11M24S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H19M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-32"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-32",
+            "track_duration": "P00H19M01S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a4223740694_10.jpg",
-    "datePublished": "08 Mar 2015 00:00:00 GMT",
-    "description": null,
-    "duration": "P02H34M31S"
+    ]
 }

@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/5617-red-rocks-amphitheater-morrison-co",
-    "name": "5.6.17 | Red Rocks Amphitheater | Morrison, CO",
-    "dateModified": "30 May 2017 14:05:24 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "5.6.17 | Red Rocks Amphitheater | Morrison, CO",
+    "album_link": "https://papadosio.bandcamp.com/album/5617-red-rocks-amphitheater-morrison-co",
+    "date_modified": "30 May 2017 14:05:24 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3962985171_10.jpg",
+    "date_published": "30 May 2017 00:00:00 GMT",
+    "album_duration": "P01H52M23S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "New Love 1/2",
-                "duration": "P00H04M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-1-2-4"
-            }
+            "track_name": "New Love 1/2",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-1-2-4",
+            "track_duration": "P00H04M52S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "The Big Smile",
-                "duration": "P00H06M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-big-smile-13"
-            }
+            "track_name": "The Big Smile",
+            "track_link": "https://papadosio.bandcamp.com/track/the-big-smile-13",
+            "track_duration": "P00H06M44S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "New Love 2/2",
-                "duration": "P00H06M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-2-2-6"
-            }
+            "track_name": "New Love 2/2",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-2-2-6",
+            "track_duration": "P00H06M11S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Hippy Babysitter",
-                "duration": "P00H17M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippy-babysitter-5"
-            }
+            "track_name": "Hippy Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippy-babysitter-5",
+            "track_duration": "P00H17M44S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Oblivion",
-                "duration": "P00H06M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-21"
-            }
+            "track_name": "Oblivion",
+            "track_link": "https://papadosio.bandcamp.com/track/oblivion-21",
+            "track_duration": "P00H06M06S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Each and Every Wave",
-                "duration": "P00H07M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-24"
-            }
+            "track_name": "Each and Every Wave",
+            "track_link": "https://papadosio.bandcamp.com/track/each-and-every-wave-24",
+            "track_duration": "P00H07M12S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H08M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-28"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-28",
+            "track_duration": "P00H08M57S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H11M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-69"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-69",
+            "track_duration": "P00H11M29S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Improbability Blotter 1/2",
-                "duration": "P00H09M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-1-2-2"
-            }
+            "track_name": "Improbability Blotter 1/2",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-1-2-2",
+            "track_duration": "P00H09M50S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Drift",
-                "duration": "P00H05M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-21"
-            }
+            "track_name": "Drift",
+            "track_link": "https://papadosio.bandcamp.com/track/drift-21",
+            "track_duration": "P00H05M56S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Improbability Blotter 2/2",
-                "duration": "P00H07M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-2-2-2"
-            }
+            "track_name": "Improbability Blotter 2/2",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-2-2-2",
+            "track_duration": "P00H07M02S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Praise You*",
-                "duration": "P00H06M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/praise-you"
-            }
+            "track_name": "Praise You*",
+            "track_link": "https://papadosio.bandcamp.com/track/praise-you",
+            "track_duration": "P00H06M24S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H13M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-85"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-85",
+            "track_duration": "P00H13M56S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3962985171_10.jpg",
-    "datePublished": "30 May 2017 00:00:00 GMT",
-    "description": "Recorded on May 6th, 2017 at Red Rocks Amphitheatre in Morrison, CO. \r\n\r\nRe:Creation Red Rocks 2017 \r\n\r\nAll material was written and recorded by Papadosio with the exception of \"Praise You\" which was originally written by FatBoy Slim.",
-    "duration": "P01H52M23S"
+    ]
 }

@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/82418-the-mohawk-austin-tx",
-    "name": "8.24.18 | The Mohawk | Austin, TX",
-    "dateModified": "30 Aug 2018 21:06:33 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "8.24.18 | The Mohawk | Austin, TX",
+    "album_link": "https://papadosio.bandcamp.com/album/82418-the-mohawk-austin-tx",
+    "date_modified": "30 Aug 2018 21:06:33 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2127140220_10.jpg",
+    "date_published": "30 Aug 2018 21:06:33 GMT",
+    "album_duration": "P01H56M12S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H17M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-59"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-59",
+            "track_duration": "P00H17M29S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H20M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-89"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-89",
+            "track_duration": "P00H20M09S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-112"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-112",
+            "track_duration": "P00H08M22S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Content Coma",
-                "duration": "P00H10M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/content-coma-2"
-            }
+            "track_name": "Content Coma",
+            "track_link": "https://papadosio.bandcamp.com/track/content-coma-2",
+            "track_duration": "P00H10M36S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H09M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-41"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-41",
+            "track_duration": "P00H09M09S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "The Lack of Everything",
-                "duration": "P00H06M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-31"
-            }
+            "track_name": "The Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-31",
+            "track_duration": "P00H06M59S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H09M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-120"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-120",
+            "track_duration": "P00H09M59S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H19M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-87"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-87",
+            "track_duration": "P00H19M09S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Pool of Stars",
-                "duration": "P00H05M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-2"
-            }
+            "track_name": "Pool of Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/pool-of-stars-2",
+            "track_duration": "P00H05M48S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H08M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-62"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-62",
+            "track_duration": "P00H08M32S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2127140220_10.jpg",
-    "datePublished": "30 Aug 2018 21:06:33 GMT",
-    "description": "This album was recorded on August 24th in Austin, Texas at the Mohawk Austin. Thanks to everybody who came out & for raging with us! Much love to Higher Learning + Ryan Viser for coming out to get the party started!",
-    "duration": "P01H56M12S"
+    ]
 }

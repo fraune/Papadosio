@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/62919-cosmic-charlies-lexington-ky",
-    "name": "6.29.19 | Cosmic Charlies | Lexington, KY",
-    "dateModified": "23 Jul 2019 18:03:17 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "6.29.19 | Cosmic Charlies | Lexington, KY",
+    "album_link": "https://papadosio.bandcamp.com/album/62919-cosmic-charlies-lexington-ky",
+    "date_modified": "23 Jul 2019 18:03:17 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1593073548_10.jpg",
+    "date_published": "23 Jul 2019 00:00:00 GMT",
+    "album_duration": "P01H54M07S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H12M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-30"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-30",
+            "track_duration": "P00H12M36S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "By The Light of The Stars",
-                "duration": "P00H11M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-65"
-            }
+            "track_name": "By The Light of The Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-65",
+            "track_duration": "P00H11M57S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H02M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-29"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-29",
+            "track_duration": "P00H02M31S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Just Like The Days",
-                "duration": "P00H07M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/just-like-the-days-10"
-            }
+            "track_name": "Just Like The Days",
+            "track_link": "https://papadosio.bandcamp.com/track/just-like-the-days-10",
+            "track_duration": "P00H07M12S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Ear to Ear",
-                "duration": "P00H06M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-39"
-            }
+            "track_name": "Ear to Ear",
+            "track_link": "https://papadosio.bandcamp.com/track/ear-to-ear-39",
+            "track_duration": "P00H06M05S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H14M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-63"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-63",
+            "track_duration": "P00H14M10S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Passage",
-                "duration": "P00H05M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/passage-11"
-            }
+            "track_name": "Passage",
+            "track_link": "https://papadosio.bandcamp.com/track/passage-11",
+            "track_duration": "P00H05M00S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H20M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-125"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-125",
+            "track_duration": "P00H20M38S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Obove",
-                "duration": "P00H07M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-21"
-            }
+            "track_name": "Obove",
+            "track_link": "https://papadosio.bandcamp.com/track/obove-21",
+            "track_duration": "P00H07M11S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H11M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-134"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-134",
+            "track_duration": "P00H11M03S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H15M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-94"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-94",
+            "track_duration": "P00H15M44S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1593073548_10.jpg",
-    "datePublished": "23 Jul 2019 00:00:00 GMT",
-    "description": "This album was recorded on June 29th, 2019 at the new and improved Cosmic Charlies in Lexington, KY. thanks to everybody who came out to the show and thanks to Alejo for opening up the night for us!",
-    "duration": "P01H54M07S"
+    ]
 }

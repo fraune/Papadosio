@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/31120-brooklyn-bowl-brooklyn-ny",
-    "name": "3.11.20 | Brooklyn Bowl | Brooklyn, NY",
-    "dateModified": "16 Mar 2020 01:19:35 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "3.11.20 | Brooklyn Bowl | Brooklyn, NY",
+    "album_link": "https://papadosio.bandcamp.com/album/31120-brooklyn-bowl-brooklyn-ny",
+    "date_modified": "16 Mar 2020 01:19:35 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1923837869_10.jpg",
+    "date_published": "16 Mar 2020 00:00:00 GMT",
+    "album_duration": "P02H01M47S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro Am",
-                "duration": "P00H11M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-am"
-            }
+            "track_name": "Intro Am",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-am",
+            "track_duration": "P00H11M30S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Fly Agaric",
-                "duration": "P00H11M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agaric"
-            }
+            "track_name": "Fly Agaric",
+            "track_link": "https://papadosio.bandcamp.com/track/fly-agaric",
+            "track_duration": "P00H11M18S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Versicolor",
-                "duration": "P00H08M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor"
-            }
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor",
+            "track_duration": "P00H08M00S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Microreaktor 111 Em",
-                "duration": "P00H13M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/microreaktor-111-em"
-            }
+            "track_name": "Microreaktor 111 Em",
+            "track_link": "https://papadosio.bandcamp.com/track/microreaktor-111-em",
+            "track_duration": "P00H13M09S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-134"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-134",
+            "track_duration": "P00H08M09S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Microfactor 127 F#m",
-                "duration": "P00H09M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/microfactor-127-f-m"
-            }
+            "track_name": "Microfactor 127 F#m",
+            "track_link": "https://papadosio.bandcamp.com/track/microfactor-127-f-m",
+            "track_duration": "P00H09M19S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H15M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-93"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-93",
+            "track_duration": "P00H15M00S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Microswung 158 Gm",
-                "duration": "P00H08M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/microswung-158-gm"
-            }
+            "track_name": "Microswung 158 Gm",
+            "track_link": "https://papadosio.bandcamp.com/track/microswung-158-gm",
+            "track_duration": "P00H08M27S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Cubensis",
-                "duration": "P00H06M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis"
-            }
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis",
+            "track_duration": "P00H06M00S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H15M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-73"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-73",
+            "track_duration": "P00H15M23S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H15M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-73"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-73",
+            "track_duration": "P00H15M32S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1923837869_10.jpg",
-    "datePublished": "16 Mar 2020 00:00:00 GMT",
-    "description": "Join the Back Lounge to get access to the full set! \r\n\r\nThis set was recorded on March 11th, 2020 at The Brooklyn Bown in Brooklyn, NY! Thanks to Jaw Gems for getting the night started & all of the fans that came out! Enjoy these never before heard tracks and be on the lookout for more first listens dropping in the back lounge!",
-    "duration": "P02H01M47S"
+    ]
 }

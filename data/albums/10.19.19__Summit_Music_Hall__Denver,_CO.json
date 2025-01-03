@@ -1,140 +1,90 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/101919-summit-music-hall-denver-co",
-    "name": "10.19.19 | Summit Music Hall | Denver, CO",
-    "dateModified": "23 Oct 2019 21:08:35 GMT",
-    "numTracks": 16,
-    "track": [
+    "album_name": "10.19.19 | Summit Music Hall | Denver, CO",
+    "album_link": "https://papadosio.bandcamp.com/album/101919-summit-music-hall-denver-co",
+    "date_modified": "23 Oct 2019 21:08:35 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2031241725_10.jpg",
+    "date_published": "22 Oct 2019 00:00:00 GMT",
+    "album_duration": "P01H48M32S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H02M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-73"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-73",
+            "track_duration": "P00H02M52S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H07M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-88"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-88",
+            "track_duration": "P00H07M31S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H09M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-69"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-69",
+            "track_duration": "P00H09M33S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H02M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-87"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-87",
+            "track_duration": "P00H02M41S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "If It Wasnt For You",
-                "duration": "P00H05M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-55"
-            }
+            "track_name": "If It Wasnt For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-55",
+            "track_duration": "P00H05M00S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H07M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-57"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-57",
+            "track_duration": "P00H07M49S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "If It Wasn't For You",
-                "duration": "P00H02M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-54"
-            }
+            "track_name": "If It Wasn't For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-54",
+            "track_duration": "P00H02M13S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Last Living Souls",
-                "duration": "P00H05M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/last-living-souls-2"
-            }
+            "track_name": "Last Living Souls",
+            "track_link": "https://papadosio.bandcamp.com/track/last-living-souls-2",
+            "track_duration": "P00H05M44S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H10M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-50"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-50",
+            "track_duration": "P00H10M11S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Content Coma",
-                "duration": "P00H12M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/content-coma-20"
-            }
+            "track_name": "Content Coma",
+            "track_link": "https://papadosio.bandcamp.com/track/content-coma-20",
+            "track_duration": "P00H12M24S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H10M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-68"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-68",
+            "track_duration": "P00H10M05S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H06M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-87"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-87",
+            "track_duration": "P00H06M01S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H05M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-67"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-67",
+            "track_duration": "P00H05M56S"
         },
         {
-            "position": 14,
-            "item": {
-                "name": "the Bionic Man Meets His Past",
-                "duration": "P00H07M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-121"
-            }
+            "track_name": "the Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-121",
+            "track_duration": "P00H07M55S"
         },
         {
-            "position": 15,
-            "item": {
-                "name": "Catalyst",
-                "duration": "P00H08M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-6"
-            }
+            "track_name": "Catalyst",
+            "track_link": "https://papadosio.bandcamp.com/track/catalyst-6",
+            "track_duration": "P00H08M56S"
         },
         {
-            "position": 16,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H03M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-120"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-120",
+            "track_duration": "P00H03M41S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2031241725_10.jpg",
-    "datePublished": "22 Oct 2019 00:00:00 GMT",
-    "description": "This album was recorded on October 19th, 2019. Night Two of a doubleheader in Denver, CO at the Summit Music Hall. Thanks to everybody who came out to show their love and support. We couldn't do this without you. Thank you to Blossomn & Cualli for getting the night started.",
-    "duration": "P01H48M32S"
+    ]
 }

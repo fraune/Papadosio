@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/tally-ho-111115-leesburg-va",
-    "name": "Tally Ho | 11.11.15 | Leesburg, VA",
-    "dateModified": "26 Dec 2015 21:58:55 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "Tally Ho | 11.11.15 | Leesburg, VA",
+    "album_link": "https://papadosio.bandcamp.com/album/tally-ho-111115-leesburg-va",
+    "date_modified": "26 Dec 2015 21:58:55 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0728294459_10.jpg",
+    "date_published": "22 Dec 2015 00:00:00 GMT",
+    "album_duration": "P02H05M16S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H01M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-30"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-30",
+            "track_duration": "P00H01M04S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H05M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-22"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-22",
+            "track_duration": "P00H05M51S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H18M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-61"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-61",
+            "track_duration": "P00H18M00S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Ritual",
-                "duration": "P00H13M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-13"
-            }
+            "track_name": "Ritual",
+            "track_link": "https://papadosio.bandcamp.com/track/ritual-13",
+            "track_duration": "P00H13M00S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H09M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-40"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-40",
+            "track_duration": "P00H09M37S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Out of Hiding",
-                "duration": "P00H11M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-15"
-            }
+            "track_name": "Out of Hiding",
+            "track_link": "https://papadosio.bandcamp.com/track/out-of-hiding-15",
+            "track_duration": "P00H11M46S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H15M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-43"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-43",
+            "track_duration": "P00H15M10S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "We Can Always Come Back...",
-                "duration": "P00H13M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-13"
-            }
+            "track_name": "We Can Always Come Back...",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back-13",
+            "track_duration": "P00H13M36S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-58"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-58",
+            "track_duration": "P00H09M21S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H09M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-43"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-43",
+            "track_duration": "P00H09M14S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Method",
-                "duration": "P00H10M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-2"
-            }
+            "track_name": "Method",
+            "track_link": "https://papadosio.bandcamp.com/track/method-2",
+            "track_duration": "P00H10M14S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Epiphany",
-                "duration": "P00H08M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-21"
-            }
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-21",
+            "track_duration": "P00H08M23S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0728294459_10.jpg",
-    "datePublished": "22 Dec 2015 00:00:00 GMT",
-    "description": "Tally Ho | 11.11.15 | Leesburg, VA\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2015.",
-    "duration": "P02H05M16S"
+    ]
 }

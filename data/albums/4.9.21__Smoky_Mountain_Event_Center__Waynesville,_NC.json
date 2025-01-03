@@ -1,140 +1,90 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/4921-smoky-mountain-event-center-waynesville-nc",
-    "name": "4.9.21 | Smoky Mountain Event Center | Waynesville, NC",
-    "dateModified": "27 Apr 2021 15:00:59 GMT",
-    "numTracks": 16,
-    "track": [
+    "album_name": "4.9.21 | Smoky Mountain Event Center | Waynesville, NC",
+    "album_link": "https://papadosio.bandcamp.com/album/4921-smoky-mountain-event-center-waynesville-nc",
+    "date_modified": "27 Apr 2021 15:00:59 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4265540440_10.jpg",
+    "date_published": "27 Apr 2021 15:01:00 GMT",
+    "album_duration": "P02H35M33S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H13M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-102"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-102",
+            "track_duration": "P00H13M31S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Mr Turtles Cloud Kingdom",
-                "duration": "P00H07M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-58"
-            }
+            "track_name": "Mr Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-58",
+            "track_duration": "P00H07M21S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H04M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-101"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-101",
+            "track_duration": "P00H04M26S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The Lack of Everything",
-                "duration": "P00H07M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-47"
-            }
+            "track_name": "The Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-47",
+            "track_duration": "P00H07M13S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H15M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-104"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-104",
+            "track_duration": "P00H15M10S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H11M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-90"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-90",
+            "track_duration": "P00H11M10S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H08M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-37"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-37",
+            "track_duration": "P00H08M52S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Obove",
-                "duration": "P00H02M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-23"
-            }
+            "track_name": "Obove",
+            "track_link": "https://papadosio.bandcamp.com/track/obove-23",
+            "track_duration": "P00H02M59S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H04M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-36"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-36",
+            "track_duration": "P00H04M41S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H11M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-66"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-66",
+            "track_duration": "P00H11M23S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Left On The Light",
-                "duration": "P00H05M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/left-on-the-light-2"
-            }
+            "track_name": "Left On The Light",
+            "track_link": "https://papadosio.bandcamp.com/track/left-on-the-light-2",
+            "track_duration": "P00H05M59S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H03M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-65"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-65",
+            "track_duration": "P00H03M31S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Therian",
-                "duration": "P00H07M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-35"
-            }
+            "track_name": "Therian",
+            "track_link": "https://papadosio.bandcamp.com/track/therian-35",
+            "track_duration": "P00H07M10S"
         },
         {
-            "position": 14,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H12M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-85"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-85",
+            "track_duration": "P00H12M23S"
         },
         {
-            "position": 15,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H17M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-77"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-77",
+            "track_duration": "P00H17M52S"
         },
         {
-            "position": 16,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H21M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-142"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-142",
+            "track_duration": "P00H21M52S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a4265540440_10.jpg",
-    "datePublished": "27 Apr 2021 15:01:00 GMT",
-    "description": "This album was recorded on April 9th, 2021 in Waynesville, NC. Thanks to all of the friends and family that came out to celebrate our 15 year anniversary. Cheers to the next 15! \r\n\r\nArt: Chelsea Housand",
-    "duration": "P02H35M33S"
+    ]
 }

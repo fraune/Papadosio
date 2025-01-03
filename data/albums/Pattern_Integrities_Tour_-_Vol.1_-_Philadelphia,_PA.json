@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/pattern-integrities-tour-vol-1-philadelphia-pa",
-    "name": "Pattern Integrities Tour - Vol.1 - Philadelphia, PA",
-    "dateModified": "10 Oct 2016 11:05:42 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "Pattern Integrities Tour - Vol.1 - Philadelphia, PA",
+    "album_link": "https://papadosio.bandcamp.com/album/pattern-integrities-tour-vol-1-philadelphia-pa",
+    "date_modified": "10 Oct 2016 11:05:42 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0187035846_10.jpg",
+    "date_published": "08 Oct 2016 01:09:15 GMT",
+    "album_duration": "P01H51M19S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Oblivion",
-                "duration": "P00H06M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-2"
-            }
+            "track_name": "Oblivion",
+            "track_link": "https://papadosio.bandcamp.com/track/oblivion-2",
+            "track_duration": "P00H06M22S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Jam",
-                "duration": "P00H13M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/jam"
-            }
+            "track_name": "Jam",
+            "track_link": "https://papadosio.bandcamp.com/track/jam",
+            "track_duration": "P00H13M38S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "If It Wasn't For You",
-                "duration": "P00H07M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-42"
-            }
+            "track_name": "If It Wasn't For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-42",
+            "track_duration": "P00H07M51S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H08M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-2"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-2",
+            "track_duration": "P00H08M05S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H21M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-72"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-72",
+            "track_duration": "P00H21M18S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "By the Light of the Stars",
-                "duration": "P00H16M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-42"
-            }
+            "track_name": "By the Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-42",
+            "track_duration": "P00H16M18S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Mr. Turtle's Cloud Kingdom",
-                "duration": "P00H05M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-2"
-            }
+            "track_name": "Mr. Turtle's Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-2",
+            "track_duration": "P00H05M37S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H10M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-2"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-2",
+            "track_duration": "P00H10M23S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Drift",
-                "duration": "P00H06M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-2"
-            }
+            "track_name": "Drift",
+            "track_link": "https://papadosio.bandcamp.com/track/drift-2",
+            "track_duration": "P00H06M06S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H15M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-44"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-44",
+            "track_duration": "P00H15M41S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0187035846_10.jpg",
-    "datePublished": "08 Oct 2016 01:09:15 GMT",
-    "description": null,
-    "duration": "P01H51M19S"
+    ]
 }

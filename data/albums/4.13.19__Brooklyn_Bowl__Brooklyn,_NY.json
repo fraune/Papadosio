@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/41319-brooklyn-bowl-brooklyn-ny",
-    "name": "4.13.19 | Brooklyn Bowl | Brooklyn, NY",
-    "dateModified": "16 Apr 2019 19:07:25 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "4.13.19 | Brooklyn Bowl | Brooklyn, NY",
+    "album_link": "https://papadosio.bandcamp.com/album/41319-brooklyn-bowl-brooklyn-ny",
+    "date_modified": "16 Apr 2019 19:07:25 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0796545264_10.jpg",
+    "date_published": "16 Apr 2019 19:07:25 GMT",
+    "album_duration": "P02H08M21S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Psypoly",
-                "duration": "P00H04M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/psypoly-5"
-            }
+            "track_name": "Psypoly",
+            "track_link": "https://papadosio.bandcamp.com/track/psypoly-5",
+            "track_duration": "P00H04M06S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "The World is a Cube",
-                "duration": "P00H12M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-15"
-            }
+            "track_name": "The World is a Cube",
+            "track_link": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-15",
+            "track_duration": "P00H12M09S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Liminal Daybreak",
-                "duration": "P00H05M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/liminal-daybreak-20"
-            }
+            "track_name": "Liminal Daybreak",
+            "track_link": "https://papadosio.bandcamp.com/track/liminal-daybreak-20",
+            "track_duration": "P00H05M04S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Song on the Spot ep1",
-                "duration": "P00H04M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/song-on-the-spot-ep1"
-            }
+            "track_name": "Song on the Spot ep1",
+            "track_link": "https://papadosio.bandcamp.com/track/song-on-the-spot-ep1",
+            "track_duration": "P00H04M21S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Just Like The Days",
-                "duration": "P00H06M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/just-like-the-days-8"
-            }
+            "track_name": "Just Like The Days",
+            "track_link": "https://papadosio.bandcamp.com/track/just-like-the-days-8",
+            "track_duration": "P00H06M56S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H21M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-80"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-80",
+            "track_duration": "P00H21M27S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H10M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-97"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-97",
+            "track_duration": "P00H10M04S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H10M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-76"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-76",
+            "track_duration": "P00H10M28S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H12M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-23"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-23",
+            "track_duration": "P00H12M59S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "By The Light of The Stars",
-                "duration": "P00H10M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-62"
-            }
+            "track_name": "By The Light of The Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-62",
+            "track_duration": "P00H10M00S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Curve Jam",
-                "duration": "P00H15M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-jam-4"
-            }
+            "track_name": "Curve Jam",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-jam-4",
+            "track_duration": "P00H15M07S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H15M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-53"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-53",
+            "track_duration": "P00H15M40S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0796545264_10.jpg",
-    "datePublished": "16 Apr 2019 19:07:25 GMT",
-    "description": "This album was recorded on April 13th on the second day of the Papadosio Brooklyn Bowl run in Brooklyn, NY. Thanks to our dudes Cycles for opening the night up for us and thanks to everybody who made it out!",
-    "duration": "P02H08M21S"
+    ]
 }

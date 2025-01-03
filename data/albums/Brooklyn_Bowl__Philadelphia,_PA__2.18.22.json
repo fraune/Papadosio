@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/brooklyn-bowl-philadelphia-pa-21822",
-    "name": "Brooklyn Bowl | Philadelphia, PA | 2.18.22",
-    "dateModified": "25 Feb 2022 22:39:08 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Brooklyn Bowl | Philadelphia, PA | 2.18.22",
+    "album_link": "https://papadosio.bandcamp.com/album/brooklyn-bowl-philadelphia-pa-21822",
+    "date_modified": "25 Feb 2022 22:39:08 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2115152021_10.jpg",
+    "date_published": "25 Feb 2022 22:39:09 GMT",
+    "album_duration": "P01H51M02S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H16M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-102"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-102",
+            "track_duration": "P00H16M27S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "By The Light Of The Stars",
-                "duration": "P00H12M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-77"
-            }
+            "track_name": "By The Light Of The Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-77",
+            "track_duration": "P00H12M21S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Catalyst",
-                "duration": "P00H09M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-25"
-            }
+            "track_name": "Catalyst",
+            "track_link": "https://papadosio.bandcamp.com/track/catalyst-25",
+            "track_duration": "P00H09M07S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Versicolor",
-                "duration": "P00H07M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-17"
-            }
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-17",
+            "track_duration": "P00H07M13S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H10M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-86"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-86",
+            "track_duration": "P00H10M16S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "How Not To Float",
-                "duration": "P00H05M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-62"
-            }
+            "track_name": "How Not To Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-62",
+            "track_duration": "P00H05M51S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The Eyes Have Eyes 2/2",
-                "duration": "P00H03M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-2-2-2"
-            }
+            "track_name": "The Eyes Have Eyes 2/2",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-2-2-2",
+            "track_duration": "P00H03M32S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H08M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-65"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-65",
+            "track_duration": "P00H08M21S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Out Of Hiding",
-                "duration": "P00H07M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/out-of-hiding-47"
-            }
+            "track_name": "Out Of Hiding",
+            "track_link": "https://papadosio.bandcamp.com/track/out-of-hiding-47",
+            "track_duration": "P00H07M39S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Cubensis",
-                "duration": "P00H13M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-14"
-            }
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis-14",
+            "track_duration": "P00H13M12S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H17M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-64"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-64",
+            "track_duration": "P00H17M03S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2115152021_10.jpg",
-    "datePublished": "25 Feb 2022 22:39:09 GMT",
-    "description": "This album was recorded at the Brooklyn Bowl in Philly on 2.18.22 after eating way too much of our way too big cheesesteaks. It was great to be in Philly again after so long, so much energy.",
-    "duration": "P01H51M02S"
+    ]
 }

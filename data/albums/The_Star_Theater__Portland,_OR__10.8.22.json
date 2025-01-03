@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/the-star-theater-portland-or-10822",
-    "name": "The Star Theater | Portland, OR | 10.8.22",
-    "dateModified": "13 Oct 2022 04:19:52 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "The Star Theater | Portland, OR | 10.8.22",
+    "album_link": "https://papadosio.bandcamp.com/album/the-star-theater-portland-or-10822",
+    "date_modified": "13 Oct 2022 04:19:52 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1860995868_10.jpg",
+    "date_published": "13 Oct 2022 00:00:00 GMT",
+    "album_duration": "P01H53M05S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H12M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-59"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-59",
+            "track_duration": "P00H12M47S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "By The Light of The Stars",
-                "duration": "P00H10M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-80"
-            }
+            "track_name": "By The Light of The Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-80",
+            "track_duration": "P00H10M34S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Versicolor",
-                "duration": "P00H07M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-24"
-            }
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-24",
+            "track_duration": "P00H07M14S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H09M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-84"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-84",
+            "track_duration": "P00H09M44S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Pool of Stars",
-                "duration": "P00H08M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-28"
-            }
+            "track_name": "Pool of Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/pool-of-stars-28",
+            "track_duration": "P00H08M00S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H19M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-81"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-81",
+            "track_duration": "P00H19M25S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H11M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-142"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-142",
+            "track_duration": "P00H11M58S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Catalyst",
-                "duration": "P00H09M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-29"
-            }
+            "track_name": "Catalyst",
+            "track_link": "https://papadosio.bandcamp.com/track/catalyst-29",
+            "track_duration": "P00H09M15S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H16M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-82"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-82",
+            "track_duration": "P00H16M59S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Lion's Mane",
-                "duration": "P00H07M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-22"
-            }
+            "track_name": "Lion's Mane",
+            "track_link": "https://papadosio.bandcamp.com/track/lions-mane-22",
+            "track_duration": "P00H07M09S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1860995868_10.jpg",
-    "datePublished": "13 Oct 2022 00:00:00 GMT",
-    "description": "Always great to play in Portland!",
-    "duration": "P01H53M05S"
+    ]
 }

@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/21718-the-sinclair-cambridge-ma",
-    "name": "2.17.18 | The Sinclair | Cambridge, MA",
-    "dateModified": "23 Feb 2018 21:15:45 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "2.17.18 | The Sinclair | Cambridge, MA",
+    "album_link": "https://papadosio.bandcamp.com/album/21718-the-sinclair-cambridge-ma",
+    "date_modified": "23 Feb 2018 21:15:45 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1126992990_10.jpg",
+    "date_published": "23 Feb 2018 21:15:45 GMT",
+    "album_duration": "P01H53M25S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H08M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-45"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-45",
+            "track_duration": "P00H08M25S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Therian",
-                "duration": "P00H09M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-32"
-            }
+            "track_name": "Therian",
+            "track_link": "https://papadosio.bandcamp.com/track/therian-32",
+            "track_duration": "P00H09M31S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Frequence",
-                "duration": "P00H11M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-35"
-            }
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-35",
+            "track_duration": "P00H11M56S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H06M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-57"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-57",
+            "track_duration": "P00H06M14S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Moon Entendre",
-                "duration": "P00H07M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/moon-entendre-12"
-            }
+            "track_name": "Moon Entendre",
+            "track_link": "https://papadosio.bandcamp.com/track/moon-entendre-12",
+            "track_duration": "P00H07M05S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "You and Yourself",
-                "duration": "P00H15M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-51"
-            }
+            "track_name": "You and Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-51",
+            "track_duration": "P00H15M21S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-84"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-84",
+            "track_duration": "P00H07M25S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H19M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-102"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-102",
+            "track_duration": "P00H19M40S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Utopiate ft. Mike Gantzer (Aqueous)",
-                "duration": "P00H18M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-ft-mike-gantzer-aqueous"
-            }
+            "track_name": "Utopiate ft. Mike Gantzer (Aqueous)",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-ft-mike-gantzer-aqueous",
+            "track_duration": "P00H18M36S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H09M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-55"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-55",
+            "track_duration": "P00H09M12S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1126992990_10.jpg",
-    "datePublished": "23 Feb 2018 21:15:45 GMT",
-    "description": "This set was recorded on February 17th, 2018 at The Sinclair on night 2 of our two-night run! Cambridge, MA. Thanks to everybody who came out! See you next time!",
-    "duration": "P01H53M25S"
+    ]
 }

@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/41819-the-haunt-ithaca-ny",
-    "name": "4.18.19 | The Haunt | Ithaca, NY",
-    "dateModified": "22 Apr 2019 18:33:26 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "4.18.19 | The Haunt | Ithaca, NY",
+    "album_link": "https://papadosio.bandcamp.com/album/41819-the-haunt-ithaca-ny",
+    "date_modified": "22 Apr 2019 18:33:26 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0286214847_10.jpg",
+    "date_published": "22 Apr 2019 18:33:26 GMT",
+    "album_duration": "P01H59M45S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H17M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-93"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-93",
+            "track_duration": "P00H17M22S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H06M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-65"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-65",
+            "track_duration": "P00H06M04S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H19M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-70"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-70",
+            "track_duration": "P00H19M10S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Oblivion",
-                "duration": "P00H07M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-38"
-            }
+            "track_name": "Oblivion",
+            "track_link": "https://papadosio.bandcamp.com/track/oblivion-38",
+            "track_duration": "P00H07M21S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Liminal Daybreak",
-                "duration": "P00H04M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/liminal-daybreak-21"
-            }
+            "track_name": "Liminal Daybreak",
+            "track_link": "https://papadosio.bandcamp.com/track/liminal-daybreak-21",
+            "track_duration": "P00H04M36S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Distress Signal",
-                "duration": "P00H08M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/distress-signal-24"
-            }
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-24",
+            "track_duration": "P00H08M36S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Content Coma",
-                "duration": "P00H11M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/content-coma-18"
-            }
+            "track_name": "Content Coma",
+            "track_link": "https://papadosio.bandcamp.com/track/content-coma-18",
+            "track_duration": "P00H11M02S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Drift",
-                "duration": "P00H06M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-38"
-            }
+            "track_name": "Drift",
+            "track_link": "https://papadosio.bandcamp.com/track/drift-38",
+            "track_duration": "P00H06M03S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H08M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-60"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-60",
+            "track_duration": "P00H08M15S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-136"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-136",
+            "track_duration": "P00H10M14S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H06M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-63"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-63",
+            "track_duration": "P00H06M18S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H04M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-137"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-137",
+            "track_duration": "P00H04M29S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H10M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-48"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-48",
+            "track_duration": "P00H10M15S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0286214847_10.jpg",
-    "datePublished": "22 Apr 2019 18:33:26 GMT",
-    "description": "This album was recorded on April 18th, 2019 a the Haunt in Ithaca, NY! Thanks to everybody who came out to show support and thanks to our friend's Cycles for opening the night up!",
-    "duration": "P01H59M45S"
+    ]
 }

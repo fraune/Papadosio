@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/the-road-to-earth-night-2014",
-    "name": "The Road to Earth Night 2014",
-    "dateModified": "22 Dec 2014 19:39:05 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "The Road to Earth Night 2014",
+    "album_link": "https://papadosio.bandcamp.com/album/the-road-to-earth-night-2014",
+    "date_modified": "22 Dec 2014 19:39:05 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3255471621_10.jpg",
+    "date_published": "04 Dec 2014 00:00:00 GMT",
+    "album_duration": "P01H29M20S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Papadosio - We Are Water - 10.11.14 - Irving Plaza, NY",
-                "duration": "P00H07M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/papadosio-we-are-water-101114-irving-plaza-ny"
-            }
+            "track_name": "Papadosio - We Are Water - 10.11.14 - Irving Plaza, NY",
+            "track_link": "https://papadosio.bandcamp.com/track/papadosio-we-are-water-101114-irving-plaza-ny",
+            "track_duration": "P00H07M08S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Dopapod - Present Ghosts",
-                "duration": "P00H08M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dopapod-present-ghosts"
-            }
+            "track_name": "Dopapod - Present Ghosts",
+            "track_link": "https://papadosio.bandcamp.com/track/dopapod-present-ghosts",
+            "track_duration": "P00H08M03S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Hundred Waters - Boreal (ESKMO Remix)",
-                "duration": "P00H04M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hundred-waters-boreal-eskmo-remix"
-            }
+            "track_name": "Hundred Waters - Boreal (ESKMO Remix)",
+            "track_link": "https://papadosio.bandcamp.com/track/hundred-waters-boreal-eskmo-remix",
+            "track_duration": "P00H04M42S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Papadosio - Cue - 9.19.14 - Red Rocks, CO",
-                "duration": "P00H08M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/papadosio-cue-91914-red-rocks-co"
-            }
+            "track_name": "Papadosio - Cue - 9.19.14 - Red Rocks, CO",
+            "track_link": "https://papadosio.bandcamp.com/track/papadosio-cue-91914-red-rocks-co",
+            "track_duration": "P00H08M19S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Third Nature - Ancient Past",
-                "duration": "P00H05M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/third-nature-ancient-past"
-            }
+            "track_name": "Third Nature - Ancient Past",
+            "track_link": "https://papadosio.bandcamp.com/track/third-nature-ancient-past",
+            "track_duration": "P00H05M57S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "EarthCry - 639 ∞ Unification",
-                "duration": "P00H07M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/earthcry-639-unification"
-            }
+            "track_name": "EarthCry - 639 ∞ Unification",
+            "track_link": "https://papadosio.bandcamp.com/track/earthcry-639-unification",
+            "track_duration": "P00H07M54S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "David Douglass ft. Peter Carlsen - Moonflower  (ESKMO Remix)",
-                "duration": "P00H04M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/david-douglass-ft-peter-carlsen-moonflower-eskmo-remix"
-            }
+            "track_name": "David Douglass ft. Peter Carlsen - Moonflower  (ESKMO Remix)",
+            "track_link": "https://papadosio.bandcamp.com/track/david-douglass-ft-peter-carlsen-moonflower-eskmo-remix",
+            "track_duration": "P00H04M35S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Jimkata - Feel In Light",
-                "duration": "P00H06M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/jimkata-feel-in-light"
-            }
+            "track_name": "Jimkata - Feel In Light",
+            "track_link": "https://papadosio.bandcamp.com/track/jimkata-feel-in-light",
+            "track_duration": "P00H06M24S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Dopapod - Picture in Picture",
-                "duration": "P00H05M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dopapod-picture-in-picture"
-            }
+            "track_name": "Dopapod - Picture in Picture",
+            "track_link": "https://papadosio.bandcamp.com/track/dopapod-picture-in-picture",
+            "track_duration": "P00H05M24S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Third Nature - Meander",
-                "duration": "P00H08M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/third-nature-meander"
-            }
+            "track_name": "Third Nature - Meander",
+            "track_link": "https://papadosio.bandcamp.com/track/third-nature-meander",
+            "track_duration": "P00H08M27S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Papadosio - Garden",
-                "duration": "P00H08M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/papadosio-garden"
-            }
+            "track_name": "Papadosio - Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/papadosio-garden",
+            "track_duration": "P00H08M04S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Papadosio - Planting the Seeds of Life",
-                "duration": "P00H05M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/papadosio-planting-the-seeds-of-life"
-            }
+            "track_name": "Papadosio - Planting the Seeds of Life",
+            "track_link": "https://papadosio.bandcamp.com/track/papadosio-planting-the-seeds-of-life",
+            "track_duration": "P00H05M49S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "EarthCry - 852 ∞ Remembrance",
-                "duration": "P00H08M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/earthcry-852-remembrance"
-            }
+            "track_name": "EarthCry - 852 ∞ Remembrance",
+            "track_link": "https://papadosio.bandcamp.com/track/earthcry-852-remembrance",
+            "track_duration": "P00H08M34S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3255471621_10.jpg",
-    "datePublished": "04 Dec 2014 00:00:00 GMT",
-    "description": "The Road to Earth Night 2014 is a one of a kind playlist free for YOU to download in anticipation of these amazing 2 weekends of music. Beginning in Denver on the weekend of 12.13.14, Papadosio hits the legendary Fillmore Auditorium for the first time with Rising Appalachia and ESKMO in the house. The following weekend they return to Columbus for 2 nights with special guests Dopapod, Jimkata, EarthCry and Third Nature. This compilation will be available for a limited time only so don't miss out!",
-    "duration": "P01H29M20S"
+    ]
 }

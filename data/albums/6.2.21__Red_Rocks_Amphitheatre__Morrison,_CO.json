@@ -1,132 +1,85 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/6221-red-rocks-amphitheatre-morrison-co",
-    "name": "6.2.21 | Red Rocks Amphitheatre | Morrison, CO",
-    "dateModified": "11 Jun 2021 17:37:06 GMT",
-    "numTracks": 15,
-    "track": [
+    "album_name": "6.2.21 | Red Rocks Amphitheatre | Morrison, CO",
+    "album_link": "https://papadosio.bandcamp.com/album/6221-red-rocks-amphitheatre-morrison-co",
+    "date_modified": "11 Jun 2021 17:37:06 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3886566766_10.jpg",
+    "date_published": "11 Jun 2021 00:00:00 GMT",
+    "album_duration": "P02H08M50S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H02M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-88"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-88",
+            "track_duration": "P00H02M14S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "By the Light of the Stars",
-                "duration": "P00H08M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-73"
-            }
+            "track_name": "By the Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-73",
+            "track_duration": "P00H08M44S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Kicksville",
-                "duration": "P00H12M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/kicksville"
-            }
+            "track_name": "Kicksville",
+            "track_link": "https://papadosio.bandcamp.com/track/kicksville",
+            "track_duration": "P00H12M59S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Fly Agaric",
-                "duration": "P00H09M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agaric-8"
-            }
+            "track_name": "Fly Agaric",
+            "track_link": "https://papadosio.bandcamp.com/track/fly-agaric-8",
+            "track_duration": "P00H09M36S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H07M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-110"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-110",
+            "track_duration": "P00H07M59S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Reishi",
-                "duration": "P00H09M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/reishi-5"
-            }
+            "track_name": "Reishi",
+            "track_link": "https://papadosio.bandcamp.com/track/reishi-5",
+            "track_duration": "P00H09M10S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Versicolor",
-                "duration": "P00H07M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-8"
-            }
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-8",
+            "track_duration": "P00H07M19S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Cubensis",
-                "duration": "P00H15M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-8"
-            }
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis-8",
+            "track_duration": "P00H15M25S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H08M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-81"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-81",
+            "track_duration": "P00H08M23S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Everybody Wants to Rule the World",
-                "duration": "P00H05M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/everybody-wants-to-rule-the-world"
-            }
+            "track_name": "Everybody Wants to Rule the World",
+            "track_link": "https://papadosio.bandcamp.com/track/everybody-wants-to-rule-the-world",
+            "track_duration": "P00H05M03S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H07M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-71"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-71",
+            "track_duration": "P00H07M09S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Right Now",
-                "duration": "P00H07M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-35"
-            }
+            "track_name": "Right Now",
+            "track_link": "https://papadosio.bandcamp.com/track/right-now-35",
+            "track_duration": "P00H07M26S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H05M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-70"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-70",
+            "track_duration": "P00H05M38S"
         },
         {
-            "position": 14,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-106"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-106",
+            "track_duration": "P00H07M02S"
         },
         {
-            "position": 15,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H14M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-143"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-143",
+            "track_duration": "P00H14M43S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3886566766_10.jpg",
-    "datePublished": "11 Jun 2021 00:00:00 GMT",
-    "description": "This album was recorded on June 2nd, 2021 at Red Rocks Amphitheater in Morrison, CO! BIG thanks to Dirtwire & Bluetech for opening the night up! Also Thank you to all of the visual artists who came out to co-create with us. We will be back in CO soon with a HUGE announcement! Until then enjoy the set!",
-    "duration": "P02H08M50S"
+    ]
 }

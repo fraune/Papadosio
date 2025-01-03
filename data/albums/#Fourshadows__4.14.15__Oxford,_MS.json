@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/fourshadows-41415-oxford-ms",
-    "name": "#Fourshadows | 4.14.15 | Oxford, MS",
-    "dateModified": "05 May 2015 21:47:05 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "#Fourshadows | 4.14.15 | Oxford, MS",
+    "album_link": "https://papadosio.bandcamp.com/album/fourshadows-41415-oxford-ms",
+    "date_modified": "05 May 2015 21:47:05 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1363830422_10.jpg",
+    "date_published": "05 May 2015 21:47:05 GMT",
+    "album_duration": "P02H13M08S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "...and this is what he thought",
-                "duration": "P00H03M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-8"
-            }
+            "track_name": "...and this is what he thought",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-8",
+            "track_duration": "P00H03M26S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H13M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-36"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-36",
+            "track_duration": "P00H13M05S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H08M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-23"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-23",
+            "track_duration": "P00H08M31S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Method of Control>",
-                "duration": "P00H11M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-40"
-            }
+            "track_name": "Method of Control>",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-40",
+            "track_duration": "P00H11M13S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H10M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-36"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-36",
+            "track_duration": "P00H10M06S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "We Choose",
-                "duration": "P00H06M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-28"
-            }
+            "track_name": "We Choose",
+            "track_link": "https://papadosio.bandcamp.com/track/we-choose-28",
+            "track_duration": "P00H06M53S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-46"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-46",
+            "track_duration": "P00H09M33S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Find Your Cloud>",
-                "duration": "P00H24M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-58"
-            }
+            "track_name": "Find Your Cloud>",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-58",
+            "track_duration": "P00H24M34S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H12M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-31"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-31",
+            "track_duration": "P00H12M34S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H18M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-48"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-48",
+            "track_duration": "P00H18M11S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H15M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-21"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-21",
+            "track_duration": "P00H15M02S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1363830422_10.jpg",
-    "datePublished": "05 May 2015 21:47:05 GMT",
-    "description": "Live from The Lyric - April 14th, 2015 - Fourshadows Tour \r\nAll music, written, performed & recorded by Papadosio \r\n© all rights reserved 2015.",
-    "duration": "P02H13M08S"
+    ]
 }

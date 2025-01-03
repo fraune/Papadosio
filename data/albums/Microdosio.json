@@ -1,84 +1,55 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/microdosio-2",
-    "name": "Microdosio",
-    "dateModified": "26 Nov 2022 20:56:19 GMT",
-    "numTracks": 9,
-    "track": [
+    "album_name": "Microdosio",
+    "album_link": "https://papadosio.bandcamp.com/album/microdosio-2",
+    "date_modified": "26 Nov 2022 20:56:19 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2332570646_10.jpg",
+    "date_published": "07 Jul 2020 00:00:00 GMT",
+    "album_duration": "P00H48M41S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Fly Agaric",
-                "duration": "P00H05M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fly-agaric-2"
-            }
+            "track_name": "Fly Agaric",
+            "track_link": "https://papadosio.bandcamp.com/track/fly-agaric-2",
+            "track_duration": "P00H05M30S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Cubensis",
-                "duration": "P00H05M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-4"
-            }
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis-4",
+            "track_duration": "P00H05M31S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Lion's Mane",
-                "duration": "P00H06M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-3"
-            }
+            "track_name": "Lion's Mane",
+            "track_link": "https://papadosio.bandcamp.com/track/lions-mane-3",
+            "track_duration": "P00H06M39S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Chaga",
-                "duration": "P00H05M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/chaga-3"
-            }
+            "track_name": "Chaga",
+            "track_link": "https://papadosio.bandcamp.com/track/chaga-3",
+            "track_duration": "P00H05M09S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Versicolor",
-                "duration": "P00H07M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-5"
-            }
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-5",
+            "track_duration": "P00H07M39S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Shiitake",
-                "duration": "P00H04M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-3"
-            }
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-3",
+            "track_duration": "P00H04M24S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Cordyceps",
-                "duration": "P00H05M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cordyceps-3"
-            }
+            "track_name": "Cordyceps",
+            "track_link": "https://papadosio.bandcamp.com/track/cordyceps-3",
+            "track_duration": "P00H05M12S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Agarikon",
-                "duration": "P00H04M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/agarikon-2"
-            }
+            "track_name": "Agarikon",
+            "track_link": "https://papadosio.bandcamp.com/track/agarikon-2",
+            "track_duration": "P00H04M25S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Reishi",
-                "duration": "P00H04M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/reishi"
-            }
+            "track_name": "Reishi",
+            "track_link": "https://papadosio.bandcamp.com/track/reishi",
+            "track_duration": "P00H04M12S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2332570646_10.jpg",
-    "datePublished": "07 Jul 2020 00:00:00 GMT",
-    "description": "We are excited to present to our back loungers the full Microdosio album. We would like to thank you for sticking with us as we've delved into our interpretation and realization of a world we rarely think about, yet has been in the background of humanity over the ages. We can't wait to play these songs live when this is over, whenever that may be. Until then enjoy these tracks, we had a blast making them.",
-    "duration": "P00H48M41S"
+    ]
 }

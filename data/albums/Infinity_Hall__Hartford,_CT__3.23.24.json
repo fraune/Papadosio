@@ -1,124 +1,80 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/infinity-hall-hartford-ct-32324",
-    "name": "Infinity Hall | Hartford, CT | 3.23.24",
-    "dateModified": "27 Mar 2024 14:59:08 GMT",
-    "numTracks": 14,
-    "track": [
+    "album_name": "Infinity Hall | Hartford, CT | 3.23.24",
+    "album_link": "https://papadosio.bandcamp.com/album/infinity-hall-hartford-ct-32324",
+    "date_modified": "27 Mar 2024 14:59:08 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1104145088_10.jpg",
+    "date_published": "27 Mar 2024 14:59:08 GMT",
+    "album_duration": "P01H55M02S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H13M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-54"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-54",
+            "track_duration": "P00H13M18S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Shiitake",
-                "duration": "P00H06M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-41"
-            }
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-41",
+            "track_duration": "P00H06M20S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Boss Battle",
-                "duration": "P00H03M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/boss-battle-18"
-            }
+            "track_name": "Boss Battle",
+            "track_link": "https://papadosio.bandcamp.com/track/boss-battle-18",
+            "track_duration": "P00H03M40S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H10M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-98"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-98",
+            "track_duration": "P00H10M29S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Everyone Is Cool",
-                "duration": "P00H10M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/everyone-is-cool-20"
-            }
+            "track_name": "Everyone Is Cool",
+            "track_link": "https://papadosio.bandcamp.com/track/everyone-is-cool-20",
+            "track_duration": "P00H10M47S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-127"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-127",
+            "track_duration": "P00H07M20S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Who You Are*",
-                "duration": "P00H09M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/who-you-are-2"
-            }
+            "track_name": "Who You Are*",
+            "track_link": "https://papadosio.bandcamp.com/track/who-you-are-2",
+            "track_duration": "P00H09M04S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H06M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-86"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-86",
+            "track_duration": "P00H06M04S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H14M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-173"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-173",
+            "track_duration": "P00H14M55S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The End Of The World",
-                "duration": "P00H05M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-end-of-the-world-14"
-            }
+            "track_name": "The End Of The World",
+            "track_link": "https://papadosio.bandcamp.com/track/the-end-of-the-world-14",
+            "track_duration": "P00H05M02S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Dare You",
-                "duration": "P00H07M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-30"
-            }
+            "track_name": "Dare You",
+            "track_link": "https://papadosio.bandcamp.com/track/dare-you-30",
+            "track_duration": "P00H07M06S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Mr. Turtle's Cloud Kingdom",
-                "duration": "P00H05M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-76"
-            }
+            "track_name": "Mr. Turtle's Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-76",
+            "track_duration": "P00H05M07S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Shiitake",
-                "duration": "P00H05M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-42"
-            }
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-42",
+            "track_duration": "P00H05M22S"
         },
         {
-            "position": 14,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H10M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-168"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-168",
+            "track_duration": "P00H10M28S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1104145088_10.jpg",
-    "datePublished": "27 Mar 2024 14:59:08 GMT",
-    "description": "...and Hartford Connecticut ToooooOOOO!!!!! Thanks so much for hosting us at your beautiful venue and for coming out to get spacey with us!",
-    "duration": "P01H55M02S"
+    ]
 }

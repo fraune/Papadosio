@@ -1,68 +1,45 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/10618-sacred-vibrations-shepard-mi",
-    "name": "10.6.18 | Sacred Vibrations | Shepard, MI",
-    "dateModified": "17 Oct 2018 19:44:54 GMT",
-    "numTracks": 7,
-    "track": [
+    "album_name": "10.6.18 | Sacred Vibrations | Shepard, MI",
+    "album_link": "https://papadosio.bandcamp.com/album/10618-sacred-vibrations-shepard-mi",
+    "date_modified": "17 Oct 2018 19:44:54 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1933628228_10.jpg",
+    "date_published": "17 Oct 2018 19:44:54 GMT",
+    "album_duration": "P01H30M19S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Frequence",
-                "duration": "P00H20M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-40"
-            }
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-40",
+            "track_duration": "P00H20M32S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Pool of Stars",
-                "duration": "P00H05M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-8"
-            }
+            "track_name": "Pool of Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/pool-of-stars-8",
+            "track_duration": "P00H05M56S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H21M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-52"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-52",
+            "track_duration": "P00H21M10S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H09M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-4"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-4",
+            "track_duration": "P00H09M20S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "By The Light of the Stars",
-                "duration": "P00H09M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-58"
-            }
+            "track_name": "By The Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-58",
+            "track_duration": "P00H09M15S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Fanfare for the Rain People",
-                "duration": "P00H08M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-4"
-            }
+            "track_name": "Fanfare for the Rain People",
+            "track_link": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-4",
+            "track_duration": "P00H08M48S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H15M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-89"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-89",
+            "track_duration": "P00H15M18S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1933628228_10.jpg",
-    "datePublished": "17 Oct 2018 19:44:54 GMT",
-    "description": "This album was recorded in Shepard, MI at Sacred Vibrations Music Festival. Thanks to all of the Michigan family that came out!! Hope to see you all again very soon!",
-    "duration": "P01H30M19S"
+    ]
 }

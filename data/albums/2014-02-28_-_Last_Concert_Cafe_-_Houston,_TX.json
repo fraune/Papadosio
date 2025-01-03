@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2014-02-28-last-concert-cafe-houston-tx",
-    "name": "2014-02-28 - Last Concert Cafe - Houston, TX",
-    "dateModified": "03 Mar 2014 18:29:54 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "2014-02-28 - Last Concert Cafe - Houston, TX",
+    "album_link": "https://papadosio.bandcamp.com/album/2014-02-28-last-concert-cafe-houston-tx",
+    "date_modified": "03 Mar 2014 18:29:54 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2978809665_10.jpg",
+    "date_published": "01 Mar 2014 00:00:00 GMT",
+    "album_duration": "P02H15M37S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H07M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-18"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-18",
+            "track_duration": "P00H07M08S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H10M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-25"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-25",
+            "track_duration": "P00H10M48S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "We Choose",
-                "duration": "P00H07M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-10"
-            }
+            "track_name": "We Choose",
+            "track_link": "https://papadosio.bandcamp.com/track/we-choose-10",
+            "track_duration": "P00H07M00S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H20M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-12"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-12",
+            "track_duration": "P00H20M41S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H21M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-24"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-24",
+            "track_duration": "P00H21M10S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-22"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-22",
+            "track_duration": "P00H09M47S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H09M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-21"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-21",
+            "track_duration": "P00H09M28S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H12M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-15"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-15",
+            "track_duration": "P00H12M58S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Stick Fgure",
-                "duration": "P00H07M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-fgure"
-            }
+            "track_name": "Stick Fgure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-fgure",
+            "track_duration": "P00H07M48S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H11M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-19"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-19",
+            "track_duration": "P00H11M39S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H10M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-9"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-9",
+            "track_duration": "P00H10M56S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H06M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-13"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-13",
+            "track_duration": "P00H06M14S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2978809665_10.jpg",
-    "datePublished": "01 Mar 2014 00:00:00 GMT",
-    "description": "Recorded live at Last Concert Cafe - Houston, TX\r\n2.28.14 - Winter // Spring Tour 2014",
-    "duration": "P02H15M37S"
+    ]
 }

@@ -48,7 +48,7 @@ def main():
 
     # Write updated dict back out
     with open(output_file, "w") as out:
-        json.dump(sorted_tracks, out, indent=4)
+        json.dump(sorted_tracks, out, indent=4, ensure_ascii=False)
 
 
 if __name__ == "__main__":

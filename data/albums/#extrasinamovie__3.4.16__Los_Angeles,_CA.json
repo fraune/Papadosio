@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/extrasinamovie-3416-los-angeles-ca",
-    "name": "#extrasinamovie | 3.4.16 | Los Angeles, CA",
-    "dateModified": "29 Mar 2016 04:55:50 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "#extrasinamovie | 3.4.16 | Los Angeles, CA",
+    "album_link": "https://papadosio.bandcamp.com/album/extrasinamovie-3416-los-angeles-ca",
+    "date_modified": "29 Mar 2016 04:55:50 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1760737918_10.jpg",
+    "date_published": "29 Mar 2016 04:55:50 GMT",
+    "album_duration": "P01H40M12S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H14M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-76"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-76",
+            "track_duration": "P00H14M33S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Glimpse of Light",
-                "duration": "P00H06M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-31"
-            }
+            "track_name": "Glimpse of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-31",
+            "track_duration": "P00H06M20S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "We Can Always Come Back",
-                "duration": "P00H07M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-18"
-            }
+            "track_name": "We Can Always Come Back",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back-18",
+            "track_duration": "P00H07M48S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Curve(ature)",
-                "duration": "P00H13M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-ature-5"
-            }
+            "track_name": "Curve(ature)",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-ature-5",
+            "track_duration": "P00H13M15S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M13S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-63"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-63",
+            "track_duration": "P00H09M13S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H07M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-31"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-31",
+            "track_duration": "P00H07M55S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Ritual",
-                "duration": "P00H09M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-21"
-            }
+            "track_name": "Ritual",
+            "track_link": "https://papadosio.bandcamp.com/track/ritual-21",
+            "track_duration": "P00H09M18S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "The Wrong Nostalgia",
-                "duration": "P00H04M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-19"
-            }
+            "track_name": "The Wrong Nostalgia",
+            "track_link": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-19",
+            "track_duration": "P00H04M58S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H12M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-46"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-46",
+            "track_duration": "P00H12M06S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Crowd Banter",
-                "duration": "P00H01M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/crowd-banter-16"
-            }
+            "track_name": "Crowd Banter",
+            "track_link": "https://papadosio.bandcamp.com/track/crowd-banter-16",
+            "track_duration": "P00H01M52S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H12M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-47"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-47",
+            "track_duration": "P00H12M54S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1760737918_10.jpg",
-    "datePublished": "29 Mar 2016 04:55:50 GMT",
-    "description": null,
-    "duration": "P01H40M12S"
+    ]
 }

@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2013-11-29-bogarts-cincinnati-oh",
-    "name": "2013-11-29 - Bogarts - Cincinnati, OH",
-    "dateModified": "06 Dec 2013 15:46:26 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "2013-11-29 - Bogarts - Cincinnati, OH",
+    "album_link": "https://papadosio.bandcamp.com/album/2013-11-29-bogarts-cincinnati-oh",
+    "date_modified": "06 Dec 2013 15:46:26 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0130906668_10.jpg",
+    "date_published": "06 Dec 2013 15:46:03 GMT",
+    "album_duration": "P01H58M44S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H10M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-16"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-16",
+            "track_duration": "P00H10M09S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H07M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-12"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-12",
+            "track_duration": "P00H07M21S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-14"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-14",
+            "track_duration": "P00H08M30S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H12M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-19"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-19",
+            "track_duration": "P00H12M27S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "We Choose",
-                "duration": "P00H06M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-choose-6"
-            }
+            "track_name": "We Choose",
+            "track_link": "https://papadosio.bandcamp.com/track/we-choose-6",
+            "track_duration": "P00H06M56S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H16M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-20"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-20",
+            "track_duration": "P00H16M00S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H08M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-9"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-9",
+            "track_duration": "P00H08M02S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H07M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-7"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-7",
+            "track_duration": "P00H07M15S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Giving You Up",
-                "duration": "P00H08M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/giving-you-up-3"
-            }
+            "track_name": "Giving You Up",
+            "track_link": "https://papadosio.bandcamp.com/track/giving-you-up-3",
+            "track_duration": "P00H08M22S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H13M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-16"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-16",
+            "track_duration": "P00H13M10S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H20M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-19"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-19",
+            "track_duration": "P00H20M32S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0130906668_10.jpg",
-    "datePublished": "06 Dec 2013 15:46:03 GMT",
-    "description": "Live at Bogarts - Cincinnati, OH\r\n11.29.2013",
-    "duration": "P01H58M44S"
+    ]
 }

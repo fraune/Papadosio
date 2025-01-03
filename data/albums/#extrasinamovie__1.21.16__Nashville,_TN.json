@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/extrasinamovie-12116-nashville-tn",
-    "name": "#extrasinamovie | 1.21.16 | Nashville, TN",
-    "dateModified": "27 Jan 2016 00:54:06 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "#extrasinamovie | 1.21.16 | Nashville, TN",
+    "album_link": "https://papadosio.bandcamp.com/album/extrasinamovie-12116-nashville-tn",
+    "date_modified": "27 Jan 2016 00:54:06 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1127199991_10.jpg",
+    "date_published": "27 Jan 2016 00:54:06 GMT",
+    "album_duration": "P02H33M16S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "2am",
-                "duration": "P00H06M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-25"
-            }
+            "track_name": "2am",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-25",
+            "track_duration": "P00H06M17S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H14M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-47"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-47",
+            "track_duration": "P00H14M05S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Ritual",
-                "duration": "P00H14M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-16"
-            }
+            "track_name": "Ritual",
+            "track_link": "https://papadosio.bandcamp.com/track/ritual-16",
+            "track_duration": "P00H14M18S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Glimpse of Light",
-                "duration": "P00H06M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-23"
-            }
+            "track_name": "Glimpse of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-23",
+            "track_duration": "P00H06M50S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H09M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-32"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-32",
+            "track_duration": "P00H09M31S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Therian",
-                "duration": "P00H08M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-9"
-            }
+            "track_name": "Therian",
+            "track_link": "https://papadosio.bandcamp.com/track/therian-9",
+            "track_duration": "P00H08M17S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H21M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-69"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-69",
+            "track_duration": "P00H21M04S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H17M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-72"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-72",
+            "track_duration": "P00H17M33S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H10M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-59"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-59",
+            "track_duration": "P00H10M06S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H26M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-36"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-36",
+            "track_duration": "P00H26M49S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Curve(ature)",
-                "duration": "P00H18M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-ature"
-            }
+            "track_name": "Curve(ature)",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-ature",
+            "track_duration": "P00H18M26S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1127199991_10.jpg",
-    "datePublished": "27 Jan 2016 00:54:06 GMT",
-    "description": "#extrasinamovie | 1.21.16 | Nashville, TN\r\n\r\nAll music written, recorded, and performed by Papadosio. © All Rights Reserved 2016.\r\nPhoto: Brien Vincent",
-    "duration": "P02H33M16S"
+    ]
 }

@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/21419-workplay-theatre-birmingham-al",
-    "name": "2.14.19 | Workplay Theatre | Birmingham, AL",
-    "dateModified": "20 Feb 2019 19:53:30 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "2.14.19 | Workplay Theatre | Birmingham, AL",
+    "album_link": "https://papadosio.bandcamp.com/album/21419-workplay-theatre-birmingham-al",
+    "date_modified": "20 Feb 2019 19:53:30 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2370414738_10.jpg",
+    "date_published": "20 Feb 2019 19:53:30 GMT",
+    "album_duration": "P01H48M32S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Holy Heck",
-                "duration": "P00H15M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-42"
-            }
+            "track_name": "Holy Heck",
+            "track_link": "https://papadosio.bandcamp.com/track/holy-heck-42",
+            "track_duration": "P00H15M46S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Ritual",
-                "duration": "P00H09M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ritual-39"
-            }
+            "track_name": "Ritual",
+            "track_link": "https://papadosio.bandcamp.com/track/ritual-39",
+            "track_duration": "P00H09M25S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H17M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-54"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-54",
+            "track_duration": "P00H17M20S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Content Coma",
-                "duration": "P00H12M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/content-coma-16"
-            }
+            "track_name": "Content Coma",
+            "track_link": "https://papadosio.bandcamp.com/track/content-coma-16",
+            "track_duration": "P00H12M10S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H08M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-58"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-58",
+            "track_duration": "P00H08M42S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H12M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-20"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-20",
+            "track_duration": "P00H12M12S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H07M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-18"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-18",
+            "track_duration": "P00H07M47S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "The World is a Cube",
-                "duration": "P00H09M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-14"
-            }
+            "track_name": "The World is a Cube",
+            "track_link": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-14",
+            "track_duration": "P00H09M50S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H08M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-81"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-81",
+            "track_duration": "P00H08M14S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "All I knew",
-                "duration": "P00H07M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-94"
-            }
+            "track_name": "All I knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-94",
+            "track_duration": "P00H07M06S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2370414738_10.jpg",
-    "datePublished": "20 Feb 2019 19:53:30 GMT",
-    "description": "This album was recorded on February 14th, 2019 in Birmingham, AL! thanks to everybody who came out to the show! We hope you had a great time! Give it up to the Heavy Pets for getting the night started!",
-    "duration": "P01H48M32S"
+    ]
 }

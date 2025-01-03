@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/sonic-bloom-rye-co-61523",
-    "name": "Sonic Bloom | Rye, Co | 6.15.23",
-    "dateModified": "05 Jul 2023 15:48:57 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "Sonic Bloom | Rye, Co | 6.15.23",
+    "album_link": "https://papadosio.bandcamp.com/album/sonic-bloom-rye-co-61523",
+    "date_modified": "05 Jul 2023 15:48:57 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3881374924_10.jpg",
+    "date_published": "05 Jul 2023 15:48:57 GMT",
+    "album_duration": "P01H42M43S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "1. Improbability Blotter",
-                "duration": "P00H15M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/1-improbability-blotter"
-            }
+            "track_name": "1. Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/1-improbability-blotter",
+            "track_duration": "P00H15M49S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Your'e A Catman",
-                "duration": "P00H10M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-17"
-            }
+            "track_name": "Your'e A Catman",
+            "track_link": "https://papadosio.bandcamp.com/track/youre-a-catman-17",
+            "track_duration": "P00H10M32S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Versicolor",
-                "duration": "P00H07M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/versicolor-36"
-            }
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-36",
+            "track_duration": "P00H07M46S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Dare You",
-                "duration": "P00H06M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-14"
-            }
+            "track_name": "Dare You",
+            "track_link": "https://papadosio.bandcamp.com/track/dare-you-14",
+            "track_duration": "P00H06M57S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Lion's Mane",
-                "duration": "P00H06M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-32"
-            }
+            "track_name": "Lion's Mane",
+            "track_link": "https://papadosio.bandcamp.com/track/lions-mane-32",
+            "track_duration": "P00H06M28S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "How Not To Float",
-                "duration": "P00H15M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-69"
-            }
+            "track_name": "How Not To Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-69",
+            "track_duration": "P00H15M01S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H08M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-96"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-96",
+            "track_duration": "P00H08M16S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H14M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-158"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-158",
+            "track_duration": "P00H14M45S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H06M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-119"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-119",
+            "track_duration": "P00H06M53S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Cubensis",
-                "duration": "P00H10M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-38"
-            }
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis-38",
+            "track_duration": "P00H10M16S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3881374924_10.jpg",
-    "datePublished": "05 Jul 2023 15:48:57 GMT",
-    "description": "Thank you so much Sonic Bloom for having us. This set features Merrick Noyes filling in for Billy on the synths! Such a pleasure",
-    "duration": "P01H42M43S"
+    ]
 }

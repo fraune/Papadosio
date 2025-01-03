@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/31117-the-miramar-theatre-milwaukee-wi",
-    "name": "3.11.17 | The Miramar Theatre | Milwaukee, WI",
-    "dateModified": "12 Mar 2017 22:36:24 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "3.11.17 | The Miramar Theatre | Milwaukee, WI",
+    "album_link": "https://papadosio.bandcamp.com/album/31117-the-miramar-theatre-milwaukee-wi",
+    "date_modified": "12 Mar 2017 22:36:24 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1938948131_10.jpg",
+    "date_published": "12 Mar 2017 00:00:00 GMT",
+    "album_duration": "P01H48M22S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H05M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-46"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-46",
+            "track_duration": "P00H05M43S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Hippie Babysitter 1/2",
-                "duration": "P00H05M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-1-2"
-            }
+            "track_name": "Hippie Babysitter 1/2",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-1-2",
+            "track_duration": "P00H05M05S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H05M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-22"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-22",
+            "track_duration": "P00H05M30S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Hippie Babysitter 2/2",
-                "duration": "P00H12M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-2-2"
-            }
+            "track_name": "Hippie Babysitter 2/2",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-2-2",
+            "track_duration": "P00H12M57S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Oblivion",
-                "duration": "P00H06M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-18"
-            }
+            "track_name": "Oblivion",
+            "track_link": "https://papadosio.bandcamp.com/track/oblivion-18",
+            "track_duration": "P00H06M04S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Each and Every Wave",
-                "duration": "P00H06M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-21"
-            }
+            "track_name": "Each and Every Wave",
+            "track_link": "https://papadosio.bandcamp.com/track/each-and-every-wave-21",
+            "track_duration": "P00H06M48S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "You and Yourself",
-                "duration": "P00H15M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-46"
-            }
+            "track_name": "You and Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-46",
+            "track_duration": "P00H15M49S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Anima Mundi",
-                "duration": "P00H08M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-34"
-            }
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-34",
+            "track_duration": "P00H08M38S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Drift",
-                "duration": "P00H06M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-18"
-            }
+            "track_name": "Drift",
+            "track_link": "https://papadosio.bandcamp.com/track/drift-18",
+            "track_duration": "P00H06M10S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H16M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-98"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-98",
+            "track_duration": "P00H16M58S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "New Love 1/2",
-                "duration": "P00H07M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-1-2"
-            }
+            "track_name": "New Love 1/2",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-1-2",
+            "track_duration": "P00H07M55S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "The Lack of Everything",
-                "duration": "P00H06M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-19"
-            }
+            "track_name": "The Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-19",
+            "track_duration": "P00H06M42S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "New Love 2/2",
-                "duration": "P00H04M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-2-2-5"
-            }
+            "track_name": "New Love 2/2",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-2-2-5",
+            "track_duration": "P00H04M03S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1938948131_10.jpg",
-    "datePublished": "12 Mar 2017 00:00:00 GMT",
-    "description": "Recorded on March 11th 2017 at The Miramar Theatre in Milwaukee, WI\r\n\r\nPattern Integrities Spring Tour 2017 \r\n\r\nAll material was written and recorded by Papadosio",
-    "duration": "P01H48M22S"
+    ]
 }

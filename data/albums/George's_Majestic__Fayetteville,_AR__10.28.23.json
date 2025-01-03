@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/georges-majestic-fayetteville-ar-102823",
-    "name": "George's Majestic | Fayetteville, AR | 10.28.23",
-    "dateModified": "07 Nov 2023 18:00:39 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "George's Majestic | Fayetteville, AR | 10.28.23",
+    "album_link": "https://papadosio.bandcamp.com/album/georges-majestic-fayetteville-ar-102823",
+    "date_modified": "07 Nov 2023 18:00:39 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0476628229_10.jpg",
+    "date_published": "07 Nov 2023 18:00:39 GMT",
+    "album_duration": "P02H02M21S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H15M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-162"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-162",
+            "track_duration": "P00H15M29S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Therian",
-                "duration": "P00H11M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-40"
-            }
+            "track_name": "Therian",
+            "track_link": "https://papadosio.bandcamp.com/track/therian-40",
+            "track_duration": "P00H11M28S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H09M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-110"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-110",
+            "track_duration": "P00H09M50S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Anima Mundi",
-                "duration": "P00H08M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-51"
-            }
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-51",
+            "track_duration": "P00H08M58S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Optimistic*",
-                "duration": "P00H05M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/optimistic-2"
-            }
+            "track_name": "Optimistic*",
+            "track_link": "https://papadosio.bandcamp.com/track/optimistic-2",
+            "track_duration": "P00H05M49S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "You're A Catman",
-                "duration": "P00H09M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-22"
-            }
+            "track_name": "You're A Catman",
+            "track_link": "https://papadosio.bandcamp.com/track/youre-a-catman-22",
+            "track_duration": "P00H09M07S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Cubensis",
-                "duration": "P00H10M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-42"
-            }
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis-42",
+            "track_duration": "P00H10M08S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Fate",
-                "duration": "P00H06M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fate-7"
-            }
+            "track_name": "Fate",
+            "track_link": "https://papadosio.bandcamp.com/track/fate-7",
+            "track_duration": "P00H06M35S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Dare You",
-                "duration": "P00H07M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-21"
-            }
+            "track_name": "Dare You",
+            "track_link": "https://papadosio.bandcamp.com/track/dare-you-21",
+            "track_duration": "P00H07M17S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H16M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-126"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-126",
+            "track_duration": "P00H16M10S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H12M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-173"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-173",
+            "track_duration": "P00H12M00S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H09M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-172"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-172",
+            "track_duration": "P00H09M30S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0476628229_10.jpg",
-    "datePublished": "07 Nov 2023 18:00:39 GMT",
-    "description": "This one rips...great game y'all, great game! Thank you Fayetteville!!!",
-    "duration": "P02H02M21S"
+    ]
 }

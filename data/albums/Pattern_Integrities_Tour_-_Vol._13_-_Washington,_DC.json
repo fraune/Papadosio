@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/pattern-integrities-tour-vol-13-washington-dc",
-    "name": "Pattern Integrities Tour - Vol. 13 - Washington, DC",
-    "dateModified": "20 Nov 2016 02:51:50 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "Pattern Integrities Tour - Vol. 13 - Washington, DC",
+    "album_link": "https://papadosio.bandcamp.com/album/pattern-integrities-tour-vol-13-washington-dc",
+    "date_modified": "20 Nov 2016 02:51:50 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2193556364_10.jpg",
+    "date_published": "20 Nov 2016 00:00:00 GMT",
+    "album_duration": "P01H55M57S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H04M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-35"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-35",
+            "track_duration": "P00H04M07S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Frequence",
-                "duration": "P00H16M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-26"
-            }
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-26",
+            "track_duration": "P00H16M38S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H11M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-12"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-12",
+            "track_duration": "P00H11M42S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Each and Every Wave",
-                "duration": "P00H07M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-8"
-            }
+            "track_name": "Each and Every Wave",
+            "track_link": "https://papadosio.bandcamp.com/track/each-and-every-wave-8",
+            "track_duration": "P00H07M01S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H11M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-63"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-63",
+            "track_duration": "P00H11M42S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Fuse",
-                "duration": "P00H09M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fuse-45"
-            }
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-45",
+            "track_duration": "P00H09M05S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "You and Yourself",
-                "duration": "P00H15M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-42"
-            }
+            "track_name": "You and Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-42",
+            "track_duration": "P00H15M53S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H09M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-9"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-9",
+            "track_duration": "P00H09M46S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "The Wrong Nostalgia",
-                "duration": "P00H04M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-30"
-            }
+            "track_name": "The Wrong Nostalgia",
+            "track_link": "https://papadosio.bandcamp.com/track/the-wrong-nostalgia-30",
+            "track_duration": "P00H04M42S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H06M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-7"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-7",
+            "track_duration": "P00H06M53S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Frequence",
-                "duration": "P00H12M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-27"
-            }
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-27",
+            "track_duration": "P00H12M33S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Holy Heck",
-                "duration": "P00H05M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-31"
-            }
+            "track_name": "Holy Heck",
+            "track_link": "https://papadosio.bandcamp.com/track/holy-heck-31",
+            "track_duration": "P00H05M55S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2193556364_10.jpg",
-    "datePublished": "20 Nov 2016 00:00:00 GMT",
-    "description": null,
-    "duration": "P01H55M57S"
+    ]
 }

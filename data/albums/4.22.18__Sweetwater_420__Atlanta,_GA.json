@@ -1,84 +1,55 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/42218-sweetwater-420-atlanta-ga",
-    "name": "4.22.18 | Sweetwater 420 | Atlanta, GA",
-    "dateModified": "26 Apr 2018 18:34:52 GMT",
-    "numTracks": 9,
-    "track": [
+    "album_name": "4.22.18 | Sweetwater 420 | Atlanta, GA",
+    "album_link": "https://papadosio.bandcamp.com/album/42218-sweetwater-420-atlanta-ga",
+    "date_modified": "26 Apr 2018 18:34:52 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3174570634_10.jpg",
+    "date_published": "26 Apr 2018 00:00:00 GMT",
+    "album_duration": "P01H30M10S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H01M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-53"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-53",
+            "track_duration": "P00H01M44S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "By the Light of the Stars",
-                "duration": "P00H10M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-55"
-            }
+            "track_name": "By the Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-55",
+            "track_duration": "P00H10M44S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H05M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-59"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-59",
+            "track_duration": "P00H05M10S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-87"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-87",
+            "track_duration": "P00H09M28S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-109"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-109",
+            "track_duration": "P00H08M24S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H11M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-69"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-69",
+            "track_duration": "P00H11M06S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H15M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-114"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-114",
+            "track_duration": "P00H15M34S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H15M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-121"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-121",
+            "track_duration": "P00H15M33S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H12M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-77"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-77",
+            "track_duration": "P00H12M27S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3174570634_10.jpg",
-    "datePublished": "26 Apr 2018 00:00:00 GMT",
-    "description": "This album was recorded on April 22nd, 2018 at Sweetwater 420 Festival in Atlanta, GA! Thanks to everybody who came out and raged the rain with us! \r\n\r\nWe have special things in store for ATL!\r\n\r\nStay Tuned!",
-    "duration": "P01H30M10S"
+    ]
 }

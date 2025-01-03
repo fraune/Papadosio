@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/121617-concord-music-hall-chicago-il",
-    "name": "12.16.17 | Concord Music Hall | Chicago,IL",
-    "dateModified": "24 Dec 2017 19:42:45 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "12.16.17 | Concord Music Hall | Chicago,IL",
+    "album_link": "https://papadosio.bandcamp.com/album/121617-concord-music-hall-chicago-il",
+    "date_modified": "24 Dec 2017 19:42:45 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3033263125_10.jpg",
+    "date_published": "24 Dec 2017 19:42:45 GMT",
+    "album_duration": "P01H54M19S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H07M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-55"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-55",
+            "track_duration": "P00H07M01S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H15M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-71"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-71",
+            "track_duration": "P00H15M49S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H07M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-55"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-55",
+            "track_duration": "P00H07M07S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-82"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-82",
+            "track_duration": "P00H09M08S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H08M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-79"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-79",
+            "track_duration": "P00H08M46S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H10M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-101"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-101",
+            "track_duration": "P00H10M53S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "All I Knew - (ft Ilya Goldberg)",
-                "duration": "P00H14M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-ft-ilya-goldberg"
-            }
+            "track_name": "All I Knew - (ft Ilya Goldberg)",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-ft-ilya-goldberg",
+            "track_duration": "P00H14M34S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Planting the Seeds of Life",
-                "duration": "P00H05M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/planting-the-seeds-of-life-17"
-            }
+            "track_name": "Planting the Seeds of Life",
+            "track_link": "https://papadosio.bandcamp.com/track/planting-the-seeds-of-life-17",
+            "track_duration": "P00H05M59S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Therian",
-                "duration": "P00H11M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-31"
-            }
+            "track_name": "Therian",
+            "track_link": "https://papadosio.bandcamp.com/track/therian-31",
+            "track_duration": "P00H11M44S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Drift",
-                "duration": "P00H05M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-29"
-            }
+            "track_name": "Drift",
+            "track_link": "https://papadosio.bandcamp.com/track/drift-29",
+            "track_duration": "P00H05M47S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H17M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-62"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-62",
+            "track_duration": "P00H17M31S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3033263125_10.jpg",
-    "datePublished": "24 Dec 2017 19:42:45 GMT",
-    "description": "This set was recorded on December 16th, 2017 at The Concord Music Hall, in Chicago, IL during Earth Night 2017! Thank you, Chicago for helping us celebrate Earth Night 2017!",
-    "duration": "P01H54M19S"
+    ]
 }

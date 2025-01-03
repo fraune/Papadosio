@@ -1,52 +1,35 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-at-jam-on-the-river-2014",
-    "name": "Live at Jam on the River 2014",
-    "dateModified": "08 May 2015 20:19:59 GMT",
-    "numTracks": 5,
-    "track": [
+    "album_name": "Live at Jam on the River 2014",
+    "album_link": "https://papadosio.bandcamp.com/album/live-at-jam-on-the-river-2014",
+    "date_modified": "08 May 2015 20:19:59 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4103345190_10.jpg",
+    "date_published": "01 Jun 2014 00:00:00 GMT",
+    "album_duration": "P00H59M39S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H15M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-17"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-17",
+            "track_duration": "P00H15M43S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H09M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-20"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-20",
+            "track_duration": "P00H09M42S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H13M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-25"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-25",
+            "track_duration": "P00H13M02S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H07M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-23"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-23",
+            "track_duration": "P00H07M24S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H13M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-29"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-29",
+            "track_duration": "P00H13M48S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a4103345190_10.jpg",
-    "datePublished": "01 Jun 2014 00:00:00 GMT",
-    "description": "Live at Penn's Landing - Philadelphia, PA, USA",
-    "duration": "P00H59M39S"
+    ]
 }

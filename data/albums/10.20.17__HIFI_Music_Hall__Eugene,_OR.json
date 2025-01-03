@@ -1,68 +1,45 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/102017-hifi-music-hall-eugene-or",
-    "name": "10.20.17 | HIFI Music Hall | Eugene, OR",
-    "dateModified": "24 Oct 2017 03:09:43 GMT",
-    "numTracks": 7,
-    "track": [
+    "album_name": "10.20.17 | HIFI Music Hall | Eugene, OR",
+    "album_link": "https://papadosio.bandcamp.com/album/102017-hifi-music-hall-eugene-or",
+    "date_modified": "24 Oct 2017 03:09:43 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4200332953_10.jpg",
+    "date_published": "24 Oct 2017 00:00:00 GMT",
+    "album_duration": "P01H30M00S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H09M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-70"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-70",
+            "track_duration": "P00H09M43S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Frequence",
-                "duration": "P00H15M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-33"
-            }
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-33",
+            "track_duration": "P00H15M55S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Oblivion",
-                "duration": "P00H06M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-25"
-            }
+            "track_name": "Oblivion",
+            "track_link": "https://papadosio.bandcamp.com/track/oblivion-25",
+            "track_duration": "P00H06M03S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H09M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-99"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-99",
+            "track_duration": "P00H09M30S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "We Can Always Come Back",
-                "duration": "P00H11M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-26"
-            }
+            "track_name": "We Can Always Come Back",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back-26",
+            "track_duration": "P00H11M17S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H15M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-79"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-79",
+            "track_duration": "P00H15M34S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H21M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-43"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-43",
+            "track_duration": "P00H21M58S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a4200332953_10.jpg",
-    "datePublished": "24 Oct 2017 00:00:00 GMT",
-    "description": "Recorded on October 20th, 2017 at The HIFI Music Hall, in Eugene, OR during the Shapeshiftour 2017",
-    "duration": "P01H30M00S"
+    ]
 }

@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/12419-the-aggie-fort-collins-co",
-    "name": "1.24.19 | The Aggie | Fort Collins, CO",
-    "dateModified": "11 Feb 2019 22:41:29 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "1.24.19 | The Aggie | Fort Collins, CO",
+    "album_link": "https://papadosio.bandcamp.com/album/12419-the-aggie-fort-collins-co",
+    "date_modified": "11 Feb 2019 22:41:29 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3690025408_10.jpg",
+    "date_published": "11 Feb 2019 00:00:00 GMT",
+    "album_duration": "P01H58M51S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H20M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-53"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-53",
+            "track_duration": "P00H20M30S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Bypass Default",
-                "duration": "P00H08M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bypass-default-39"
-            }
+            "track_name": "Bypass Default",
+            "track_link": "https://papadosio.bandcamp.com/track/bypass-default-39",
+            "track_duration": "P00H08M01S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H13M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-79"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-79",
+            "track_duration": "P00H13M11S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H12M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-58"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-58",
+            "track_duration": "P00H12M33S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Skipswitch",
-                "duration": "P00H11M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/skipswitch-19"
-            }
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-19",
+            "track_duration": "P00H11M05S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Passage",
-                "duration": "P00H05M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/passage-8"
-            }
+            "track_name": "Passage",
+            "track_link": "https://papadosio.bandcamp.com/track/passage-8",
+            "track_duration": "P00H05M03S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Omnifreeze",
-                "duration": "P00H07M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-40"
-            }
+            "track_name": "Omnifreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-40",
+            "track_duration": "P00H07M11S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Fanfare for the Rain People",
-                "duration": "P00H08M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-16"
-            }
+            "track_name": "Fanfare for the Rain People",
+            "track_link": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-16",
+            "track_duration": "P00H08M38S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Threes",
-                "duration": "P00H09M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/threes-58"
-            }
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-58",
+            "track_duration": "P00H09M46S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Pool of Stars",
-                "duration": "P00H06M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/pool-of-stars-17"
-            }
+            "track_name": "Pool of Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/pool-of-stars-17",
+            "track_duration": "P00H06M17S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H16M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-52"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-52",
+            "track_duration": "P00H16M36S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3690025408_10.jpg",
-    "datePublished": "11 Feb 2019 00:00:00 GMT",
-    "description": "This album was recorded on January 24th, 2019 in Fort Collins, CO at The Aggie. Thanks to everybody who came out to the show and thanks for Cycles for getting the night started!",
-    "duration": "P01H58M51S"
+    ]
 }

@@ -1,132 +1,85 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/pattern-integrities-tour-vol-14-washington-dc",
-    "name": "Pattern Integrities Tour - Vol. 14 - Washington, DC",
-    "dateModified": "20 Nov 2016 17:40:16 GMT",
-    "numTracks": 15,
-    "track": [
+    "album_name": "Pattern Integrities Tour - Vol. 14 - Washington, DC",
+    "album_link": "https://papadosio.bandcamp.com/album/pattern-integrities-tour-vol-14-washington-dc",
+    "date_modified": "20 Nov 2016 17:40:16 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2566161027_10.jpg",
+    "date_published": "20 Nov 2016 17:40:16 GMT",
+    "album_duration": "P02H08M39S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Select Your Character (Mario 2)",
-                "duration": "P00H03M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/select-your-character-mario-2"
-            }
+            "track_name": "Select Your Character (Mario 2)",
+            "track_link": "https://papadosio.bandcamp.com/track/select-your-character-mario-2",
+            "track_duration": "P00H03M23S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H08M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-8"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-8",
+            "track_duration": "P00H08M23S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Bionic Intro",
-                "duration": "P00H05M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bionic-intro"
-            }
+            "track_name": "Bionic Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/bionic-intro",
+            "track_duration": "P00H05M11S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H15M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-75"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-75",
+            "track_duration": "P00H15M32S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Omnifreeze",
-                "duration": "P00H03M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-9"
-            }
+            "track_name": "Omnifreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-9",
+            "track_duration": "P00H03M28S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "2AM Intro",
-                "duration": "P00H07M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-intro"
-            }
+            "track_name": "2AM Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-intro",
+            "track_duration": "P00H07M10S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H08M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-40"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-40",
+            "track_duration": "P00H08M10S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H16M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-71"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-71",
+            "track_duration": "P00H16M30S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Oblivion",
-                "duration": "P00H06M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-8"
-            }
+            "track_name": "Oblivion",
+            "track_link": "https://papadosio.bandcamp.com/track/oblivion-8",
+            "track_duration": "P00H06M17S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Drift",
-                "duration": "P00H06M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-8"
-            }
+            "track_name": "Drift",
+            "track_link": "https://papadosio.bandcamp.com/track/drift-8",
+            "track_duration": "P00H06M36S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Dire Dire Docks",
-                "duration": "P00H08M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dire-dire-docks"
-            }
+            "track_name": "Dire Dire Docks",
+            "track_link": "https://papadosio.bandcamp.com/track/dire-dire-docks",
+            "track_duration": "P00H08M03S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H06M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-95"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-95",
+            "track_duration": "P00H06M36S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "The Legend of Zelda",
-                "duration": "P00H05M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-legend-of-zelda"
-            }
+            "track_name": "The Legend of Zelda",
+            "track_link": "https://papadosio.bandcamp.com/track/the-legend-of-zelda",
+            "track_duration": "P00H05M02S"
         },
         {
-            "position": 14,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H10M22S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-53"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-53",
+            "track_duration": "P00H10M22S"
         },
         {
-            "position": 15,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H17M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-40"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-40",
+            "track_duration": "P00H17M56S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2566161027_10.jpg",
-    "datePublished": "20 Nov 2016 17:40:16 GMT",
-    "description": null,
-    "duration": "P02H08M39S"
+    ]
 }

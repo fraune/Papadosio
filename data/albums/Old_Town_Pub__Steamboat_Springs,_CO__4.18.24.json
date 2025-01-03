@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/old-town-pub-steamboat-springs-co-41824",
-    "name": "Old Town Pub | Steamboat Springs, CO | 4.18.24",
-    "dateModified": "24 Apr 2024 19:35:07 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "Old Town Pub | Steamboat Springs, CO | 4.18.24",
+    "album_link": "https://papadosio.bandcamp.com/album/old-town-pub-steamboat-springs-co-41824",
+    "date_modified": "24 Apr 2024 19:35:07 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3530454390_10.jpg",
+    "date_published": "24 Apr 2024 19:35:08 GMT",
+    "album_duration": "P02H14M46S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H20M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-194"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-194",
+            "track_duration": "P00H20M14S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Fossilize",
-                "duration": "P00H08M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fossilize-12"
-            }
+            "track_name": "Fossilize",
+            "track_link": "https://papadosio.bandcamp.com/track/fossilize-12",
+            "track_duration": "P00H08M09S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Lack Of Everything",
-                "duration": "P00H06M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-61"
-            }
+            "track_name": "The Lack Of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-61",
+            "track_duration": "P00H06M30S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H14M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-133"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-133",
+            "track_duration": "P00H14M50S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Shiitake",
-                "duration": "P00H09M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-43"
-            }
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-43",
+            "track_duration": "P00H09M39S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H08M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-105"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-105",
+            "track_duration": "P00H08M19S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Frequence",
-                "duration": "P00H13M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-52"
-            }
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-52",
+            "track_duration": "P00H13M47S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Boss Battle",
-                "duration": "P00H04M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/boss-battle-19"
-            }
+            "track_name": "Boss Battle",
+            "track_link": "https://papadosio.bandcamp.com/track/boss-battle-19",
+            "track_duration": "P00H04M02S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-128"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-128",
+            "track_duration": "P00H07M24S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Therian",
-                "duration": "P00H07M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/therian-42"
-            }
+            "track_name": "Therian",
+            "track_link": "https://papadosio.bandcamp.com/track/therian-42",
+            "track_duration": "P00H07M34S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H11M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-66"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-66",
+            "track_duration": "P00H11M59S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Not Just A Word",
-                "duration": "P00H12M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-36"
-            }
+            "track_name": "Not Just A Word",
+            "track_link": "https://papadosio.bandcamp.com/track/not-just-a-word-36",
+            "track_duration": "P00H12M42S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Holy Heck",
-                "duration": "P00H09M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/holy-heck-60"
-            }
+            "track_name": "Holy Heck",
+            "track_link": "https://papadosio.bandcamp.com/track/holy-heck-60",
+            "track_duration": "P00H09M37S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3530454390_10.jpg",
-    "datePublished": "24 Apr 2024 19:35:08 GMT",
-    "description": "Thanks for having us back Steamboat!",
-    "duration": "P02H14M46S"
+    ]
 }

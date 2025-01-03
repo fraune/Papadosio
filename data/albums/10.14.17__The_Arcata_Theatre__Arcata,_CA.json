@@ -1,84 +1,55 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/101417-the-arcata-theatre-arcata-ca",
-    "name": "10.14.17 | The Arcata Theatre | Arcata, CA",
-    "dateModified": "18 Oct 2017 23:36:38 GMT",
-    "numTracks": 9,
-    "track": [
+    "album_name": "10.14.17 | The Arcata Theatre | Arcata, CA",
+    "album_link": "https://papadosio.bandcamp.com/album/101417-the-arcata-theatre-arcata-ca",
+    "date_modified": "18 Oct 2017 23:36:38 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2816877312_10.jpg",
+    "date_published": "18 Oct 2017 23:36:38 GMT",
+    "album_duration": "P01H27M25S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H08M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-64"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-64",
+            "track_duration": "P00H08M42S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H10M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-79"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-79",
+            "track_duration": "P00H10M51S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Oblivion",
-                "duration": "P00H06M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-24"
-            }
+            "track_name": "Oblivion",
+            "track_link": "https://papadosio.bandcamp.com/track/oblivion-24",
+            "track_duration": "P00H06M44S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H09M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-98"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-98",
+            "track_duration": "P00H09M19S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H06M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-81"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-81",
+            "track_duration": "P00H06M58S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H15M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-114"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-114",
+            "track_duration": "P00H15M41S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Omnifreeze",
-                "duration": "P00H07M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-26"
-            }
+            "track_name": "Omnifreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-26",
+            "track_duration": "P00H07M48S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H13M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-61"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-61",
+            "track_duration": "P00H13M10S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H08M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-61"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-61",
+            "track_duration": "P00H08M12S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2816877312_10.jpg",
-    "datePublished": "18 Oct 2017 23:36:38 GMT",
-    "description": "Recorded on October 14th, 2017 at The Arcata Theatre in Arcata, CA during the Shapeshiftour 2017",
-    "duration": "P01H27M25S"
+    ]
 }

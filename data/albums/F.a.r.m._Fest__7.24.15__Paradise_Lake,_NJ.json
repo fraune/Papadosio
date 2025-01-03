@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/f-a-r-m-fest-72415-paradise-lake-nj",
-    "name": "F.a.r.m. Fest | 7.24.15 | Paradise Lake, NJ",
-    "dateModified": "21 Aug 2015 05:07:56 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "F.a.r.m. Fest | 7.24.15 | Paradise Lake, NJ",
+    "album_link": "https://papadosio.bandcamp.com/album/f-a-r-m-fest-72415-paradise-lake-nj",
+    "date_modified": "21 Aug 2015 05:07:56 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3397813490_10.jpg",
+    "date_published": "21 Aug 2015 05:07:56 GMT",
+    "album_duration": "P01H35M53S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H10M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-27"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-27",
+            "track_duration": "P00H10M02S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H18M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-56"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-56",
+            "track_duration": "P00H18M26S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Now That You Know",
-                "duration": "P00H12M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/now-that-you-know-21"
-            }
+            "track_name": "Now That You Know",
+            "track_link": "https://papadosio.bandcamp.com/track/now-that-you-know-21",
+            "track_duration": "P00H12M03S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "If It Wasn't For You",
-                "duration": "P00H07M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-36"
-            }
+            "track_name": "If It Wasn't For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-36",
+            "track_duration": "P00H07M14S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Ear To Ear",
-                "duration": "P00H05M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-14"
-            }
+            "track_name": "Ear To Ear",
+            "track_link": "https://papadosio.bandcamp.com/track/ear-to-ear-14",
+            "track_duration": "P00H05M52S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H07M42S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-72"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-72",
+            "track_duration": "P00H07M42S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H06M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-63"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-63",
+            "track_duration": "P00H06M40S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "...And This Is What He Thought",
-                "duration": "P00H04M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-10"
-            }
+            "track_name": "...And This Is What He Thought",
+            "track_link": "https://papadosio.bandcamp.com/track/and-this-is-what-he-thought-10",
+            "track_duration": "P00H04M16S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H02M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-73"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-73",
+            "track_duration": "P00H02M58S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H09M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-36"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-36",
+            "track_duration": "P00H09M33S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H11M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-33"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-33",
+            "track_duration": "P00H11M07S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3397813490_10.jpg",
-    "datePublished": "21 Aug 2015 05:07:56 GMT",
-    "description": "Live from F.a.r.m. Fest Music & Arts Festival - July 24th, 2015 All music written, performed & recorded by Papadosio. © all rights reserved 2015.",
-    "duration": "P01H35M53S"
+    ]
 }

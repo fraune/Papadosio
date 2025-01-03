@@ -1,148 +1,95 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/subterrennea-the-caverns-pelham-tn-9232023",
-    "name": "Subterrennea | The Caverns, Pelham, TN | 9.23.2023",
-    "dateModified": "30 Sep 2023 18:34:04 GMT",
-    "numTracks": 17,
-    "track": [
+    "album_name": "Subterrennea | The Caverns, Pelham, TN | 9.23.2023",
+    "album_link": "https://papadosio.bandcamp.com/album/subterrennea-the-caverns-pelham-tn-9232023",
+    "date_modified": "30 Sep 2023 18:34:04 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0925391764_10.jpg",
+    "date_published": "30 Sep 2023 18:34:04 GMT",
+    "album_duration": "P02H43M10S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H03M50S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-107"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-107",
+            "track_duration": "P00H03M50S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H07M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-99"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-99",
+            "track_duration": "P00H07M05S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "You And Yourself",
-                "duration": "P00H13M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-76"
-            }
+            "track_name": "You And Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-76",
+            "track_duration": "P00H13M29S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Anima Mundi",
-                "duration": "P00H07M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-50"
-            }
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-50",
+            "track_duration": "P00H07M56S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Right Now",
-                "duration": "P00H07M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-40"
-            }
+            "track_name": "Right Now",
+            "track_link": "https://papadosio.bandcamp.com/track/right-now-40",
+            "track_duration": "P00H07M58S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Cubensis",
-                "duration": "P00H10M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cubensis-40"
-            }
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis-40",
+            "track_duration": "P00H10M56S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Curvature",
-                "duration": "P00H09M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curvature-3"
-            }
+            "track_name": "Curvature",
+            "track_link": "https://papadosio.bandcamp.com/track/curvature-3",
+            "track_duration": "P00H09M19S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H12M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-106"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-106",
+            "track_duration": "P00H12M25S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Shiitake",
-                "duration": "P00H08M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-32"
-            }
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-32",
+            "track_duration": "P00H08M54S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Vactrolio",
-                "duration": "P00H13M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrolio-6"
-            }
+            "track_name": "Vactrolio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrolio-6",
+            "track_duration": "P00H13M25S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "You're A Catman",
-                "duration": "P00H11M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-19"
-            }
+            "track_name": "You're A Catman",
+            "track_link": "https://papadosio.bandcamp.com/track/youre-a-catman-19",
+            "track_duration": "P00H11M17S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Omnifreeze",
-                "duration": "P00H03M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/omnifreeze-45"
-            }
+            "track_name": "Omnifreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze-45",
+            "track_duration": "P00H03M30S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Fate",
-                "duration": "P00H06M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fate-5"
-            }
+            "track_name": "Fate",
+            "track_link": "https://papadosio.bandcamp.com/track/fate-5",
+            "track_duration": "P00H06M32S"
         },
         {
-            "position": 14,
-            "item": {
-                "name": "Dare You",
-                "duration": "P00H07M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dare-you-19"
-            }
+            "track_name": "Dare You",
+            "track_link": "https://papadosio.bandcamp.com/track/dare-you-19",
+            "track_duration": "P00H07M08S"
         },
         {
-            "position": 15,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H11M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-131"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-131",
+            "track_duration": "P00H11M23S"
         },
         {
-            "position": 16,
-            "item": {
-                "name": "Cordyceps",
-                "duration": "P00H13M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cordyceps-22"
-            }
+            "track_name": "Cordyceps",
+            "track_link": "https://papadosio.bandcamp.com/track/cordyceps-22",
+            "track_duration": "P00H13M07S"
         },
         {
-            "position": 17,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H14M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-118"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-118",
+            "track_duration": "P00H14M56S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0925391764_10.jpg",
-    "datePublished": "30 Sep 2023 18:34:04 GMT",
-    "description": "Special days call for special sets. Thanks again everyone for helping me celebrate my birthday this year in the cave!",
-    "duration": "P02H43M10S"
+    ]
 }

@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2013-06-21-culture-room-ft-lauderdale-fl",
-    "name": "2013-06-21 - Culture Room - Ft. Lauderdale, FL",
-    "dateModified": "04 Feb 2014 06:44:32 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "2013-06-21 - Culture Room - Ft. Lauderdale, FL",
+    "album_link": "https://papadosio.bandcamp.com/album/2013-06-21-culture-room-ft-lauderdale-fl",
+    "date_modified": "04 Feb 2014 06:44:32 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3097928421_10.jpg",
+    "date_published": "25 Jun 2013 00:00:00 GMT",
+    "album_duration": "P02H17M16S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H07M18S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-5"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-5",
+            "track_duration": "P00H07M18S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H10M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-4"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-4",
+            "track_duration": "P00H10M06S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H10M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-2"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-2",
+            "track_duration": "P00H10M36S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "By the Light of the Stars",
-                "duration": "P00H12M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-4"
-            }
+            "track_name": "By the Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-4",
+            "track_duration": "P00H12M00S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H12M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-3"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-3",
+            "track_duration": "P00H12M06S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H11M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-3"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-3",
+            "track_duration": "P00H11M17S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H16M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-6"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-6",
+            "track_duration": "P00H16M49S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H07M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-3"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-3",
+            "track_duration": "P00H07M48S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H08M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-3"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-3",
+            "track_duration": "P00H08M12S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H14M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-6"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-6",
+            "track_duration": "P00H14M36S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H13M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-3"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-3",
+            "track_duration": "P00H13M24S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H13M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-5"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-5",
+            "track_duration": "P00H13M04S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3097928421_10.jpg",
-    "datePublished": "25 Jun 2013 00:00:00 GMT",
-    "description": "Live at the Culture Room\r\nFt. Lauderdale, FL - 6.21.13",
-    "duration": "P02H17M16S"
+    ]
 }

@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/extrasinamovie-3316-san-francisco-ca",
-    "name": "#extrasinamovie | 3.3.16 | San Francisco, CA",
-    "dateModified": "29 Mar 2016 01:17:48 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "#extrasinamovie | 3.3.16 | San Francisco, CA",
+    "album_link": "https://papadosio.bandcamp.com/album/extrasinamovie-3316-san-francisco-ca",
+    "date_modified": "29 Mar 2016 01:17:48 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2415356507_10.jpg",
+    "date_published": "29 Mar 2016 01:16:50 GMT",
+    "album_duration": "P01H54M18S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H06M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-83"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-83",
+            "track_duration": "P00H06M59S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H07M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-45"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-45",
+            "track_duration": "P00H07M53S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H14M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-51"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-51",
+            "track_duration": "P00H14M05S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Epiphany",
-                "duration": "P00H08M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/epiphany-30"
-            }
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-30",
+            "track_duration": "P00H08M11S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "You and Yourself",
-                "duration": "P00H14M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/you-and-yourself-38"
-            }
+            "track_name": "You and Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-38",
+            "track_duration": "P00H14M06S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Fahrenheit Fair Enough (Telefon Tel Aviv)",
-                "duration": "P00H06M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fahrenheit-fair-enough-telefon-tel-aviv-2"
-            }
+            "track_name": "Fahrenheit Fair Enough (Telefon Tel Aviv)",
+            "track_link": "https://papadosio.bandcamp.com/track/fahrenheit-fair-enough-telefon-tel-aviv-2",
+            "track_duration": "P00H06M52S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Anima Mundi",
-                "duration": "P00H08M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/anima-mundi-23"
-            }
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-23",
+            "track_duration": "P00H08M49S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H11M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-65"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-65",
+            "track_duration": "P00H11M20S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H06M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-32"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-32",
+            "track_duration": "P00H06M06S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H18M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-80"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-80",
+            "track_duration": "P00H18M10S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Crowd Banter",
-                "duration": "P00H02M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/crowd-banter-15"
-            }
+            "track_name": "Crowd Banter",
+            "track_link": "https://papadosio.bandcamp.com/track/crowd-banter-15",
+            "track_duration": "P00H02M07S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H09M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-38"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-38",
+            "track_duration": "P00H09M40S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2415356507_10.jpg",
-    "datePublished": "29 Mar 2016 01:16:50 GMT",
-    "description": null,
-    "duration": "P01H54M18S"
+    ]
 }

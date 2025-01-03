@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/earth-night-2016-121016-denver-co",
-    "name": "Earth Night 2016 - 12.10.16 - Denver, CO",
-    "dateModified": "02 Nov 2017 16:54:52 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "Earth Night 2016 - 12.10.16 - Denver, CO",
+    "album_link": "https://papadosio.bandcamp.com/album/earth-night-2016-121016-denver-co",
+    "date_modified": "02 Nov 2017 16:54:52 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4243569585_10.jpg",
+    "date_published": "23 Dec 2016 00:00:00 GMT",
+    "album_duration": "P02H17M29S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Vactrollio",
-                "duration": "P00H10M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/vactrollio-12"
-            }
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-12",
+            "track_duration": "P00H10M17S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "We Can Always Come Back",
-                "duration": "P00H09M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-20"
-            }
+            "track_name": "We Can Always Come Back",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back-20",
+            "track_duration": "P00H09M45S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Garden",
-                "duration": "P00H09M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/garden-70"
-            }
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-70",
+            "track_duration": "P00H09M08S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Each and Every Wave",
-                "duration": "P00H06M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/each-and-every-wave-12"
-            }
+            "track_name": "Each and Every Wave",
+            "track_link": "https://papadosio.bandcamp.com/track/each-and-every-wave-12",
+            "track_duration": "P00H06M40S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H14M49S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-66"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-66",
+            "track_duration": "P00H14M49S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H08M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-12"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-12",
+            "track_duration": "P00H08M07S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H20M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-76"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-76",
+            "track_duration": "P00H20M08S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Curve(ature)",
-                "duration": "P00H11M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-ature-11"
-            }
+            "track_name": "Curve(ature)",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-ature-11",
+            "track_duration": "P00H11M32S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H07M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-11"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-11",
+            "track_duration": "P00H07M05S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H25M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-36"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-36",
+            "track_duration": "P00H25M34S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Oblivion",
-                "duration": "P00H06M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oblivion-12"
-            }
+            "track_name": "Oblivion",
+            "track_link": "https://papadosio.bandcamp.com/track/oblivion-12",
+            "track_duration": "P00H06M17S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H08M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-64"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-64",
+            "track_duration": "P00H08M07S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a4243569585_10.jpg",
-    "datePublished": "23 Dec 2016 00:00:00 GMT",
-    "description": "Recorded live at The Fillmore Auditorium in Denver, CO",
-    "duration": "P02H17M29S"
+    ]
 }

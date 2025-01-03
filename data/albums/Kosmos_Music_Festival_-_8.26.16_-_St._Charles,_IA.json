@@ -1,84 +1,55 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/kosmos-music-festival-82616-st-charles-ia",
-    "name": "Kosmos Music Festival - 8.26.16 - St. Charles, IA",
-    "dateModified": "06 Sep 2016 03:33:11 GMT",
-    "numTracks": 9,
-    "track": [
+    "album_name": "Kosmos Music Festival - 8.26.16 - St. Charles, IA",
+    "album_link": "https://papadosio.bandcamp.com/album/kosmos-music-festival-82616-st-charles-ia",
+    "date_modified": "06 Sep 2016 03:33:11 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0350587230_10.jpg",
+    "date_published": "06 Sep 2016 03:33:11 GMT",
+    "album_duration": "P01H14M49S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H16M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-71"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-71",
+            "track_duration": "P00H16M04S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "By the Light of the Stars",
-                "duration": "P00H10M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-41"
-            }
+            "track_name": "By the Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-41",
+            "track_duration": "P00H10M09S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Bill Murray Meets His Past",
-                "duration": "P00H07M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/bill-murray-meets-his-past"
-            }
+            "track_name": "Bill Murray Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/bill-murray-meets-his-past",
+            "track_duration": "P00H07M09S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H05M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-39"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-39",
+            "track_duration": "P00H05M01S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Nix Stevie (Improv)",
-                "duration": "P00H05M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/nix-stevie-improv"
-            }
+            "track_name": "Nix Stevie (Improv)",
+            "track_link": "https://papadosio.bandcamp.com/track/nix-stevie-improv",
+            "track_duration": "P00H05M53S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H06M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-40"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-40",
+            "track_duration": "P00H06M30S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H09M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-38"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-38",
+            "track_duration": "P00H09M28S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "All I Knew",
-                "duration": "P00H07M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/all-i-knew-69"
-            }
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-69",
+            "track_duration": "P00H07M54S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H06M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-53"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-53",
+            "track_duration": "P00H06M41S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0350587230_10.jpg",
-    "datePublished": "06 Sep 2016 03:33:11 GMT",
-    "description": null,
-    "duration": "P01H14M49S"
+    ]
 }

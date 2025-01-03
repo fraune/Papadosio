@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/thunderbird-pittsburgh-pa-4623",
-    "name": "Thunderbird | Pittsburgh, PA | 4.6.23",
-    "dateModified": "27 Apr 2023 16:28:47 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "Thunderbird | Pittsburgh, PA | 4.6.23",
+    "album_link": "https://papadosio.bandcamp.com/album/thunderbird-pittsburgh-pa-4623",
+    "date_modified": "27 Apr 2023 16:28:47 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3633820634_10.jpg",
+    "date_published": "27 Apr 2023 16:28:48 GMT",
+    "album_duration": "P02H11M09S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H15M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-83"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-83",
+            "track_duration": "P00H15M26S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Spinning",
-                "duration": "P00H10M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/spinning-3"
-            }
+            "track_name": "Spinning",
+            "track_link": "https://papadosio.bandcamp.com/track/spinning-3",
+            "track_duration": "P00H10M10S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H09M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-76"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-76",
+            "track_duration": "P00H09M39S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Animal*",
-                "duration": "P00H06M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/animal-2"
-            }
+            "track_name": "Animal*",
+            "track_link": "https://papadosio.bandcamp.com/track/animal-2",
+            "track_duration": "P00H06M39S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H04M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-77"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-77",
+            "track_duration": "P00H04M19S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H19M28S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-85"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-85",
+            "track_duration": "P00H19M28S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "You're A Catman",
-                "duration": "P00H09M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/youre-a-catman-12"
-            }
+            "track_name": "You're A Catman",
+            "track_link": "https://papadosio.bandcamp.com/track/youre-a-catman-12",
+            "track_duration": "P00H09M57S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Catalyst",
-                "duration": "P00H08M44S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/catalyst-34"
-            }
+            "track_name": "Catalyst",
+            "track_link": "https://papadosio.bandcamp.com/track/catalyst-34",
+            "track_duration": "P00H08M44S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Advocates Of Change",
-                "duration": "P00H11M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocates-of-change-3"
-            }
+            "track_name": "Advocates Of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocates-of-change-3",
+            "track_duration": "P00H11M53S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Shiitake",
-                "duration": "P00H11M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-28"
-            }
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-28",
+            "track_duration": "P00H11M04S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Polygons",
-                "duration": "P00H13M09S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/polygons-71"
-            }
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-71",
+            "track_duration": "P00H13M09S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H10M41S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-102"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-102",
+            "track_duration": "P00H10M41S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3633820634_10.jpg",
-    "datePublished": "27 Apr 2023 16:28:48 GMT",
-    "description": "So much fun in Pittsburgh! Sorry for the delay everyone, there was an issue with the original recording, but our awesome team was able to salvage this set! Eternally grateful to our crew!",
-    "duration": "P02H11M09S"
+    ]
 }

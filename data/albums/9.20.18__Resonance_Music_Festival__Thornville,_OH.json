@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/92018-resonance-music-festival-thornville-oh",
-    "name": "9.20.18 | Resonance Music Festival | Thornville, OH",
-    "dateModified": "02 Oct 2018 23:14:14 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "9.20.18 | Resonance Music Festival | Thornville, OH",
+    "album_link": "https://papadosio.bandcamp.com/album/92018-resonance-music-festival-thornville-oh",
+    "date_modified": "02 Oct 2018 23:14:14 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1329981728_10.jpg",
+    "date_published": "02 Oct 2018 23:13:32 GMT",
+    "album_duration": "P01H20M36S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Water improv",
-                "duration": "P00H05M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/water-improv"
-            }
+            "track_name": "Water improv",
+            "track_link": "https://papadosio.bandcamp.com/track/water-improv",
+            "track_duration": "P00H05M02S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Write Sing Play Mix",
-                "duration": "P00H08M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/write-sing-play-mix-3"
-            }
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-3",
+            "track_duration": "P00H08M03S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H01M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-117"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-117",
+            "track_duration": "P00H01M56S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Advocate of Change",
-                "duration": "P00H08M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/advocate-of-change-75"
-            }
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-75",
+            "track_duration": "P00H08M02S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "How Not to Float",
-                "duration": "P00H12M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-48"
-            }
+            "track_name": "How Not to Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-48",
+            "track_duration": "P00H12M12S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Liminal Daybreak",
-                "duration": "P00H07M52S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/liminal-daybreak-3"
-            }
+            "track_name": "Liminal Daybreak",
+            "track_link": "https://papadosio.bandcamp.com/track/liminal-daybreak-3",
+            "track_duration": "P00H07M52S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H13M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-49"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-49",
+            "track_duration": "P00H13M45S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Content Coma",
-                "duration": "P00H10M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/content-coma-7"
-            }
+            "track_name": "Content Coma",
+            "track_link": "https://papadosio.bandcamp.com/track/content-coma-7",
+            "track_duration": "P00H10M40S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H06M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-73"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-73",
+            "track_duration": "P00H06M54S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Fire Rite",
-                "duration": "P00H06M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/fire-rite-3"
-            }
+            "track_name": "Fire Rite",
+            "track_link": "https://papadosio.bandcamp.com/track/fire-rite-3",
+            "track_duration": "P00H06M10S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1329981728_10.jpg",
-    "datePublished": "02 Oct 2018 23:13:32 GMT",
-    "description": "This album was recorded on night 1 of Resonance Music Festival in Thornville, OH. This was such a special night and we are so happy we shared it with all of you.",
-    "duration": "P01H20M36S"
+    ]
 }

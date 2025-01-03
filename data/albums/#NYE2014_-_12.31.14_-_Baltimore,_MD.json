@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/nye2014-123114-baltimore-md",
-    "name": "#NYE2014 - 12.31.14 - Baltimore, MD",
-    "dateModified": "03 Jan 2015 15:46:02 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "#NYE2014 - 12.31.14 - Baltimore, MD",
+    "album_link": "https://papadosio.bandcamp.com/album/nye2014-123114-baltimore-md",
+    "date_modified": "03 Jan 2015 15:46:02 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2705278542_10.jpg",
+    "date_published": "03 Jan 2015 00:00:00 GMT",
+    "album_duration": "P02H02M32S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H07M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-41"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-41",
+            "track_duration": "P00H07M17S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H07M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-46"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-46",
+            "track_duration": "P00H07M53S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H09M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-21"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-21",
+            "track_duration": "P00H09M56S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Halcyon On and On (Orbital)",
-                "duration": "P00H10M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/halcyon-on-and-on-orbital"
-            }
+            "track_name": "Halcyon On and On (Orbital)",
+            "track_link": "https://papadosio.bandcamp.com/track/halcyon-on-and-on-orbital",
+            "track_duration": "P00H10M05S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Right Now",
-                "duration": "P00H08M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/right-now-18"
-            }
+            "track_name": "Right Now",
+            "track_link": "https://papadosio.bandcamp.com/track/right-now-18",
+            "track_duration": "P00H08M11S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H18M00S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-27"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-27",
+            "track_duration": "P00H18M00S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H17M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-19"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-19",
+            "track_duration": "P00H17M19S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H15M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-42"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-42",
+            "track_duration": "P00H15M53S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H11M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-37"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-37",
+            "track_duration": "P00H11M58S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Imagine (John Lennon)",
-                "duration": "P00H04M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/imagine-john-lennon"
-            }
+            "track_name": "Imagine (John Lennon)",
+            "track_link": "https://papadosio.bandcamp.com/track/imagine-john-lennon",
+            "track_duration": "P00H04M15S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H11M45S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-60"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-60",
+            "track_duration": "P00H11M45S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a2705278542_10.jpg",
-    "datePublished": "03 Jan 2015 00:00:00 GMT",
-    "description": "Live from Rams Head Live - Papadosio presents New Years Eve 2014!\r\nwith special guests ELM and Proper Playground Living Gallery and Circus",
-    "duration": "P02H02M32S"
+    ]
 }

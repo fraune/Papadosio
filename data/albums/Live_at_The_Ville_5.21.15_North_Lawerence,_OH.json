@@ -1,84 +1,55 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-at-the-ville-52115-north-lawerence-oh",
-    "name": "Live at The Ville |5.21.15| North Lawerence, OH",
-    "dateModified": "03 Jun 2015 20:20:42 GMT",
-    "numTracks": 9,
-    "track": [
+    "album_name": "Live at The Ville |5.21.15| North Lawerence, OH",
+    "album_link": "https://papadosio.bandcamp.com/album/live-at-the-ville-52115-north-lawerence-oh",
+    "date_modified": "03 Jun 2015 20:20:42 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1784034286_10.jpg",
+    "date_published": "03 Jun 2015 20:20:42 GMT",
+    "album_duration": "P01H56M50S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "By The Light of The Stars",
-                "duration": "P00H10M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-27"
-            }
+            "track_name": "By The Light of The Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-27",
+            "track_duration": "P00H10M54S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H15M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-52"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-52",
+            "track_duration": "P00H15M26S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Puddles For Oceans",
-                "duration": "P00H10M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-28"
-            }
+            "track_name": "Puddles For Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-28",
+            "track_duration": "P00H10M03S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H06M58S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-61"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-61",
+            "track_duration": "P00H06M58S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Oracle Theme",
-                "duration": "P00H22M37S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/oracle-theme-22"
-            }
+            "track_name": "Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/oracle-theme-22",
+            "track_duration": "P00H22M37S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Utopiate",
-                "duration": "P00H12M26S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/utopiate-32"
-            }
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-32",
+            "track_duration": "P00H12M26S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H06M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-38"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-38",
+            "track_duration": "P00H06M53S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H15M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-70"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-70",
+            "track_duration": "P00H15M25S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H16M08S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-36"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-36",
+            "track_duration": "P00H16M08S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1784034286_10.jpg",
-    "datePublished": "03 Jun 2015 20:20:42 GMT",
-    "description": "Live from The Ville Festival - May 21st, 2015 All music, written, performed & recorded by Papadosio. © all rights reserved 2015.",
-    "duration": "P01H56M50S"
+    ]
 }

@@ -1,108 +1,70 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/4618-the-orange-peel-asheville-nc",
-    "name": "4.6.18 | The Orange Peel | Asheville, NC",
-    "dateModified": "12 Apr 2018 22:10:48 GMT",
-    "numTracks": 12,
-    "track": [
+    "album_name": "4.6.18 | The Orange Peel | Asheville, NC",
+    "album_link": "https://papadosio.bandcamp.com/album/4618-the-orange-peel-asheville-nc",
+    "date_modified": "12 Apr 2018 22:10:48 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4214045282_10.jpg",
+    "date_published": "12 Apr 2018 22:10:48 GMT",
+    "album_duration": "P02H00M11S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H02M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-46"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-46",
+            "track_duration": "P00H02M47S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Curve",
-                "duration": "P00H15M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/curve-56"
-            }
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-56",
+            "track_duration": "P00H15M14S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Bionic Man Meets His Past 1/2",
-                "duration": "P00H12M01S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-1-2"
-            }
+            "track_name": "The Bionic Man Meets His Past 1/2",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-1-2",
+            "track_duration": "P00H12M01S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "The Lack of Everything",
-                "duration": "P00H04M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-29"
-            }
+            "track_name": "The Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-29",
+            "track_duration": "P00H04M16S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Bionic Man Meets His Past 2/2",
-                "duration": "P00H03M38S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-2-2"
-            }
+            "track_name": "The Bionic Man Meets His Past 2/2",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-2-2",
+            "track_duration": "P00H03M38S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-85"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-85",
+            "track_duration": "P00H09M21S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Obove",
-                "duration": "P00H03M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/obove-16"
-            }
+            "track_name": "Obove",
+            "track_link": "https://papadosio.bandcamp.com/track/obove-16",
+            "track_duration": "P00H03M34S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H13M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-118"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-118",
+            "track_duration": "P00H13M32S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "How Not to Float",
-                "duration": "P00H13M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-43"
-            }
+            "track_name": "How Not to Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-43",
+            "track_duration": "P00H13M30S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Taking Turns",
-                "duration": "P00H10M19S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/taking-turns-54"
-            }
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-54",
+            "track_duration": "P00H10M19S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Magreenery",
-                "duration": "P00H24M24S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/magreenery-48"
-            }
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-48",
+            "track_duration": "P00H24M24S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Geoglyph",
-                "duration": "P00H07M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/geoglyph-56"
-            }
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-56",
+            "track_duration": "P00H07M35S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a4214045282_10.jpg",
-    "datePublished": "12 Apr 2018 22:10:48 GMT",
-    "description": "This set was recorded on April 6th, 2018 in our current home of Asheville, NC on night 1 of our 2-night run at The Orange Peel Thanks to everybody who came out to the hometown throw down!",
-    "duration": "P02H00M11S"
+    ]
 }

@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/42518-the-signal-chattanooga-tn",
-    "name": "4.25.18 | The Signal | Chattanooga, TN",
-    "dateModified": "01 May 2018 19:37:07 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "4.25.18 | The Signal | Chattanooga, TN",
+    "album_link": "https://papadosio.bandcamp.com/album/42518-the-signal-chattanooga-tn",
+    "date_modified": "01 May 2018 19:37:07 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3949685762_10.jpg",
+    "date_published": "01 May 2018 19:37:07 GMT",
+    "album_duration": "P01H44M13S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Intro",
-                "duration": "P00H03M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/intro-54"
-            }
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-54",
+            "track_duration": "P00H03M47S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H17M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-67"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-67",
+            "track_duration": "P00H17M06S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Monochrome",
-                "duration": "P00H09M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/monochrome-61"
-            }
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-61",
+            "track_duration": "P00H09M07S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "We Can Always Come Back",
-                "duration": "P00H08M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-31"
-            }
+            "track_name": "We Can Always Come Back",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back-31",
+            "track_duration": "P00H08M46S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "How Not to Float",
-                "duration": "P00H10M51S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/how-not-to-float-44"
-            }
+            "track_name": "How Not to Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-44",
+            "track_duration": "P00H10M51S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H07M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-48"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-48",
+            "track_duration": "P00H07M54S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Drift",
-                "duration": "P00H05M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/drift-34"
-            }
+            "track_name": "Drift",
+            "track_link": "https://papadosio.bandcamp.com/track/drift-34",
+            "track_duration": "P00H05M46S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Euclidean Lights",
-                "duration": "P00H09M15S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/euclidean-lights-39"
-            }
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-39",
+            "track_duration": "P00H09M15S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M23S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-87"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-87",
+            "track_duration": "P00H09M23S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Eyes Have Eyes",
-                "duration": "P00H15M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-60"
-            }
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-60",
+            "track_duration": "P00H15M53S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Glimpse of Light",
-                "duration": "P00H06M25S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-47"
-            }
+            "track_name": "Glimpse of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-47",
+            "track_duration": "P00H06M25S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a3949685762_10.jpg",
-    "datePublished": "01 May 2018 19:37:07 GMT",
-    "description": "This album was recorded on April 25th, 2018 at the Signal in Chattanooga, TN! Thanks to everybody who come out and raged the show with us!",
-    "duration": "P01H44M13S"
+    ]
 }

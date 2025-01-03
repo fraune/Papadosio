@@ -1,76 +1,50 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/10717-georges-majestic-fayetteville-ar",
-    "name": "10.7.17 | George's Majestic | Fayetteville, AR",
-    "dateModified": "12 Oct 2017 23:44:08 GMT",
-    "numTracks": 8,
-    "track": [
+    "album_name": "10.7.17 | George's Majestic | Fayetteville, AR",
+    "album_link": "https://papadosio.bandcamp.com/album/10717-georges-majestic-fayetteville-ar",
+    "date_modified": "12 Oct 2017 23:44:08 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0189742615_10.jpg",
+    "date_published": "12 Oct 2017 23:44:08 GMT",
+    "album_duration": "P01H29M48S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "2AM",
-                "duration": "P00H05M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/2am-52"
-            }
+            "track_name": "2AM",
+            "track_link": "https://papadosio.bandcamp.com/track/2am-52",
+            "track_duration": "P00H05M48S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Mr. Turtles Cloud Kingdom",
-                "duration": "P00H05M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-30"
-            }
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-30",
+            "track_duration": "P00H05M30S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H13M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-97"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-97",
+            "track_duration": "P00H13M57S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Glimpse of Light",
-                "duration": "P00H06M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/glimpse-of-light-43"
-            }
+            "track_name": "Glimpse of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-43",
+            "track_duration": "P00H06M04S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H17M55S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-41"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-41",
+            "track_duration": "P00H17M55S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H06M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-103"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-103",
+            "track_duration": "P00H06M47S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H13M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-113"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-113",
+            "track_duration": "P00H13M11S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H20M36S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-69"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-69",
+            "track_duration": "P00H20M36S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0189742615_10.jpg",
-    "datePublished": "12 Oct 2017 23:44:08 GMT",
-    "description": "Recorded on October 7th, 2017 at George's Majestic in Fayetteville, AR during the Shapeshiftour 2017.",
-    "duration": "P01H29M48S"
+    ]
 }

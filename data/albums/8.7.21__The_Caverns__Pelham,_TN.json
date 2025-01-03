@@ -1,116 +1,75 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/8721-the-caverns-pelham-tn",
-    "name": "8.7.21 | The Caverns | Pelham, TN",
-    "dateModified": "17 Aug 2021 16:53:41 GMT",
-    "numTracks": 13,
-    "track": [
+    "album_name": "8.7.21 | The Caverns | Pelham, TN",
+    "album_link": "https://papadosio.bandcamp.com/album/8721-the-caverns-pelham-tn",
+    "date_modified": "17 Aug 2021 16:53:41 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0332739706_10.jpg",
+    "date_published": "17 Aug 2021 16:53:41 GMT",
+    "album_duration": "P02H02M10S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H18M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-91"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-91",
+            "track_duration": "P00H18M06S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H14M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-146"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-146",
+            "track_duration": "P00H14M33S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H06M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-70"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-70",
+            "track_duration": "P00H06M47S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Shiitake",
-                "duration": "P00H03M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-8"
-            }
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-8",
+            "track_duration": "P00H03M06S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Inner City Blues",
-                "duration": "P00H04M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/inner-city-blues"
-            }
+            "track_name": "Inner City Blues",
+            "track_link": "https://papadosio.bandcamp.com/track/inner-city-blues",
+            "track_duration": "P00H04M53S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Shiitake",
-                "duration": "P00H02M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-9"
-            }
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-9",
+            "track_duration": "P00H02M47S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Reishi",
-                "duration": "P00H07M48S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/reishi-6"
-            }
+            "track_name": "Reishi",
+            "track_link": "https://papadosio.bandcamp.com/track/reishi-6",
+            "track_duration": "P00H07M48S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Madres De Dios",
-                "duration": "P00H13M11S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madres-de-dios"
-            }
+            "track_name": "Madres De Dios",
+            "track_link": "https://papadosio.bandcamp.com/track/madres-de-dios",
+            "track_duration": "P00H13M11S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H11M32S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-156"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-156",
+            "track_duration": "P00H11M32S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Frequence",
-                "duration": "P00H14M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-48"
-            }
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-48",
+            "track_duration": "P00H14M34S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H04M04S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-157"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-157",
+            "track_duration": "P00H04M04S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Agarikon",
-                "duration": "P00H06M35S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/agarikon-5"
-            }
+            "track_name": "Agarikon",
+            "track_link": "https://papadosio.bandcamp.com/track/agarikon-5",
+            "track_duration": "P00H06M35S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Chaga",
-                "duration": "P00H14M14S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/chaga-10"
-            }
+            "track_name": "Chaga",
+            "track_link": "https://papadosio.bandcamp.com/track/chaga-10",
+            "track_duration": "P00H14M14S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a0332739706_10.jpg",
-    "datePublished": "17 Aug 2021 16:53:41 GMT",
-    "description": "This album was recorded on August 7th, 2021 at the Caverns in Pelham, TN! Thanks to everybody who came out to enjoy the underground experience! We are looking forward to our Subterranea event next year with ALL the friends! There are limited tickets available so get them while you still can!",
-    "duration": "P02H02M10S"
+    ]
 }

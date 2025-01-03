@@ -1,100 +1,65 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/beer-city-music-hall-oklahoma-city-ok-111022-11",
-    "name": "Beer City Music Hall | Oklahoma City, OK | 11.10.22 | 11.",
-    "dateModified": "21 Nov 2022 23:22:00 GMT",
-    "numTracks": 11,
-    "track": [
+    "album_name": "Beer City Music Hall | Oklahoma City, OK | 11.10.22 | 11.",
+    "album_link": "https://papadosio.bandcamp.com/album/beer-city-music-hall-oklahoma-city-ok-111022-11",
+    "date_modified": "21 Nov 2022 23:22:00 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4240237399_10.jpg",
+    "date_published": "21 Nov 2022 23:22:00 GMT",
+    "album_duration": "P02H00M38S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "Lion's Mane",
-                "duration": "P00H07M17S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/lions-mane-24"
-            }
+            "track_name": "Lion's Mane",
+            "track_link": "https://papadosio.bandcamp.com/track/lions-mane-24",
+            "track_duration": "P00H07M17S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Dream Estate",
-                "duration": "P00H12M39S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/dream-estate-91"
-            }
+            "track_name": "Dream Estate",
+            "track_link": "https://papadosio.bandcamp.com/track/dream-estate-91",
+            "track_duration": "P00H12M39S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M12S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-148"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-148",
+            "track_duration": "P00H08M12S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "We Can Always Come Back",
-                "duration": "P00H10M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-can-always-come-back-42"
-            }
+            "track_name": "We Can Always Come Back",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back-42",
+            "track_duration": "P00H10M56S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Shiitake",
-                "duration": "P00H10M02S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/shiitake-23"
-            }
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-23",
+            "track_duration": "P00H10M02S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H05M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-74"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-74",
+            "track_duration": "P00H05M53S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The Plug",
-                "duration": "P00H19M03S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-plug-73"
-            }
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-73",
+            "track_duration": "P00H19M03S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Not Just A Word",
-                "duration": "P00H05M59S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/not-just-a-word-5"
-            }
+            "track_name": "Not Just A Word",
+            "track_link": "https://papadosio.bandcamp.com/track/not-just-a-word-5",
+            "track_duration": "P00H05M59S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H10M06S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-160"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-160",
+            "track_duration": "P00H10M06S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Unparalyzer",
-                "duration": "P00H15M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/unparalyzer-120"
-            }
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-120",
+            "track_duration": "P00H15M34S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H14M57S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-158"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-158",
+            "track_duration": "P00H14M57S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a4240237399_10.jpg",
-    "datePublished": "21 Nov 2022 23:22:00 GMT",
-    "description": "Huge thank you to everyone who came out to our first time in OKC! It was such a warm welcome and we look forward to coming back again soon!",
-    "duration": "P02H00M38S"
+    ]
 }

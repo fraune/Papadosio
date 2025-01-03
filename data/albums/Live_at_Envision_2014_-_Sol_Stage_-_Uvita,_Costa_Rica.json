@@ -1,92 +1,60 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/live-at-envision-2014-sol-stage-uvita-costa-rica",
-    "name": "Live at Envision 2014 - Sol Stage - Uvita, Costa Rica",
-    "dateModified": "12 Dec 2016 21:21:15 GMT",
-    "numTracks": 10,
-    "track": [
+    "album_name": "Live at Envision 2014 - Sol Stage - Uvita, Costa Rica",
+    "album_link": "https://papadosio.bandcamp.com/album/live-at-envision-2014-sol-stage-uvita-costa-rica",
+    "date_modified": "12 Dec 2016 21:21:15 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1747835282_10.jpg",
+    "date_published": "27 Feb 2014 00:00:00 GMT",
+    "album_duration": "P01H46M00S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "We Are Water",
-                "duration": "P00H07M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/we-are-water-29"
-            }
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-29",
+            "track_duration": "P00H07M05S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "New Love",
-                "duration": "P00H11M10S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/new-love-26"
-            }
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-26",
+            "track_duration": "P00H11M10S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H11M21S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-16"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-16",
+            "track_duration": "P00H11M21S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "Find Your Cloud",
-                "duration": "P00H10M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/find-your-cloud-26"
-            }
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-26",
+            "track_duration": "P00H10M20S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Cushion",
-                "duration": "P00H07M43S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cushion-18"
-            }
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-18",
+            "track_duration": "P00H07M43S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Direction Song",
-                "duration": "P00H10M33S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/direction-song-13"
-            }
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-13",
+            "track_duration": "P00H10M33S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "Method of Control",
-                "duration": "P00H11M05S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/method-of-control-20"
-            }
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-20",
+            "track_duration": "P00H11M05S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Cue",
-                "duration": "P00H08M27S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cue-20"
-            }
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-20",
+            "track_duration": "P00H08M27S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Night Colors",
-                "duration": "P00H12M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/night-colors-15"
-            }
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-15",
+            "track_duration": "P00H12M30S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "Paradigm Shift",
-                "duration": "P00H15M46S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/paradigm-shift-19"
-            }
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-19",
+            "track_duration": "P00H15M46S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1747835282_10.jpg",
-    "datePublished": "27 Feb 2014 00:00:00 GMT",
-    "description": "Recorded live at Envision Festival 2014\r\nRancho La Merced - Uvita, Puntarenas, Costa Rica\r\nwww.envisionfestival.com",
-    "duration": "P01H46M00S"
+    ]
 }

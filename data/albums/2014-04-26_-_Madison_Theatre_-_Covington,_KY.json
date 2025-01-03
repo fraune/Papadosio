@@ -1,124 +1,80 @@
 {
-    "@id": "https://papadosio.bandcamp.com/album/2014-04-26-madison-theatre-covington-ky",
-    "name": "2014-04-26 - Madison Theatre - Covington, KY",
-    "dateModified": "01 May 2014 15:56:15 GMT",
-    "numTracks": 14,
-    "track": [
+    "album_name": "2014-04-26 - Madison Theatre - Covington, KY",
+    "album_link": "https://papadosio.bandcamp.com/album/2014-04-26-madison-theatre-covington-ky",
+    "date_modified": "01 May 2014 15:56:15 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1353212906_10.jpg",
+    "date_published": "01 May 2014 15:55:56 GMT",
+    "album_duration": "P02H14M58S",
+    "track_list": [
         {
-            "position": 1,
-            "item": {
-                "name": "The Lack of Everything",
-                "duration": "P00H08M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-lack-of-everything-4"
-            }
+            "track_name": "The Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-4",
+            "track_duration": "P00H08M30S"
         },
         {
-            "position": 2,
-            "item": {
-                "name": "Frequence",
-                "duration": "P00H10M53S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/frequence-4"
-            }
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-4",
+            "track_duration": "P00H10M53S"
         },
         {
-            "position": 3,
-            "item": {
-                "name": "Ear to Ear",
-                "duration": "P00H07M40S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/ear-to-ear-5"
-            }
+            "track_name": "Ear to Ear",
+            "track_link": "https://papadosio.bandcamp.com/track/ear-to-ear-5",
+            "track_duration": "P00H07M40S"
         },
         {
-            "position": 4,
-            "item": {
-                "name": "What's at Stake",
-                "duration": "P00H04M34S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/whats-at-stake-16"
-            }
+            "track_name": "What's at Stake",
+            "track_link": "https://papadosio.bandcamp.com/track/whats-at-stake-16",
+            "track_duration": "P00H04M34S"
         },
         {
-            "position": 5,
-            "item": {
-                "name": "Cloud Found",
-                "duration": "P00H09M07S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/cloud-found-29"
-            }
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-29",
+            "track_duration": "P00H09M07S"
         },
         {
-            "position": 6,
-            "item": {
-                "name": "Puddles for Oceans",
-                "duration": "P00H09M56S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/puddles-for-oceans-18"
-            }
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-18",
+            "track_duration": "P00H09M56S"
         },
         {
-            "position": 7,
-            "item": {
-                "name": "The Bionic Man Meets His Past",
-                "duration": "P00H07M20S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-24"
-            }
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-24",
+            "track_duration": "P00H07M20S"
         },
         {
-            "position": 8,
-            "item": {
-                "name": "Stick Figure",
-                "duration": "P00H05M54S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/stick-figure-8"
-            }
+            "track_name": "Stick Figure",
+            "track_link": "https://papadosio.bandcamp.com/track/stick-figure-8",
+            "track_duration": "P00H05M54S"
         },
         {
-            "position": 9,
-            "item": {
-                "name": "Smile and Nod",
-                "duration": "P00H10M47S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/smile-and-nod-20"
-            }
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-20",
+            "track_duration": "P00H10M47S"
         },
         {
-            "position": 10,
-            "item": {
-                "name": "The Sum",
-                "duration": "P00H08M30S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/the-sum-18"
-            }
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-18",
+            "track_duration": "P00H08M30S"
         },
         {
-            "position": 11,
-            "item": {
-                "name": "Madre de Dios",
-                "duration": "P00H04M29S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/madre-de-dios-11"
-            }
+            "track_name": "Madre de Dios",
+            "track_link": "https://papadosio.bandcamp.com/track/madre-de-dios-11",
+            "track_duration": "P00H04M29S"
         },
         {
-            "position": 12,
-            "item": {
-                "name": "Improbability Blotter",
-                "duration": "P00H12M16S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/improbability-blotter-19"
-            }
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-19",
+            "track_duration": "P00H12M16S"
         },
         {
-            "position": 13,
-            "item": {
-                "name": "Snorkle",
-                "duration": "P00H21M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/snorkle-27"
-            }
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-27",
+            "track_duration": "P00H21M31S"
         },
         {
-            "position": 14,
-            "item": {
-                "name": "Hippie Babysitter",
-                "duration": "P00H13M31S",
-                "mainEntityOfPage": "https://papadosio.bandcamp.com/track/hippie-babysitter-11"
-            }
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-11",
+            "track_duration": "P00H13M31S"
         }
-    ],
-    "image": "https://f4.bcbits.com/img/a1353212906_10.jpg",
-    "datePublished": "01 May 2014 15:55:56 GMT",
-    "description": null,
-    "duration": "P02H14M58S"
+    ]
 }
