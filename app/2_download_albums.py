@@ -6,17 +6,19 @@ from aiohttp import ClientSession
 from tqdm.asyncio import tqdm
 import time
 
+INPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "data", "albums_to_download.json")
+OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "raw", "albums")
+
 BASE_URL = "https://papadosio.bandcamp.com"
-OUTPUT_DIR = "raw/albums"
 RETRY_TIMEOUT = 300  # Retry for a maximum of 5 minutes (in seconds)
 
 
-async def download_albums(data_path: str):
-    """Download album pages asynchronously."""
+async def download_albums():
     # Load album data
-    with open(data_path, "r", encoding="utf-8") as f:
+    with open(INPUT_FILE, "r", encoding="utf-8") as f:
         albums = json.load(f)
 
+    # Remove everything that doesn't need to be re-downloaded
     albums = filter(need_to_download, albums)
 
     async with aiohttp.ClientSession() as session:
@@ -24,7 +26,7 @@ async def download_albums(data_path: str):
         for index, album in enumerate(albums):
             page_url = album["page_url"]
             title = album["title"]
-            delay = index  # (index * 0.9) is too fast
+            delay = index * 1.0  # (index * 0.9) is too fast, and hits rate limits
             tasks.append(fetch_album_page(session, page_url, title, delay=delay))
 
         # Use tqdm for progress tracking
@@ -37,16 +39,20 @@ async def download_albums(data_path: str):
         await retry_failed_downloads(session, failed_albums)
 
 
+def title_to_file_name(title: str):
+    return f"{title.replace(' ', '_').replace('|', '').replace('/', '-')}.html"
+
+
 def need_to_download(album):
-    # Skip if file already exists
+    # Skip if the output file already exists
     album_title = album["title"]
-    file_name = f"{album_title.replace(' ', '_').replace('|', '').replace('/', '-')}.html"
-    output_path = os.path.join(OUTPUT_DIR, file_name)
-    if os.path.exists(output_path):
+    file_name = title_to_file_name(album_title)
+    output_file = os.path.join(OUTPUT_PATH, file_name)
+    if os.path.exists(output_file):
         print(f"Skipping {album_title}, file already exists.")
         return False
 
-    # Songs might get posted as a single. Ignoring them for now.
+    # Songs might get posted as a single. There are only two, and they're duplicates, so skipping for now.
     page_url = album["page_url"]
     if "/track/" in page_url:
         print(f"Skipping {album_title}, is a track, not album")
@@ -56,13 +62,13 @@ def need_to_download(album):
 
 
 async def fetch_album_page(session: ClientSession, page_url: str, album_title: str, delay: int):
-    """Fetch the album page and save it as an HTML file, with a delay before starting."""
+    """Fetch the album page and save it as an HTML file. The delay before starting staggers downloads to avoid rate limits."""
 
     absolute_url = f"{BASE_URL}{page_url}"
-    file_name = f"{album_title.replace(' ', '_').replace('|', '').replace('/', '-')}.html"
-    output_path = os.path.join(OUTPUT_DIR, file_name)
+    file_name = title_to_file_name(album_title)
+    output_path = os.path.join(OUTPUT_PATH, file_name)
 
-    await asyncio.sleep(delay)  # Staggered start
+    await asyncio.sleep(delay)
 
     retries = 0
     start_time = time.time()
@@ -121,13 +127,10 @@ async def retry_failed_downloads(session, failed_albums):
 
 
 if __name__ == "__main__":
-    # Paths
-    album_data_path = os.path.join(os.path.dirname(__file__), "..", "data", "music.json")
-
     # Ensure the output directory exists
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    os.makedirs(OUTPUT_PATH, exist_ok=True)
 
     try:
-        asyncio.run(download_albums(album_data_path))
+        asyncio.run(download_albums())
     except KeyboardInterrupt:
         print("Download canceled by user.")
