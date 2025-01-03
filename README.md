@@ -31,13 +31,9 @@ pip install -r requirements.txt
 pip freeze > requirements.txt
 ```
 
-## Collection and formatting of data
+## Collection, formatting, and processing of data
 
 Bandcamp is a little weird about reliably loading pages the same way every time. So follow these steps to update data:
-
-### Prep working directory
-
-Delete the raw and data folders to start from scratch
 
 ### Acquisition of album data [Manual]
 
@@ -48,29 +44,45 @@ Delete the raw and data folders to start from scratch
     - Use default naming, `Music _ Papadosio.html`
     - Overwrite if necessary, to perform an incremental update
 
-### Parse the music HTML file to pull out the album data
+### Parse albums
 
-You can delete `data/music.json`, then run this. It's very quick to complete.
-
-```
-python app/parse_music.py
-```
-
-### Download raw album data
+This script scans `raw/Music _ Papadosio.html` for album links that need to be downloaded. It creates/updates `data/albums_to_download.json`.
 
 ```
-python app/download_albums.py
+python app/1_parse_albums.py
 ```
 
-### Process albums to create individual album JSON files
+### Download albums
 
-Takes less than a minute
+This script creates `data/downloaded_albums.json` if it does not exist, or updates it with new albums found in `data/albums_to_download.json`.
 
 ```
-python app/process_albums.py
+python app/2_download_albums.py
 ```
 
-### Combine all albums into a big JSON file that can be used by the frontend
+### Process album data
 
+This script scans `raw/albums/` for html files, and parses the tracks and metadata into equivalent json files in `data/albums`. It filters out a lot of unnecessary data, and renames several keys. If the json files that correspond to the html files already exist, they will not be touched.
 
+```
+python app/3_process_albums.py
+```
 
+### Combine album json files
+
+This script scans `data/albums/` for json files, and combines them into a single file in `data/albums.json`. The `albums.json` file is recreated every time this script is run.
+
+```
+python app/4_create_albums.py
+```
+
+### Prepare track searchlist
+
+This script pulls each track name out of `data/downloaded_albums.py`, and makes sure it is accounted for in `data/track_searchlist.json`.
+
+```
+python app/5_generate_track_searchlist.py
+```
+
+ The `track_searchlist.json` file contains every track name (lowercased and trimmed). Some track names have alternate spellings, dates, etc., so the goal of this file is to have the dictionary's keys represent the track names a user would search for. The values give the alternate spellings and number of total tracks represented by these names.
+ 

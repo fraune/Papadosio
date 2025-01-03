@@ -7,7 +7,7 @@ from tqdm.asyncio import tqdm
 import time
 
 BASE_URL = "https://papadosio.bandcamp.com"
-OUTPUT_DIR = "raw/album"
+OUTPUT_DIR = "raw/albums"
 RETRY_TIMEOUT = 300  # Retry for a maximum of 5 minutes (in seconds)
 
 

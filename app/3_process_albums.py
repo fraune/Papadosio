@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 from datetime import timedelta
 
 
-OUTPUT_DIR = "data/album"
-RAW_DIR = "raw/album"
+OUTPUT_DIR = "data/albums"
+RAW_DIR = "raw/albums"
 SELECTED_KEYS = [
     "@id",
     "name",
