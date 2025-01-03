@@ -74,6 +74,8 @@ This script scans `raw/albums/` for html files, and parses the tracks and metada
 python app/3_process_albums.py
 ```
 
+The files in `data/albums` can be deleted before running this script if you like. It takes less than 30 seconds to recreate them with this script.
+
 ### Combine album json files
 
 This script scans `data/albums/` for json files, and combines them into a single file in `data/albums.json`. The `albums.json` file is recreated every time this script is run.

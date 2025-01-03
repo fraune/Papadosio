@@ -6,8 +6,8 @@ from aiohttp import ClientSession
 from tqdm.asyncio import tqdm
 import time
 
-INPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "data", "albums_to_download.json")
-OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "raw", "albums")
+INPUT_FILE = "data/albums_to_download.json"
+OUTPUT_PATH = "raw/albums"
 
 BASE_URL = "https://papadosio.bandcamp.com"
 RETRY_TIMEOUT = 300  # Retry for a maximum of 5 minutes (in seconds)

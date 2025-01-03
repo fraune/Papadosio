@@ -3,9 +3,9 @@ import json
 from bs4 import BeautifulSoup
 from datetime import timedelta
 
+INPUT_PATH = "raw/albums"
+OUTPUT_PATH = "data/albums"
 
-OUTPUT_DIR = "data/albums"
-RAW_DIR = "raw/albums"
 SELECTED_KEYS = [
     "@id",
     "name",
@@ -20,15 +20,14 @@ SELECTED_KEYS = [
 
 def process_album_files():
     """Process each HTML file in the RAW_DIR and save the cleaned JSON."""
-    ensure_output_dir()
 
-    for file_name in os.listdir(RAW_DIR):
+    for file_name in os.listdir(INPUT_PATH):
         if not file_name.endswith(".html"):
             continue
 
-        input_path = os.path.join(RAW_DIR, file_name)
+        input_file = os.path.join(INPUT_PATH, file_name)
         output_file_name = file_name.replace(".html", ".json")
-        output_path = os.path.join(OUTPUT_DIR, output_file_name)
+        output_path = os.path.join(OUTPUT_PATH, output_file_name)
 
         # Skip if the output JSON already exists
         if os.path.exists(output_path):
@@ -36,7 +35,7 @@ def process_album_files():
             continue
 
         print(f"Processing {file_name}...")
-        json_blob = extract_json_from_html(input_path)
+        json_blob = extract_json_from_html(input_file)
         if not json_blob:
             print(f"Failed to extract JSON from {file_name}.")
             continue
@@ -49,11 +48,6 @@ def process_album_files():
         with open(output_path, "w", encoding="utf-8") as output_file:
             json.dump(filtered_json, output_file, indent=4, ensure_ascii=False)
         print(f"Saved cleaned JSON to {output_path}.")
-
-
-def ensure_output_dir():
-    """Ensure the output directory exists."""
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
 def extract_json_from_html(html_path):
@@ -158,4 +152,7 @@ def format_track(track):
 
 
 if __name__ == "__main__":
+    # Ensure the output directory exists
+    os.makedirs(OUTPUT_PATH, exist_ok=True)
+
     process_album_files()

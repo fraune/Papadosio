@@ -3,8 +3,8 @@ import json
 from bs4 import BeautifulSoup
 
 
-INPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "raw", "Music _ Papadosio.html")
-OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "data", "albums_to_download.json")
+INPUT_FILE = "raw/Music _ Papadosio.html"
+OUTPUT_FILE = "data/albums_to_download.json"
 
 
 def extract_data_client_items(file_path):
