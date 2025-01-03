@@ -1,0 +1,45 @@
+{
+    "album_name": "10.5.18 | The Big Weekend | Chicago, IL",
+    "album_link": "https://papadosio.bandcamp.com/album/10518-the-big-weekend-chicago-il",
+    "date_modified": "16 Oct 2018 20:57:34 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3041234473_10.jpg",
+    "date_published": "16 Oct 2018 20:57:34 GMT",
+    "album_duration": "P01H27M34S",
+    "track_list": [
+        {
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-111",
+            "track_duration": "P00H20M56S"
+        },
+        {
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-128",
+            "track_duration": "P00H12M30S"
+        },
+        {
+            "track_name": "The World is a cube",
+            "track_link": "https://papadosio.bandcamp.com/track/the-world-is-a-cube-4",
+            "track_duration": "P00H04M29S"
+        },
+        {
+            "track_name": "Liminal Daybreak",
+            "track_link": "https://papadosio.bandcamp.com/track/liminal-daybreak-4",
+            "track_duration": "P00H05M33S"
+        },
+        {
+            "track_name": "Distress Signal",
+            "track_link": "https://papadosio.bandcamp.com/track/distress-signal-9",
+            "track_duration": "P00H12M07S"
+        },
+        {
+            "track_name": "Content Coma",
+            "track_link": "https://papadosio.bandcamp.com/track/content-coma-8",
+            "track_duration": "P00H09M46S"
+        },
+        {
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-74",
+            "track_duration": "P00H22M13S"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "album_name": "10.20.17 | HIFI Music Hall | Eugene, OR",
+    "album_link": "https://papadosio.bandcamp.com/album/102017-hifi-music-hall-eugene-or",
+    "date_modified": "24 Oct 2017 03:09:43 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4200332953_10.jpg",
+    "date_published": "24 Oct 2017 00:00:00 GMT",
+    "album_duration": "P01H30M00S",
+    "track_list": [
+        {
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-70",
+            "track_duration": "P00H09M43S"
+        },
+        {
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-33",
+            "track_duration": "P00H15M55S"
+        },
+        {
+            "track_name": "Oblivion",
+            "track_link": "https://papadosio.bandcamp.com/track/oblivion-25",
+            "track_duration": "P00H06M03S"
+        },
+        {
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-99",
+            "track_duration": "P00H09M30S"
+        },
+        {
+            "track_name": "We Can Always Come Back",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back-26",
+            "track_duration": "P00H11M17S"
+        },
+        {
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-79",
+            "track_duration": "P00H15M34S"
+        },
+        {
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-43",
+            "track_duration": "P00H21M58S"
+        }
+    ]
+}

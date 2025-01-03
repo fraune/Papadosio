@@ -1,0 +1,60 @@
+{
+    "album_name": "4.6.17 | Martin's | Jackson, MS",
+    "album_link": "https://papadosio.bandcamp.com/album/4617-martins-jackson-ms",
+    "date_modified": "08 Apr 2017 17:44:47 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0276604973_10.jpg",
+    "date_published": "08 Apr 2017 00:00:00 GMT",
+    "album_duration": "P01H42M10S",
+    "track_list": [
+        {
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-109",
+            "track_duration": "P00H10M22S"
+        },
+        {
+            "track_name": "Oracle Theme",
+            "track_link": "https://papadosio.bandcamp.com/track/oracle-theme-26",
+            "track_duration": "P00H10M38S"
+        },
+        {
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-76",
+            "track_duration": "P00H09M10S"
+        },
+        {
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights-24",
+            "track_duration": "P00H14M05S"
+        },
+        {
+            "track_name": "The Sum",
+            "track_link": "https://papadosio.bandcamp.com/track/the-sum-53",
+            "track_duration": "P00H03M34S"
+        },
+        {
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-38",
+            "track_duration": "P00H16M38S"
+        },
+        {
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-23",
+            "track_duration": "P00H09M49S"
+        },
+        {
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-35",
+            "track_duration": "P00H09M04S"
+        },
+        {
+            "track_name": "Holy Heck",
+            "track_link": "https://papadosio.bandcamp.com/track/holy-heck-34",
+            "track_duration": "P00H07M56S"
+        },
+        {
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-57",
+            "track_duration": "P00H10M54S"
+        }
+    ]
+}

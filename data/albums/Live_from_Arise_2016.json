@@ -1,0 +1,50 @@
+{
+    "album_name": "Live from Arise 2016",
+    "album_link": "https://papadosio.bandcamp.com/album/live-from-arise-2016",
+    "date_modified": "04 Sep 2016 18:55:15 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4093722572_10.jpg",
+    "date_published": "04 Sep 2016 18:55:15 GMT",
+    "album_duration": "P01H38M25S",
+    "track_list": [
+        {
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-5",
+            "track_duration": "P00H06M14S"
+        },
+        {
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-52",
+            "track_duration": "P00H20M14S"
+        },
+        {
+            "track_name": "Anima Mundi",
+            "track_link": "https://papadosio.bandcamp.com/track/anima-mundi-29",
+            "track_duration": "P00H10M19S"
+        },
+        {
+            "track_name": "New Love",
+            "track_link": "https://papadosio.bandcamp.com/track/new-love-101",
+            "track_duration": "P00H12M37S"
+        },
+        {
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-56",
+            "track_duration": "P00H18M00S"
+        },
+        {
+            "track_name": "You and Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-41",
+            "track_duration": "P00H17M17S"
+        },
+        {
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-41",
+            "track_duration": "P00H05M04S"
+        },
+        {
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-82",
+            "track_duration": "P00H08M40S"
+        }
+    ]
+}

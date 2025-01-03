@@ -1,0 +1,70 @@
+{
+    "album_name": "12.30.21 | The Bluestone | Columbus, OH",
+    "album_link": "https://papadosio.bandcamp.com/album/123021-the-bluestone-columbus-oh",
+    "date_modified": "07 Jan 2022 21:24:36 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1667978831_10.jpg",
+    "date_published": "07 Jan 2022 00:00:00 GMT",
+    "album_duration": "P02H00M18S",
+    "track_list": [
+        {
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-94",
+            "track_duration": "P00H01M54S"
+        },
+        {
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-82",
+            "track_duration": "P00H08M06S"
+        },
+        {
+            "track_name": "Reishi",
+            "track_link": "https://papadosio.bandcamp.com/track/reishi-8",
+            "track_duration": "P00H07M45S"
+        },
+        {
+            "track_name": "Madre De Dios",
+            "track_link": "https://papadosio.bandcamp.com/track/madre-de-dios-41",
+            "track_duration": "P00H14M38S"
+        },
+        {
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-108",
+            "track_duration": "P00H11M50S"
+        },
+        {
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-136",
+            "track_duration": "P00H12M19S"
+        },
+        {
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-109",
+            "track_duration": "P00H02M17S"
+        },
+        {
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-78",
+            "track_duration": "P00H17M32S"
+        },
+        {
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-112",
+            "track_duration": "P00H09M10S"
+        },
+        {
+            "track_name": "How Not To Float",
+            "track_link": "https://papadosio.bandcamp.com/track/how-not-to-float-61",
+            "track_duration": "P00H12M00S"
+        },
+        {
+            "track_name": "Fly Agaric",
+            "track_link": "https://papadosio.bandcamp.com/track/fly-agaric-11",
+            "track_duration": "P00H09M35S"
+        },
+        {
+            "track_name": "Paradigm Shift",
+            "track_link": "https://papadosio.bandcamp.com/track/paradigm-shift-104",
+            "track_duration": "P00H13M12S"
+        }
+    ]
+}

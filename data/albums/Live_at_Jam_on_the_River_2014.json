@@ -1,0 +1,35 @@
+{
+    "album_name": "Live at Jam on the River 2014",
+    "album_link": "https://papadosio.bandcamp.com/album/live-at-jam-on-the-river-2014",
+    "date_modified": "08 May 2015 20:19:59 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a4103345190_10.jpg",
+    "date_published": "01 Jun 2014 00:00:00 GMT",
+    "album_duration": "P00H59M39S",
+    "track_list": [
+        {
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-17",
+            "track_duration": "P00H15M43S"
+        },
+        {
+            "track_name": "Puddles for Oceans",
+            "track_link": "https://papadosio.bandcamp.com/track/puddles-for-oceans-20",
+            "track_duration": "P00H09M42S"
+        },
+        {
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-25",
+            "track_duration": "P00H13M02S"
+        },
+        {
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-23",
+            "track_duration": "P00H07M24S"
+        },
+        {
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-29",
+            "track_duration": "P00H13M48S"
+        }
+    ]
+}

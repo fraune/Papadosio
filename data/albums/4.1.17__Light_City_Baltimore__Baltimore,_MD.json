@@ -1,0 +1,45 @@
+{
+    "album_name": "4.1.17 | Light City Baltimore | Baltimore, MD",
+    "album_link": "https://papadosio.bandcamp.com/album/4117-light-city-baltimore-baltimore-md",
+    "date_modified": "02 Apr 2017 20:09:51 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3665227915_10.jpg",
+    "date_published": "02 Apr 2017 00:00:00 GMT",
+    "album_duration": "P01H26M47S",
+    "track_list": [
+        {
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-47",
+            "track_duration": "P00H18M08S"
+        },
+        {
+            "track_name": "Oblivion",
+            "track_link": "https://papadosio.bandcamp.com/track/oblivion-19",
+            "track_duration": "P00H07M03S"
+        },
+        {
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-44",
+            "track_duration": "P00H14M41S"
+        },
+        {
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio-22",
+            "track_duration": "P00H08M53S"
+        },
+        {
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-57",
+            "track_duration": "P00H19M45S"
+        },
+        {
+            "track_name": "Monochrome",
+            "track_link": "https://papadosio.bandcamp.com/track/monochrome-49",
+            "track_duration": "P00H09M49S"
+        },
+        {
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse-48",
+            "track_duration": "P00H08M28S"
+        }
+    ]
+}

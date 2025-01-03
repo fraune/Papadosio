@@ -1,0 +1,50 @@
+{
+    "album_name": "Backwoods Music Festival | Ozark, AR | 4.21.23",
+    "album_link": "https://papadosio.bandcamp.com/album/backwoods-music-festival-ozark-ar-42123",
+    "date_modified": "27 Apr 2023 16:55:04 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3726915994_10.jpg",
+    "date_published": "27 Apr 2023 16:55:04 GMT",
+    "album_duration": "P01H29M37S",
+    "track_list": [
+        {
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-165",
+            "track_duration": "P00H11M17S"
+        },
+        {
+            "track_name": "By The Light Of The Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars-85",
+            "track_duration": "P00H14M13S"
+        },
+        {
+            "track_name": "You're A Catman",
+            "track_link": "https://papadosio.bandcamp.com/track/youre-a-catman-13",
+            "track_duration": "P00H12M23S"
+        },
+        {
+            "track_name": "Dare You",
+            "track_link": "https://papadosio.bandcamp.com/track/dare-you-10",
+            "track_duration": "P00H07M18S"
+        },
+        {
+            "track_name": "Zoom Out",
+            "track_link": "https://papadosio.bandcamp.com/track/zoom-out-13",
+            "track_duration": "P00H08M43S"
+        },
+        {
+            "track_name": "Lion's Mane",
+            "track_link": "https://papadosio.bandcamp.com/track/lions-mane-30",
+            "track_duration": "P00H06M57S"
+        },
+        {
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-155",
+            "track_duration": "P00H13M42S"
+        },
+        {
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-103",
+            "track_duration": "P00H15M04S"
+        }
+    ]
+}

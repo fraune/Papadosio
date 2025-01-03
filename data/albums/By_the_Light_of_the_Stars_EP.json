@@ -1,0 +1,30 @@
+{
+    "album_name": "By the Light of the Stars EP",
+    "album_link": "https://papadosio.bandcamp.com/album/by-the-light-of-the-stars-ep-2",
+    "date_modified": "02 May 2023 17:08:06 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0116200741_10.jpg",
+    "date_published": "30 Jul 2008 00:00:00 GMT",
+    "album_duration": "P00H24M11S",
+    "track_list": [
+        {
+            "track_name": "By the Light of the Stars",
+            "track_link": "https://papadosio.bandcamp.com/track/by-the-light-of-the-stars",
+            "track_duration": "P00H08M12S"
+        },
+        {
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer",
+            "track_duration": "P00H06M08S"
+        },
+        {
+            "track_name": "Holy Heck",
+            "track_link": "https://papadosio.bandcamp.com/track/holy-heck",
+            "track_duration": "P00H03M30S"
+        },
+        {
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change",
+            "track_duration": "P00H06M21S"
+        }
+    ]
+}

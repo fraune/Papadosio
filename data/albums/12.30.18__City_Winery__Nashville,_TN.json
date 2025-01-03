@@ -1,0 +1,40 @@
+{
+    "album_name": "12.30.18 | City Winery | Nashville, TN",
+    "album_link": "https://papadosio.bandcamp.com/album/123018-city-winery-nashville-tn",
+    "date_modified": "17 Jan 2019 15:16:32 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0031781583_10.jpg",
+    "date_published": "16 Jan 2019 00:00:00 GMT",
+    "album_duration": "P01H24M35S",
+    "track_list": [
+        {
+            "track_name": "Smile and Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-73",
+            "track_duration": "P00H09M43S"
+        },
+        {
+            "track_name": "If It Wasn't For You",
+            "track_link": "https://papadosio.bandcamp.com/track/if-it-wasnt-for-you-51",
+            "track_duration": "P00H04M23S"
+        },
+        {
+            "track_name": "Write Sing Play Mix",
+            "track_link": "https://papadosio.bandcamp.com/track/write-sing-play-mix-15",
+            "track_duration": "P00H07M18S"
+        },
+        {
+            "track_name": "Fanfare for the Rain People",
+            "track_link": "https://papadosio.bandcamp.com/track/fanfare-for-the-rain-people-14",
+            "track_duration": "P00H17M11S"
+        },
+        {
+            "track_name": "Fire Rite",
+            "track_link": "https://papadosio.bandcamp.com/track/fire-rite-15",
+            "track_duration": "P00H06M59S"
+        },
+        {
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-58",
+            "track_duration": "P00H39M01S"
+        }
+    ]
+}

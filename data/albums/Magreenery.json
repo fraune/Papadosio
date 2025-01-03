@@ -1,0 +1,55 @@
+{
+    "album_name": "Magreenery",
+    "album_link": "https://papadosio.bandcamp.com/album/magreenery",
+    "date_modified": "13 Nov 2014 07:29:36 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1263609003_10.jpg",
+    "date_published": "11 Sep 2007 00:00:00 GMT",
+    "album_duration": "P01H01M25S",
+    "track_list": [
+        {
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug",
+            "track_duration": "P00H08M15S"
+        },
+        {
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery",
+            "track_duration": "P00H07M30S"
+        },
+        {
+            "track_name": "The Big Smile",
+            "track_link": "https://papadosio.bandcamp.com/track/the-big-smile",
+            "track_duration": "P00H06M12S"
+        },
+        {
+            "track_name": "Fuse",
+            "track_link": "https://papadosio.bandcamp.com/track/fuse",
+            "track_duration": "P00H06M19S"
+        },
+        {
+            "track_name": "_",
+            "track_link": "https://papadosio.bandcamp.com/track/-",
+            "track_duration": "P00H02M24S"
+        },
+        {
+            "track_name": "Utopiate",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate",
+            "track_duration": "P00H08M51S"
+        },
+        {
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve",
+            "track_duration": "P00H08M14S"
+        },
+        {
+            "track_name": "PhDeez",
+            "track_link": "https://papadosio.bandcamp.com/track/phdeez",
+            "track_duration": "P00H06M00S"
+        },
+        {
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons",
+            "track_duration": "P00H07M40S"
+        }
+    ]
+}

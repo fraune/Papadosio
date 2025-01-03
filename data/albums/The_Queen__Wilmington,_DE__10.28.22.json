@@ -1,0 +1,60 @@
+{
+    "album_name": "The Queen | Wilmington, DE | 10.28.22",
+    "album_link": "https://papadosio.bandcamp.com/album/the-queen-wilmington-de-102822",
+    "date_modified": "14 Nov 2022 19:27:22 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0202306549_10.jpg",
+    "date_published": "14 Nov 2022 19:27:22 GMT",
+    "album_duration": "P01H56M20S",
+    "track_list": [
+        {
+            "track_name": "Geoglyph",
+            "track_link": "https://papadosio.bandcamp.com/track/geoglyph-91",
+            "track_duration": "P00H08M57S"
+        },
+        {
+            "track_name": "Glimpse Of Light",
+            "track_link": "https://papadosio.bandcamp.com/track/glimpse-of-light-58",
+            "track_duration": "P00H11M43S"
+        },
+        {
+            "track_name": "You And Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-72",
+            "track_duration": "P00H14M19S"
+        },
+        {
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-97",
+            "track_duration": "P00H10M44S"
+        },
+        {
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-60",
+            "track_duration": "P00H18M26S"
+        },
+        {
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-26",
+            "track_duration": "P00H07M38S"
+        },
+        {
+            "track_name": "Not Just A Word",
+            "track_link": "https://papadosio.bandcamp.com/track/not-just-a-word-4",
+            "track_duration": "P00H06M24S"
+        },
+        {
+            "track_name": "Fly Agaric",
+            "track_link": "https://papadosio.bandcamp.com/track/fly-agaric-22",
+            "track_duration": "P00H10M42S"
+        },
+        {
+            "track_name": "Smile And Nod",
+            "track_link": "https://papadosio.bandcamp.com/track/smile-and-nod-96",
+            "track_duration": "P00H09M37S"
+        },
+        {
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-154",
+            "track_duration": "P00H17M50S"
+        }
+    ]
+}

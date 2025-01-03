@@ -1,0 +1,55 @@
+{
+    "album_name": "The Crocodile | Seattle, WA | 10.7.22",
+    "album_link": "https://papadosio.bandcamp.com/album/the-crocodile-seattle-wa-10722",
+    "date_modified": "12 Oct 2022 22:04:23 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3877034433_10.jpg",
+    "date_published": "12 Oct 2022 22:04:23 GMT",
+    "album_duration": "P01H28M54S",
+    "track_list": [
+        {
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-21",
+            "track_duration": "P00H13M26S"
+        },
+        {
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-118",
+            "track_duration": "P00H09M06S"
+        },
+        {
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-96",
+            "track_duration": "P00H10M35S"
+        },
+        {
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis-23",
+            "track_duration": "P00H13M29S"
+        },
+        {
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-170",
+            "track_duration": "P00H17M43S"
+        },
+        {
+            "track_name": "Mr. Turtle's Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-66",
+            "track_duration": "P00H08M04S"
+        },
+        {
+            "track_name": "Find Your Cloud",
+            "track_link": "https://papadosio.bandcamp.com/track/find-your-cloud-171",
+            "track_duration": "P00H03M02S"
+        },
+        {
+            "track_name": "Advocate Of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-106",
+            "track_duration": "P00H07M26S"
+        },
+        {
+            "track_name": "We Are Water",
+            "track_link": "https://papadosio.bandcamp.com/track/we-are-water-156",
+            "track_duration": "P00H06M03S"
+        }
+    ]
+}

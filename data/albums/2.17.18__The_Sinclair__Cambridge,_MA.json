@@ -1,0 +1,60 @@
+{
+    "album_name": "2.17.18 | The Sinclair | Cambridge, MA",
+    "album_link": "https://papadosio.bandcamp.com/album/21718-the-sinclair-cambridge-ma",
+    "date_modified": "23 Feb 2018 21:15:45 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1126992990_10.jpg",
+    "date_published": "23 Feb 2018 21:15:45 GMT",
+    "album_duration": "P01H53M25S",
+    "track_list": [
+        {
+            "track_name": "The Plug",
+            "track_link": "https://papadosio.bandcamp.com/track/the-plug-45",
+            "track_duration": "P00H08M25S"
+        },
+        {
+            "track_name": "Therian",
+            "track_link": "https://papadosio.bandcamp.com/track/therian-32",
+            "track_duration": "P00H09M31S"
+        },
+        {
+            "track_name": "Frequence",
+            "track_link": "https://papadosio.bandcamp.com/track/frequence-35",
+            "track_duration": "P00H11M56S"
+        },
+        {
+            "track_name": "Cushion",
+            "track_link": "https://papadosio.bandcamp.com/track/cushion-57",
+            "track_duration": "P00H06M14S"
+        },
+        {
+            "track_name": "Moon Entendre",
+            "track_link": "https://papadosio.bandcamp.com/track/moon-entendre-12",
+            "track_duration": "P00H07M05S"
+        },
+        {
+            "track_name": "You and Yourself",
+            "track_link": "https://papadosio.bandcamp.com/track/you-and-yourself-51",
+            "track_duration": "P00H15M21S"
+        },
+        {
+            "track_name": "All I Knew",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-84",
+            "track_duration": "P00H07M25S"
+        },
+        {
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-102",
+            "track_duration": "P00H19M40S"
+        },
+        {
+            "track_name": "Utopiate ft. Mike Gantzer (Aqueous)",
+            "track_link": "https://papadosio.bandcamp.com/track/utopiate-ft-mike-gantzer-aqueous",
+            "track_duration": "P00H18M36S"
+        },
+        {
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-55",
+            "track_duration": "P00H09M12S"
+        }
+    ]
+}

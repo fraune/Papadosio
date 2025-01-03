@@ -1,0 +1,35 @@
+{
+    "album_name": "Red Rocks | 7.3.15 | Morrison, CO",
+    "album_link": "https://papadosio.bandcamp.com/album/red-rocks-7315-morrison-co",
+    "date_modified": "13 Jul 2015 17:30:09 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3530421578_10.jpg",
+    "date_published": "13 Jul 2015 00:00:00 GMT",
+    "album_duration": "P00H59M27S",
+    "track_list": [
+        {
+            "track_name": "Direction Song",
+            "track_link": "https://papadosio.bandcamp.com/track/direction-song-30",
+            "track_duration": "P00H18M20S"
+        },
+        {
+            "track_name": "Taking Turns",
+            "track_link": "https://papadosio.bandcamp.com/track/taking-turns-41",
+            "track_duration": "P00H08M51S"
+        },
+        {
+            "track_name": "Snorkle",
+            "track_link": "https://papadosio.bandcamp.com/track/snorkle-52",
+            "track_duration": "P00H16M04S"
+        },
+        {
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-40",
+            "track_duration": "P00H07M25S"
+        },
+        {
+            "track_name": "The Eyes Have Eyes",
+            "track_link": "https://papadosio.bandcamp.com/track/the-eyes-have-eyes-26",
+            "track_duration": "P00H08M47S"
+        }
+    ]
+}

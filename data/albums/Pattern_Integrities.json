@@ -1,0 +1,50 @@
+{
+    "album_name": "Pattern Integrities",
+    "album_link": "https://papadosio.bandcamp.com/album/pattern-integrities",
+    "date_modified": "09 Jan 2017 22:48:12 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1093451526_10.jpg",
+    "date_published": "21 Sep 2016 00:00:00 GMT",
+    "album_duration": "P00H46M47S",
+    "track_list": [
+        {
+            "track_name": "Each and Every Wave",
+            "track_link": "https://papadosio.bandcamp.com/track/each-and-every-wave",
+            "track_duration": "P00H05M14S"
+        },
+        {
+            "track_name": "Oblivion",
+            "track_link": "https://papadosio.bandcamp.com/track/oblivion",
+            "track_duration": "P00H05M57S"
+        },
+        {
+            "track_name": "Threes",
+            "track_link": "https://papadosio.bandcamp.com/track/threes-6",
+            "track_duration": "P00H05M32S"
+        },
+        {
+            "track_name": "Vactrollio",
+            "track_link": "https://papadosio.bandcamp.com/track/vactrollio",
+            "track_duration": "P00H08M56S"
+        },
+        {
+            "track_name": "Mr. Turtle's Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom",
+            "track_duration": "P00H05M14S"
+        },
+        {
+            "track_name": "Euclidean Lights",
+            "track_link": "https://papadosio.bandcamp.com/track/euclidean-lights",
+            "track_duration": "P00H06M16S"
+        },
+        {
+            "track_name": "Drift",
+            "track_link": "https://papadosio.bandcamp.com/track/drift",
+            "track_duration": "P00H05M39S"
+        },
+        {
+            "track_name": "OmniFreeze",
+            "track_link": "https://papadosio.bandcamp.com/track/omnifreeze",
+            "track_duration": "P00H03M59S"
+        }
+    ]
+}

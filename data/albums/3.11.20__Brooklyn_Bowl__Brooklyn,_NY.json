@@ -1,0 +1,65 @@
+{
+    "album_name": "3.11.20 | Brooklyn Bowl | Brooklyn, NY",
+    "album_link": "https://papadosio.bandcamp.com/album/31120-brooklyn-bowl-brooklyn-ny",
+    "date_modified": "16 Mar 2020 01:19:35 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1923837869_10.jpg",
+    "date_published": "16 Mar 2020 00:00:00 GMT",
+    "album_duration": "P02H01M47S",
+    "track_list": [
+        {
+            "track_name": "Intro Am",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-am",
+            "track_duration": "P00H11M30S"
+        },
+        {
+            "track_name": "Fly Agaric",
+            "track_link": "https://papadosio.bandcamp.com/track/fly-agaric",
+            "track_duration": "P00H11M18S"
+        },
+        {
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor",
+            "track_duration": "P00H08M00S"
+        },
+        {
+            "track_name": "Microreaktor 111 Em",
+            "track_link": "https://papadosio.bandcamp.com/track/microreaktor-111-em",
+            "track_duration": "P00H13M09S"
+        },
+        {
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-134",
+            "track_duration": "P00H08M09S"
+        },
+        {
+            "track_name": "Microfactor 127 F#m",
+            "track_link": "https://papadosio.bandcamp.com/track/microfactor-127-f-m",
+            "track_duration": "P00H09M19S"
+        },
+        {
+            "track_name": "Improbability Blotter",
+            "track_link": "https://papadosio.bandcamp.com/track/improbability-blotter-93",
+            "track_duration": "P00H15M00S"
+        },
+        {
+            "track_name": "Microswung 158 Gm",
+            "track_link": "https://papadosio.bandcamp.com/track/microswung-158-gm",
+            "track_duration": "P00H08M27S"
+        },
+        {
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis",
+            "track_duration": "P00H06M00S"
+        },
+        {
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-73",
+            "track_duration": "P00H15M23S"
+        },
+        {
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-73",
+            "track_duration": "P00H15M32S"
+        }
+    ]
+}

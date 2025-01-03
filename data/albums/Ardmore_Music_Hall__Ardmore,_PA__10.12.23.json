@@ -1,0 +1,70 @@
+{
+    "album_name": "Ardmore Music Hall | Ardmore, PA | 10.12.23",
+    "album_link": "https://papadosio.bandcamp.com/album/ardmore-music-hall-ardmore-pa-101223",
+    "date_modified": "23 Oct 2023 15:03:03 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a1884398534_10.jpg",
+    "date_published": "23 Oct 2023 15:03:04 GMT",
+    "album_duration": "P01H50M50S",
+    "track_list": [
+        {
+            "track_name": "Garden",
+            "track_link": "https://papadosio.bandcamp.com/track/garden-127",
+            "track_duration": "P00H09M14S"
+        },
+        {
+            "track_name": "Boss Battle",
+            "track_link": "https://papadosio.bandcamp.com/track/boss-battle-7",
+            "track_duration": "P00H04M00S"
+        },
+        {
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-87",
+            "track_duration": "P00H18M53S"
+        },
+        {
+            "track_name": "Night Colors",
+            "track_link": "https://papadosio.bandcamp.com/track/night-colors-109",
+            "track_duration": "P00H10M52S"
+        },
+        {
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-120",
+            "track_duration": "P00H09M10S"
+        },
+        {
+            "track_name": "Skipswitch",
+            "track_link": "https://papadosio.bandcamp.com/track/skipswitch-69",
+            "track_duration": "P00H10M22S"
+        },
+        {
+            "track_name": "The End Of The World",
+            "track_link": "https://papadosio.bandcamp.com/track/the-end-of-the-world-7",
+            "track_duration": "P00H05M05S"
+        },
+        {
+            "track_name": "Not Just A Word",
+            "track_link": "https://papadosio.bandcamp.com/track/not-just-a-word-25",
+            "track_duration": "P00H08M56S"
+        },
+        {
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-40",
+            "track_duration": "P00H07M21S"
+        },
+        {
+            "track_name": "Fate",
+            "track_link": "https://papadosio.bandcamp.com/track/fate-6",
+            "track_duration": "P00H06M32S"
+        },
+        {
+            "track_name": "Shiitake",
+            "track_link": "https://papadosio.bandcamp.com/track/shiitake-33",
+            "track_duration": "P00H09M00S"
+        },
+        {
+            "track_name": "Cubensis",
+            "track_link": "https://papadosio.bandcamp.com/track/cubensis-41",
+            "track_duration": "P00H11M25S"
+        }
+    ]
+}

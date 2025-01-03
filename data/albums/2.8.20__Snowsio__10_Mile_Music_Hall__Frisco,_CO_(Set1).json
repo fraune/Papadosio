@@ -1,0 +1,40 @@
+{
+    "album_name": "2.8.20 | Snowsio | 10 Mile Music Hall | Frisco, CO (Set1)",
+    "album_link": "https://papadosio.bandcamp.com/album/2820-snowsio-10-mile-music-hall-frisco-co-set1",
+    "date_modified": "17 Feb 2020 23:04:23 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2268015605_10.jpg",
+    "date_published": "17 Feb 2020 00:00:00 GMT",
+    "album_duration": "P01H11M33S",
+    "track_list": [
+        {
+            "track_name": "The Bionic Man Meets His Past",
+            "track_link": "https://papadosio.bandcamp.com/track/the-bionic-man-meets-his-past-126",
+            "track_duration": "P00H12M50S"
+        },
+        {
+            "track_name": "The Lack of Everything",
+            "track_link": "https://papadosio.bandcamp.com/track/the-lack-of-everything-45",
+            "track_duration": "P00H06M56S"
+        },
+        {
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-72",
+            "track_duration": "P00H16M41S"
+        },
+        {
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-103",
+            "track_duration": "P00H16M06S"
+        },
+        {
+            "track_name": "Cue",
+            "track_link": "https://papadosio.bandcamp.com/track/cue-133",
+            "track_duration": "P00H08M05S"
+        },
+        {
+            "track_name": "Holy Heck",
+            "track_link": "https://papadosio.bandcamp.com/track/holy-heck-48",
+            "track_duration": "P00H10M55S"
+        }
+    ]
+}

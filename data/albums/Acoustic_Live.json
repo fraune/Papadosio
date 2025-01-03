@@ -1,0 +1,65 @@
+{
+    "album_name": "Acoustic Live",
+    "album_link": "https://papadosio.bandcamp.com/album/acoustic-live",
+    "date_modified": "07 Jun 2022 14:35:15 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a3588890395_10.jpg",
+    "date_published": "03 Jun 2022 00:00:00 GMT",
+    "album_duration": "P01H45M49S",
+    "track_list": [
+        {
+            "track_name": "Hippie Babysitter",
+            "track_link": "https://papadosio.bandcamp.com/track/hippie-babysitter-79",
+            "track_duration": "P00H16M07S"
+        },
+        {
+            "track_name": "Method of Control",
+            "track_link": "https://papadosio.bandcamp.com/track/method-of-control-116",
+            "track_duration": "P00H07M37S"
+        },
+        {
+            "track_name": "We Can Always Come Back",
+            "track_link": "https://papadosio.bandcamp.com/track/we-can-always-come-back-41",
+            "track_duration": "P00H10M43S"
+        },
+        {
+            "track_name": "Epiphany",
+            "track_link": "https://papadosio.bandcamp.com/track/epiphany-57",
+            "track_duration": "P00H10M12S"
+        },
+        {
+            "track_name": "The Elephant I Presume",
+            "track_link": "https://papadosio.bandcamp.com/track/the-elephant-i-presume-24",
+            "track_duration": "P00H08M20S"
+        },
+        {
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-67",
+            "track_duration": "P00H13M46S"
+        },
+        {
+            "track_name": "All I Knew feat. Melanie Dewey",
+            "track_link": "https://papadosio.bandcamp.com/track/all-i-knew-feat-melanie-dewey",
+            "track_duration": "P00H07M33S"
+        },
+        {
+            "track_name": "Obove",
+            "track_link": "https://papadosio.bandcamp.com/track/obove-25",
+            "track_duration": "P00H03M08S"
+        },
+        {
+            "track_name": "Unparalyzer",
+            "track_link": "https://papadosio.bandcamp.com/track/unparalyzer-116",
+            "track_duration": "P00H10M05S"
+        },
+        {
+            "track_name": "Advocate of Change",
+            "track_link": "https://papadosio.bandcamp.com/track/advocate-of-change-104",
+            "track_duration": "P00H12M31S"
+        },
+        {
+            "track_name": "Mr. Turtles Cloud Kingdom",
+            "track_link": "https://papadosio.bandcamp.com/track/mr-turtles-cloud-kingdom-65",
+            "track_duration": "P00H05M47S"
+        }
+    ]
+}

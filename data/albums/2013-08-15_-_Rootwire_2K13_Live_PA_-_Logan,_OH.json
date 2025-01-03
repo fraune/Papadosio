@@ -1,0 +1,30 @@
+{
+    "album_name": "2013-08-15 - Rootwire 2K13 Live PA - Logan, OH",
+    "album_link": "https://papadosio.bandcamp.com/album/2013-08-15-rootwire-2k13-live-pa-logan-oh",
+    "date_modified": "02 Dec 2014 14:44:01 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a2220060015_10.jpg",
+    "date_published": "23 Aug 2013 00:00:00 GMT",
+    "album_duration": "P01H32M00S",
+    "track_list": [
+        {
+            "track_name": "Banter",
+            "track_link": "https://papadosio.bandcamp.com/track/banter",
+            "track_duration": "P00H02M40S"
+        },
+        {
+            "track_name": "Jam 1",
+            "track_link": "https://papadosio.bandcamp.com/track/jam-1",
+            "track_duration": "P00H48M32S"
+        },
+        {
+            "track_name": "Jam 2",
+            "track_link": "https://papadosio.bandcamp.com/track/jam-2",
+            "track_duration": "P00H32M24S"
+        },
+        {
+            "track_name": "Encore Jam",
+            "track_link": "https://papadosio.bandcamp.com/track/encore-jam",
+            "track_duration": "P00H08M24S"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "album_name": "Winter Werkout | The Bluestone | Columbus, OH | 2.9.24",
+    "album_link": "https://papadosio.bandcamp.com/album/winter-werkout-the-bluestone-columbus-oh-2924",
+    "date_modified": "14 Feb 2024 15:28:51 GMT",
+    "album_artwork": "https://f4.bcbits.com/img/a0403808367_10.jpg",
+    "date_published": "14 Feb 2024 15:28:51 GMT",
+    "album_duration": "P01H29M30S",
+    "track_list": [
+        {
+            "track_name": "Intro",
+            "track_link": "https://papadosio.bandcamp.com/track/intro-112",
+            "track_duration": "P00H03M28S"
+        },
+        {
+            "track_name": "Versicolor",
+            "track_link": "https://papadosio.bandcamp.com/track/versicolor-46",
+            "track_duration": "P00H07M01S"
+        },
+        {
+            "track_name": "Curve",
+            "track_link": "https://papadosio.bandcamp.com/track/curve-86",
+            "track_duration": "P00H14M33S"
+        },
+        {
+            "track_name": "Fly Agaric",
+            "track_link": "https://papadosio.bandcamp.com/track/fly-agaric-41",
+            "track_duration": "P00H13M32S"
+        },
+        {
+            "track_name": "Magreenery",
+            "track_link": "https://papadosio.bandcamp.com/track/magreenery-89",
+            "track_duration": "P00H16M38S"
+        },
+        {
+            "track_name": "Cloud Found",
+            "track_link": "https://papadosio.bandcamp.com/track/cloud-found-122",
+            "track_duration": "P00H08M55S"
+        },
+        {
+            "track_name": "You're A Catman",
+            "track_link": "https://papadosio.bandcamp.com/track/youre-a-catman-26",
+            "track_duration": "P00H11M43S"
+        },
+        {
+            "track_name": "Polygons",
+            "track_link": "https://papadosio.bandcamp.com/track/polygons-75",
+            "track_duration": "P00H13M40S"
+        }
+    ]
+}
