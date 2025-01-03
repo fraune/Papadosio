@@ -31,6 +31,12 @@ pip install -r requirements.txt
 pip freeze > requirements.txt
 ```
 
+### Linting
+
+```
+black .
+```
+
 ## Collection, formatting, and processing of data
 
 Bandcamp is a little weird about reliably loading pages the same way every time. So follow these steps to update data:

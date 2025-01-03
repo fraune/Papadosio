@@ -30,10 +30,8 @@ def save_to_json(data, output_path):
 
 
 if __name__ == "__main__":
-    # Define paths
-    input_file = os.path.join(
-        os.path.dirname(__file__), "..", "raw", "Music _ Papadosio.html"
-    )
+    # Define input/output paths
+    input_file = os.path.join(os.path.dirname(__file__), "..", "raw", "Music _ Papadosio.html")
     output_file = os.path.join(os.path.dirname(__file__), "..", "data", "music.json")
 
     # Ensure the output directory exists
@@ -49,7 +47,5 @@ if __name__ == "__main__":
             parsed_data = json.loads(data_client_items)
             save_to_json(parsed_data, output_file)
         except json.JSONDecodeError:
-            print(
-                "Extracted `data-client-items` is not valid JSON. Saving raw data as a string."
-            )
+            print("Extracted `data-client-items` is not valid JSON. Saving raw data as a string.")
             save_to_json({"data-client-items": data_client_items}, output_file)

@@ -102,9 +102,7 @@ def process_track_data(track_data):
     for track in item_list:
         # Parse and sum durations
         duration = parse_duration(track["item"]["duration"])
-        total_seconds += int(
-            duration.total_seconds()
-        )  # Ensure total_seconds is an integer
+        total_seconds += int(duration.total_seconds())  # Ensure total_seconds is an integer
 
         # Append the cleaned track
         cleaned_item_list.append(format_track(track))

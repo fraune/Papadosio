@@ -44,9 +44,7 @@ def main():
                 track_dict[name] = {"count": 1, "alternatives": []}
 
     # Sort by count (descending)
-    sorted_tracks = dict(
-        sorted(track_dict.items(), key=lambda x: x[1]["count"], reverse=True)
-    )
+    sorted_tracks = dict(sorted(track_dict.items(), key=lambda x: x[1]["count"], reverse=True))
 
     # Write updated dict back out
     with open(output_file, "w") as out:
