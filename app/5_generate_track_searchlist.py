@@ -1,18 +1,18 @@
 import json
 import os
 
+INPUT_FILE = "data/downloaded_albums.json"
+OUTPUT_FILE = "data/track_searchlist.json"
+
 
 def main():
-    input_file = os.path.join(os.path.dirname(__file__), "..", "data", "albums.json")
-    output_file = os.path.join(os.path.dirname(__file__), "..", "data", "tracks.json")
-
     # Load album data
-    with open(input_file, "r") as f:
+    with open(INPUT_FILE, "r") as f:
         albums_data = json.load(f)
 
     # Load existing tracks (if present)
-    if os.path.isfile(output_file):
-        with open(output_file, "r") as f:
+    if os.path.isfile(OUTPUT_FILE):
+        with open(OUTPUT_FILE, "r") as f:
             track_dict = json.load(f)
     else:
         track_dict = {}
@@ -21,10 +21,10 @@ def main():
     for key in track_dict:
         track_dict[key]["count"] = 0
 
-    # Process each track from albums.json
+    # Process each track from downloaded_albums.json
     for album in albums_data:
-        for track_info in album.get("track", []):
-            name = track_info["item"]["name"].strip().lower()
+        for track_info in album.get("track_list", []):
+            name = track_info["track_name"].strip().lower()
 
             # Direct match
             if name in track_dict:
@@ -47,7 +47,7 @@ def main():
     sorted_tracks = dict(sorted(track_dict.items(), key=lambda x: x[1]["count"], reverse=True))
 
     # Write updated dict back out
-    with open(output_file, "w") as out:
+    with open(OUTPUT_FILE, "w") as out:
         json.dump(sorted_tracks, out, indent=4, ensure_ascii=False)
 
 
